@@ -4,6 +4,9 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 
 ## [0.1] - 2025-10-24 - Initial Release
 
+### Fixed
+- Removed improper hyphen usage in 00-introduction.md (replaced dash-joined sentences with proper punctuation)
+
 ### Repository Structure
 - **Initial GitHub repository setup** with proper licensing and documentation
 - **23 markdown files** totaling ~4,750 lines of strategic content

@@ -67,7 +67,7 @@ This means a properly fed Largo **quadruples your profit per feeding** compared 
 **Emergency Response:**
 
 - Water kills Tarr instantly (use Water Tank upgrade)
-- Contain outbreaks immediately-every second counts
+- Contain outbreaks immediately. Every second counts.
 - Consider sacrificing infected corrals by vacuuming everything into the Slime Sea
 
 ### The Agitation System: Managing Slime Behavior
@@ -112,4 +112,4 @@ Overcrowding causes agitation and reduced plort production. The sweet spot is:
 - **8-10 regular slimes** per fully upgraded corral
 - **5-6 Largos** per fully upgraded corral
 
-More slimes does NOT mean more profit-it means chaos.
+More slimes does NOT mean more profit. It means chaos.
