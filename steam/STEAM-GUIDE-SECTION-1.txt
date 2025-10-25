@@ -1,0 +1,114 @@
+[h1]Slime Rancher 2: A Practical Walkthrough[/h1]
+
+[b]Version 0.1 - Initial Release[/b]
+[b]Last Updated: October 24, 2025[/b]
+
+[hr][/hr]
+
+[h2]📖 Full Guide Available on GitHub[/h2]
+
+[b]This is a condensed version.[/b] The complete guide with detailed tables, appendices, and step-by-step chapter breakdowns is available at:
+
+[b]https://github.com/skelhammer/slime-rancher-2-guide[/b]
+
+The full GitHub guide includes:
+[list]
+[*]14 detailed chapters with operational blueprints
+[*]Complete appendices with slime stats, item lists, upgrade costs, and treasure pod locations
+[*]Ranch progression tables showing plot-by-plot layouts
+[*]Drone automation strategies
+[*]4,750+ lines of strategic content
+[/list]
+
+[hr][/hr]
+
+[h2]Introduction: The Rancher's Mindset[/h2]
+
+Welcome, Rancher. You've just arrived on Rainbow Island with nothing but a Vacpack and a dream. This isn't your typical farming simulator where you tend a cozy homestead - this is a high-stakes resource management operation where every decision compounds into either exponential growth or stagnation.
+
+This guide is built for ranchers who want to transform the wilds of Rainbow Island into a hyper-efficient, multi-million Newbuck profit engine.
+
+[h3]Three Core Principles[/h3]
+
+[olist]
+[*][b]Ruthless Asset Progression[/b]: Your slimes are assets, not pets. Underperforming species must be liquidated to make way for those with higher profit yields. Market performance is the only metric that matters.
+[*][b]Capital Must Be Deployed[/b]: Newbucks are capital, not a score. Every coin must be immediately reinvested into infrastructure that provides a clear and rapid return on investment (ROI).
+[*][b]Automate Everything[/b]: Your time is the single most valuable resource on the ranch. The primary objective is to make your own labor obsolete through Auto-Feeders and Quantum Drones.
+[/olist]
+
+[hr][/hr]
+
+[h2]Core Mechanics: Master These First[/h2]
+
+[h3]The Plort Market: Supply & Demand[/h3]
+
+The plort market operates on dynamic supply and demand. Flooding the market with one plort type crashes its price the next day.
+
+[b]Strategy:[/b]
+[list]
+[*]Diversify plort production across multiple slime types
+[*]Sell balanced mixes daily to maintain stable prices
+[*]Advanced: Hoard one plort type while selling others, then execute a massive sell-off during a price spike
+[/list]
+
+[h3]Largo Slimes: 4X Profit Multiplier[/h3]
+
+Largos are the cornerstone of profitable ranching. When a slime eats a plort from a different species, it becomes a Largo that produces [b]BOTH plort types[/b] when fed.
+
+[b]The Math:[/b]
+[list]
+[*]Base slime + normal food = 1 plort
+[*]Base slime + favorite food = 2 plorts (same type)
+[*]Largo + normal food = 2 plorts (one of each type)
+[*][b]Largo + favorite food = 4 plorts total[/b] (two of each type)
+[/list]
+
+[b]Example:[/b]
+[list]
+[*]Pink Slime fed carrot: 1 Pink Plort (~10 Newbucks)
+[*]Tabby-Pink Largo fed Stony Hen (Tabby favorite): 2 Tabby Plorts + 2 Pink Plorts (~50-80 Newbucks)
+[/list]
+
+[h3]⚠️ CRITICAL: Tarr Prevention[/h3]
+
+[b]If a Largo eats a third plort type[/b], it transforms into a [b]Tarr[/b] - a hostile slime that devours other slimes on contact and replicates exponentially.
+
+[b]Prevention (MANDATORY):[/b]
+[list]
+[*]Install [b]Plort Collectors[/b] on EVERY corral before leaving slimes unattended
+[*]They automatically vacuum plorts off the ground before slimes can eat them
+[*]A single missed plort can cascade into total ranch failure
+[/list]
+
+[b]Emergency Response:[/b]
+[list]
+[*]Water kills Tarr instantly (use Water Tank upgrade)
+[*]Contain outbreaks immediately. Every second counts.
+[/list]
+
+[h3]The Agitation System[/h3]
+
+All slimes have a hidden agitation value that affects behavior:
+[list]
+[*]Agitation begins at 99% hunger
+[*]Takes ~12 in-game hours to reach maximum
+[*]Agitated slimes exhibit negative behaviors (Rock slimes roll more, Boom slimes explode more, Hunter Largos go feral)
+[/list]
+
+[b]Solutions:[/b]
+[list]
+[*][b]Feeding[/b] - The ONLY way to permanently reset agitation to zero
+[*][b]Music Box[/b] (350 NB) - Halves agitation growth rate
+[*][b]Slime Toys[/b] - Reduce agitation by 12.5% (favorite toys: 25%)
+[*][b]Auto-Feeders[/b] - Best solution for long exploration trips
+[/list]
+
+[h3]Optimal Corral Population[/h3]
+
+[b]The Magic Number: 5-6 Largos per corral[/b]
+
+More slimes does NOT mean more profit. It means chaos, overcrowding, and reduced plort production.
+
+[hr][/hr]
+
+[i]Continue to Section 2: Walkthrough Overview[/i]

@@ -1,0 +1,132 @@
+[h1]Walkthrough Overview[/h1]
+
+[h2]Part 1: The Foundation (Chapters 1-4)[/h2]
+
+[b]Chapter 1: The Sprint to Mobility[/b]
+[list]
+[*]Single objective: Get the Jetpack ASAP (3,450 Newbucks)
+[*]Start with Tabby-Cotton Largos (6 slimes)
+[*]Unlock Ember Valley portal
+[*]Timeline: 72-hour blitz
+[/list]
+
+[b]Chapter 2: The Conservatory - Foundation Build[/b]
+[list]
+[*]Expand to 4 plots (Tabby-Cotton + Phosphor-Honey operations)
+[*]Unlock Starlight Strand
+[*]Craft Tier I upgrades (Power Core, Tank Booster)
+[*]Revenue: ~800-1,000 Newbucks/day
+[/list]
+
+[b]Chapter 3: Ember Valley - Resource Extraction[/b]
+[list]
+[*]Expand to 8 plots in the Conservatory
+[*]Add Crystal-Rock and Boom-Batty operations
+[*]Craft Tier II upgrades
+[*]Revenue: ~2,500+ Newbucks/day
+[/list]
+
+[b]Chapter 4: Starlight Strand - Asset Acquisition[/b]
+[list]
+[*]Capture Hunter, Angler, Ringtail, and Flutter slimes
+[*]Farm Moondew Nectar and rare resources
+[*]Stockpile Flutter Plorts (needed for Quantum Drones later)
+[*]Prepare for first ranch expansion
+[/list]
+
+[h2]Part 2: The Industrial Revolution (Chapters 5-8)[/h2]
+
+[b]Chapter 5: The Gully - Industrial Core[/b]
+[list]
+[*]Unlock first ranch expansion (2,800 NB)
+[*]Build 2 coops for meat production (Stony Hens, Sea Hens)
+[*]Deploy Angler-Crystal and Flutter-Tabby Largos
+[*]Revenue: +1,500-2,000 NB/day (Total: ~3,500-4,500 NB/day)
+[/list]
+
+[b]Chapter 6: The Tidepools - Passive Income[/b]
+[list]
+[*]Unlock second expansion (6,000 NB)
+[*]Build Puddle Ponds and Fire Incinerators
+[*]Zero-maintenance passive income
+[*]Revenue: +1,540-2,310 NB/day (Total: ~5,000-6,500 NB/day)
+[/list]
+
+[b]Chapter 7: Powderfall Bluffs - Saber Acquisition[/b]
+[list]
+[*]Capture elite Saber Slimes from frozen biome
+[*]Farm Sun Sap and Perfect Snowflakes
+[*]No ranch changes this chapter
+[/list]
+
+[b]Chapter 8: The Den - Ranch Reorganization[/b]
+[list]
+[*]Unlock third expansion (2,800 NB)
+[*]Consolidate all fruit-eating nocturnal slimes
+[*]Deploy Saber-Hunter Largos in The Gully
+[*]Revenue: +1,500-2,000 NB/day (Total: ~6,500-8,500 NB/day)
+[/list]
+
+[h2]Part 3: Automation & Empire Completion (Chapters 9-11)[/h2]
+
+[b]Chapter 9: Quantum Drones - Ranch Automation[/b]
+[list]
+[*]Hunt Ghostly Drones to obtain Drone Station Modules
+[*]Craft 3 Quantum Drone Stations (15,000 NB + 300 Flutter Plorts)
+[*]Automate Conservatory, Gully, and Tidepools
+[*]Daily management reduced from 30+ minutes to <10 minutes
+[/list]
+
+[b]Drone Programming Example:[/b]
+[list]
+[*]Drone 1 (Conservatory): Collect plorts from 4 corrals → Deposit in Plort Market
+[*]Drone 2 (Gully): Collect food from silos → Deliver to Auto-Feeders
+[*]Drone 3 (Tidepools): Collect Fire/Puddle plorts → Deposit in Plort Market
+[/list]
+
+[b]Chapters 10-11 [WIP - Not Yet Complete][/b]
+[list]
+[*]Chapter 10: The Archway expansion, Dervish & Tangle slimes
+[*]Chapter 11: The Digsite expansion, final Tabby operations
+[/list]
+
+[h2]Part 4: Endgame Mastery (Chapters 12-14) [WIP - Not Yet Complete][/h2]
+
+[b]Chapter 12: The Endgame Audit[/b]
+[list]
+[*]Complete all pre-Labyrinth upgrades
+[*]Collect all treasure pods
+[*]Systematic preparation checklist
+[/list]
+
+[b]Chapter 13: The Grey Labyrinth - Endgame Operations[/b]
+[list]
+[*]Navigate the dangerous endgame zone
+[*]Capture Shadow, Twin, Sloomber, and Hyper slimes
+[*]Handle Prisma Disruptions
+[*]Farm Prisma Plorts for final upgrades
+[/list]
+
+[b]Chapter 14: Post-Game - Sandbox Empire[/b]
+[list]
+[*]Market manipulation strategies
+[*]Themed ranch redesigns
+[*]Challenge modes and self-imposed rules
+[/list]
+
+[h2]Ranch Revenue Progression[/h2]
+
+[list]
+[*][b]Chapter 1[/b]: ~500 Newbucks/day (2 plots)
+[*][b]Chapter 2[/b]: ~800-1,000 NB/day (4 plots)
+[*][b]Chapter 3[/b]: ~2,500+ NB/day (8 plots)
+[*][b]Chapters 5-6[/b]: ~5,000-6,500 NB/day (3 expansions)
+[*][b]Chapter 8[/b]: ~6,500-8,500 NB/day (4 expansions)
+[*][b]Chapters 10-11[/b]: ~12,000-17,000+ NB/day (6 expansions)
+[/list]
+
+[b]By Chapter 11, you'll have a fully automated ranch generating 100,000+ Newbucks per week.[/b]
+
+[hr][/hr]
+
+[i]Continue to Section 3: Slime Combinations & Tips[/i]

@@ -1,0 +1,116 @@
+[h1]Appendices & Full Guide Information[/h1]
+
+[h2]Appendices (Full Details on GitHub)[/h2]
+
+The complete GitHub guide includes detailed appendices with:
+
+[h3]Appendix A: Slime Compendium[/h3]
+[list]
+[*]35+ slime types with diets, favorite foods, and locations
+[*]All Gordo locations and rewards
+[*]Optimal Largo combination strategies
+[/list]
+
+[h3]Appendix B: Item Compendium[/h3]
+[list]
+[*]Complete food catalog (vegetables, fruits, meat)
+[*]Chicken types and spawn locations
+[*]Resources and crafting materials
+[*]Plort value tables
+[/list]
+
+[h3]Appendix C-E: Upgrades & Ranch Costs[/h3]
+[list]
+[*]Complete Vacpack upgrade trees
+[*]All craftable items and costs
+[*]Ranch plot and expansion prices
+[*]ROI analysis for infrastructure
+[/list]
+
+[h3]Appendix F-K: Locations & Collectibles[/h3]
+[list]
+[*]All Ghostly and Research Drone locations
+[*]Treasure pod maps for every biome
+[*]Map data node locations
+[*]Plort door requirements
+[*]Grey Labyrinth Shadow doors
+[/list]
+
+[h3]Plot Overview: Ranch Progression Reference[/h3]
+[list]
+[*]Chapter-by-chapter ranch layouts (Chapters 1-11)
+[*]Plot-by-plot slime assignments
+[*]Food source mappings
+[*]Revenue tracking by expansion
+[/list]
+
+[hr][/hr]
+
+[h2]About This Guide[/h2]
+
+[b]Author:[/b] skelhammer
+[b]License:[/b] Creative Commons Attribution 4.0 International (CC BY 4.0)
+[b]Repository:[/b] https://github.com/skelhammer/slime-rancher-2-guide
+
+This guide is built on three core principles: Ruthless Asset Progression, Capital Deployment, and Automation. Every strategy is designed to maximize profit, minimize manual labor, and transform your ranch into a self-sustaining empire.
+
+[h3]Version Notes[/h3]
+[list]
+[*]Verified against Slime Rancher 2 Version 1.0 (released September 23, 2025)
+[*]Chapters 10-14 are marked as Work In Progress and not yet fully verified
+[*]Prices and material costs may be outdated due to v1.0 recipe overhaul
+[/list]
+
+[hr][/hr]
+
+[h2]📖 Read the Full Guide on GitHub[/h2]
+
+For complete chapter breakdowns, detailed tables, automation blueprints, and comprehensive appendices:
+
+[h1]https://github.com/skelhammer/slime-rancher-2-guide[/h1]
+
+[hr][/hr]
+
+[h2]What's in the Full GitHub Guide[/h2]
+
+The full guide includes everything in this Steam guide, plus:
+
+[b]Detailed Chapter Walkthroughs:[/b]
+[list]
+[*]Step-by-step operational blueprints for each chapter
+[*]Financial checkpoints and budget planning
+[*]Resource gathering priorities
+[*]Slime capture strategies with exact locations
+[*]Plot allocation diagrams
+[/list]
+
+[b]Complete Data Tables:[/b]
+[list]
+[*]All slime types with full stat tables
+[*]Complete Gordo location maps with rewards
+[*]All treasure pod locations by biome
+[*]Upgrade component requirements
+[*]Ranch plot cost breakdowns
+[/list]
+
+[b]Automation Strategies:[/b]
+[list]
+[*]Complete Quantum Drone programming guide
+[*]Auto-Feeder deployment strategies
+[*]Resource collection automation
+[*]Passive income optimization
+[/list]
+
+[b]4,750+ Lines of Strategic Content:[/b]
+[list]
+[*]15 markdown files for easy navigation
+[*]Searchable content
+[*]Regularly updated with community feedback
+[*]Open source and free to use (CC BY 4.0)
+[/list]
+
+[hr][/hr]
+
+[i]Generated with Claude Code • Last Updated: October 24, 2025[/i]
+
+[b]Visit the full guide:[/b] https://github.com/skelhammer/slime-rancher-2-guide
