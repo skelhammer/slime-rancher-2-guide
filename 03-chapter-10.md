@@ -1,5 +1,7 @@
 ## Chapter 10: The Archway - Rare Slimes
 
+> **⚠️ WORK IN PROGRESS:** This chapter is not yet completed or fully verified. Content may be incomplete, inaccurate, or subject to significant changes.
+
 **Mindset:** _Capture rare slime species._
 
 Establish operations for Dervish and Tangle slimes - the final two pre-Labyrinth species missing from your empire.

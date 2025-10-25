@@ -4,6 +4,14 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 
 ## [0.1] - 2025-10-24 - Initial Release
 
+### Changed
+- **Chapters 10-14 marked as WIP:** Added work-in-progress warnings to chapters that are not yet completed or fully verified
+  - Chapter 10: The Archway - Rare Slimes
+  - Chapter 11: The Digsite - Tabby Operations
+  - Chapter 12: The Endgame Audit
+  - Chapter 13: The Grey Labyrinth - Endgame Operations
+  - Chapter 14: Post-Game - Sandbox Empire
+
 ### Fixed
 - Removed improper hyphen usage in 00-introduction.md (replaced dash-joined sentences with proper punctuation)
 

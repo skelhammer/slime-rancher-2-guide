@@ -66,14 +66,14 @@ The guide has been split into individual chapter files for easier editing and na
 ### Part 3: Automation & Empire Completion (Chapters 9-11)
 
 - **[03-chapter-09.md](03-chapter-09.md)** - Chapter 9: Quantum Drones - Ranch Automation
-- **[03-chapter-10.md](03-chapter-10.md)** - Chapter 10: The Archway - Rare Slimes
-- **[03-chapter-11.md](03-chapter-11.md)** - Chapter 11: The Digsite - Tabby Operations
+- **[03-chapter-10.md](03-chapter-10.md)** - Chapter 10: The Archway - Rare Slimes **[WIP]**
+- **[03-chapter-11.md](03-chapter-11.md)** - Chapter 11: The Digsite - Tabby Operations **[WIP]**
 
-### Part 4: Endgame Mastery (Chapters 12-14)
+### Part 4: Endgame Mastery (Chapters 12-14) **[WIP]**
 
-- **[04-chapter-12.md](04-chapter-12.md)** - Chapter 12: The Endgame Audit
-- **[04-chapter-13.md](04-chapter-13.md)** - Chapter 13: The Grey Labyrinth - Endgame Operations
-- **[04-chapter-14.md](04-chapter-14.md)** - Chapter 14: Post-Game - Sandbox Empire
+- **[04-chapter-12.md](04-chapter-12.md)** - Chapter 12: The Endgame Audit **[WIP]**
+- **[04-chapter-13.md](04-chapter-13.md)** - Chapter 13: The Grey Labyrinth - Endgame Operations **[WIP]**
+- **[04-chapter-14.md](04-chapter-14.md)** - Chapter 14: Post-Game - Sandbox Empire **[WIP]**
 
 ## Version Information
 

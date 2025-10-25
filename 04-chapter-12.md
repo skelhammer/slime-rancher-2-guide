@@ -4,6 +4,8 @@ _This part conducts a comprehensive pre-Labyrinth audit, completes all available
 
 ## Chapter 12: The Endgame Audit - Pre-Labyrinth Completion
 
+> **⚠️ WORK IN PROGRESS:** This chapter is not yet completed or fully verified. Content may be incomplete, inaccurate, or subject to significant changes.
+
 **Mindset:** _Complete everything before the Labyrinth._
 
 Execute a systematic completion of all pre-Labyrinth content: craft every available upgrade, collect all treasure pods with components, farm critical resources, complete automation, and prepare for Grey Labyrinth entry.

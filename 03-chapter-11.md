@@ -1,5 +1,7 @@
 ## Chapter 11: The Digsite - Tabby Operations
 
+> **⚠️ WORK IN PROGRESS:** This chapter is not yet completed or fully verified. Content may be incomplete, inaccurate, or subject to significant changes.
+
 **Mindset:** _Complete the slime collection._
 
 Establish additional Tabby-based Largo operations and complete your pre-Labyrinth slime collection.
