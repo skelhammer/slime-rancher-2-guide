@@ -1,7 +1,7 @@
 # Slime Rancher 2: A Practical Walkthrough
 
-**Version 0.47 - Drone Deployment Edition**
-**Last Updated:** October 21, 2025
+**Version 0.1 - Initial Release**
+**Last Updated:** October 24, 2025
 
 ## About This Guide
 
@@ -77,8 +77,8 @@ The guide has been split into individual chapter files for easier editing and na
 
 ## Version Information
 
-- **Version:** 0.47 - Drone Deployment Edition
-- **Last Updated:** October 21, 2025
+- **Version:** 0.1 - Initial Release
+- **Last Updated:** October 24, 2025
 - **Game Version:** Verified against Slime Rancher 2 Version 1.0 (released September 23, 2025)
 - **Known Issues:** Prices and material costs are outdated due to v1.0 recipe overhaul without patch notes
 
@@ -91,6 +91,28 @@ This guide is built on three core principles:
 1. **Ruthless Asset Progression** - Slimes are profit-generating assets, not pets
 2. **Capital Must Be Deployed** - Immediate reinvestment into high-ROI infrastructure
 3. **Automate Everything** - Systematic elimination of manual labor
+
+## How to Use This Guide
+
+Start with [00-introduction.md](00-introduction.md) to understand core mechanics and game fundamentals, then follow chapters sequentially for optimal progression. You can also jump to specific topics using the navigation links above or reference the appendices for quick lookup tables.
+
+**Recommended Reading Order:**
+1. Read Introduction & Core Mechanics first
+2. Follow Part 1 chapters sequentially (Chapters 1-4)
+3. Continue through Parts 2-4 as you progress in-game
+4. Reference appendices as needed throughout gameplay
+
+## License
+
+This guide is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).
+
+You are free to share and adapt this guide for any purpose, even commercially, as long as you provide appropriate credit.
+
+## Acknowledgments
+
+- **Slime Rancher 2** developed by [Monomi Park](https://www.monomipark.com/)
+- Guide methodology inspired by optimization-focused gaming communities
+- Written and maintained with assistance from Claude Code
 
 ## For Editors
 

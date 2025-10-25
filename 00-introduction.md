@@ -1,8 +1,8 @@
 # Slime Rancher 2: A Practical Walkthrough
 
-#### Version 0.47 - Drone Deployment Edition
+#### Version 0.1 - Initial Release
 
-**Last Updated: October 21, 2025**
+**Last Updated: October 24, 2025**
 
 ### IMPORTANT DISCLAIMER
 
