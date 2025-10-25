@@ -1,2 +1,97 @@
-# slime-rancher-2-guide
-A guide for Slime Rancher 2. 
+# Slime Rancher 2: A Practical Walkthrough
+
+**Version 0.47 - Drone Deployment Edition**
+**Last Updated:** October 21, 2025
+
+## About This Guide
+
+This is a comprehensive walkthrough guide for Slime Rancher 2, focused on aggressive optimization, capital deployment, and systematic automation. The guide takes you from the early game sprint to mobility through endgame empire management.
+
+## Guide Structure
+
+The guide has been split into individual chapter files for easier editing and navigation:
+
+### Core Files
+
+**[00-introduction.md](00-introduction.md) - Introduction & Core Mechanics**
+- The Rancher's Mindset (core principles)
+- The Plort Market (supply & demand mechanics)
+- Largo Slimes (profit mathematics)
+- Tarr Prevention (critical warnings)
+- Agitation System (slime behavior)
+- Optimal Corral Population
+
+**Appendices - Quick Reference Tables**
+- **[appendix-slimes.md](appendix-slimes.md)** - Slime Compendium & Gordo Locations
+  - All slime types with diets, favorite foods, and locations
+  - Complete Gordo locations and rewards
+- **[appendix-items.md](appendix-items.md)** - Item Compendium
+  - Food & crops guide
+  - Chicken types and locations
+  - Resources and crafting materials
+  - Plort values
+  - Upgrade components & blueprints
+- **[appendix-upgrades.md](appendix-upgrades.md)** - Upgrades & Ranch Costs
+  - Vacpack upgrades (Health, Energy, Inventory, Mobility)
+  - Craftable items (Utilities, Warp Tech)
+  - Ranch plot and upgrade costs
+- **[appendix-locations.md](appendix-locations.md)** - Locations & Collectibles
+  - Ghostly and Research Drones
+  - Treasure pod locations (all biomes)
+  - Map data nodes
+  - Plort door locations
+  - Grey Labyrinth Shadow doors
+  - Resource priority guide
+
+**[plot-overview.md](plot-overview.md) - Ranch Progression Quick Reference**
+- Complete ranch plot layouts for Chapters 1-11
+- Expansion-by-expansion breakdown with slime assignments
+- Food source mappings and revenue estimates
+- Total daily revenue tracking by chapter
+
+### Part 1: The Foundation (Chapters 1-4)
+
+- **[01-chapter-01.md](01-chapter-01.md)** - Chapter 1: Early Game - The Sprint to Mobility
+- **[01-chapter-02.md](01-chapter-02.md)** - Chapter 2: The Conservatory - Foundation Build
+- **[01-chapter-03.md](01-chapter-03.md)** - Chapter 3: Ember Valley - Resource Extraction
+- **[01-chapter-04.md](01-chapter-04.md)** - Chapter 4: Starlight Strand - Asset Acquisition
+
+### Part 2: The Industrial Revolution (Chapters 5-8)
+
+- **[02-chapter-05.md](02-chapter-05.md)** - Chapter 5: The Gully - Industrial Core
+- **[02-chapter-06.md](02-chapter-06.md)** - Chapter 6: The Tidepools - Passive Income
+- **[02-chapter-07.md](02-chapter-07.md)** - Chapter 7: Powderfall Bluffs - Saber Acquisition
+- **[02-chapter-08.md](02-chapter-08.md)** - Chapter 8: The Den - Ranch Reorganization
+
+### Part 3: Automation & Empire Completion (Chapters 9-11)
+
+- **[03-chapter-09.md](03-chapter-09.md)** - Chapter 9: Quantum Drones - Ranch Automation
+- **[03-chapter-10.md](03-chapter-10.md)** - Chapter 10: The Archway - Rare Slimes
+- **[03-chapter-11.md](03-chapter-11.md)** - Chapter 11: The Digsite - Tabby Operations
+
+### Part 4: Endgame Mastery (Chapters 12-14)
+
+- **[04-chapter-12.md](04-chapter-12.md)** - Chapter 12: The Endgame Audit
+- **[04-chapter-13.md](04-chapter-13.md)** - Chapter 13: The Grey Labyrinth - Endgame Operations
+- **[04-chapter-14.md](04-chapter-14.md)** - Chapter 14: Post-Game - Sandbox Empire
+
+## Version Information
+
+- **Version:** 0.47 - Drone Deployment Edition
+- **Last Updated:** October 21, 2025
+- **Game Version:** Verified against Slime Rancher 2 Version 1.0 (released September 23, 2025)
+- **Known Issues:** Prices and material costs are outdated due to v1.0 recipe overhaul without patch notes
+
+> Note: Version information is maintained in `00-introduction.md` only. When making changes to any part of the guide, update the version header there.
+
+## Guide Philosophy
+
+This guide is built on three core principles:
+
+1. **Ruthless Asset Progression** - Slimes are profit-generating assets, not pets
+2. **Capital Must Be Deployed** - Immediate reinvestment into high-ROI infrastructure
+3. **Automate Everything** - Systematic elimination of manual labor
+
+## For Editors
+
+See [CLAUDE.md](CLAUDE.md) for detailed editing guidelines and repository structure information.
