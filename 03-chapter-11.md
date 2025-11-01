@@ -1,241 +1,134 @@
-## Chapter 11: The Digsite - Tabby Operations
+## Chapter 11: The Archway - Grey Labyrinth Operations
 
-> **⚠️ WORK IN PROGRESS:** This chapter is not yet completed or fully verified. Content may be incomplete, inaccurate, or subject to significant changes.
+**Mindset:** _Elite asset integration._
 
-**Mindset:** _Complete the slime collection._
-
-Establish additional Tabby-based Largo operations and complete your pre-Labyrinth slime collection.
+You've captured Rainbow Island's most valuable slimes from the Grey Labyrinth. Now it's time to integrate them into your automated empire and establish the highest-value plort production on your ranch.
 
 ### The Operational Blueprint
 
-**Primary Objective:** Establish Tabby-based Largo operations and complete pre-Labyrinth slime collection
-
-**Financial Checkpoint:**
-- **Starting Budget:** Should have 100,000-150,000+ Newbucks from Chapter 10 automated operations
-- **Required:** ~30,000 Newbucks for Digsite unlock (6,000 NB), build-out (9,960 NB), and optional 5th Quantum Drone (100,000 NB if purchasing vs hunting)
-- **Daily Revenue:** ~12,000-17,000 Newbucks from all automated operations
-- **Timeline:** Achieve in 1-2 days through fully automated ranch
-- **Farming Strategy:** With full automation, ranch generates massive passive income. Focus exploration time on capturing Tabby slimes from Rainbow Fields for new operations
-
-**Strategic Priorities:**
-
-- Unlock The Digsite expansion (6,000 Newbucks - accessed via The Den)
-- Capture Tabby Slimes from Rainbow Fields
-- Build Tabby-Saber Largo operation (elite carnivore division)
-- Build Tabby-Boom Largo operation (secondary carnivore division)
-- Establish Stony Hen breeding facility (shared protein supply)
-- Deploy strategic silo for plort storage and Quantum Drone automation
-
-**Key Success Metrics:**
-
-- The Digsite unlocked with 4 plots developed
-- Tabby-Saber Largos operational (high-value carnivore plorts)
-- Tabby-Boom Largos operational (secondary carnivore division)
-- Stony Hen breeding facility producing meat supply
-- Quantum Drone fully automating The Digsite operations
-- Daily revenue from Digsite: 1,500-2,500+ Newbucks
-
-**Capital Requirements:**
-
-- Digsite Unlock: 6,000 Newbucks (via The Den)
-- Full Build-Out: ~9,960 Newbucks (2 corrals, 1 coop, 1 silo with upgrades)
-- Quantum Drone Station: 5,000 Newbucks + 100 Flutter Plorts + materials
-- Recommended Starting Budget: 25,000+ Newbucks total
-
-**Strategic Value:**
-
-- Completes Tabby slime integration (final common slime species)
-- Tabby plorts (~15-30 NB) + Saber plorts (~42-70 NB) = ~57-100 NB per feeding
-- Tabby plorts (~15-30 NB) + Boom plorts (~30-50 NB) = ~45-80 NB per feeding
-- Combined daily output: 1,500-2,500+ Newbucks from this expansion
-
-### Accessing The Digsite
-
-Before you can begin development, you must unlock this expansion.
-
-- **Location:** The entrance to The Digsite is located at the far end of The Den, marked by an excavation tunnel with mining equipment
-- **Unlock Cost:** 6,000 Newbucks
-- **Layout:** The Digsite is an underground excavation area with exposed rock walls. 4 plots arranged in a quarry-like formation with mining lanterns
-
-**Access Requirements:**
-
-- Must have unlocked The Den first (Chapter 8)
-- Navigate through The Den to the western tunnels
-- Look for mining equipment and excavation markers
-
-### Phase 1: Asset Acquisition
-
-Before building, capture the slimes you need.
-
-**For Tabby-Saber Largos:**
-
-- **6 Tabby Slimes:** Rainbow Fields - fast, agile, easy to catch
-- **6 Saber Plorts:** Should have reserves from Chapter 7/8 Saber operations
-
-**For Tabby-Boom Largos:**
-
-- **6 Tabby Slimes:** Rainbow Fields - same location as above
-- **6 Boom Plorts:** From wild Boom Slimes in Ember Valley or your reserves
-
-**Additional Resources:**
-
-- 20-30 Stony Hens (Ember Valley - for Tabby's favorite food)
-
-### Ranch Development & Plot Allocation: The Digsite Build-Out (4 plots)
-
-#### Phase 1: Elite Carnivore Division - Tabby-Saber Largos
-
-**Plot 1 (Corral): Tabby-Saber Largo Division (6 largos)**
-
-- **Build Order:** Corral (250) → High Walls (260) → Air Net (425) → Plort Collector (750) → Auto-Feeder (750) → Music Box (350)
-- **Total Investment:** 2,785 Newbucks
-- **Creation:** Deploy 6 Tabby Slimes, feed 6 Saber Plorts to create Tabby-Saber Largos
-- **Feed Strategy:** Stony Hens from Plot 2 (Tabby's favorite food)
-
-#### Phase 2: Omnivore Division - Tabby-Boom Largos
-
-**Plot 3 (Corral): Tabby-Boom Largo Division (6 largos)**
-
-- **Build Order:** Corral (250) → High Walls (260) → Air Net (425) → Plort Collector (750) → Auto-Feeder (750) → Music Box (350)
-- **Total Investment:** 2,785 Newbucks
-- **Creation:** Deploy 6 Tabby Slimes, feed 6 Boom Plorts to create Tabby-Boom Largos
-- **Feed Strategy:** Stony Hens from Plot 2 (Tabby favorite food)
-
-#### Phase 3: Protein Production
-
-**Plot 2 (Coop): Stony Hen Breeding Facility**
-
-- **Build Order:** Coop (250) → High Walls (200) → Spring Grass (425) → Vitamizer (500) → Elder Collector (1,300)
-- **Total Investment:** 2,675 Newbucks
-- **Deployment:** 8-10 Stony Hens + 2 Roostros
-- **Purpose:** Dedicated Stony Hen supply for Tabby's favorite food bonus (feeds both Plot 1 and Plot 3)
-- **Production:** Sustainable specialty chicken production with minimal intervention
-- **Collection:** Elder Collector automates harvesting at end of lifespan
-
-#### Phase 4: Support Infrastructure
-
-**Plot 4 (Silo): Resource Quarry Depot**
-
-- **Build Order:** Silo (450) → Storage Tier 1 (500) → Storage Tier 2 (575) → Storage Tier 3 (650)
-- **Total Investment:** 2,175 Newbucks
-
-**Storage Allocation:**
-
-- Slots 1-4: High-Value Plorts (Tabby, Saber, Boom) for price monitoring
-- Slots 5-12: Food Reserves (Stony Hens, Roostros for other operations)
-
-**Purpose:** Plort storage for price monitoring and food distribution across ranch
-
-**Note:** All resources and crafting materials should be stored in the Refinery (999 capacity per item), NOT in silos
-
-### Phase 2: The Digsite Resources
-
-The Digsite does not contain any high-density resource nodes. Focus on ranching operations rather than resource extraction.
-
-### Quantum Drone Automation for The Digsite
-
-**Drone 5 - Digsite Plort Collection (Recommended)**
-
-If you have a 5th Quantum Drone (purchased from ProntoMart for 100,000 NB or found in exploration zones), The Digsite benefits from automation:
-
-**Station Location:** The Digsite - central area
-
-**Programming:**
-- **Target:** Plorts
-- **Source:** Plort Collector
-- **Destination:** Silo (for price monitoring and storage)
-
-**Result:** Continuously collects ALL plorts from Tabby-Saber and Tabby-Boom corrals and stores them
-
-**Expected Result:** All plorts automatically collected and stored
-
-**Note:** You'll need to manually feed the corrals for favorite food bonuses. However, both corrals share the SAME favorite food (Stony Hens), so food automation DOES work well here.
-
-**Optional - Food Automation (ACCEPTABLE HERE):** Since both corrals eat the SAME favorite food, you CAN automate:
-- **Target:** Stony Hens (specific food type)
-- **Source:** Coop
-- **Destination:** Auto-Feeder
-- **Result:** Distributes Stony Hens to ALL auto-feeders (both Tabby-Saber and Tabby-Boom corrals)
-- **Why This Works:** Both largos have Tabby as a component, so Stony Hens are the favorite food for BOTH - you don't lose the 4-plort bonus!
-
-**Battery Management:** Charge with Tabby Plorts (cheap and abundant) - 20-30 plorts keeps drone running for weeks
-
-### Additional Digsite Management Tips
-
-**Tabby-Saber Largo Management:**
-
-- Tabby component makes these Largos extremely fast and agile
-- Saber component adds aggression to the mix
-- Music Box is MANDATORY for both components
-- Stony Hen feeding: 4 plorts per feeding (2 Tabby + 2 Saber with favorite food bonus)
-- High Walls + Air Net + Music Box = absolutely required for containment
-
-**Tabby-Boom Largo Management:**
-
-- Tabby speed + Boom explosiveness = active corral
-- Music Box helps calm Boom's explosive behavior
-- Feed Strategy: Stony Hens (Tabby favorite food = 4 plorts per feeding)
-- Share Stony Hen supply with Plot 1 Tabby-Saber Largos
-
-**Stony Hen Breeding Optimization:**
-
-- Maintain 2 Roostros per 8-10 Hens
-- Elder Collector automatically harvests at end of lifespan
-- Check collector every 1-2 days if not using Quantum Drone
-- Stony Hens feed both Plot 1 (Tabby-Saber) and Plot 3 (Tabby-Boom) with favorite food bonus
-
-**Additional Digsite Tips:**
-
-- **Occasional Spawns:** Jellystone occasionally spawns in The Digsite, providing a convenient backup crafting resource.
-- **Refinery Link:** Deploy a Refinery Link in The Digsite for easy plort deposits while exploring.
-
-### Optional: Dash Pad Connection
-
-**Cost:** 500 Newbucks + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
-
-**Placement:** Position 1 Dash Pad along the path between The Den entrance and The Digsite entrance (accessed via The Den)
-
-### End of Chapter Completion Checklist
-
-**Expansion Status:**
-
-- The Digsite unlocked and fully developed ✓
-- All 4 plots purchased and built ✓
-
-**Tabby Operations:**
-
-- Plot 1: Tabby-Saber Largos operational (6 largos) ✓
-- Plot 2: Stony Hen breeding coop producing favorite food ✓
-- Plot 3: Tabby-Boom Largos operational (6 largos) ✓
-- All corrals fully automated (Plort Collectors + Auto-Feeders + Music Boxes) ✓
-
-**Infrastructure:**
-
-- Plot 4: Fully upgraded Silo (12 slots) storing Tabby plorts for price monitoring ✓
-- Refinery Link deployed in Digsite for plort deposits ✓
-- Optional: Quantum Drone deployed for full automation ✓
-
-**Production Metrics:**
-
-- Daily profit from Digsite: 1,500-2,500+ Newbucks ✓
-- Stony Hen supply self-sustaining ✓
-- Quantum Drone automation (if deployed): ZERO manual management required ✓
-
-**Total Ranch Status:**
-
-- Daily automated income: 12,000-17,000+ Newbucks (all expansions combined)
-- Daily management time: <5 minutes with full Quantum Drone deployment
-- All expansions fully operational: Conservatory, Gully, Tidepools, Den, Archway, Digsite
+#### Phase 1: Unlock The Archway
+
+**Capital Required:** 2,800 Newbucks
+
+The Archway is accessed from the northwest corner of the Conservatory. This 5-plot expansion will become your Grey Labyrinth operations center.
+
+**Location:** Northwest corner of the Conservatory (look for the stone archway near the northern cliffs)
+
+#### Phase 2: Plot-by-Plot Build
+
+Execute the following build in order:
+
+**Plot 1: Garden - Polaricherry**
+- **Cost:** 250 Newbucks
+- **Purpose:** Feeds Twin-Flutter Largos (Plot 2)
+- **Upgrade:** Install Nutrient Soil (600 Newbucks) + Sprinkler (700 Newbucks)
+- **Deposit:** Polaricherry (collected from Grey Labyrinth)
+- **Yield:** 20 Polaricherries per harvest (enhanced yield)
+
+**Plot 2: Corral - Twin-Flutter Largos**
+- **Cost:** 250 Newbucks (corral)
+- **Slimes:** 6 Twin-Flutter Largos
+- **Creation:** Feed 6 Twin Slimes with Flutter Plorts (or vice versa)
+- **Upgrades:**
+  - High Walls: 260 Newbucks (mandatory - Twin slimes jump)
+  - Auto-Feeder: 750 Newbucks (set to Normal speed, stock with Polaricherry)
+  - Plort Collector: 750 Newbucks (collects Twin + Flutter plorts)
+- **Diet:** Fruit (Polaricherry from Plot 1)
+- **Plort Production:** Twin Plorts (23-84) + Flutter Plorts (30-50)
+- **Special:** Flutter's calming aura reduces agitation, Twin creates portals to grab distant food
+- **Revenue per Feeding:** ~100-150 Newbucks (4 plorts total with favorite food)
+
+**Plot 3: Coop - Candied Hens + Roostros**
+- **Cost:** 250 Newbucks
+- **Purpose:** Breeds Candied Hens for Sloomber-Saber Largos (Plot 4)
+- **Upgrades:**
+  - High Walls: 200 Newbucks
+  - Spring Grass: 600 Newbucks (speeds chick growth)
+  - Vitamizer: 700 Newbucks (increases egg production)
+- **Stock:** 6-8 Candied Hens + 2 Roostros (collected from Grey Labyrinth - Dream Land)
+- **Production:** Candied Hens breed continuously
+
+**Plot 4: Corral - Sloomber-Saber Largos**
+- **Cost:** 250 Newbucks (corral)
+- **Slimes:** 6 Sloomber-Saber Largos
+- **Creation:** Feed 6 Sloomber Slimes with Saber Plorts (or vice versa)
+- **Upgrades:**
+  - High Walls: 260 Newbucks (mandatory - Saber slimes are aggressive)
+  - Music Box: 350 Newbucks (CRITICAL - reduces Saber aggression, Sloomber sleep clouds help)
+  - Auto-Feeder: 750 Newbucks (set to Normal speed, stock with Candied Hens)
+  - Plort Collector: 750 Newbucks (collects Sloomber + Saber plorts)
+- **Diet:** Meat (Candied Hen from Plot 3 - Sloomber favorite)
+- **Plort Production:** Sloomber Plorts (37-85) + Saber Plorts (42-70)
+- **Special:** Sloomber's sleep clouds pacify aggressive Saber component - synergistic combination
+- **Revenue per Feeding:** ~150-250 Newbucks (4 plorts total with favorite food)
+- **HIGHEST VALUE COMBO IN THE GAME**
+
+**Plot 5: Silo - Plort & Food Storage**
+- **Cost:** 450 Newbucks
+- **Purpose:** Local storage for Grey Labyrinth plorts and food
+- **Upgrades:**
+  - Tier 1 Storage: 500 Newbucks (6 slots, 600 capacity)
+  - Tier 2 Storage: 575 Newbucks (9 slots, 900 capacity)
+  - Tier 3 Storage: 650 Newbucks (12 slots, 1,200 capacity)
+- **Storage Strategy:**
+  - Store Twin, Sloomber, Saber, Flutter plorts here
+  - Keep buffer stock of Polaricherry and Candied Hens
+  - DO NOT put Grey Labyrinth plorts in Refinery yet (needed for Chapter 13-14)
+
+#### Phase 3: Automation Integration
+
+**Auto-Feeder Setup:**
+- Plot 2 (Twin-Flutter): Stock with Polaricherry, set to Normal speed
+- Plot 4 (Sloomber-Saber): Stock with Candied Hens, set to Normal speed
+
+**Plort Collector Management:**
+- Both corrals have Plort Collectors that auto-vacuum plorts
+- Plorts stored in corral's built-in plort storage (2 types max)
+- Manually collect and deposit to Silo (Plot 5) when full
+- **OR** set up Quantum Drone to transport plorts from corrals to Silo
+
+**Food Restocking:**
+- Plot 1 (Polaricherry Garden): Harvest every 2-3 in-game days, restock Plot 2 Auto-Feeder
+- Plot 3 (Candied Hen Coop): Collect hens as needed, restock Plot 4 Auto-Feeder
+- **OR** set up Quantum Drones to automate food restocking
+
+### Strategic Priorities
+
+1. **Install All Auto-Feeders FIRST**: This is non-negotiable. Grey Labyrinth slimes are too valuable to risk starvation.
+2. **Music Box on Sloomber-Saber Corral**: The Saber component is aggressive. The Music Box + Sloomber sleep clouds keep them calm.
+3. **Continue Grey Labyrinth Farming**: During ranch downtime, return to Grey Labyrinth to farm Shadow/Prisma Plorts for Chapter 13-14.
+4. **Monitor Plort Prices**: Diversify sales - don't flood market with one plort type.
+
+### Financial Checkpoint
+
+**Total Capital Required:**
+- Expansion: 2,800 Newbucks
+- Plots: 1,450 Newbucks (5 plots: 250 + 250 + 250 + 250 + 450)
+- Upgrades: ~5,000 Newbucks (gardens, corrals, coop, silo upgrades)
+- **Total: ~9,250 Newbucks**
+
+**Revenue Added:**
+- Twin-Flutter Largos: ~100-150 Newbucks per feeding × 6 slimes = 600-900/day
+- Sloomber-Saber Largos: ~150-250 Newbucks per feeding × 6 slimes = 900-1,500/day
+- **Total Archway Revenue: +2,000-3,500 Newbucks/day**
+
+**Total Ranch Revenue (after Chapter 11):**
+- Previous Ranch Revenue (Ch 9): ~12,000-17,000 Newbucks/day
+- Archway Addition: +2,000-3,500 Newbucks/day
+- **New Total: ~14,000-20,500+ Newbucks/day**
+
+### Success Metrics
+
+By the end of Chapter 11, you should have:
+- ✅ The Archway expansion unlocked and operational
+- ✅ Twin-Flutter Largos established in Plot 2
+- ✅ Sloomber-Saber Largos established in Plot 4
+- ✅ Auto-Feeders installed and stocked on both corrals
+- ✅ Candied Hen breeding operation in Plot 3
+- ✅ Polaricherry garden producing in Plot 1
+- ✅ Silo storage for Grey Labyrinth plorts
+- ✅ Grey Labyrinth elite slimes fully integrated into ranch automation
 
 ### Next Chapter Preparation
 
-Your ranch is now a complete empire with every pre-Labyrinth slime species ranched and full automation through Quantum Drones. The next chapter focuses on final preparations and audit before endgame content.
-
-**Preparation:**
-
-- **Financial Status:** With full automation, you're generating 80,000-120,000+ NB per week
-- **Resource Collection:** Continue farming resources from other biomes (Ember Valley for Primordy Oil, Powderfall Bluffs for Sun Sap, etc.)
-- **Drone Fleet:** Consider purchasing 6th drone if desired (requires Rainbow Coins from Night Market)
-- **Exploration:** With ranch 100% automated, focus on treasure pod completion and map exploration
-- **Tier IV Upgrades:** Next chapter focuses on crafting Power Core IV, Tank Booster IV, and Golden Sureshot series
-- **Grey Labyrinth Ready:** Chapter 12 conducts comprehensive audit before tackling endgame slimes (Twin, Sloomber, Hyper, Prismatic)
+The Digsite expansion is OPTIONAL. If you've collected Dervish and Tangle slimes from weather events, Chapter 12 provides a home for them. If you haven't collected weather slimes or don't care about them, **skip Chapter 12 entirely** and proceed to Chapter 13 (The Endgame Audit).

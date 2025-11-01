@@ -2,6 +2,108 @@
 
 All notable changes to this Slime Rancher 2 guide will be documented in this file.
 
+## [0.2.0] - 2025-11-01 - Major Restructure Edition
+
+### Major Restructure: Chapters 10-15
+
+**OLD Structure:**
+- Chapter 10: The Archway - Rare Slimes
+- Chapter 11: The Digsite - Tabby Operations
+- Chapter 12: The Endgame Audit
+- Chapter 13: The Grey Labyrinth
+- Chapter 14: Post-Game
+
+**NEW Structure:**
+- Chapter 10: The Grey Labyrinth - Elite Asset Acquisition (moved from Ch 13)
+- Chapter 11: The Archway - Grey Labyrinth Operations (NEW)
+- Chapter 12: The Digsite - Weather Slime Operations (NEW - OPTIONAL)
+- Chapter 13: The Endgame Audit (condensed from old Ch 12)
+- Chapter 14: Prismacore Stabilization - Story Finale (NEW - split from old Ch 13)
+- Chapter 15: Post-Game Sandbox Empire (moved from Ch 14)
+
+### Added
+
+**Chapter 10: The Grey Labyrinth - Elite Asset Acquisition**
+- Moved Grey Labyrinth content from old Chapter 13 to Chapter 10 (post-automation)
+- Condensed prerequisites section from old Chapter 12
+- Focus on asset acquisition: Twin, Sloomber, Hyper slimes
+- Basic Shadow/Prisma Plort farming introduction
+- Removed Prismacore stabilization (moved to Chapter 14)
+
+**Chapter 11: The Archway - Grey Labyrinth Operations**
+- Completely new chapter for integrating Grey Labyrinth slimes
+- 5-plot self-contained expansion
+- Plot 1: Polaricherry Garden
+- Plot 2: Twin-Flutter Largos (fruit)
+- Plot 3: Candied Hen Coop
+- Plot 4: Sloomber-Saber Largos (meat) - HIGHEST VALUE COMBO IN GAME
+- Plot 5: Silo (Grey Labyrinth plort storage)
+- Revenue: +2,000-3,500 Newbucks/day
+
+**Chapter 12: The Digsite - Weather Slime Operations** (OPTIONAL)
+- Completely new chapter for weather event slimes
+- 4-plot self-contained expansion
+- Plot 1: Prickle Pear Garden
+- Plot 2: Dervish-Ringtail Largos (omnivore)
+- Plot 3: Painted Hen Coop
+- Plot 4: Tangle-Hyper Largos (omnivore)
+- Can be skipped entirely if player hasn't collected weather slimes
+- Revenue: +2,500-3,500 Newbucks/day (if built)
+
+**Chapter 14: Prismacore Stabilization - Story Finale**
+- New dedicated chapter for story completion
+- Gigi milestone trading (90 Prisma Plorts)
+- 5 Harmonizer activation
+- Nullifier crafting and deployment
+- Slime Shower + Prismacore stabilization
+- Story resolution and Rainbow Coin unlocking
+
+### Changed
+
+**Chapter 13: The Endgame Audit** (condensed from old Chapter 12)
+- Primary focus: Open all 25 Shadow Plort Doors (1,165 Shadow Plorts)
+- Prisma Plort stockpiling (~265 total)
+- Final Vacpack upgrades (Heart Module IV, Power Core V, Tank Booster V-VIII)
+- Ranch automation verification
+
+**Chapter 15: Post-Game Sandbox Empire** (moved from old Chapter 14)
+- Rare slime hunting (Gold, Lucky) moved here from old Chapter 10
+- Now positioned as true post-game content
+
+**Largo Combinations Based on Community/Profit Analysis:**
+- Twin-Flutter: Community recommended, calming aura synergy
+- Sloomber-Saber: Highest plort values (37-85 + 42-70), sleep clouds pacify aggression
+- Dervish-Ringtail: Very high value (75 base Dervish + 42-70 Ringtail)
+- Tangle-Hyper: Premium rare combo, flexible omnivore diet
+
+### Removed
+- Old Chapter 10 (The Archway - Rare Slimes) - rare slimes moved to Chapter 15
+- Old Chapter 11 (The Digsite - Tabby Operations) - replaced with weather slimes
+
+### Philosophy Change
+- **OLD:** Grey Labyrinth was "endgame content" accessed late
+- **NEW:** Grey Labyrinth is "post-automation priority" accessed immediately after Chapter 9
+- **OLD:** The Archway/Digsite used for low-value operations
+- **NEW:** The Archway/Digsite house ELITE slime operations with highest profit potential
+- **OLD:** Tabby operations in Digsite (redundant, low value)
+- **NEW:** Weather slimes in Digsite (optional, high value for completionists)
+
+### Files Changed
+- Created: 03-chapter-10.md, 03-chapter-11.md, 03-chapter-12.md
+- Renamed: 04-chapter-12.md → 04-chapter-13.md
+- Renamed: 04-chapter-13.md → 04-chapter-14.md (heavy edits)
+- Renamed: 04-chapter-14.md → 04-chapter-15.md
+- Updated: plot-overview.md, README.md, 00-introduction.md, CHANGELOG.md
+- Deleted: old 03-chapter-10.md, old 03-chapter-11.md
+
+### Notes
+- Guide updated to Version 0.2.0 - Major Restructure Edition
+- This is a BREAKING CHANGE to guide structure
+- Chapter numbers 10-15 completely reorganized
+- Optimal gameplay flow: Automation (Ch 9) → Grey Labyrinth (Ch 10) → Elite Operations (Ch 11-12) → Finale Prep (Ch 13) → Story Complete (Ch 14) → Sandbox (Ch 15)
+
+---
+
 ## [0.1.2] - 2025-11-01 - Wiki Integration Edition
 
 ### Added

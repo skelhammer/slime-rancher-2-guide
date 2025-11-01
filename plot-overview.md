@@ -156,7 +156,7 @@ This document provides a quick reference for ranch plot progression through all 
 
 ---
 
-## Chapter 10: The Archway - Rare Slimes
+## Chapter 11: The Archway - Grey Labyrinth Operations
 
 ### Conservatory (8 plots - unchanged)
 ### The Gully (5 plots - unchanged)
@@ -167,18 +167,19 @@ This document provides a quick reference for ranch plot progression through all 
 
 | Plot | Type | Slimes/Contents | Food Type | Food Source | Notes |
 |------|------|----------------|-----------|-------------|-------|
-| 1 | Corral | Dervish-Ringtail Largos (6) | Fruit | Prickle Pears (Plot 4) | Dervish favorite: Prickle Pears, has Solar Shield |
-| 2 | Corral | Boom-Tangle Largos (6) | Meat | Painted Hens (Plot 3) | Tangle favorite: Painted Hens |
-| 3 | Coop | Painted Hens (6-8) + Roostros (2) | - | - | Feeds Plot 2, rare chicken from Starlight Strand |
-| 4 | Garden | Prickle Pears | - | - | Feeds Plot 1 |
-| 5 | Silo | Strategic Resource Depot (12 slots) | - | - | Food, Plorts to sell during Market Surge |
+| 1 | Garden | Polaricherry | - | - | Feeds Plot 2 |
+| 2 | Corral | Twin-Flutter Largos (6) | Fruit | Polaricherry (Plot 1) | Twin favorite: Polaricherry. Flutter calming aura. |
+| 3 | Coop | Candied Hens (6-8) + Roostros (2) | - | - | Feeds Plot 4 |
+| 4 | Corral | Sloomber-Saber Largos (6) | Meat | Candied Hens (Plot 3) | Sloomber favorite: Candied Hen. Music Box required. HIGHEST VALUE COMBO. |
+| 5 | Silo | Plort & Food Storage (12 slots) | - | - | Grey Labyrinth plort storage |
 
-
-**Revenue:** +2,000-3,000 Newbucks/day | **Total Ranch:** ~10,500-14,500 Newbucks/day
+**Revenue:** +2,000-3,500 Newbucks/day | **Total Ranch:** ~14,000-20,500 Newbucks/day
 
 ---
 
-## Chapter 11: The Digsite - Tabby Operations
+## Chapter 12: The Digsite - Weather Slime Operations (OPTIONAL)
+
+> **Note:** This chapter is OPTIONAL. Skip if you haven't collected weather event slimes.
 
 ### Conservatory (8 plots - unchanged)
 ### The Gully (5 plots - unchanged)
@@ -186,32 +187,33 @@ This document provides a quick reference for ranch plot progression through all 
 ### The Den (5 plots - unchanged)
 ### The Archway (5 plots - unchanged)
 
-### The Digsite (4 plots - NEW EXPANSION)
+### The Digsite (4 plots - NEW EXPANSION - OPTIONAL)
 
 | Plot | Type | Slimes/Contents | Food Type | Food Source | Notes |
 |------|------|----------------|-----------|-------------|-------|
-| 1 | Corral | Tabby-Saber Largos (6) | Meat | Stony Hens (Plot 2) | Tabby favorite: Stony Hens |
-| 2 | Coop | Stony Hens (6-8) + Roostros (2) | - | - | Feeds Plots 1 & 3 |
-| 3 | Corral | Tabby-Boom Largos (6) | Meat | Stony Hens (Plot 2) | Tabby favorite: Stony Hens |
-| 4 | Silo | Plort & Food Storage (12 slots) | - | - | Plorts for price monitoring, Food distribution |
+| 1 | Garden | Prickle Pears | - | - | Feeds Plots 2 & 4 |
+| 2 | Corral | Dervish-Ringtail Largos (6) | Omnivore | Prickle Pear (Plot 1) | Dervish favorite: Prickle Pear. Music Box required. |
+| 3 | Coop | Painted Hens (6-8) + Roostros (2) | - | - | Feeds Plot 4 |
+| 4 | Corral | Tangle-Hyper Largos (6) | Omnivore | Painted Hens (Plot 3) or Prickle Pear (Plot 1) | Tangle favorite: Painted Hen. Music Box + Air Net REQUIRED. |
 
-**Revenue:** +1,500-2,500 Newbucks/day | **Total Ranch:** ~12,000-17,000 Newbucks/day
+**Revenue:** +2,500-3,500 Newbucks/day (if built) | **Total Ranch:** ~16,500-24,000 Newbucks/day
 
 ---
 
-### Total Expansions: 6
+### Total Expansions: 6 (or 7 if Digsite built)
 - **Conservatory:** 8 plots (2 veggie corrals + 2 fruit corrals, both fruit corrals have Solar Shields)
 - **The Gully:** 5 plots (2 meat corrals + 2 coops + 1 silo)
 - **The Tidepools:** 5 plots (passive income - Puddle & Fire)
 - **The Den:** 5 plots (3 fruit/nocturnal corrals + 2 gardens)
-- **The Archway:** 5 plots (1 fruit corral + 1 meat corral + 1 coop + 1 garden + 1 silo)
-- **The Digsite:** 4 plots (2 meat corrals + 1 coop + 1 silo)
+- **The Archway:** 5 plots (2 fruit/meat corrals + 1 coop + 1 garden + 1 silo)
+- **The Digsite:** 4 plots (OPTIONAL - 2 omnivore corrals + 1 coop + 1 garden)
 
-### Total Daily Revenue: 12,000-17,000+ Newbucks/day
+### Total Daily Revenue: 16,500-24,000+ Newbucks/day (with Digsite), 14,000-20,500+ (without Digsite)
 
-### Slime Collection Status:
+### Slime Collection Status (After Chapter 11):
 - **Common:** Pink, Cotton, Phosphor, Tabby, Rock ✓
-- **Rare:** Hunter, Honey, Boom, Batty, Crystal, Angler, Flutter, Ringtail ✓
-- **Elite:** Saber, Dervish, Tangle ✓
+- **Rare:** Hunter, Honey, Boom, Batty, Crystal, Angler, Flutter, Ringtail, Saber ✓
+- **Grey Labyrinth:** Twin, Sloomber, Hyper ✓
+- **Weather Event:** Dervish, Tangle (if collected in Ch 12)
 - **Special:** Puddle, Fire ✓
-- **Pre-Labyrinth Collection:** COMPLETE
+- **Pre-Prismacore Collection:** COMPLETE

@@ -1,6 +1,6 @@
 # Slime Rancher 2: A Practical Walkthrough
 
-**Version 0.1.2 - Wiki Integration Edition**
+**Version 0.2.0 - Major Restructure Edition**
 **Last Updated:** November 1, 2025
 
 ## About This Guide
@@ -63,17 +63,18 @@ The guide has been split into individual chapter files for easier editing and na
 - **[02-chapter-07.md](02-chapter-07.md)** - Chapter 7: Powderfall Bluffs - Saber Acquisition
 - **[02-chapter-08.md](02-chapter-08.md)** - Chapter 8: The Den - Ranch Reorganization
 
-### Part 3: Automation & Empire Completion (Chapters 9-11)
+### Part 3: Automation & Empire Completion
 
 - **[03-chapter-09.md](03-chapter-09.md)** - Chapter 9: Quantum Drones - Ranch Automation
-- **[03-chapter-10.md](03-chapter-10.md)** - Chapter 10: The Archway - Rare Slimes **[WIP]**
-- **[03-chapter-11.md](03-chapter-11.md)** - Chapter 11: The Digsite - Tabby Operations **[WIP]**
+- **[03-chapter-10.md](03-chapter-10.md)** - Chapter 10: The Grey Labyrinth - Elite Asset Acquisition
+- **[03-chapter-11.md](03-chapter-11.md)** - Chapter 11: The Archway - Grey Labyrinth Operations
+- **[03-chapter-12.md](03-chapter-12.md)** - Chapter 12: The Digsite - Weather Slime Operations *(OPTIONAL)*
 
-### Part 4: Endgame Mastery (Chapters 12-14) **[WIP]**
+### Part 4: Endgame Mastery
 
-- **[04-chapter-12.md](04-chapter-12.md)** - Chapter 12: The Endgame Audit **[WIP]**
-- **[04-chapter-13.md](04-chapter-13.md)** - Chapter 13: The Grey Labyrinth - Endgame Operations **[WIP]**
-- **[04-chapter-14.md](04-chapter-14.md)** - Chapter 14: Post-Game - Sandbox Empire **[WIP]**
+- **[04-chapter-13.md](04-chapter-13.md)** - Chapter 13: The Endgame Audit
+- **[04-chapter-14.md](04-chapter-14.md)** - Chapter 14: Prismacore Stabilization - Story Finale
+- **[04-chapter-15.md](04-chapter-15.md)** - Chapter 15: Post-Game Sandbox Empire
 
 ## Version Information
 

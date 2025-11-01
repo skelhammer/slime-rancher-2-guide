@@ -1,242 +1,304 @@
-## Chapter 10: The Archway - Rare Slimes
+## Chapter 10: The Grey Labyrinth - Elite Asset Acquisition
 
-> **⚠️ WORK IN PROGRESS:** This chapter is not yet completed or fully verified. Content may be incomplete, inaccurate, or subject to significant changes.
+**Mindset:** _Strategic endgame extraction._
 
-**Mindset:** _Capture rare slime species._
+The Grey Labyrinth is Rainbow Island's most dangerous zone and contains the rarest, most valuable slimes in the game. This chapter focuses on entering the Labyrinth, understanding its mechanics, and extracting breeding stock of elite slimes to integrate into your automated ranch operations.
 
-Establish operations for Dervish and Tangle slimes - the final two pre-Labyrinth species missing from your empire.
+### Prerequisites: Equipment & Entry Requirements
+
+Before entering the Grey Labyrinth, verify you have the required equipment and understand the entry mechanics.
+
+#### Required Vacpack Status (from Chapter 9)
+
+By the end of Chapter 9, you should have:
+- **Health/Energy:** Heart Module III (250 HP), Power Core III (250 Energy)
+- **Mobility:** Jetpack II, Dash Boots II
+- **Inventory/Defense:** Tank Booster III, Extra Tank, Tank Guard, Water Tank, Pulse Wave
+
+#### Key Gadget: The Radiant Projector
+
+The Radiant Projector is essential for solving light puzzles that lock the main entrance to the Grey Labyrinth.
+
+**Blueprint Source:** Viktor Humphries (NPC scientist) gives you the blueprint via a comm station call.
+
+**Unlock Requirements:** Viktor's call triggers automatically when you meet BOTH conditions:
+- You have popped either the Boom Gordo (Ember Valley) OR the Flutter Gordo (Starlight Strand)
+- It is at least Day 20 of your playthrough (in-game days)
+
+**Timeline If Following This Guide:**
+- Chapter 3 (Days 8-12): You pop the Boom Gordo in Ember Valley
+- Chapter 4 (Days 13-17): You pop the Flutter Gordo in Starlight Strand
+- Day 20: Viktor's comm station call triggers automatically
+- Day 20+: Radiant Projector blueprint becomes available at your Fabricator
+
+**Radiant Projector Crafting Recipe:**
+- **Cost:** 500 Newbucks
+- **Materials:** 10 Hunter Plorts, 10 Boom Plorts, 5 Silky Sand, 5 Lava Dust
+- **Quantity:** Craft 3-4 Radiant Projectors before entering
+- **Reusability:** Radiant Projectors can be picked up and reused, but having multiple allows you to solve complex multi-mirror puzzles without backtracking
+
+#### Required Expedition Kit
+
+Bring the following items in your inventory:
+- **Entry Tools:** 3-4 crafted Radiant Projectors
+- **Puzzle Items:** Stack of Hunter Plorts and Angler Plorts (for Terrarium access later)
+- **Utility:** Full stack of throwable items (Pink Plorts work well) for farming Shadow Slimes
 
 ### The Operational Blueprint
 
-**Primary Objective:** Establish operations for Dervish and Tangle slimes with optimal Largo combinations
+#### Phase 1: Initial Entry & Intelligence Gathering
 
-**Financial Checkpoint:**
-- **Starting Budget:** Should have 70,000-100,000+ Newbucks from Chapter 9 automated operations
-- **Required:** ~20,000 Newbucks for Archway unlock (2,800 NB), build-out (12,000 NB), and optional 4th Quantum Drone (20,000 NB if purchasing vs hunting)
-- **Daily Revenue:** ~10,500-14,500 Newbucks from all automated operations
-- **Timeline:** Achieve in 2-3 days through fully automated ranch
-- **Farming Strategy:** With automation in place, ranch generates income passively. Focus exploration time on capturing Dervish and Tangle slimes from Starlight Strand during weather events while simultaneously harvesting rare resources
+**Objective:** Enter the Grey Labyrinth, activate Map Data Nodes, and understand the zone mechanics.
 
-**Strategic Priorities:**
+**Entry Points:**
+- **Ember Valley:** Portal revealed after popping the Boom Gordo (western volcanic area)
+- **Starlight Strand:** Portal revealed after popping the Flutter Gordo (southern central cave) - RECOMMENDED
 
-- Unlock The Archway expansion (2,800 Newbucks)
-- Capture Dervish Slimes from Starlight Strand
-- Capture Tangle Slimes from Starlight Strand
-- Build Dervish-Ringtail Largo operation (high-value fruit division)
-- Build Boom-Tangle Largo operation (elite carnivore division)
-- Establish Painted Hen breeding facility (Tangle's favorite food)
-- Deploy strategic resource silo and Quantum Drone automation
+**Entry Puzzle (Starlight Strand Route):**
 
-**Key Success Metrics:**
+The door to the Grey Labyrinth is located directly under where the Flutter Gordo was positioned. You need 2 Radiant Projectors:
 
-- The Archway unlocked with 5 plots developed
-- Dervish-Ringtail Largos operational (high-value fruit plorts)
-- Boom-Tangle Largos operational (elite carnivore plorts)
-- Painted Hen breeding facility producing favorite food
-- Quantum Drone fully automating The Archway operations
-- Daily revenue from Archway: 2,000-3,000+ Newbucks
+1. **First Projector:** Capture the yellow light beam emanating from the nearby Slime Statue
+2. **Second Projector:** Bounce the captured light to the triangle-shaped light switch/sensor on the door
+3. When correctly aligned, the beam turns YELLOW and the door opens
 
-**Capital Requirements:**
+**Map Data Nodes:**
 
-- Archway Unlock: 2,800 Newbucks
-- Full Build-Out: ~11,000-12,000 Newbucks (2 corrals, 1 coop, 1 garden, 1 silo with upgrades)
-- Quantum Drone Station: 5,000 Newbucks + 100 Flutter Plorts + materials
-- Recommended Starting Budget: 20,000+ Newbucks total
+The Grey Labyrinth contains 7 Map Data Nodes across all zones. Your FIRST priority upon entering is finding and activating these nodes:
 
-**Strategic Value:**
+**Map Data Node Locations:**
+- 2 nodes in Waterworks (hub area)
+- 2 nodes in Impossible Sky
+- 1 node in Lava Depths
+- 1 node in Dream Land
+- 1 node in Terrarium
 
-- Completes your pre-Labyrinth slime collection (all common and rare slimes ranched)
-- Dervish plorts (~75 NB) + Ringtail plorts (~moderate value) = high-value production
-- Boom plorts (~30-50 NB) + Tangle plorts (~75 NB) = ~105-125 NB per feeding
-- Combined daily output: 2,000-3,000+ Newbucks from this expansion
+Reference appendix-locations.md for exact locations once you're exploring.
 
-### Accessing The Archway
+**Initial Exploration Actions:**
+- Enter the Labyrinth and immediately begin searching for Map Data Nodes
+- Observe Prisma Disruption patterns (don't engage yet)
+- Locate new slime species (Twin, Shadow) and resource nodes
+- Mark positions for future targeted runs
+- Return to your portal and extract once map is active
 
-Before you can begin development, you must unlock this expansion.
+#### Phase 2: Understanding Grey Labyrinth Mechanics
 
-- **Location:** Northern side of the Conservatory, marked by ancient stone archway structures
-- **Unlock Cost:** 2,800 Newbucks
-- **Layout:** 5 plots arranged among grass-covered ruins with stone pillars and natural vegetation
+**Key Zones Overview:**
 
-### Phase 1: Asset Acquisition
+- **Waterworks (Hub):** Central aquatic hub with pipes and waterworks infrastructure. Contains Aqua Glass nodes (ONLY source in Labyrinth). Best entry point via Starlight Strand portal. Multiple locked rooms opened by plort statues. Connects to all major zones.
+- **Impossible Sky:** Grassy overgrown area with ruinous architecture. Contains Twin Slimes, Polaricherry trees, Black Indigonium nodes, and Royal Jelly. Features three plort statues (Shadow, Twin, Sloomber). Twin Gordo located here (unlocks portal to Rainbow Fields). The gilded area near Prismacore is part of this zone.
+- **Lava Depths:** Volcanic area with Magma Comb resource nodes. Accessed via Ember Valley portal with Radiant Projector puzzle. Contains 3 Rock plort statues and 1 Boom plort statue for shortcuts. Heavily stacked vertical rooms make navigation difficult.
+- **Dream Land:** Largest northern area with magenta vegetation, windmills, and Royal Jelly. Divided into 3 sub-areas:
+  - Central: First arrival point from Impossible Sky (no Sloomber/Candied Hens)
+  - North: Contains Sloomber Gordo (portal to Conservatory). Requires Radiant Projector puzzle or pipes from east
+  - West: Requires Radiant Projector puzzle (4+ projectors) or flying from north. Contains Shadow Plort Door shortcut to Waterworks
+- **Terrarium:** Sealed greenhouse biodome containing plants/food/slimes from most Rainbow Island regions. ONLY natural spawn of Hyper Slimes and Turbo Taters. Contains Hyper Gordo. **Access requires:** 3 Radiant Projectors, 1 Hunter Plort, 1 Angler Plort (entry puzzle at Lava Depths/Impossible Sky transition).
+- **Prismacore:** Final zone accessed via plort statue doors (Twin, Shadow, Sloomber required). Contains Gigi's exchange station and story finale. (Chapter 14 content)
 
-Before building, capture the slimes you need.
+**Critical Hazards:**
 
-**For Dervish-Ringtail Largos:**
+**Prisma Disruptions:** Reality-altering energy waves that periodically sweep through zones. During disruptions, all loose food and plorts become "Unstable."
 
-- **6 Dervish Slimes:** Starlight Strand eastern windy cliffs during cyclones - fast, create tornadoes, use Pulse Wave
-- **6 Ringtail Plorts:** From wild Ringtail Slimes (spawn at night in multiple biomes)
+**Unstable Items:** Items with "Unstable" status randomly JUMP out of your Vacpack unpredictably. They pop out if you take damage and eventually vanish if left unstabilized. **CRITICAL:** You cannot use teleporters/warp depots while carrying Unstable items.
 
-**For Boom-Tangle Largos:**
+**Stabilization Methods:**
+- **Prisma Stabilizers:** Yellow floating portals that appear during disruptions. Shoot Unstable items through them to stabilize. **One-time use** - they disappear after use.
+- **Stabilizing Gates:** Permanent archway structures found throughout Labyrinth. Walk through with Unstable items in vac to stabilize them. Reusable.
+- **Result:** Unstable Plorts → Prisma Plorts (valuable endgame resource)
 
-- **6 Boom Slimes:** Ember Valley volcanic areas
-- **6 Tangle Plorts:** From wild Tangle Slimes in Starlight Strand during pollen storms
+**No Slime Sea:** The bottom of the Labyrinth is a cloud ocean. Anything that falls in is PERMANENTLY LOST. There is no recovery.
 
-**Additional Resources:**
+**Tarr Risk:** Very common due to high slime variety and abundant food. Water Tank strongly recommended.
 
-- 20-30 Painted Hens (Starlight Strand during weather events - for Tangle's favorite food)
-- 30+ Prickle Pears (for Dervish-Ringtail feeding - from Starlight Strand or Ember Valley)
+**Dream Land Trap Warning:** If you enter Dream Land North via pipes without unlocking west Radiant Projector puzzle and lack Jetpack II mobility, you can get trapped. Escape options: Emergency Return (Tank Guard), pop Sloomber Gordo, or complete puzzle.
 
-### Ranch Development & Plot Allocation: The Archway Build-Out (5 plots)
+#### Phase 3: New Slime Species & Resources
 
-#### Phase 1: Fruit Division - Dervish-Ringtail Largos
+**Grey Labyrinth Slimes:**
 
-**Plot 1 (Corral): Dervish-Ringtail Largo Division (6 largos)**
+| **Slime** | **Diet** | **Favorite** | **Largo?** | **Location** | **Special Notes** |
+|-----------|----------|--------------|------------|--------------|-------------------|
+| **Shadow** | None | N/A | NO | Dark corners throughout | Cannot be vacuumed. Cannot be eaten by Tarr. Spawns in groups of 2-5. Produces plorts when hit by ANY thrown object (item not consumed). Jumps when disturbed, then vanishes. |
+| **Twin** | Fruit | Polaricherry | YES | Impossible Sky, throughout | Alternates blue/pink states. Creates portals to snag distant food. |
+| **Sloomber** | Meat | Candied Hen | YES | Dream Land (North/West) | Emits sleep cloud that calms or incapacitates other slimes. |
+| **Hyper** | Veg | Turbo Tater | YES | Terrarium ONLY | Extremely fast, ricochets constantly. Requires maximum corral security. |
 
-- **Build Order:** Corral (250) → High Walls (260) → Air Net (425) → Solar Shield (425) → Plort Collector (750) → Auto-Feeder (750) → Music Box (350)
-- **Total Investment:** 3,210 Newbucks
-- **Creation:** Deploy 6 Dervish Slimes, feed 6 Ringtail Plorts to create Dervish-Ringtail Largos
-- **Feed Strategy:** Prickle Pears from Plot 4 (Dervish's favorite food)
-- **Note:** Solar Shield required for Ringtail component (turns to stone in sunlight)
+**Exclusive Resources:**
 
-**Plot 4 (Garden): Prickle Pear Production**
+- **Harvestable Nodes:** Magma Comb (Lava Depths), Tin Petal, Black Indigonium (Impossible Sky), Aqua Glass (Waterworks ONLY), Dream Bubble (Dream Land)
+- **New Foods:** Polaricherry (Fruit - Twin favorite), Candied Hen (Meat - Sloomber favorite), Turbo Tater (Vegetable - Hyper favorite)
+- **Prisma Plort:** Crafted resource created by stabilizing Unstable Plorts (NOT a slime species)
 
-- **Build Order:** Garden (250) → Nutrient Soil (600) → Sprinkler (700)
-- **Total Investment:** 1,550 Newbucks
-- **Crop:** Prickle Pears (Dervish's favorite food)
-- **Purpose:** Feeds Plot 1 Dervish-Ringtail Largos with favorite food bonus
-- **Output:** Sufficient Prickle Pears for 2-3 feedings per day
+**Shadow Plort Doors:**
 
-#### Phase 2: Carnivore Division - Boom-Tangle Largos
+The 25 Shadow Plort Doors are the Grey Labyrinth's equivalent of Treasure Pods:
+- **Visual:** Shaped like Refinery Links with sun-meter dial above
+- **Map Icon:** Moon/Sun symbols (black and yellow pokeball-like icon)
+- **Opening:** Deposit Shadow Plorts into door. Sun meter transitions to night-time (crescent moon), then unlocks
+- **Costs:** 25-100 Shadow Plorts per door (varies)
+- **Total Count:** 25 doors (19 in main areas, 6 in Terrarium)
+- **Rewards:** Blueprints, upgrade components (Storage Cells, Power Chips), decorations, shortcuts
+- **Total Needed:** 1,165 Shadow Plorts to open all 25 (Chapter 13 objective)
 
-**Plot 2 (Corral): Boom-Tangle Largo Division (6 largos)**
+#### Phase 4: Asset Acquisition - Capturing Elite Slimes
 
-- **Build Order:** Corral (250) → High Walls (260) → Air Net (425) → Plort Collector (750) → Auto-Feeder (750) → Music Box (350)
-- **Total Investment:** 2,785 Newbucks
-- **Creation:** Deploy 6 Boom Slimes, feed 6 Tangle Plorts to create Boom-Tangle Largos
-- **Feed Strategy:** Painted Hens from Plot 3 (Tangle's favorite food)
+**Objective:** Capture breeding stock of Twin, Sloomber, and Hyper slimes and collect their favorite foods.
 
-**Plot 3 (Coop): Painted Hen Breeding Facility**
+**Gordo Locations & Rewards:**
 
-- **Build Order:** Coop (250) → High Walls (200) → Spring Grass (425) → Vitamizer (500) → Elder Collector (1,300)
-- **Total Investment:** 2,675 Newbucks
-- **Deployment:** 8-10 Painted Hens + 2 Roostros
-- **Purpose:** Dedicated Painted Hen supply for Tangle's favorite food bonus
-- **Production:** Sustainable rare chicken production with minimal intervention
-- **Collection:** Elder Collector automates harvesting at end of lifespan
-- **Note:** Painted Hens appear during specific weather events in Starlight Strand
-
-#### Phase 3: Support Infrastructure
-
-**Plot 5 (Silo): Strategic Plort & Food Storage**
-
-- **Build Order:** Silo (450) → Storage Tier 1 (500) → Storage Tier 2 (575) → Storage Tier 3 (650)
-- **Total Investment:** 2,175 Newbucks
-
-**Storage Allocation:**
-
-- Slots 1-4: High-Value Plorts (Dervish, Tangle, Boom, Ringtail) for price monitoring
-- Slots 5-12: Food Reserves (Painted Hens, Prickle Pears, Thunderclucks, Sea Hens for other operations)
-
-**Purpose:** Plort storage for price monitoring and specialty food distribution
-
-**Note:** All resources and crafting materials should be stored in the Refinery (999 capacity per item), NOT in silos
-
-### Quantum Drone Automation for The Archway
-
-**Drone 4 - Archway Plort Collection (Recommended)**
-
-If you have a 4th Quantum Drone (purchased from ProntoMart for 20,000 NB or found in exploration zones), The Archway benefits from automation:
-
-**Station Location:** The Archway - central area
-
-**Programming:**
-- **Target:** Plorts
-- **Source:** Plort Collector
-- **Destination:** Silo (for price monitoring and bulk sales during price spikes)
-
-**Result:** Continuously collects ALL plorts from Dervish-Ringtail and Boom-Tangle corrals and stores them
-
-**Expected Result:** All plorts automatically collected and stored for price spike selling
-
-**Note:** You'll need to manually feed the corrals for favorite food bonuses. Food automation is NOT recommended here since drone would distribute to ALL auto-feeders (both Dervish-Ringtail and Boom-Tangle corrals), losing favorite food optimization.
-
-**Battery Management:** Charge with Boom Plorts or Ringtail Plorts (medium value) - 15-20 plorts keeps drone running for weeks
-
-### Additional Archway Management Tips
-
-**Dervish-Ringtail Largo Management:**
-
-- Dervish component creates tornadoes that can knock plorts around
-- Ringtail turns to stone in sunlight - Solar Shield is MANDATORY
-- Music Box helps calm Dervish's tornado behavior
-- Prickle Pear feeding: 4 plorts per feeding (2 Dervish + 2 Ringtail with favorite food bonus)
-- High Walls + Air Net + Solar Shield + Music Box = secure containment
-
-**Boom-Tangle Largo Management:**
-
-- Boom explosions + Tangle vines = highly active corral
-- Music Box is MANDATORY for both components
-- Painted Hen feeding: 4 plorts per feeding (2 Boom + 2 Tangle with favorite food bonus)
-- High Walls + Air Net + Music Box = secure containment
-- Explosions are harmless but can scatter plorts - Plort Collector essential
-
-**Painted Hen Breeding Optimization:**
-
-- Maintain 2 Roostros per 8-10 Hens
-- Painted Hens are RARE - only spawn during specific weather events in Starlight Strand
-- Elder Collector automatically harvests at end of lifespan
-- Check collector every 1-2 days if not using Quantum Drone
-- Once you have breeding population, they reproduce normally in coop
-
-**Market Strategy:**
-
-- Store Dervish, Tangle, Boom, and Ringtail plorts in Plot 5 Silo
-- Monitor Plort Market daily for price spikes (150%+)
-- Execute bulk sell-offs during spike events for 2,000-4,000 NB bonus transactions
-
-**Resource Patches:**
-
-- **3 Pogofruit patches:** Convenient fruit source for general use
-- **2 Carrot patches:** Backup veggie source available in expansion
-- **1 Jellystone node:** Occasional crafting material spawn
-
-### Optional: Dash Pad Connection
-
-**Cost:** 500 Newbucks + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
-
-**Placement:** Position 1 Dash Pad along the path between Conservatory entrance and The Archway entrance
-
-### End of Chapter Completion Checklist
-
-**Expansion Status:**
-
-- The Archway unlocked and fully developed ✓
-- All 5 plots purchased and built ✓
-
-**Rare Slime Operations:**
-
-- Plot 1: Dervish-Ringtail Largos operational (6 largos, with Solar Shield) ✓
-- Plot 2: Boom-Tangle Largos operational (6 largos) ✓
-- Plot 3: Painted Hen breeding coop producing favorite food ✓
-- Plot 4: Prickle Pear garden supplying favorite food ✓
-- All corrals fully automated (Plort Collectors + Auto-Feeders + Music Boxes) ✓
-
-**Infrastructure:**
-
-- Plot 5: Fully upgraded Silo (12 slots) storing rare plorts and endgame materials ✓
-- Optional: Quantum Drone deployed for full automation ✓
-
-**Production Metrics:**
-
-- Daily profit from Archway: 2,000-3,000+ Newbucks ✓
-- Painted Hen supply self-sustaining ✓
-- Quantum Drone automation (if deployed): ZERO manual management required ✓
-
-**Total Ranch Status:**
-
-- Daily automated income: 10,500-14,500+ Newbucks (all expansions combined)
-- Daily management time: <5 minutes with full Quantum Drone deployment
-- All expansions fully operational: Conservatory, Gully, Tidepools, Den, Archway
+Pop these three Gordos to unlock permanent portals and collect slimes:
+
+| **Gordo** | **Food Required** | **Location** | **Reward** |
+|-----------|-------------------|--------------|------------|
+| **Twin Gordo** | 50 Fruit (Polaricherry counts 2x) | Impossible Sky | 12 Twin Slimes + 1 jar + Portal to Rainbow Fields |
+| **Sloomber Gordo** | 30 Meat (Candied Hen counts 2x) | Dream Land (North) | 12 Sloomber Slimes + 1 jar + Portal to Conservatory (formerly led to Terrarium pre-v1.0) |
+| **Hyper Gordo** | 30 Veggies (Turbo Tater counts 2x) | Terrarium | 12 Hyper Slimes + 1 jar + Key switch for progression |
+
+**Capture Strategy:**
+
+Conduct separate, targeted runs for each slime type:
+
+**Twin Slimes:**
+- **Location:** Impossible Sky (easiest access from Waterworks)
+- **Target:** Capture 10-12 Twin Slimes
+- **Food Collection:** Collect 40-60 Polaricherry from trees in Impossible Sky
+- **Method:** Pop Twin Gordo first (50 Fruit) to get 12 free Twin Slimes, then collect Polaricherry
+- **Transport:** Return to ranch via portal (Starlight Strand → Conservatory)
+
+**Sloomber Slimes:**
+- **Location:** Dream Land North/West (requires Radiant Projector puzzle or Gordo portal)
+- **Target:** Capture 10-12 Sloomber Slimes
+- **Food Collection:** Collect 40-60 Candied Hens from Dream Land
+- **Method:** Pop Sloomber Gordo first (30 Meat) to get 12 free Sloomber Slimes and unlock Conservatory portal
+- **Transport:** Return to ranch via Conservatory portal (very convenient)
+
+**Hyper Slimes:**
+- **Location:** Terrarium ONLY (requires solving Radiant Projector puzzle at Lava Depths/Impossible Sky transition)
+- **Puzzle Requirements:** 3 Radiant Projectors + 1 Hunter Plort + 1 Angler Plort
+- **Target:** Capture 10-12 Hyper Slimes
+- **Food Collection:** Collect 40-60 Turbo Taters from Terrarium gardens
+- **Method:** Pop Hyper Gordo first (30 Veggies) to get 12 free Hyper Slimes
+- **Warning:** Hyper Slimes are EXTREMELY bouncy and fast. Keep them contained in your vac during transport.
+- **Transport:** Return to ranch via nearest portal
+
+**Storage on Ranch:**
+
+You won't build The Archway expansion until Chapter 11. For now, store these slimes temporarily:
+- Use empty corrals in The Den or other expansions
+- Do NOT create Largos yet (wait for Chapter 11 strategic planning)
+- Store favorite foods in Silos for later use
+
+#### Phase 5: Shadow Plort & Prisma Plort Farming (Basic Introduction)
+
+**Objective:** Understand how to farm Shadow Plorts and Prisma Plorts for future chapters.
+
+**Shadow Plort Farming:**
+
+Shadow Slimes are unique - they cannot be vacuumed or captured, but they produce plorts when hit:
+
+**How to Farm Shadow Plorts:**
+1. Shadow Slimes spawn in groups of 2-5 in dark corners throughout Grey Labyrinth
+2. Carry a full stack of throwable items (Pink Plorts, vegetables, anything)
+3. Hit Shadow Slimes with thrown objects
+4. They produce Shadow Plorts on the ground (thrown item is NOT consumed)
+5. Vacuum up the Shadow Plorts
+6. Shadow Slime jumps erratically, then vanishes
+7. Return later - Shadow Slimes respawn in same locations
+
+**Optimal Farming Route:**
+- Systematically visit all dark corners in Waterworks, Impossible Sky, Lava Depths, Dream Land
+- Carry 100 throwable items, farm all Shadow Slimes, return to ranch
+- Repeat runs as needed
+
+**Shadow Plort Uses:**
+- 1,165 total needed to open all 25 Shadow Plort Doors (Chapter 13)
+- 20 needed for Nullifier crafting (Chapter 14)
+- Additional needs for Shadow Sureshot upgrade (amount TBD)
+
+**CRITICAL - Store Shadow Plorts in SILOS, not Refinery** (cannot use Refinery plorts to open doors)
+
+**Prisma Plort Farming (Basic Method):**
+
+Prisma Plorts are created by stabilizing Unstable Plorts during Prisma Disruptions:
+
+**Temporary Pink Slime Farm Setup:**
+1. Bring 50 Pink Slimes from ranch to Grey Labyrinth
+2. Set up near a Stabilizing Gate in Waterworks (main hub)
+3. Place Pink Slimes in temporary open area (no corral needed)
+
+**Operation During Disruption:**
+1. Collect Unstable food (fruits, veggies, chickens) during Prisma Disruption
+2. Feed Pink Slimes immediately
+3. They produce Unstable Plorts
+4. Walk through Stabilizing Gate with Unstable Plorts in vac
+5. They convert to stable Prisma Plorts
+6. Deposit to nearby Refinery Link or return to ranch
+7. When done farming, vacuum up Pink Slimes and return them to ranch
+
+**Prisma Plort Uses:**
+- 90 total for Gigi's milestone trades (Chapter 14)
+- 175 total for crafting upgrades (various Vacpack upgrades)
+- Total needed: ~265 Prisma Plorts
+
+**CRITICAL - Store Prisma Plorts in SILOS, not Refinery** (cannot trade Refinery plorts to Gigi)
+
+**Advanced Farming Note:**
+- Open early Shadow Plort Doors (25-50 plort cost) for shortcuts and quality-of-life improvements
+- Unlock Stabilizing Gate blueprint (75 Shadow Plorts) to craft permanent gate at ranch for convenient Prisma Plort farming
+- Systematic door completion is Chapter 13 objective
+
+### Strategic Priorities
+
+1. **Map First, Always:** Do not operate in unmapped territory. Activate all 7 Map Data Nodes before deep exploration.
+2. **Pop Gordos for Portals:** Twin Gordo (Rainbow Fields), Sloomber Gordo (Conservatory), Hyper Gordo (key switch) - these portals save massive time.
+3. **Capture Breeding Stock:** 10-12 of each elite slime type (Twin, Sloomber, Hyper) is sufficient for ranch operations.
+4. **Collect Favorite Foods:** 40-60 of each food type (Polaricherry, Candied Hen, Turbo Tater) for Chapter 11 buildout.
+5. **Farm Shadow Plorts Opportunistically:** Start collecting Shadow Plorts now for Chapter 13 door opening (1,165 total needed).
+6. **Store Plorts in Silos:** NEVER put Shadow/Prisma Plorts in Refinery until you've completed door/milestone objectives.
+7. **Do Not Ranch Here:** Grey Labyrinth is an extraction zone, not a ranching expansion. Capture assets and return to your secure ranch.
+
+### Financial Checkpoint
+
+**Capital Required:**
+- Radiant Projectors: 2,000 Newbucks (4 × 500)
+- Materials: Hunter/Boom Plorts, Silky Sand, Lava Dust (from existing operations)
+- **Total: ~2,000 Newbucks**
+
+**No Direct Revenue Added:**
+
+This chapter is about resource gathering and asset acquisition, not revenue generation. The captured elite slimes will generate revenue in Chapter 11 (The Archway) when properly integrated into ranch operations.
+
+**Estimated Revenue from Chapter 11 Preview:**
+- Twin-Flutter Largos: ~100-150 Newbucks per feeding
+- Sloomber-Saber Largos: ~150-250 Newbucks per feeding
+- **Combined Archway Revenue: +2,000-3,500 Newbucks/day** (Chapter 11)
+
+### Success Metrics
+
+By the end of Chapter 10, you should have:
+- ✅ All 7 Grey Labyrinth Map Data Nodes activated
+- ✅ Twin Gordo popped (50 Fruit) - Portal to Rainbow Fields unlocked
+- ✅ Sloomber Gordo popped (30 Meat) - Portal to Conservatory unlocked
+- ✅ Hyper Gordo popped (30 Veggies) - Terrarium access confirmed
+- ✅ 10-12 Twin Slimes captured and returned to ranch
+- ✅ 10-12 Sloomber Slimes captured and returned to ranch
+- ✅ 10-12 Hyper Slimes captured and returned to ranch
+- ✅ 40-60 Polaricherry collected (Twin favorite food)
+- ✅ 40-60 Candied Hens collected (Sloomber favorite food)
+- ✅ 40-60 Turbo Taters collected (Hyper favorite food)
+- ✅ Basic understanding of Shadow Plort farming (hit Shadow Slimes with throwables)
+- ✅ Basic understanding of Prisma Plort farming (Unstable food → slimes → Stabilizing Gate)
+- ✅ Shadow Plorts and Prisma Plorts stored in SILOS (not Refinery)
+- ✅ Ready to build The Archway expansion (Chapter 11)
 
 ### Next Chapter Preparation
 
-Your ranch is now nearly complete with fully automated operations. The next chapter unlocks The Digsite, the final pre-Labyrinth expansion, and completes your slime collection with Tabby-based operations.
+With elite Grey Labyrinth slimes captured and favorite foods collected, you're ready to integrate these valuable assets into your ranch operations. Chapter 11 (The Archway - Grey Labyrinth Operations) will establish the highest-value plort production on your entire ranch using Twin-Flutter and Sloomber-Saber Largo combinations.
 
-**Preparation:**
-
-- **Financial Accumulation:** With automated income, you're generating 70,000-100,000+ NB per week
-- **Resource Stockpiling:** Continue weekly Sun Sap farming in Powderfall Bluffs
-- **Drone Expansion:** Consider purchasing 5th drone (100,000 NB) for The Digsite automation
-- **Exploration:** With ranch fully automated, dedicate time to treasure pod completion and map 100%
-- **Next Chapters:** Chapter 11 completes slime collection with The Digsite. Chapter 12 prepares for Grey Labyrinth endgame content
+**Preparation for Chapter 11:**
+- Have 9,250 Newbucks saved (Archway expansion + upgrades)
+- Verify you have 10-12 Twin, Sloomber slimes stored
+- Verify you have Polaricherry, Candied Hen stocks
+- Have Saber Slimes available (from Chapter 7 Powderfall Bluffs operations)
+- Have Flutter Slimes available (from Chapter 4 Starlight Strand operations)
