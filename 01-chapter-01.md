@@ -36,7 +36,7 @@ Pop the Pink Gordo to unlock the Ember Valley portal switch:
 
 | **Gordo** | **Food Required** | **Location** | **Reward** |
 |-----------|-------------------|--------------|------------|
-| **Pink Gordo** | 30 Any (omnivore) | Rainbow Fields - Western area near slime statues | Geyser to Ember Valley portal switch |
+| **Pink Gordo** | 30 Any (omnivore) | Rainbow Fields - Western area near slime statues | Geyser to Ember Valley portal switch + 12 Pink Slimes + 1 jar |
 
 ### Slime Locations for Chapter 1
 
@@ -51,7 +51,7 @@ Pop the Pink Gordo to unlock the Ember Valley portal switch:
 
 #### Phase 1: Initial Asset Collection
 
-Collect the slimes and resources needed for your first ranch operation.
+**Objective:** Collect slimes and resources needed for your first ranch operation.
 
 **Slimes Needed:**
 - 6 Tabby Slimes (throughout Rainbow Fields starting area)
@@ -68,7 +68,7 @@ Collect the slimes and resources needed for your first ranch operation.
 
 #### Phase 2: Plot-by-Plot Build
 
-Execute the following Conservatory build:
+**Objective:** Establish your first revenue-generating corral operation.
 
 | **Plot** | **Type** | **Contents** | **Base Cost** | **Upgrades** | **Total Cost** | **Purpose/Notes** |
 |----------|----------|--------------|---------------|--------------|----------------|-------------------|
@@ -80,13 +80,15 @@ Execute the following Conservatory build:
 
 #### Phase 3: Unlock Ember Valley
 
-Pop the Pink Gordo to unlock access to Ember Valley for Radiant Ore collection (see Gordo Strategy table above for details).
+**Objective:** Pop Pink Gordo to unlock access to Ember Valley for Radiant Ore collection.
 
 **Why Ember Valley?**
 - Radiant Ore spawns abundantly here (required for Jetpack crafting)
 - Provides access to additional resources for future chapters
 
 #### Phase 4: Resource Gathering for Jetpack
+
+**Objective:** Collect Phosphor Plorts and Radiant Ore required for Jetpack crafting.
 
 **Night Hunt - Phosphor Slimes:**
 - Wait for nighttime in Rainbow Fields
@@ -99,7 +101,9 @@ Pop the Pink Gordo to unlock access to Ember Valley for Radiant Ore collection (
 - Harvest 10 Radiant Ore from glowing pink/magenta crystal nodes
 - **CRITICAL:** Must craft Resource Harvester first (see Phase 5)
 
-#### Phase 5: Vacpack Upgrades (Priority Order)
+#### Phase 5: Vacpack Upgrades
+
+**Objective:** Craft essential Tier I upgrades culminating in the Jetpack.
 
 | **Upgrade** | **Cost** | **Materials** | **Effect** | **Priority** |
 |-------------|----------|---------------|------------|--------------|
@@ -116,7 +120,9 @@ Pop the Pink Gordo to unlock access to Ember Valley for Radiant Ore collection (
 3. Heart Module (survivability for Ember Valley)
 4. Jetpack (unlocks vertical exploration)
 
-#### Phase 6: Core Mechanics
+#### Phase 6: Core Mechanics Reference
+
+**Objective:** Understand fundamental game mechanics for ranch management.
 
 **Creating Largos:**
 - Feed a slime a different plort type to convert it
@@ -130,6 +136,32 @@ Pop the Pink Gordo to unlock access to Ember Valley for Radiant Ore collection (
 **Key Details:**
 - Optimal corral population: 6 Largos (8-10 regular slimes)
 - Water Lettuce is Cotton favorite (4 plorts per feeding)
+
+### Strategic Priorities
+
+1. **Revenue First:** Establish Tabby-Cotton operation immediately for steady income (Day 1).
+2. **Pop Pink Gordo:** Unlock Ember Valley access for Radiant Ore collection.
+3. **Night Hunt Phosphor:** Collect 10 Phosphor Plorts at night (they burn in daylight).
+4. **Craft Resource Harvester:** CRITICAL—required before harvesting Radiant Ore nodes.
+5. **Harvest Radiant Ore:** Collect 10 Radiant Ore from Ember Valley for Jetpack.
+6. **Deploy Capital to Jetpack:** Don't expand to additional plots—save all funds for Jetpack.
+7. **Corral Security:** Craft High Walls + Air Net to prevent Largo escapes.
+
+### Financial Checkpoint
+
+**Capital Required:**
+- Ranch Setup: 1,185 Newbucks (Plot 1 Corral + Plot 2 Garden + upgrades)
+- Vacpack Upgrades: 1,350 Newbucks (Resource Harvester, Heart Module, Jetpack)
+- Materials: Cotton Plorts, Pink Plorts, Phosphor Plorts, Radiant Ore (from initial operations and collection)
+- **Total: ~2,535 Newbucks**
+
+**Revenue Generation:**
+
+- **Daily Revenue:** ~300-500 Newbucks/day from Tabby-Cotton Largos
+- **Timeline to Goal:** 5-7 days to accumulate 2,535 Newbucks
+- **Plort Values:** Cotton (~14-24 NB), Tabby (~10-17 NB)
+
+**Strategic Note:** This is a sprint chapter—every Newbuck goes toward the Jetpack. Once crafted, vertical exploration unlocks and the game opens up dramatically.
 
 ### End of Chapter Checklist
 

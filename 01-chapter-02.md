@@ -33,8 +33,8 @@ Pop these two Rainbow Fields Gordos to unlock Starlight Strand access and treasu
 
 | **Gordo** | **Food Required** | **Location** | **Reward** |
 |-----------|-------------------|--------------|------------|
-| **Cotton Gordo** | 30 Veggies (Water Lettuce counts 2x) | Rainbow Fields - SE of Refinery Link, top of hill | Cave to Starlight Strand portal switch |
-| **Phosphor Gordo** | 30 Fruit (Cuberries counts 2x) | Rainbow Fields - Cave near south Conservatory exit | Treasure pod access with blueprints |
+| **Cotton Gordo** | 30 Veggies (Water Lettuce counts 2x) | Rainbow Fields - SE of Refinery Link, top of hill | Cave to Starlight Strand portal switch + 12 Cotton Slimes + 1 jar |
+| **Phosphor Gordo** | 30 Fruit (Cuberries counts 2x) | Rainbow Fields - Cave near south Conservatory exit | Treasure pod access with blueprints + 12 Phosphor Slimes + 1 jar |
 
 ### Slime Locations for Chapter 2
 
@@ -47,11 +47,13 @@ Pop these two Rainbow Fields Gordos to unlock Starlight Strand access and treasu
 
 #### Phase 1: Unlock Starlight Strand
 
+**Objective:** Pop Cotton Gordo to activate the portal to Starlight Strand.
+
 Pop the Cotton Gordo to activate the portal to Starlight Strand (see Gordo Strategy table above for details).
 
 #### Phase 2: Asset Acquisition & Preparation
 
-Enter Starlight Strand and collect the necessary slimes and resources.
+**Objective:** Enter Starlight Strand and collect slimes/resources for Phosphor-Honey operation.
 
 **Slimes Needed:**
 - 6 Phosphor Slimes (spawn at NIGHT only throughout Starlight Strand)
@@ -68,7 +70,7 @@ Enter Starlight Strand and collect the necessary slimes and resources.
 
 #### Phase 3: Plot-by-Plot Build
 
-Execute the following Conservatory expansion:
+**Objective:** Expand Conservatory from 2 plots to 4 plots with Phosphor-Honey operation.
 
 | **Plot** | **Type** | **Contents** | **Base Cost** | **Upgrades** | **Total Cost** | **Purpose/Notes** |
 |----------|----------|--------------|---------------|--------------|----------------|-------------------|
@@ -82,6 +84,8 @@ Execute the following Conservatory expansion:
 
 #### Phase 4: Key Notes
 
+**Objective:** Manage plort stockpiling for future crafting needs.
+
 **Plort Management:**
 - Deposit Phosphor and Honey Plorts into Refinery (target: 50+ each for future upgrades)
 - Sell excess after stockpiling
@@ -89,7 +93,9 @@ Execute the following Conservatory expansion:
 **Manual Feeding Required:**
 - Cuberries are Phosphor favorite (4 plorts per feeding)
 
-#### Phase 5: Vacpack Upgrades (Priority Order)
+#### Phase 5: Vacpack Upgrades
+
+**Objective:** Craft Tier I upgrades for improved exploration and collection capacity.
 
 | **Upgrade** | **Cost** | **Materials** | **Effect** | **Priority** |
 |-------------|----------|---------------|------------|--------------|
@@ -105,6 +111,34 @@ Execute the following Conservatory expansion:
 **Crafting Materials Source:**
 - Cotton Plorts: From your Tabby-Cotton Largos (Plot 1)
 - Tabby Plorts: From your Tabby-Cotton Largos (Plot 1)
+
+### Strategic Priorities
+
+1. **Pop Cotton Gordo:** Unlock Starlight Strand access for Honey and Phosphor collection.
+2. **Night Hunt in Starlight Strand:** Capture 6 Phosphor Slimes (night only) and 6 Honey Plorts.
+3. **Expand to 4 Plots:** Add Phosphor-Honey operation for essential crafting plorts.
+4. **Stockpile Crafting Plorts:** Deposit 50+ Phosphor and 50+ Honey Plorts in Refinery for Chapter 3.
+5. **Craft Tank Booster:** CRITICAL—increases capacity from 20 to 30 units per slot (massive QoL).
+6. **Craft Power Core:** Extends exploration energy from 100 to 150.
+7. **Add Plort Collector:** Install on Phosphor-Honey corral for automated plort collection.
+
+### Financial Checkpoint
+
+**Capital Required:**
+- Ranch Expansion: 3,660 Newbucks (Plot 3 Corral + Plot 4 Garden + upgrades)
+- Vacpack Upgrades: 900 Newbucks (Power Core, Tank Booster)
+- Materials: Cotton Plorts, Tabby Plorts (from Chapter 1 operations)
+- **Total: ~4,560 Newbucks**
+
+**Revenue Impact:**
+
+- **Starting:** ~300-500 Newbucks/day (Chapter 1: Tabby-Cotton only)
+- **After Expansion:** ~800-1,000 Newbucks/day (Chapter 2: Tabby-Cotton + Phosphor-Honey)
+- **Daily Increase:** +500 Newbucks/day
+
+**Timeline to Goal:** 9-15 days to accumulate 4,560 Newbucks from Chapter 1 operations alone
+
+**Strategic Note:** Tank Booster is transformative—30 units per slot (vs 20) means 120 total capacity (vs 80), making Chapter 3's collection runs dramatically more efficient.
 
 ### End of Chapter Checklist
 
