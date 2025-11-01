@@ -161,15 +161,16 @@ The guide has been split into individual chapter files for easier editing and na
 - `02-chapter-07.md`: Chapter 7 - Powderfall Bluffs - Saber Acquisition
 - `02-chapter-08.md`: Chapter 8 - The Den - Ranch Reorganization
 
-**Part 3: Automation & Empire Completion (Chapters 9-11)**
+**Part 3: Automation & Empire Completion (Chapters 9-12)**
 - `03-chapter-09.md`: Chapter 9 - Quantum Drones - Ranch Automation
-- `03-chapter-10.md`: Chapter 10 - The Archway - Rare Slimes
-- `03-chapter-11.md`: Chapter 11 - The Digsite - Tabby Operations
+- `03-chapter-10.md`: Chapter 10 - The Grey Labyrinth - Elite Asset Acquisition
+- `03-chapter-11.md`: Chapter 11 - The Archway - Grey Labyrinth Operations
+- `03-chapter-12.md`: Chapter 12 - The Digsite - Weather Slime Operations (OPTIONAL)
 
-**Part 4: Endgame Mastery (Chapters 12-14)**
-- `04-chapter-12.md`: Chapter 12 - The Endgame Audit
-- `04-chapter-13.md`: Chapter 13 - The Grey Labyrinth - Endgame Operations
-- `04-chapter-14.md`: Chapter 14 - Post-Game - Sandbox Empire
+**Part 4: Endgame Mastery (Chapters 13-15)**
+- `04-chapter-13.md`: Chapter 13 - The Endgame Audit
+- `04-chapter-14.md`: Chapter 14 - Prismacore Stabilization - Story Finale
+- `04-chapter-15.md`: Chapter 15 - Post-Game - Sandbox Empire
 
 ## Content Organization
 
@@ -189,15 +190,16 @@ The walkthrough is structured as follows:
    - `02-chapter-07.md`: Chapter 7 - Powderfall Bluffs - Saber Acquisition
    - `02-chapter-08.md`: Chapter 8 - The Den - Ranch Reorganization
 
-4. **Part 3: Automation & Empire Completion** (Chapters 9-11): Advanced automation and completing pre-Labyrinth slime collection
+4. **Part 3: Automation & Empire Completion** (Chapters 9-12): Advanced automation and completing pre-Labyrinth slime collection
    - `03-chapter-09.md`: Chapter 9 - Quantum Drones - Ranch Automation
-   - `03-chapter-10.md`: Chapter 10 - The Archway - Rare Slimes
-   - `03-chapter-11.md`: Chapter 11 - The Digsite - Tabby Operations
+   - `03-chapter-10.md`: Chapter 10 - The Grey Labyrinth - Elite Asset Acquisition
+   - `03-chapter-11.md`: Chapter 11 - The Archway - Grey Labyrinth Operations
+   - `03-chapter-12.md`: Chapter 12 - The Digsite - Weather Slime Operations (OPTIONAL)
 
-5. **Part 4: Endgame Mastery** (Chapters 12-14): Final preparations and endgame content
-   - `04-chapter-12.md`: Chapter 12 - The Endgame Audit
-   - `04-chapter-13.md`: Chapter 13 - The Grey Labyrinth - Endgame Operations
-   - `04-chapter-14.md`: Chapter 14 - Post-Game - Sandbox Empire
+5. **Part 4: Endgame Mastery** (Chapters 13-15): Final preparations and endgame content
+   - `04-chapter-13.md`: Chapter 13 - The Endgame Audit
+   - `04-chapter-14.md`: Chapter 14 - Prismacore Stabilization - Story Finale
+   - `04-chapter-15.md`: Chapter 15 - Post-Game - Sandbox Empire
 
 6. **Appendices** (4 separate files for better performance):
    - **`appendix-slimes.md`** (Appendix A): Slime Compendium & Gordo Locations
