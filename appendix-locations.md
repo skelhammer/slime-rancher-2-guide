@@ -170,17 +170,6 @@ Quick reference guide for all drones, treasure pods, map nodes, doors, and resou
 | Fruit Flag | On top of a pillar just past the archway entrance. | Jetpack |
 | Veggie Flag | Behind a big rock on a small island through the south tunnel in The Den. | None |
 
-### The Grey Labyrinth Treasure Pods (6 Total)
-
-| **Known Contents** | **Location Description** | **Required Upgrade / Action** |
-| --- | --- | --- |
-| Labyrinth Stone Pillar Decoration | In the Lava Depths, on a ledge near the entrance from the main hub. | Jetpack |
-| Regenerator Blueprint | In the Waterworks sub-zone (main hub), on a high ledge. | Jetpack |
-| Power Injector Blueprint | In the Dream Land sub-zone, inside a hidden alcove in one of the highest towers. | Jetpack |
-| Shadow Sureshot Blueprint | In the Terrarium sub-zone, behind a stone door in the final room. | Hyper Plort |
-| Golden Slime Statue | In the Lava Depths sub-zone, inside a small room sealed by a stone door. | Rock Plort |
-| Googly Fashion Pod | In the Waterworks sub-zone (main hub), behind a stone door near the entrance to Dream Land. | Flutter Plort |
-
 ## Appendix H: Map Nodes
 
 | **Biome** | **Location Description** |

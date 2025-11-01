@@ -33,11 +33,13 @@ The guide has been split into individual chapter files for easier editing and na
   - Upgrade components & blueprints
 - **[appendix-upgrades.md](appendix-upgrades.md)** - Upgrades & Ranch Costs
   - Vacpack upgrades (Health, Energy, Inventory, Mobility)
-  - Craftable items (Utilities, Warp Tech)
   - Ranch plot and upgrade costs
+- **[appendix-gadgets.md](appendix-gadgets.md)** - Craftable Gadgets & Warp Tech
+  - Utilities (Med Station, Dash Pad, Drones, Turrets, Flags)
+  - Warp Tech (Home Portals, Teleporters, Warp Depots, Linked Cannons)
 - **[appendix-locations.md](appendix-locations.md)** - Locations & Collectibles
   - Ghostly and Research Drones
-  - Treasure pod locations (all biomes)
+  - Treasure pod locations (Rainbow Fields, Ember Valley, Starlight Strand, Powderfall Bluffs, Conservatory)
   - Map data nodes
   - Plort door locations
   - Grey Labyrinth Shadow doors
