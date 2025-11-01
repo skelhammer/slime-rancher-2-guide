@@ -37,7 +37,35 @@ Develop The Tidepools into a zero-maintenance division generating constant passi
 - **Total Investment: ~24,350 Newbucks**
 - Recommended Starting Budget: 25,000+ Newbucks
 
+### Strategic Priorities
+
+1. **Unlock The Tidepools:** Purchase expansion access (6,000 NB) to establish passive income center.
+2. **Deploy Puddle Ponds:** Install two Puddle Ponds (8 slimes total) for zero-maintenance plort generation.
+3. **Deploy Fire Incinerators:** Install two Incinerators (10 Fire Slimes total) for low-maintenance income.
+4. **Build Ash Production Garden:** Plant vegetables to generate ash for Fire Slime feeding.
+5. **Craft Tier III Upgrades:** CRITICAL—Heart Module III, Tank Booster III, Power Core III required for Chapter 7 (Powderfall Bluffs).
+6. **Establish Passive Income:** Create 1,540-2,310 NB/day revenue stream requiring only 10-15 minutes management.
+7. **Zero Tarr Risk:** Puddle and Fire Slimes cannot create Tarr—safest operations on ranch.
+
+### Financial Checkpoint
+
+**Capital Required:**
+- Tidepools Unlock: 6,000 Newbucks
+- Full Build-Out: 4,350 Newbucks (5 plots with upgrades)
+- Tier III Upgrades: 14,000 Newbucks + materials
+- **Total: ~24,350 Newbucks**
+
+**Revenue Impact:**
+- **Starting:** ~4,000-4,500 Newbucks/day (Chapter 5: Conservatory + Gully)
+- **After Expansion:** ~5,540-6,810 Newbucks/day (Conservatory + Gully + Tidepools combined)
+- **Daily Increase:** +1,540-2,310 Newbucks/day
+- **Return on Investment:** 10,350 NB (expansion + build) ÷ 1,925 NB/day = ~5.4 days to break even
+
+**Strategic Note:** Tidepools passive income requires minimal daily interaction (10-15 minutes) while you explore Powderfall Bluffs in Chapter 7. Tier III upgrades are MANDATORY before entering aggressive Saber territory.
+
 #### Phase 1: Unlock The Tidepools
+
+**Objective:** Purchase The Tidepools expansion to establish passive income operations.
 
 **Capital Required:** 6,000 Newbucks
 
@@ -48,6 +76,8 @@ The Tidepools is accessed from the far end of The Gully. This 5-plot expansion w
 **Layout:** Seaside area with plots along rocky tidal formations. Beach aesthetic with ocean views and natural water sources.
 
 #### Phase 2: Plot-by-Plot Build
+
+**Objective:** Construct 5 plots in The Tidepools with passive income operations and ash production.
 
 Execute the following build in order:
 
@@ -67,7 +97,9 @@ Execute the following build in order:
 - **Puddle Slimes (8 total):** Starlight Strand (highest density) or Rainbow Fields. Cannot Largo, must use Pond plots
 - **Fire Slimes (10 total):** Ember Valley lava pools. Cannot Largo, must use Incinerator plots
 
-#### Phase 3: Operation Notes
+#### Phase 3: Key Notes
+
+**Objective:** Understand passive income mechanics and establish low-maintenance operations.
 
 **Passive Income System:**
 - Puddle Slimes (Plots 1-2): Zero maintenance, generate plorts from water
@@ -77,6 +109,8 @@ Execute the following build in order:
 - Zero Tarr risk
 
 #### Phase 4: Infrastructure Gadgets (Optional Quality-of-Life)
+
+**Objective:** Deploy optional gadgets for improved logistics and convenience.
 
 **Market Link:**
 - Central area near Ponds (Plots 1 & 2)
@@ -91,6 +125,8 @@ Execute the following build in order:
 - 500 NB + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
 
 #### Phase 5: Tier III Vacpack Upgrades
+
+**Objective:** Craft Tier III upgrades required for Chapter 7 (Powderfall Bluffs) survival.
 
 **CRITICAL:** These upgrades are required for Chapter 7 (Powderfall Bluffs). Aggressive Saber Slimes require maximum defensive capability.
 

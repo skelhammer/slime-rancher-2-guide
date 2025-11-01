@@ -52,7 +52,36 @@ Deploy Quantum Drones to eliminate manual labor and transform your ranch from a 
 
 You should have 300+ Flutter Plorts accumulated from multiple sources: your current Flutter-Phosphor (Den Plot 2) and Flutter-Honey (Conservatory Plot 7) operations established in Chapter 8, plus stockpile from the Flutter-Tabby operation (Chapter 5-7, liquidated in Chapter 8). If you don't have enough Flutter Plorts yet, continue ranching for a few more in-game days until you reach 300.
 
+### Strategic Priorities
+
+1. **Hunt Ghostly Drones:** Locate 3 Ghostly Drones in ranch expansions to obtain Drone Station Modules.
+2. **Accumulate Flutter Plorts:** Ensure 300+ Flutter Plorts stockpiled (100 per drone station) from Chapter 8 operations.
+3. **Gather Strange Diamonds:** Collect 6 Strange Diamonds (2 per drone station) from Starlight Strand treasure pods.
+4. **Craft Quantum Drone Stations:** Build 3 stations (5,000 NB each + materials) for ranch automation.
+5. **Deploy Conservatory Drone:** HIGHEST PRIORITY—automate your largest, most valuable operation (8 plots).
+6. **Deploy Gully Drone:** Automate carnivore plort collection (Angler-Crystal, Saber-Hunter corrals).
+7. **Deploy Tidepools Drone:** Fully automate passive income (Puddle + Fire Slime plorts).
+
+### Financial Checkpoint
+
+**Capital Required:**
+- Drone Station Crafting: 15,000 Newbucks (3 × 5,000 NB)
+- Flutter Plorts: 300 total (from existing Chapter 8 operations, DO NOT purchase)
+- Strange Diamonds: 6 total (from Starlight Strand treasure pods)
+- Lava Dust: 45 total (from Ember Valley stockpile)
+- Wild Honey: 45 total (from Starlight Strand stockpile)
+- **Total: 15,000 Newbucks + materials**
+
+**Time Savings Impact:**
+- **Starting:** 30-40 minutes daily ranch management (manual plort collection across 4 expansions)
+- **After Automation:** <10 minutes daily ranch management (drones handle plort collection automatically)
+- **Time Saved:** 20-30 minutes/day = 140-210 minutes/week freed for exploration
+
+**Strategic Note:** Quantum Drones transform your ranch from hands-on operation into fully automated empire. This automation enables Chapter 10's Grey Labyrinth exploration without daily ranch interruption.
+
 ### Phase 1: Understanding Quantum Drones
+
+**Objective:** Learn how Quantum Drones function and plan deployment strategy.
 
 **What Are Quantum Drones?**
 
@@ -171,6 +200,8 @@ Drones can only operate within the same expansion. A drone stationed in The Gull
 
 ### Phase 2: Finding Ghostly Drones
 
+**Objective:** Hunt 3 Ghostly Drones to obtain Drone Station Modules required for crafting.
+
 **What Are Ghostly Drones?**
 
 Ghostly Drones are ethereal, semi-transparent phantom drones that roam Rainbow Island. They appear as translucent, floating machines that phase in and out of visibility. When you interact with one, it gives you a Drone Station Module (required to craft Quantum Drone Stations) and then disappears permanently.
@@ -207,6 +238,8 @@ There are **10 total Ghostly Drones** across Rainbow Island and the Grey Labyrin
 
 ### Phase 3: Crafting Quantum Drone Stations
 
+**Objective:** Craft 3 Quantum Drone Stations at the Fabricator for ranch automation.
+
 Once you have all materials, craft your three Drone Stations at the Fabricator in the Lab (beneath Conservatory).
 
 **Recipe Per Station:** 5,000 Newbucks + 100 Flutter Plorts + 15 Lava Dust + 15 Wild Honey + 2 Strange Diamonds + 1 Drone Station Module
@@ -214,6 +247,8 @@ Once you have all materials, craft your three Drone Stations at the Fabricator i
 Each station comes with its own paired Quantum Drone.
 
 ### Phase 4: Priority Quantum Drone Deployments
+
+**Objective:** Deploy and program 3 drones to automate Conservatory, Gully, and Tidepools operations.
 
 Now deploy and program your three drones to automate the most time-consuming ranch tasks.
 

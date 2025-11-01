@@ -39,7 +39,35 @@ Unlock The Den and execute a ranch-wide reorganization to consolidate nocturnal 
 - Conservatory Rebuild: ~475 Newbucks (1 Solar Shield + 1 garden replanting)
 - Recommended Starting Budget: 15,000+ Newbucks
 
+### Strategic Priorities
+
+1. **Unlock The Den:** Purchase expansion access (2,800 NB) to consolidate nocturnal operations.
+2. **Relocate Boom-Batty Largos:** Move from Conservatory to The Den (saves 425 NB Solar Shield cost).
+3. **Deploy Flutter-Phosphor Largos:** Establish second Flutter operation to double Flutter Plort production.
+4. **Deploy Batty-Ringtail Largos:** Create third nocturnal operation for diversified plort income.
+5. **Rebuild Conservatory Plot 7:** Replace Boom-Batty with Flutter-Honey Largos (maintain Flutter production).
+6. **Convert Gully Plot 5:** Replace Flutter-Tabby with Saber-Hunter Largos (upgrade to premium carnivores).
+7. **Double Flutter Production:** Achieve 24-36 Flutter Plorts/day from two sources (300+ target for Chapter 9).
+
+### Financial Checkpoint
+
+**Capital Required:**
+- Den Unlock: 2,800 Newbucks
+- Den Build-Out: 11,105 Newbucks (3 corrals + 2 gardens)
+- Conservatory Rebuild: 475 Newbucks (Solar Shield + garden replanting)
+- Gully Rebuild: 0 Newbucks (reusing existing corral)
+- **Total: ~14,380 Newbucks**
+
+**Revenue Impact:**
+- **Starting:** ~6,500-8,000 Newbucks/day (Chapter 7: Conservatory + Gully + Tidepools)
+- **After Reorganization:** ~6,500-8,500 Newbucks/day (similar revenue, optimized operations)
+- **Strategic Value:** Consolidates all nocturnal slimes, saves 1,275 NB in Solar Shield costs, doubles Flutter Plort production
+
+**Strategic Note:** This chapter focuses on operational efficiency rather than revenue increase. The reorganization eliminates Solar Shield costs (The Den's permanent darkness), consolidates fruit-eating slimes in one location, and doubles Flutter Plort production for Chapter 9's Quantum Drone requirements.
+
 #### Phase 1: Unlock The Den
+
+**Objective:** Purchase The Den expansion to consolidate all nocturnal slime operations.
 
 **Capital Required:** 2,800 Newbucks
 
@@ -52,6 +80,8 @@ The Den is accessed from the western side of the Conservatory. This 5-plot expan
 **CRITICAL:** The Den's permanent darkness eliminates the need for Solar Shields on Batty and Phosphor slimes, saving 425 Newbucks per corral (1,275 NB total across 3 corrals). This makes it the perfect location for all nocturnal operations.
 
 #### Phase 2: Asset Acquisition & Preparation
+
+**Objective:** Gather slimes and plorts needed for reorganization before beginning construction.
 
 Before beginning construction, gather all necessary slimes and resources.
 
@@ -70,6 +100,8 @@ Before beginning construction, gather all necessary slimes and resources.
 
 #### Phase 3: Plot-by-Plot Build
 
+**Objective:** Construct 5 plots in The Den with three nocturnal largo operations.
+
 Execute the following build in order:
 
 **The Den (5 plots - NEW EXPANSION):**
@@ -85,6 +117,8 @@ Execute the following build in order:
 **Total Investment:** 2,800 NB (expansion) + 11,105 NB (plots/upgrades) = 13,905 NB
 
 #### Phase 4: Ranch Reorganization
+
+**Objective:** Reorganize Conservatory and Gully operations to optimize food logistics and eliminate redundant Solar Shields.
 
 This chapter involves reorganizing existing ranch operations across multiple expansions to optimize efficiency.
 
@@ -141,6 +175,8 @@ This chapter involves reorganizing existing ranch operations across multiple exp
 
 #### Phase 5: Key Notes
 
+**Objective:** Configure auto-feeders across all expansions and manage doubled Flutter Plort production.
+
 **Auto-Feeder Setup:**
 - Den Plot 1 (Boom-Batty): Pomegranites | Plot 2 (Flutter-Phosphor): Cuberries | Plot 3 (Batty-Ringtail): Pomegranites
 - Conservatory Plot 7 (Flutter-Honey): Mint Mangos
@@ -152,6 +188,8 @@ This chapter involves reorganizing existing ranch operations across multiple exp
 - Target: 300+ for Chapter 9 Quantum Drones
 
 #### Phase 6: Infrastructure Gadgets (Optional Quality-of-Life)
+
+**Objective:** Deploy optional gadgets for improved logistics and convenience in The Den.
 
 **Market Link:**
 - Central area near Plots 1-3 (corrals)

@@ -47,7 +47,34 @@ Transform The Gully into your ranch's logistical core with automated food produc
 - Protein production supports all carnivore operations across entire ranch
 - Centralized food storage eliminates inefficient plot-to-plot transfers
 
+### Strategic Priorities
+
+1. **Unlock The Gully:** Purchase expansion access (2,800 NB) to establish industrial core.
+2. **Build Protein Infrastructure:** Construct two chicken coops (Stony Hens, Sea Hens) for sustainable meat production.
+3. **Establish Central Silo:** Deploy fully upgraded 12-slot Silo for ranch-wide food distribution.
+4. **Deploy Angler-Crystal Largos:** High-value plort production with Sea Hen favorite food.
+5. **Deploy Flutter-Tabby Largos:** CRITICAL—produces Flutter Plorts for Chapter 9 Quantum Drones.
+6. **Stockpile Flutter Plorts:** DO NOT SELL—deposit all Flutter Plorts into Refinery (target: 300+ for drones).
+7. **Install Auto-Feeders:** Automate feeding for both corrals to maximize plort production efficiency.
+
+### Financial Checkpoint
+
+**Capital Required:**
+- Gully Unlock: 2,800 Newbucks
+- Full Build-Out: 10,920 Newbucks (5 plots with upgrades)
+- **Total: ~13,720 Newbucks**
+
+**Revenue Impact:**
+- **Starting:** ~2,500 Newbucks/day (Chapter 4: Conservatory only)
+- **After Expansion:** ~4,000-4,500 Newbucks/day (Conservatory + Gully combined)
+- **Daily Increase:** +1,500-2,000 Newbucks/day
+- **Return on Investment:** 13,720 NB ÷ 1,750 NB/day = ~8 days to break even
+
+**Strategic Note:** Flutter-Tabby operation is investment in future automation—300 Flutter Plorts needed for Chapter 9's three Quantum Drone Stations. Begin accumulating immediately.
+
 #### Phase 1: Unlock The Gully
+
+**Objective:** Purchase The Gully expansion to establish industrial protein production center.
 
 **Capital Required:** 2,800 Newbucks
 
@@ -58,6 +85,8 @@ The Gully is accessed from the eastern side of the Conservatory. This 5-plot exp
 **Layout:** Ravine-like area with plots arranged along a central path. Natural canyon aesthetic.
 
 #### Phase 2: Plot-by-Plot Build
+
+**Objective:** Construct 5 plots in The Gully with protein production and automated plort operations.
 
 Execute the following build in order:
 
@@ -75,6 +104,8 @@ Execute the following build in order:
 
 #### Phase 3: Key Notes
 
+**Objective:** Configure auto-feeders and manage Flutter Plort accumulation for future automation.
+
 **Auto-Feeder Setup:**
 - Plot 4 (Angler-Crystal): Sea Hens | Plot 5 (Flutter-Tabby): Stony Hens
 
@@ -87,6 +118,8 @@ Execute the following build in order:
 - Flutter: Solar Shield mandatory
 
 #### Phase 4: Infrastructure Gadgets (Optional Quality-of-Life)
+
+**Objective:** Deploy optional gadgets for improved logistics and convenience.
 
 **Market Link:**
 - Central area near Plot 3 (Silo)

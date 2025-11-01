@@ -37,7 +37,34 @@ You've captured Rainbow Island's most valuable slimes from the Grey Labyrinth. N
 - **Total Investment: ~12,645 Newbucks**
 - Recommended Starting Budget: 15,000+ Newbucks
 
+### Strategic Priorities
+
+1. **Unlock The Archway:** Purchase expansion access (2,800 NB) to establish Grey Labyrinth operations center.
+2. **Deploy Twin-Flutter Largos:** Establish high-value operation with premium Grey Labyrinth slimes.
+3. **Deploy Sloomber-Saber Largos:** HIGHEST-VALUE COMBO in game (150-250 NB per feeding cycle).
+4. **Install Music Box:** CRITICAL—Sloomber clouds pacify aggressive Saber behavior.
+5. **Build Candied Hen Coop:** Establish breeding program for Sloomber favorite food.
+6. **Plant Polaricherry Garden:** Grow Twin favorite food for maximum plort production.
+7. **Stockpile Grey Labyrinth Plorts:** Reserve Twin, Sloomber, Saber plorts in Silo for Chapters 13-14 (DO NOT deposit in Refinery yet).
+
+### Financial Checkpoint
+
+**Capital Required:**
+- Archway Unlock: 2,800 Newbucks
+- Full Build-Out: 9,845 Newbucks (2 corrals + 1 coop + 1 garden + 1 silo)
+- **Total: ~12,645 Newbucks**
+
+**Revenue Impact:**
+- **Starting:** ~6,500-8,500 Newbucks/day (Chapter 10: All operations automated)
+- **After Expansion:** ~8,500-12,000 Newbucks/day (All operations + Grey Labyrinth slimes)
+- **Daily Increase:** +2,000-3,500 Newbucks/day
+- **Return on Investment:** 12,645 NB ÷ 2,750 NB/day = ~4.6 days to break even
+
+**Strategic Note:** Sloomber-Saber Largos are the highest-value plort combination in the game. Combined with Twin-Flutter Largos, The Archway becomes your ranch's premium revenue generator. Auto-Feeders are MANDATORY to prevent rare Grey Labyrinth slime starvation.
+
 #### Phase 1: Unlock The Archway
+
+**Objective:** Purchase The Archway expansion to integrate Grey Labyrinth slimes into ranch operations.
 
 **Capital Required:** 2,800 Newbucks
 
@@ -46,6 +73,8 @@ The Archway is accessed from the northwest corner of the Conservatory. This 5-pl
 **Location:** Northwest corner of the Conservatory (look for the stone archway near the northern cliffs)
 
 #### Phase 2: Plot-by-Plot Build
+
+**Objective:** Construct 5 plots in The Archway with Grey Labyrinth slime operations.
 
 Execute the following build in order:
 
@@ -63,6 +92,8 @@ Execute the following build in order:
 
 #### Phase 3: Key Notes
 
+**Objective:** Configure auto-feeders and understand Grey Labyrinth slime behaviors.
+
 **Auto-Feeder Setup:**
 - Plot 2 (Twin-Flutter): Polaricherry | Plot 4 (Sloomber-Saber): Candied Hens
 
@@ -71,6 +102,8 @@ Execute the following build in order:
 - Use Quantum Drones (from Chapter 9) to automate plort/food transport if desired
 
 #### Phase 4: Infrastructure Gadgets (Optional Quality-of-Life)
+
+**Objective:** Deploy optional gadgets for improved logistics and convenience in The Archway.
 
 **Market Link:**
 - Central area near Plots 2 and 4 (corrals)

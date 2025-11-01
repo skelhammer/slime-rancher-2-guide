@@ -47,7 +47,34 @@ Weather event slimes (Dervish and Tangle) are among the rarest in the game, spaw
 - **Total Investment: ~14,445 Newbucks**
 - Recommended Starting Budget: 15,000+ Newbucks
 
+### Strategic Priorities
+
+1. **Unlock The Digsite:** Purchase expansion access (6,000 NB) to establish weather slime operations center.
+2. **Deploy Dervish-Ringtail Largos:** Establish VERY HIGH VALUE operation (150-200 NB per feeding cycle).
+3. **Deploy Tangle-Hyper Largos:** Create second weather event operation with maximum security measures.
+4. **Install Air Net on Tangle-Hyper:** MANDATORY—Hyper component is extremely bouncy and WILL escape without it.
+5. **Build Painted Hen Coop:** Establish rare chicken breeding program (Level 3 Pollen Storm requirement).
+6. **Plant Prickle Pear Garden:** Grow Dervish favorite food for maximum plort production.
+7. **Install Music Boxes:** CRITICAL—Dervish creates tornadoes, Hyper dashes aggressively.
+
+### Financial Checkpoint
+
+**Capital Required:**
+- Digsite Unlock: 6,000 Newbucks
+- Full Build-Out: 8,445 Newbucks (2 corrals + 1 coop + 1 garden)
+- **Total: ~14,445 Newbucks**
+
+**Revenue Impact:**
+- **Starting:** ~8,500-12,000 Newbucks/day (Chapter 11: All operations + Grey Labyrinth slimes)
+- **After Expansion:** ~11,000-15,500 Newbucks/day (All operations + weather slimes)
+- **Daily Increase:** +2,500-3,500 Newbucks/day
+- **Return on Investment:** 14,445 NB ÷ 3,000 NB/day = ~4.8 days to break even
+
+**Strategic Note:** Weather slimes (Dervish, Tangle) are among the rarest in the game, spawning only during Level 3 weather events. If you haven't collected these slimes, SKIP this chapter entirely—The Digsite is optional. Tangle-Hyper requires MAXIMUM security (Air Net mandatory) due to extreme bounciness.
+
 #### Phase 1: Unlock The Digsite
+
+**Objective:** Purchase The Digsite expansion to integrate rare weather event slimes (OPTIONAL chapter).
 
 **Capital Required:** 6,000 Newbucks
 
@@ -58,6 +85,8 @@ The Digsite is accessed through The Den's eastern passage. This 4-plot expansion
 **Layout:** Archaeological dig site with exposed ruins and artifacts. Open-air environment suitable for all slime types.
 
 #### Phase 2: Plot-by-Plot Build
+
+**Objective:** Construct 4 plots in The Digsite with weather event slime operations.
 
 Execute the following build in order:
 
@@ -74,6 +103,8 @@ Execute the following build in order:
 
 #### Phase 3: Key Notes
 
+**Objective:** Configure auto-feeders and understand weather slime security requirements.
+
 **Auto-Feeder Setup:**
 - Plot 2 (Dervish-Ringtail): Prickle Pears | Plot 4 (Tangle-Hyper): Painted Hens
 
@@ -83,6 +114,8 @@ Execute the following build in order:
 - Music Box on both corrals (Dervish tornadoes, Hyper dashing)
 
 #### Phase 4: Infrastructure Gadgets (Optional Quality-of-Life)
+
+**Objective:** Deploy optional gadgets for improved logistics and convenience in The Digsite.
 
 **Market Link:**
 - Central area near Plots 2 and 4 (corrals)
