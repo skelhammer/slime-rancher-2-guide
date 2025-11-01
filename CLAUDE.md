@@ -140,7 +140,7 @@ This is a documentation repository containing a comprehensive walkthrough guide 
 
 - **Chapter Files:** `01-chapter-01.md` through `04-chapter-15.md` (organized by part number prefix)
 - **Core Files:** `00-introduction.md` (with version header), `plot-overview.md`, `README.md`
-- **Appendices:** `appendix-a-slimes.md`, `appendix-b-items.md`, `appendix-c-upgrades.md`, `appendix-e-gadgets.md`, `appendix-f-locations.md`
+- **Appendices:** `appendix-a-slimes.md`, `appendix-b-items.md`, `appendix-c-upgrades.md`, `appendix-d-ranch.md`, `appendix-e-gadgets.md`, `appendix-f-drones.md`, `appendix-g-treasure.md`, `appendix-h-map.md`, `appendix-i-doors.md`, `appendix-j-shadow.md`, `appendix-k-resources.md`
 
 **See [README.md](README.md) for complete chapter listings and navigation.**
 

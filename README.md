@@ -23,27 +23,16 @@ The guide has been split into individual chapter files for easier editing and na
 
 **Appendices - Quick Reference Tables**
 - **[appendix-a-slimes.md](appendix-a-slimes.md)** - Slime Compendium & Gordo Locations
-  - All slime types with diets, favorite foods, and locations
-  - Complete Gordo locations and rewards
 - **[appendix-b-items.md](appendix-b-items.md)** - Item Compendium
-  - Food & crops guide
-  - Chicken types and locations
-  - Resources and crafting materials
-  - Plort values
-  - Upgrade components & blueprints
-- **[appendix-c-upgrades.md](appendix-c-upgrades.md)** - Upgrades & Ranch Costs
-  - Vacpack upgrades (Health, Energy, Inventory, Mobility)
-  - Ranch plot and upgrade costs
+- **[appendix-c-upgrades.md](appendix-c-upgrades.md)** - Vacpack Upgrades
+- **[appendix-d-ranch.md](appendix-d-ranch.md)** - Ranch Plot & Upgrade Costs
 - **[appendix-e-gadgets.md](appendix-e-gadgets.md)** - Craftable Gadgets & Warp Tech
-  - Utilities (Med Station, Dash Pad, Drones, Turrets, Flags)
-  - Warp Tech (Home Portals, Teleporters, Warp Depots, Linked Cannons)
-- **[appendix-f-locations.md](appendix-f-locations.md)** - Locations & Collectibles
-  - Ghostly and Research Drones
-  - Treasure pod locations (Rainbow Fields, Ember Valley, Starlight Strand, Powderfall Bluffs, Conservatory)
-  - Map data nodes
-  - Plort door locations
-  - Grey Labyrinth Shadow doors
-  - Resource priority guide
+- **[appendix-f-drones.md](appendix-f-drones.md)** - Ghostly and Research Drones
+- **[appendix-g-treasure.md](appendix-g-treasure.md)** - Treasure Pods
+- **[appendix-h-map.md](appendix-h-map.md)** - Map Nodes
+- **[appendix-i-doors.md](appendix-i-doors.md)** - Plort Door Locations
+- **[appendix-j-shadow.md](appendix-j-shadow.md)** - Grey Labyrinth Shadow Plort Doors
+- **[appendix-k-resources.md](appendix-k-resources.md)** - Resource Priority Guide
 
 **[plot-overview.md](plot-overview.md) - Ranch Progression Quick Reference**
 - Complete ranch plot layouts for Chapters 1-11
