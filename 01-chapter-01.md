@@ -119,29 +119,20 @@ Pop the Pink Gordo to unlock access to Ember Valley for Radiant Ore collection (
 3. Heart Module (survivability for Ember Valley)
 4. Jetpack (unlocks vertical exploration)
 
-#### Phase 6: Ranch Management Fundamentals
+#### Phase 6: Core Mechanics
 
 **Creating Largos:**
-- Feed a slime a different plort type to convert it into a Largo
-- Example: Feed Tabby Slime a Cotton Plort → Tabby-Cotton Largo
-- Largos produce 2 plort types and are 2x more valuable than regular slimes
+- Feed a slime a different plort type to convert it
+- Example: Tabby Slime + Cotton Plort = Tabby-Cotton Largo
+- Largos produce 2 plort types
 
-**Inventory & Storage:**
-- Starting capacity: 4 inventory slots at 20 units each (80 total)
-- The Refinery: Located in The Lab beneath the Conservatory
-- **CRITICAL:** Plorts deposited into Refinery CANNOT be withdrawn
-- Only deposit plorts needed for crafting upgrades, not for selling
-- To sell plorts: Use the Plort Market (rainbow plort icon machine)
+**Refinery vs Plort Market:**
+- **Refinery** (in Lab): Deposit plorts for crafting upgrades - **CANNOT withdraw**
+- **Plort Market:** Sell plorts for Newbucks
 
-**Food Management:**
-- Plot 2 (Water Lettuce Garden): Harvest every 2-3 in-game days
-- Manually feed Plot 1 (Tabby-Cotton Largos)
-- Water Lettuce is Cotton favorite (produces 4 plorts per feeding: 2 Tabby + 2 Cotton)
-
-**Corral Population:**
-- Optimal: 6 Largos per corral (8-10 for regular slimes)
-- Overcrowding causes agitation and reduced productivity
-- High Walls + Air Net prevent escapes during exploration
+**Key Details:**
+- Optimal corral population: 6 Largos (8-10 regular slimes)
+- Water Lettuce is Cotton favorite (4 plorts per feeding)
 
 ### End of Chapter Completion Checklist
 

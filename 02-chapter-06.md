@@ -67,30 +67,14 @@ Execute the following build in order:
 - **Puddle Slimes (8 total):** Starlight Strand (highest density) or Rainbow Fields. Cannot Largo, must use Pond plots
 - **Fire Slimes (10 total):** Ember Valley lava pools. Cannot Largo, must use Incinerator plots
 
-#### Phase 3: Automation Integration
+#### Phase 3: Operation Notes
 
-**Puddle Pond Management:**
-- Plots 1 & 2: Zero maintenance required
-- Puddle Slimes generate plorts passively from water (no feeding needed)
-- Simply collect plorts every 1-2 days
-- Revenue: ~640-960 NB/day (8 slimes × 2-3 plorts/day)
-
-**Incinerator Management:**
-- Plots 3 & 4: Low maintenance required
-- Throw vegetables from Plot 5 Garden into incinerators to create ash
-- Fire Slimes consume ash and produce plorts
-- Revenue: ~900-1,350 NB/day (10 slimes × 2-3 plorts/day)
-- **Combined Tidepools Revenue: ~1,540-2,310 NB/day**
-
-**Time Efficiency:**
-- Requires only ~5-7 minutes every 1-2 days
-- Highest profit-per-minute ratio in the game
-- No Tarr risk (safest operation on ranch)
-
-**Garden Restocking:**
-- Plot 5 (Odd Onion Garden): Harvest every 2-3 in-game days
-- Throw harvested vegetables directly into Incinerators (Plots 3 & 4)
-- Ash Trough upgrade allows Fire Slimes to consume ash automatically
+**Passive Income System:**
+- Puddle Slimes (Plots 1-2): Zero maintenance, generate plorts from water
+- Fire Slimes (Plots 3-4): Throw vegetables from Plot 5 into incinerators to create ash
+- Combined revenue: ~1,540-2,310 NB/day
+- Time required: ~5-7 minutes every 1-2 days
+- Zero Tarr risk
 
 #### Phase 4: Infrastructure Gadgets (Optional Quality-of-Life)
 

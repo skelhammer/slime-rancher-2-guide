@@ -72,25 +72,15 @@ Execute the following build in order:
 
 **Total Investment:** 6,000 NB (expansion) + 8,445 NB (plots/upgrades) = 14,445 NB
 
-#### Phase 3: Automation Integration
+#### Phase 3: Key Notes
 
 **Auto-Feeder Setup:**
-- Plot 2 (Dervish-Ringtail): Stock with Prickle Pears, set to Normal speed
-- Plot 4 (Tangle-Hyper): Stock with Painted Hens (or Prickle Pears as backup), set to Normal speed
+- Plot 2 (Dervish-Ringtail): Prickle Pears | Plot 4 (Tangle-Hyper): Painted Hens
 
-**Plort Collector Management:**
-- Both corrals have Plort Collectors that auto-vacuum plorts
-- Manually collect and deposit to nearby Silo (The Archway Plot 5 or other expansions)
-- **OR** set up Quantum Drone to transport plorts
-
-**Food Restocking:**
-- Plot 1 (Prickle Pear Garden): Harvest every 2-3 in-game days, restock Auto-Feeders for Plots 2 and 4
-- Plot 3 (Painted Hen Coop): Collect hens as needed, restock Plot 4 Auto-Feeder
-- Vitamizer upgrade increases chick maturation speed and egg production
-
-**Largo Special Mechanics:**
-- **Dervish-Ringtail:** Dervish creates tornadoes that fling objects and slimes. Music Box reduces frequency. Ringtail turns to stone in daylight (The Digsite is open-air, so daylight exposure occurs)
-- **Tangle-Hyper:** Tangle vines grab food from 10 units away (can steal from neighboring plots - keep clear). Hyper component makes them EXTREMELY bouncy. Air Net is MANDATORY or they WILL escape.
+**CRITICAL - Tangle-Hyper Security:**
+- Air Net is MANDATORY (Hyper extremely bouncy - WILL escape without it)
+- Tangle vines grab food from 10 units away (keep neighboring plots clear)
+- Music Box on both corrals (Dervish tornadoes, Hyper dashing)
 
 #### Phase 4: Infrastructure Gadgets (Optional Quality-of-Life)
 

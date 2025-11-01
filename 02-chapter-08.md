@@ -139,35 +139,17 @@ This chapter involves reorganizing existing ranch operations across multiple exp
 - **Feed Strategy:** Thunderclucks from Plot 1 (Saber favorite)
 - **Note:** Solar Shield not needed for Saber-Hunter (can be removed and reused elsewhere)
 
-#### Phase 5: Automation Integration
+#### Phase 5: Key Notes
 
-**Auto-Feeder Setup (The Den):**
-- Plot 1 (Boom-Batty): Stock with Pomegranites, set to Normal speed
-- Plot 2 (Flutter-Phosphor): Stock with Cuberries, set to Normal speed
-- Plot 3 (Batty-Ringtail): Stock with Pomegranites, set to Normal speed
+**Auto-Feeder Setup:**
+- Den Plot 1 (Boom-Batty): Pomegranites | Plot 2 (Flutter-Phosphor): Cuberries | Plot 3 (Batty-Ringtail): Pomegranites
+- Conservatory Plot 7 (Flutter-Honey): Mint Mangos
+- Gully Plot 5 (Saber-Hunter): Thunderclucks
 
-**Plort Collector Management (The Den):**
-- All three corrals have Plort Collectors that auto-vacuum plorts
-- Plot 1: Collect Boom and Batty plorts, sell both
-- Plot 2: Collect Flutter and Phosphor plorts. **DO NOT SELL Flutter Plorts** - deposit into Refinery for Chapter 9. Sell Phosphor plorts
-- Plot 3: Collect Batty and Ringtail plorts, sell both
-
-**Food Restocking (The Den):**
-- Plot 4 (Pomegranite Garden): Harvest every 2-3 in-game days, restock Plots 1 and 3 Auto-Feeders
-- Plot 5 (Cuberry Garden): Harvest every 2-3 in-game days, restock Plot 2 Auto-Feeder
-
-**Conservatory Auto-Feeder Update:**
-- Plot 7 (Flutter-Honey): Stock with Mint Mangos from Plot 8, set to Normal speed
-- Continue existing automation for Plots 1, 3, 5
-
-**The Gully Auto-Feeder Update:**
-- Plot 5 (Saber-Hunter): Stock with Thunderclucks from Plot 1, set to Normal speed
-- Continue existing automation for Plot 4 (Angler-Crystal with Sea Hens)
-
-**Flutter Plort Accumulation Strategy:**
-- Two operations now produce 24-36 Flutter Plorts/day (Flutter-Honey in Conservatory Plot 7, Flutter-Phosphor in Den Plot 2)
-- Target: 300+ Flutter Plorts for Chapter 9 Quantum Drones
-- DO NOT SELL - deposit all Flutter Plorts into Refinery
+**CRITICAL - Flutter Plorts:**
+- Two operations produce 24-36 Flutter Plorts/day (Flutter-Honey + Flutter-Phosphor)
+- **DO NOT SELL** - Deposit all into Refinery
+- Target: 300+ for Chapter 9 Quantum Drones
 
 #### Phase 6: Infrastructure Gadgets (Optional Quality-of-Life)
 

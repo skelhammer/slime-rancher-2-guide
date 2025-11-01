@@ -61,22 +61,14 @@ Execute the following build in order:
 
 **Total Investment:** 2,800 NB (expansion) + 9,845 NB (plots/upgrades) = 12,645 NB
 
-#### Phase 3: Automation Integration
+#### Phase 3: Key Notes
 
 **Auto-Feeder Setup:**
-- Plot 2 (Twin-Flutter): Stock with Polaricherry, set to Normal speed
-- Plot 4 (Sloomber-Saber): Stock with Candied Hens, set to Normal speed
+- Plot 2 (Twin-Flutter): Polaricherry | Plot 4 (Sloomber-Saber): Candied Hens
 
-**Plort Collector Management:**
-- Both corrals have Plort Collectors that auto-vacuum plorts
-- Plorts stored in corral's built-in plort storage (2 types max)
-- Manually collect and deposit to Silo (Plot 5) when full
-- **OR** set up Quantum Drone to transport plorts from corrals to Silo
-
-**Food Restocking:**
-- Plot 1 (Polaricherry Garden): Harvest every 2-3 in-game days, restock Plot 2 Auto-Feeder
-- Plot 3 (Candied Hen Coop): Collect hens as needed, restock Plot 4 Auto-Feeder
-- **OR** set up Quantum Drones to automate food restocking
+**CRITICAL:**
+- Music Box on Sloomber-Saber corral is essential (Saber aggression + Sloomber sleep clouds)
+- Use Quantum Drones (from Chapter 9) to automate plort/food transport if desired
 
 #### Phase 4: Infrastructure Gadgets (Optional Quality-of-Life)
 

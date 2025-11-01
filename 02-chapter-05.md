@@ -73,29 +73,18 @@ Execute the following build in order:
 
 **Total Investment:** 2,800 NB (expansion) + 10,920 NB (plots/upgrades) = 13,720 NB
 
-#### Phase 3: Automation Integration
+#### Phase 3: Key Notes
 
 **Auto-Feeder Setup:**
-- Plot 4 (Angler-Crystal): Stock with Sea Hens, set to Normal speed
-- Plot 5 (Flutter-Tabby): Stock with Stony Hens, set to Normal speed
+- Plot 4 (Angler-Crystal): Sea Hens | Plot 5 (Flutter-Tabby): Stony Hens
 
-**Plort Collector Management:**
-- Both corrals have Plort Collectors that auto-vacuum plorts
-- Angler-Crystal: Sell Angler plorts freely, stockpile Crystal plorts for Tank Guard upgrades
-- Flutter-Tabby: **CRITICAL - DO NOT SELL Flutter Plorts**, store in Refinery (need 300+ for Chapter 9 Quantum Drones)
+**CRITICAL - Flutter Plorts:**
+- **DO NOT SELL Flutter Plorts** - Need 300+ for Chapter 9 Quantum Drones
+- Deposit into Refinery for storage
 
-**Food Restocking:**
-- Plot 1 (Stony Hen Coop): Collect hens as needed, restock Plot 5 Auto-Feeder
-- Plot 2 (Sea Hen Coop): Collect hens as needed, restock Plot 4 Auto-Feeder
-- Vitamizer upgrade increases chick maturation speed and egg production
-
-**Chicken Breeding Management:**
-- 2 Roostros + 6-8 hens produces sustainable meat supply
-- Occasional Hen Hens (standard chickens) spawn in The Gully as backup protein source
-
-**Largo Special Mechanics:**
-- **Crystal-Rock:** Crystal spikes deal contact damage. Music Box reduces frequency. Use Water Tank spray to break spikes instantly
-- **Flutter-Tabby:** Tabby component makes them fast/agile. Flutter calming aura helps containment. Solar Shield mandatory
+**Largo Behaviors:**
+- Crystal spikes: Music Box reduces frequency, Water Tank spray breaks instantly
+- Flutter: Solar Shield mandatory
 
 #### Phase 4: Infrastructure Gadgets (Optional Quality-of-Life)
 

@@ -80,23 +80,15 @@ Execute the following Conservatory expansion:
 
 **Total Investment:** 4,500 NB (plots/upgrades)
 
-#### Phase 4: Automation Integration
+#### Phase 4: Key Notes
 
-**Plort Collector Management:**
-- Plot 1 (Tabby-Cotton): Manually collect plorts from storage
-- Plot 3 (Phosphor-Honey): Plort Collector auto-vacuums plorts
-- **Crafting Plorts:** Deposit Phosphor and Honey Plorts into Refinery for reserves (target: 50+ of each)
-- **Sell Excess:** Once stockpiled 50+ of each type, sell surplus
+**Plort Management:**
+- Deposit Phosphor and Honey Plorts into Refinery (target: 50+ each for future upgrades)
+- Sell excess after stockpiling
 
-**Food Restocking:**
-- Plot 2 (Water Lettuce Garden): Harvest every 2-3 in-game days, manually feed Plot 1
-- Plot 4 (Cuberry Garden): Harvest every 2-3 in-game days, manually feed Plot 3
-- Cuberries are Phosphor favorite (produces 4 plorts per feeding: 2 Phosphor + 2 Honey)
-
-**Management Notes:**
-- Auto-Feeders not yet available (unlock in later chapters)
-- Manual feeding required every 1-2 days
-- Focus on stockpiling crafting plorts, not maximizing revenue
+**Manual Feeding Required:**
+- Auto-Feeders unlock in later chapters
+- Cuberries are Phosphor favorite (4 plorts per feeding)
 
 #### Phase 5: Vacpack Upgrades (Priority Order)
 
