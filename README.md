@@ -1,7 +1,7 @@
 # Slime Rancher 2: A Practical Walkthrough
 
-**Version 0.1 - Initial Release**
-**Last Updated:** October 24, 2025
+**Version 0.1.2 - Wiki Integration Edition**
+**Last Updated:** November 1, 2025
 
 ## About This Guide
 
@@ -77,10 +77,10 @@ The guide has been split into individual chapter files for easier editing and na
 
 ## Version Information
 
-- **Version:** 0.1 - Initial Release
-- **Last Updated:** October 24, 2025
-- **Game Version:** Verified against Slime Rancher 2 Version 1.0 (released September 23, 2025)
-- **Known Issues:** Prices and material costs are outdated due to v1.0 recipe overhaul without patch notes
+- **Version:** 0.1.1 - Patch 1.0.3 Update
+- **Last Updated:** November 1, 2025
+- **Game Version:** Verified against Slime Rancher 2 Version 1.0 (released September 23, 2025), updated for Patch 1.0.3
+- **Known Issues:** Prices and material costs are outdated due to v1.0 recipe overhaul without patch notes. Patch 1.0.3 balance changes documented in introduction.
 
 > Note: Version information is maintained in `00-introduction.md` only. When making changes to any part of the guide, update the version header there.
 

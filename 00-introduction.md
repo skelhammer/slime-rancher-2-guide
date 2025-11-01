@@ -1,12 +1,14 @@
 # Slime Rancher 2: A Practical Walkthrough
 
-#### Version 0.1 - Initial Release
+#### Version 0.1.2 - Wiki Integration Edition
 
-**Last Updated: October 24, 2025**
+**Last Updated: November 1, 2025**
 
 ### IMPORTANT DISCLAIMER
 
 This guide has been verified against the official Slime Rancher 2 Wiki and patch notes for Version 1.0 (released September 23, 2025). Prices and material costs are out of date, as version 1.0 overhauled all recipes without including them in the patch notes. Information will be updated as it's discovered.
+
+**Patch 1.0.3 Update (November 1, 2025):** Patch 1.0.3 introduced several balance changes. Confirmed updates include reduced Strange Diamond costs for Quantum Drone Stations. Additional changes from Patch 1.0.3 that are not yet verified in-game include: reduced Shadow Plort costs for doors/pods in Grey Labyrinth, Shadow Sureshot no longer requires Strange Diamonds (new recipe unknown), Shadow Slimes drop extra plorts when hit and lurk longer, Prisma Stabilizers may produce additional Prisma Plorts, unstable items can be held in tank longer, and common/uncommon resource nodes provide more resources. These unverified changes will be updated as they are confirmed during gameplay.
 
 # Introduction: The Rancher's Mindset
 

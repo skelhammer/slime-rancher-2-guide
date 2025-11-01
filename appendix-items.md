@@ -4,22 +4,21 @@ Quick reference guide for all food, resources, plorts, and upgrade components in
 
 ### Food & Crops
 
-| **Food Item** | **Type** | **Favorite of (Slime)** | **Primary Location(s)** |
-| --- | --- | --- | --- |
-| Carrot | Veggie | None | Rainbow Fields |
-| Water Lettuce | Veggie | Cotton | Rainbow Fields |
-| Heart Beet | Veggie | Rock | Ember Valley |
-| Odd Onion | Veggie | Crystal | Ember Valley |
-| Silver Parsnip | Veggie | None | Powderfall Bluffs |
-| Turbo Tater | Veggie | Hyper | The Grey Labyrinth (Terrarium) |
-| Cuberry | Fruit | Phosphor | Rainbow Fields (Night) |
-| Pogofruit | Fruit | None | Rainbow Fields |
-| Pomegranite | Fruit | Batty | Ember Valley |
-| Mint Mango | Fruit | Honey | Starlight Strand |
-| Prickle Pear | Fruit | Dervish | Starlight Strand, Ember Valley |
-| Polaricherry | Fruit | Twin | The Grey Labyrinth |
-| Moondew Nectar | Nectar | Flutter | Starlight Strand (Night) |
-| Gilded Ginger | Special | Gold | All Biomes (Extremely Rare) |
+| **Food Item** | **Type** | **Favorite of (Slime)** | **Primary Location(s)** | **Notes** |
+| --- | --- | --- | --- | --- |
+| Carrot | Veggie | None | Rainbow Fields | Standard garden yield. |
+| Water Lettuce | Veggie | Cotton | Rainbow Fields | Standard garden yield. |
+| Heart Beet | Veggie | Rock | Ember Valley | Standard garden yield. |
+| Odd Onion | Veggie | Crystal | Ember Valley | Standard garden yield. |
+| Silver Parsnip | Veggie | None | Powderfall Bluffs | Standard garden yield. |
+| Turbo Tater | Veggie | Hyper | The Grey Labyrinth (Terrarium) | Garden yield: 13 per harvest. |
+| Cuberry | Fruit | Phosphor | Rainbow Fields (Night) | Standard garden yield. |
+| Pogofruit | Fruit | None | Rainbow Fields | Garden yield: 20 per harvest (enhanced). |
+| Pomegranite | Fruit | Batty | Ember Valley | Standard garden yield. |
+| Mint Mango | Fruit | Honey | Starlight Strand | Standard garden yield. |
+| Prickle Pear | Fruit | Dervish | Ember Valley, The Grey Labyrinth | Standard garden yield. |
+| Polaricherry | Fruit | Twin | The Grey Labyrinth | Garden yield: 20 per harvest (enhanced). |
+| Moondew Nectar | Nectar | Flutter | Starlight Strand (Night) | Cannot be grown in gardens. |
 
 ### Chickens
 
@@ -32,7 +31,7 @@ Quick reference guide for all food, resources, plorts, and upgrade components in
 | Sea Hen | Angler | Starlight Strand, Tidepools | An aquatic variant found along the coastlines. |
 | Thundercluck | Saber | Powderfall Bluffs | A hardy, storm-themed variant found in the frozen mountains. |
 | Painted Hen | Tangle | Starlight Strand | A rare, colorful variant that appears during specific weather events. |
-| Candied Hen | Sloomber | The Grey Labyrinth (Dream Land) | A sweet, crystalline variant found exclusively in the Labyrinth. It is a unique food item, not a breedable chicken, and must be collected on each trip. |
+| Candied Hen | Sloomber | The Grey Labyrinth (Dream Land) | A sweet variant found exclusively in Dream Land. Can be bred in coops like other chickens. |
 | Chick | None | Hatched from eggs in a Coop. | Grows into an adult chicken. |
 | Elder Hen / Roostro | None | From any adult chicken over time. | Less preferred by slimes but can still be used as food. |
 | Giant Egg | None | Laid by a Hen Hen near a Yolky Slime. | Hatches into multiple Chicks. |
@@ -51,15 +50,15 @@ Quick reference guide for all food, resources, plorts, and upgrade components in
 | Buzz Wax | Found in buzzing, waxy nests on trees and cliffs. | Starlight Strand |
 | Slime Fossil | Fossilized slimes embedded in cave walls. | Powderfall Bluffs (Caves) |
 | Perfect Snowflake | Glimmering, iridescent snowflakes on high cliffs. | Powderfall Bluffs (Peaks) |
-| Sun Sap | Golden, glowing sap dripping from frozen trees. | Powderfall Bluffs (Very Rare) |
+| Sun Sap | Golden, glowing sap dripping from crimson trees and palms. | Powderfall Bluffs (grows up to 3x daily during daylight) |
 | Lightning Mote | A crackling ball of electrical energy. | Powderfall Bluffs (during thunderstorms) |
 | Strange Diamond | A sharp, rainbow-colored crystal. | The Digsite (Caves) |
 | Magma Comb | Hexagonal, glowing rock formations near lava. | The Grey Labyrinth (Lava Depths) |
 | Tin Petal | Metallic, flower-like nodes in mechanical areas. | The Grey Labyrinth |
-| Black Indigonium | Oily, iridescent metallic nodes. | The Grey Labyrinth |
-| Aqua Glass | Translucent, blue crystal formations. | The Grey Labyrinth, The Tidepools |
+| Black Indigonium | Black metallic nodes (almost no light reflection). | The Grey Labyrinth (Impossible Sky) |
+| Aqua Glass | Swirling orb of water (solid throughout). | The Grey Labyrinth (Waterworks - ONLY source in Labyrinth) |
 | Dream Bubble | Shimmering, ethereal floating bubbles. | The Grey Labyrinth (Dream Land) |
-| Royal Jelly | A very rare, golden jelly from special hives. | All Biomes (Extremely Rare) |
+| Royal Jelly | Unnaturally sweet jelly from special hives. | The Grey Labyrinth (Impossible Sky, Dream Land) |
 | Fresh Water | Clear, blue liquid. | Ponds, geysers, coastal areas |
 | Ash | Small piles of grey dust. | Incinerator with Ash Trough |
 

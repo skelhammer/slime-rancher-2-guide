@@ -17,7 +17,7 @@ Deploy Quantum Drones to eliminate manual labor and transform your ranch from a 
 - **Required:** ~15,000 Newbucks for 3 Quantum Drone Stations
 - **Optional:** ~1,500 Newbucks for catch-up Dash Pad crafting (if you skipped earlier chapters)
 - **Daily Revenue:** ~6,500-8,500 Newbucks from all operations
-- **Materials Required:** 300 Flutter Plorts (from Ch8 operations), 9 Strange Diamonds, 45 Lava Dust, 45 Wild Honey
+- **Materials Required:** 300 Flutter Plorts (from Ch8 operations), 6 Strange Diamonds, 45 Lava Dust, 45 Wild Honey
 - **Timeline:** Achieve in 3-5 days through all operations
 - **Farming Strategy:** If short on Flutter Plorts, continue ranching Flutter-Phosphor (Den) and Flutter-Honey (Conservatory) operations for 3-5 days while simultaneously hunting Ghostly Drones in ranch expansions and wild zones
 
@@ -43,7 +43,7 @@ Deploy Quantum Drones to eliminate manual labor and transform your ranch from a 
 
 - Drone Station crafting: 15,000 Newbucks (3 × 5,000 NB)
 - Flutter Plorts: 300 total (3 × 100 per station)
-- Strange Diamonds: 9 total (3 × 3 per station)
+- Strange Diamonds: 6 total (3 × 2 per station)
 - Lava Dust: 45 total (3 × 15 per station)
 - Wild Honey: 45 total (3 × 15 per station)
 - Recommended Starting Budget: 20,000+ Newbucks
@@ -209,7 +209,7 @@ There are **10 total Ghostly Drones** across Rainbow Island and the Grey Labyrin
 
 Once you have all materials, craft your three Drone Stations at the Fabricator in the Lab (beneath Conservatory).
 
-**Recipe Per Station:** 5,000 Newbucks + 100 Flutter Plorts + 15 Lava Dust + 15 Wild Honey + 3 Strange Diamonds + 1 Drone Station Module
+**Recipe Per Station:** 5,000 Newbucks + 100 Flutter Plorts + 15 Lava Dust + 15 Wild Honey + 2 Strange Diamonds + 1 Drone Station Module
 
 Each station comes with its own paired Quantum Drone.
 

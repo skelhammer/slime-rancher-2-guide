@@ -195,7 +195,13 @@ Quick reference guide for all drones, treasure pods, map nodes, doors, and resou
 | Starlight Strand 3 | Along the southern coast, on a stone archway near the area with the Angler Gordo. |
 | Powderfall Bluffs 1 | At the highest point on the northern mountain summit, near where the Saber Gordo is located. |
 | Powderfall Bluffs 2 | In the central valley on a large, icy plateau near the frozen lake. |
-| The Grey Labyrinth | Located in the main central hub chamber (Waterworks), not far from the entrance portal that connects to Ember Valley. |
+| The Grey Labyrinth 1 - Aquarium | In the Waterworks area, right above the Batty Plort Statue in the room with the large vertical glass tower. |
+| The Grey Labyrinth 2 - Impossible Sky | Inside the grey tower with many water spouts in the Impossible Sky area (near Prismacore). |
+| The Grey Labyrinth 3 - Lava Depths | In the Lava Depths, inside the hallway locked by Plort Doors (use surrounding Rock Plort Statues to access). |
+| The Grey Labyrinth 4 - West | In the Waterworks area, at the end of the hedge maze directly next to a Shadow Plort Door. |
+| The Grey Labyrinth 5 - Dream Land | In Dream Land, south of the Sloomber Gordo, located on the edge of a cliff. |
+| The Grey Labyrinth 6 - Terrarium | In The Terrarium biodome (location details TBD). |
+| The Grey Labyrinth 7 - Terrarium | Second map node in The Terrarium biodome (location details TBD). |
 
 ## Appendix I: Plort Door Locations
 
@@ -217,14 +223,18 @@ Quick reference guide for all drones, treasure pods, map nodes, doors, and resou
 | Starlight Strand | 1 Rock Plort | On the western coast of the blue region. | Access to the Tall Violet Swirl Shroom treasure pod. |
 | Starlight Strand | 1 Hunter Plort | In an underground mushroom cave, behind the previous Rock Plort Door. | Access to the Dainty Teacup treasure pod. |
 | Starlight Strand | 1 Flutter Plort | Near the Flutter Gordo, up against a high wall. | Access to the Sureshot Module treasure pod. |
-| The Grey Labyrinth | 1 Angler & 1 Boom Plort | In the Waterworks area; opens a door leading to two Shadow Doors. | Access to Storage Cell & Power Chip Shadow Doors. |
+| The Grey Labyrinth | 1 Angler & 1 Boom Plort | In the Waterworks area; opens a door leading to two Shadow Plort Doors. | Access to Storage Cell & Power Chip Shadow Plort Doors. |
 | The Grey Labyrinth | 1 Batty Plort | In the Waterworks area with the large vertical glass tower. | A hallway shortcut. |
 | The Grey Labyrinth | 1 Rock Plort | In the Waterworks area, down the hall from the Batty Plort statue. | A hallway shortcut. |
-| The Grey Labyrinth | 1 Shadow, 1 Sloomber, & 1 Twin Plort | In the grassy outdoor area; requires three separate statues. | Access to the area with the Twin Gordo. |
+| The Grey Labyrinth - Impossible Sky | 1 Shadow, 1 Sloomber, & 1 Twin Plort | In the Impossible Sky (grassy overgrown area); requires three separate plort statues. | Access to the area with the Twin Gordo. |
 | The Grey Labyrinth | 1 Boom Plort | In the lava area with rectangular grey pillars. | A hallway shortcut. |
 | The Grey Labyrinth | 3 Rock Plorts | Three separate doors in the Lava Depths that open one long hallway. | A major hallway shortcut. |
 
-## Appendix J: Grey Labyrinth Shadow Door Locations
+## Appendix J: Grey Labyrinth Shadow Plort Door Locations
+
+**Total:** 25 Shadow Plort Doors throughout the Grey Labyrinth
+
+**Total Shadow Plorts needed:** 1,165 to open all 25 doors (1,000 for doors #1-19, 165 for doors #20-25 in Terrarium)
 
 | **Sub-Zone** | **Shadow Plort Cost** | **Location Description** | **Reward / Access Granted** |
 | --- | --- | --- | --- |
@@ -238,7 +248,7 @@ Quick reference guide for all drones, treasure pods, map nodes, doors, and resou
 | Waterworks | 50  | At the very top of the tall, vertical glass pillar in the main hub area. | Aquarium |
 | Lava Depths | 50  | In an underground cave, directly across from a Rock Plort statue. | Heart Cell |
 | Lava Depths | 50  | On a ledge directly above the large slime statue with lava flowing from its mouth. | Magma Fountain |
-| Prismacore Surroundings | 50  | On a very tall grassy pillar near a small lava area on the path to the Prismacore. | Grey Labyrinth Portal |
+| Impossible Sky | 50  | On a very tall grassy pillar near a small lava area on the path to the Prismacore. | Grey Labyrinth Portal |
 | Waterworks | 50  | Behind stone walls directly across from the Twin Gordo's location. | Gold Teleporter |
 | Dream Land | 50  | On a tall, bell-like tower, on the side facing away from the map's edge. | Gold Twisted Tree |
 | Lava Depths | 75  | Hidden underneath a glass floor; a nearby button (behind a Plort Door) is required to raise it. | Storage Cell |
@@ -247,6 +257,12 @@ Quick reference guide for all drones, treasure pods, map nodes, doors, and resou
 | Waterworks | 75  | On a ledge far below the main structures, located next to a table and chair. | Angler Fountain |
 | Waterworks | 100 | At the very end of the hedge maze, next to a map node and a stabilizer. | Injector Module |
 | Dream Land | 100 | At the end of the "pink windmill" area, behind a large door locked by a Radiant Projector puzzle. | Regen Module |
+| Terrarium/Lavaways | 15  | In the shortcut hallway connecting the Terrarium to the Lava Depths. | Prismatic Flower Lamp |
+| Terrarium | 15  | Location TBD. | Shortcut to Lava Depths |
+| Terrarium | 25  | Location TBD. | Trydro Turret |
+| Terrarium | 60  | Location TBD. | Storage Cell #3 |
+| Terrarium | 25  | Hidden behind a secret wall that must be Nullified to access. | Miniatures Dome |
+| Terrarium | 25  | Location TBD. | Dream Lantern II |
 
 ## Appendix K: Resource Priority Guide
 

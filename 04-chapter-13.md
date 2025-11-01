@@ -65,23 +65,50 @@ Once unlocked, the Radiant Projector can be crafted at the Fabricator:
 - **Entry Points:**
   - **Ember Valley:** Enter the portal revealed after popping the Boom Gordo in the western volcanic area.
   - **Starlight Strand:** Enter the portal revealed after popping the Flutter Gordo in the southern central cave.
-- **Entry Puzzle:** Both routes lead to a sealed door. Use two Radiant Projectors to redirect the light beams into the door's sensors. The beam will turn YELLOW when correctly aligned, opening the path.
+- **Entry Puzzle (Starlight Strand Route):**
+  - The door to the Grey Labyrinth is located directly under where the Flutter Gordo was positioned
+  - You need 2 Radiant Projectors to solve the light puzzle:
+    - **First Projector:** Capture the yellow light beam emanating from the nearby Slime Statue
+    - **Second Projector:** Bounce the captured light to the triangle-shaped light switch/sensor on the door
+    - When correctly aligned, the beam turns YELLOW and the door opens
+  - **Ember Valley Route:** Similar light puzzle mechanics (specific configuration TBD)
 
 #### Phase 2: Labyrinth Cartography - Zones & Hazards
 
 The Labyrinth is a massive, multi-level environment. Your first priority is understanding its layout and unique dangers. **Key Zones:**
 
-- **Waterworks (Hub):** The central arrival area, connecting to most other zones.
-- **Lava Depths:** A network of lava channels to the west, containing access to the Terrarium puzzle.
-- **Dream Land:** A series of upper towers where Sloomber Slimes reside.
-- **Terrarium:** A sealed biodome in the north, home to Hyper Slimes and all island vegetation.
-- **Prismacore:** The final zone and the source of the Labyrinth's instability.
+- **Waterworks (Hub):** The central aquatic hub area. Features underwater elements (coral, anemones), pipes, and waterworks infrastructure. Only source of Aqua Glass in the Labyrinth. Best accessed via Starlight Strand portal entrance. Contains multiple locked rooms opened by plort statues or buttons. Has 3 unique plort statues. Features vertical stacking of rooms, making map navigation challenging. Connects to Impossible Sky, Dream Land, and other major zones.
+- **Impossible Sky:** A grassy, overgrown area with ruinous architecture. Contains Twin Slimes, Polaricherry trees, Black Indigonium nodes, and Royal Jelly. Features three plort statues of Labyrinth-exclusive slimes (Shadow, Twin, Sloomber). Twin Gordo located here (unlocks portal to Rainbow Fields). Accessible from Waterworks or Lava Depths. Grey Labyrinth Portal leads to a platform in this area. The gilded area surrounding the Prismacore (formerly called "Prismacore Surroundings") is part of this zone.
+- **Lava Depths:** A volcanic area similar to Ember Valley's Boom Gordo region. Contains Magma Comb resource nodes. Accessed via Ember Valley portal (behind Boom Gordo) with Radiant Projector puzzle. Features 3 Rock plort statues and 1 Boom plort statue that unlock shortcuts. Connects to Impossible Sky and Terrarium. Contains 4 Shadow Plort Doors. Map navigation extremely difficult due to heavily stacked rooms and corridors on multiple vertical levels.
+- **Dream Land:** The largest and most northern area of the Labyrinth. Contains magenta vegetation, ruinous architecture with windmills, floating debris, and Royal Jelly. This is where the Labyrinth's atmosphere is generated. Divided into 3 sub-areas:
+  - **Central:** First arrival point from Impossible Sky. No Sloomber Slimes or Candied Hens.
+  - **North:** Accessed via pipes from east side or flying from west. Requires Radiant Projector puzzle to permanently open door. Contains Sloomber Gordo (portal to Conservatory).
+  - **West:** Accessed via Radiant Projector puzzle (4+ projectors needed) or flying from north. Contains Shadow Plort Door shortcut to Waterworks (southwest corner, connects to hedge maze).
+- **Terrarium:** A sealed overgrown greenhouse biodome described by Gigi as likely a seed bank. Contains plants, food, resources, and slimes from most Rainbow Island regions. Only natural spawn location of Hyper Slimes and Turbo Taters. Indoor areas feature miniature models/dioramas of Grey Labyrinth locations and other Rainbow Island areas. Contains Hyper Gordo. Located north of Lava Depths, east of Prismacore. **Access:** Requires 3 Radiant Projectors, 1 Hunter Plort, 1 Angler Plort. Entry puzzle is at the Lava Depths/Impossible Sky transition (building with 4 pipes - 2 water, 2 lava). Completing puzzle raises platforms from clouds (use water spout on Prismacore bridge or Jetpack with Power Core II to reach). Contains 6 Shadow Plort Doors.
+- **Prismacore:** The final zone and the source of the Labyrinth's Prisma Disruptions. Accessed via plort doors (Twin, Shadow, Sloomber required). Contains Gigi's exchange station and the story finale.
+
+**Shadow Plort Doors (Moon/Sun Symbol System):**
+
+The 25 Shadow Plort Doors are the Grey Labyrinth's equivalent of Treasure Pods:
+- **Visual Appearance:** Shaped like Refinery Links with a sun-meter dial above. Doors have Moon/Sun symbols (black and yellow pokeball-like icon on map)
+- **Map Tracking:** Shows as "0/25" - tracks how many Shadow Plort Doors you've opened
+- **Opening Mechanic:** Deposit Shadow Plorts into the door. The sun meter slowly transitions to night-time (crescent moon), then unlocks
+- **Currency:** Requires varying amounts of Shadow Plorts (25-100 per door)
+- **Total Count:** 25 Shadow Plort Doors throughout the Grey Labyrinth (19 in main areas, 6 in The Terrarium)
+- **Rewards:** Blueprints, upgrade components (Storage Cells, Power Chips, modules), decorations, and shortcuts
+- **Total Shadow Plorts Needed:** 1,165 to open all 25 doors (costs range from 15-100 per door)
 
 **Critical Hazards**
 
 - **Prisma Disruptions:** Reality-altering energy waves that periodically sweep through the zones. They can cause gravity inversion, time dilation, or environmental damage. During a disruption, all loose food and plorts in the affected area become "Unstable."
-- **Unstable Items:** An item with the "Unstable" status has a hidden timer. If it remains in your Vacpack for too long (roughly 30-60 seconds), it becomes too volatile and will be forcibly ejected. You must process these items at a **Stabilizing Gate** or **Prisma Stabilizer** before the timer runs out to convert them into usable resources.
-- **No Slime Sea:** The bottom of the Labyrinth is a cloud ocean. Any slimes, items, or ranchers that fall in are PERMANENTLY LOST. There is no recovery.
+- **Dream Land Trap:** If you enter Dream Land North via the pipes without unlocking the west Radiant Projector puzzle (requires 4+ projectors) and lack sufficient mobility upgrades (Jetpack II or higher for flying), you can get trapped. Escape options: Emergency Return (requires Tank Guard), pop Sloomber Gordo and use Conservatory portal, or complete the puzzle.
+- **Unstable Items:** Items with the "Unstable" status are highly volatile and will randomly JUMP out of your Vacpack and scatter everywhere. The ejection happens unpredictably and frequently - you cannot hold them for long. They also instantly pop out if you take damage. Unstable items will eventually vanish from the world if left unstabilized. **CRITICAL:** Unstable items conflict with warp technology - you cannot use teleporters/warp depots while carrying Unstable items in your vac. You must stabilize these items quickly using one of two methods:
+  - **Prisma Stabilizers:** Yellow floating portal-like objects that spawn during disruptions and remain after the event ends. Shoot or toss Unstable items through them to stabilize. **IMPORTANT:** Prisma Stabilizers are consumable and disappear after being used once.
+  - **Stabilizing Gates:** Permanent archway structures found throughout the Labyrinth. Walk through them while holding Unstable items in your vac to stabilize them, or shoot Unstable items through them. One Stabilizing Gate is obtainable as a craftable blueprint from a Shadow Plort Door (75 Shadow Plorts). Can be placed at your ranch for convenient Prisma Plort farming.
+  - **Result:** Unstable Plorts stabilized through either method become valuable **Prisma Plorts**.
+  - **Important:** If your vac tank is full of Prisma Plorts when walking through a Stabilizing Gate with Unstable Plorts, the newly converted Prisma Plorts will eject from your vac all at once.
+- **No Slime Sea:** The bottom of the Labyrinth is a cloud ocean (not the Slime Sea). Any slimes, items, or ranchers that fall in are PERMANENTLY LOST. There is no recovery.
+- **Tarr Risk:** Tarr are very common in the Grey Labyrinth due to the high variety of slimes and abundant food. Water Tank and Hydro Turrets strongly recommended.
 
 #### Phase 3: Asset Identification - New Species & Resources
 
@@ -89,7 +116,7 @@ The Labyrinth contains the most valuable and volatile assets in the game. Identi
 
 | **Slime** | **Diet** | **Favorite** | **Largo?** | **Location** | **Special Notes** |
 | --- | --- | --- | --- | --- | --- |
-| **Shadow** | None | N/A | NO  | Dark corners | Produces plorts when hit by any object. Flees quickly. |
+| **Shadow** | None | N/A | NO  | Dark corners | Cannot be vacuumed up. Cannot be eaten by Tarr. Spawns in groups of 2-5. Produces plorts when hit by any thrown object (item not consumed). Jumps erratically when disturbed, then vanishes. |
 | --- | --- | --- | --- | --- | --- |
 | **Twin** | Fruit | Polaricherry | YES | Throughout | Alternates blue/pink states. Can create portals to snag distant food. |
 | --- | --- | --- | --- | --- | --- |
@@ -103,6 +130,23 @@ The Labyrinth contains the most valuable and volatile assets in the game. Identi
 - **Harvestable Nodes:** Magma Comb, Tin Petal, Black Indigonium, Aqua Glass, Dream Bubble.
 - **New Foods:** Polaricherry (Fruit), Candied Hen (Meat), Turbo Tater (Vegetable).
 - **Prisma Plort:** A craftable resource, '''not a slime'''. Created by processing Unstable Plorts.
+
+**CRITICAL - Plort Storage Strategy:**
+
+Grey Labyrinth plorts have multiple uses and should be stored carefully:
+
+- **Prisma Plorts:**
+  - Required total: ~265 (90 for Gigi's milestones + 175 for crafting upgrades)
+  - **Store in SILOS, not Refinery** until you've obtained all milestone rewards from Gigi
+  - Once plorts are in the Refinery, they cannot be withdrawn for trading to Gigi
+  - Only deposit to Refinery when actively crafting specific upgrades
+
+- **Shadow Plorts:**
+  - Required total: 1,165 for all 25 Shadow Plort Doors, plus crafting needs (Nullifier 20, Shadow Sureshot amount TBD)
+  - **Store in SILOS, not Refinery** until you've opened all desired Shadow Plort Doors
+  - Shadow Plort Doors require plorts from your inventory/silos - Refinery plorts cannot be used
+
+- **General Rule:** Never put Grey Labyrinth plorts in the Refinery until you've completed all door/milestone objectives. Use Silos for flexible storage.
 
 #### Phase 4: The 4-Phase Operational Strategy
 
@@ -147,21 +191,40 @@ Execute your exploration of the Labyrinth in four distinct, strategic phases.
 - **Actions:**
   - **Prisma Plort Farming (Critical Process):** Prisma Plorts are a vital endgame resource created by stabilizing the effects of a Prisma Disruption.
     - **Step 1:** During a Prisma Disruption, all food and plorts become "Unstable." Collect this Unstable food.
-    - **Step 2:** Feed the Unstable food to any slime (Pink Slimes are recommended for their simple diet). They will produce Unstable Plorts.
-    - **Step 3:** You must stabilize these Unstable Plorts before they break out of your Vacpack. This is done in one of two ways: shoot them through a **Prisma Stabilizer** (the yellow portals) or, more efficiently, walk through a **Stabilizing Gate** while holding them in your vac.
-    - **Optimal Setup:** Build a temporary corral with 50+ Pink Slimes near a Stabilizing Gate in the Labyrinth. During a disruption, gather Unstable food, feed the slimes, and immediately walk through the gate to convert the Unstable Plorts in your tank into stable, valuable Prisma Plorts.
-  - **Shadow Plort Farming:** Conduct runs with a full inventory of throwable objects to hit Shadow Slimes. Systematically open the 25 Shadow Doors to create a permanent network of shortcuts.
-  - **Shadow Doors:** Opening all 25 Shadow Doors is a key objective for mastering the Grey Labyrinth, requiring a total of 1,275 Shadow Plorts. These doors grant access to valuable blueprints, decorations, and crucial shortcuts that make navigating the massive biome significantly more efficient.
+    - **Step 2:** Feed the Unstable food to any slime (Twin Slimes in Impossible Sky work well, or bring Pink Slimes for their omnivore diet). They will produce Unstable Plorts.
+    - **Step 3:** You must stabilize these Unstable Plorts QUICKLY before they randomly eject from your Vacpack. Two methods:
+      - **Method 1 (Opportunistic):** Shoot or toss Unstable Plorts through yellow **Prisma Stabilizers** (floating portals that appear during disruptions). They stabilize on the other side. Note: Prisma Stabilizers are one-time use and disappear after.
+      - **Method 2 (Optimal):** If you find a permanent **Stabilizing Gate** (archway structure), position near it. Walk through the gate with Unstable Plorts in your vac to stabilize them. This is repeatable.
+    - **Optimal Setup (if permanent Stabilizing Gate found):** Position slimes near the gate. During disruptions, gather Unstable food, feed slimes, and immediately walk through the gate to convert Unstable Plorts into Prisma Plorts. Repeat as needed.
+  - **Shadow Plort Farming:** Conduct runs with a full inventory of throwable objects to hit Shadow Slimes (they spawn in groups of 2-5 in dark corners). Systematically open the 25 Shadow Plort Doors to create a permanent network of shortcuts.
+  - **Shadow Plort Doors:** Opening all 25 Shadow Plort Doors is a key objective for mastering the Grey Labyrinth, requiring 1,165 Shadow Plorts total. These doors grant access to valuable blueprints (Stabilizing Gate, teleporters, Trydro Turret), upgrade components (3 Storage Cells, Power Chips, modules), decorations, and crucial shortcuts that make navigating the massive biome significantly more efficient.
   - **Resource Harvesting:** With shortcuts open, perform efficient runs to collect Magma Comb, Tin Petal, Black Indigonium, etc., depositing them at a nearby Refinery Link.
 
 **Phase 4: Prismacore Stabilization**
 
-- **Objective:** Complete the main story objective.
+- **Objective:** Complete the main story objective and stabilize the Prismacore.
+- **Story Context:** As you explore the Grey Labyrinth, you'll encounter holographic projections of **Gigi**, an NPC who communicates throughout the Labyrinth. Gigi is physically stationed at the Prismacore (the heart of the Labyrinth) and uses these holograms to guide you and explain the situation.
 - **Actions:**
-  - Use your farmed Prisma Plorts to craft the **Disruption Detector** and the **Nullifier** device (blueprint from Gigi).
-  - Navigate to the Prismacore at the heart of the Labyrinth.
-  - Deploy the Nullifier to stabilize the core and complete the story.
-  - This unlocks the **Prisma Plort Exchange**, allowing you to trade 10 Prisma Plorts for 1 Rainbow Coin.
+  - Follow Gigi's holographic guidance as you explore the Labyrinth zones
+  - Use your farmed Prisma Plorts to craft the **Disruption Detector**
+  - Navigate to the Prismacore at the heart of the Labyrinth to meet Gigi in person
+  - At Gigi's **Prisma Plort Exchange** station, trade Prisma Plorts for milestone rewards:
+    - **20 Prisma Plorts** → Nullifier blueprint (one-time reward)
+    - **20 Prisma Plorts** → Storage Cell (one-time reward)
+    - **50 Prisma Plorts** → Drone Station Module (one-time reward)
+    - **10 Prisma Plorts** → 1 Rainbow Coin (unlimited, repeatable)
+  - Find and activate all **5 Harmonizers** hidden throughout the Grey Labyrinth (shoot any item at them to activate)
+  - Craft the **Nullifier** device using the blueprint obtained from Gigi
+  - **Nullifier Additional Uses:** The Nullifier can be placed in unstable walls (look for door-shaped indentations with rainbow texture) to open hidden passages throughout the Grey Labyrinth. The passage remains open only while the Nullifier is placed - removing it closes the passage. Useful for accessing locked shortcuts or hidden areas.
+  - Navigate to the Prismacore and enter its interior
+  - **Prismacore Stabilization Process:**
+    - A giant Tarr barrier surrounds the Prismacore's core
+    - Use the **Slime Shower** facility: Deposit 6 slimes into either of the 2 depositing ports to break the Tarr barrier
+    - Deploy the Nullifier to stabilize the Prismacore
+    - Upon completion, the Prismacore becomes stabilized and Rainbow Island is saved from catastrophic reality collapse
+  - **Story Resolution:** Gigi leaves the Labyrinth to reunite with her family, returning to her timeline through a portal. Most holographic pads become non-interactive (except the Prismacore pad which shows a recorded message)
+  - Complete the story and unlock unlimited Rainbow Coin trading at the Prismacore Exchange Station
+  - Continue trading Prisma Plorts for Rainbow Coins to purchase items from the Night Market
 
 #### Phase 5: Integration & Final Upgrades
 
