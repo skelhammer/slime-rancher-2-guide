@@ -248,6 +248,69 @@ Prisma Plorts are created by stabilizing Unstable Plorts during Prisma Disruptio
 - Unlock Stabilizing Gate blueprint (75 Shadow Plorts) to craft permanent gate at ranch for convenient Prisma Plort farming
 - Systematic door completion is Chapter 13 objective
 
+#### Phase 6: Warp Infrastructure Setup
+
+**Objective:** Establish permanent one-way warp infrastructure in the Grey Labyrinth for efficient resource farming and emergency extraction.
+
+The Grey Labyrinth is vast and dangerous. Setting up strategic warp gadgets dramatically improves farming efficiency and provides critical safety nets for exploration.
+
+**Deploy Three Key Gadgets:**
+
+**1. Refinery Link (Resource Deposit)**
+
+- **Crafting Cost:** 250 Newbucks + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
+- **Location:** Waterworks central hub (near main Stabilizing Gate)
+- **Placement Notes:** Place near the large central Stabilizing Gate archway where you'll be conducting Prisma Plort farming operations
+- **Why This Location:**
+  - Waterworks is the central hub connecting to all major Grey Labyrinth zones
+  - Quick deposit access for Shadow Plorts collected throughout entire Labyrinth
+  - Adjacent to Prisma Plort farming operation (temporary Pink Slime setup)
+  - Allows fast inventory dumps during extended exploration without abandoning position
+  - Central position minimizes travel time from any farming route
+
+**2. Market Link (Plort Sales)**
+
+- **Crafting Cost:** 250 Newbucks + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
+- **Location:** Impossible Sky (near Twin Gordo area)
+- **Placement Notes:** Place in the grassy area near where the Twin Gordo was located, central to the Impossible Sky zone
+- **Why This Location:**
+  - Impossible Sky is a major farming zone (Twin Slimes, Polaricherry, Black Indigonium, Royal Jelly)
+  - Direct market access for high-value Twin Plorts while farming
+  - This zone connects to Prismacore area (used in Chapter 14 endgame)
+  - You'll spend significant time here during Chapter 11+ operations
+  - Allows immediate plort sales during farming runs to keep inventory clear
+
+**3. Yellow Home Portal (Emergency Extraction)**
+
+- **Crafting Cost:** 250 Newbucks + 10 Cotton Plorts + 5 Jellystone + 5 Deep Brine
+- **Location:** Terrarium (sealed biodome with Hyper Slimes)
+- **Placement Notes:** Place near the center of the Terrarium biodome, accessible from the main entrance
+- **Why This Location:**
+  - Terrarium is the most isolated zone in the Grey Labyrinth
+  - Requires complex puzzle access (3 Radiant Projectors + 1 Hunter Plort + 1 Angler Plort)
+  - Only natural spawn location for Hyper Slimes and Turbo Taters
+  - Provides emergency extraction from the furthest point in the Labyrinth
+  - Yellow Home Portal is the cheapest option (250 NB) and hasn't been used in previous chapters
+- **One-Way Function:** Teleports you instantly back to Conservatory (does not allow return travel)
+
+**Total Investment:** 750 Newbucks + materials
+
+**Benefits:**
+- **Refinery Link:** Eliminates inventory management trips during Shadow Plort farming runs
+- **Market Link:** Allows immediate plort sales without leaving farming zones
+- **Yellow Home Portal:** Critical safety net for Terrarium operations and emergency extraction
+
+**When to Deploy:**
+- Craft and deploy all three gadgets during Phase 1-2 (Initial Entry & Intelligence Gathering)
+- Having infrastructure in place before deep exploration prevents inventory frustration
+- Emergency extraction (Yellow Home Portal) is especially critical before attempting Terrarium puzzle access
+
+**Note About Two-Way Teleporters:**
+- In Chapter 11, you'll have access to colored Teleporters (two-way travel)
+- The Gold Teleporter (Conservatory ↔ Grey Labyrinth Waterworks) will be your primary fast-travel system
+- These one-way gadgets (Refinery Link, Market Link, Home Portal) complement the two-way teleporter network
+- Keep both systems - one-way gadgets provide utility (deposit/sell/extract), teleporters provide navigation
+
 ### Strategic Priorities
 
 1. **Map First, Always:** Do not operate in unmapped territory. Activate all 7 Map Data Nodes before deep exploration.
@@ -262,8 +325,9 @@ Prisma Plorts are created by stabilizing Unstable Plorts during Prisma Disruptio
 
 **Capital Required:**
 - Radiant Projectors: 2,000 Newbucks (4 × 500)
-- Materials: Hunter/Boom Plorts, Silky Sand, Lava Dust (from existing operations)
-- **Total: ~2,000 Newbucks**
+- Warp Infrastructure: 750 Newbucks (Refinery Link + Market Link + Yellow Home Portal)
+- Materials: Hunter/Boom Plorts, Silky Sand, Lava Dust, Phosphor Plorts, Pink Plorts, Cotton Plorts (from existing operations)
+- **Total: ~2,750 Newbucks**
 
 **No Direct Revenue Added:**
 
@@ -290,6 +354,7 @@ By the end of Chapter 10, you should have:
 - ✅ Basic understanding of Shadow Plort farming (hit Shadow Slimes with throwables)
 - ✅ Basic understanding of Prisma Plort farming (Unstable food → slimes → Stabilizing Gate)
 - ✅ Shadow Plorts and Prisma Plorts stored in SILOS (not Refinery)
+- ✅ Warp infrastructure deployed (Refinery Link in Waterworks, Market Link in Impossible Sky, Yellow Home Portal in Terrarium)
 - ✅ Ready to build The Archway expansion (Chapter 11)
 
 ### Next Chapter Preparation
