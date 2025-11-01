@@ -45,23 +45,34 @@ Pop these two Rainbow Fields Gordos to unlock Starlight Strand access and treasu
 | **Honey** | Fruit | Mint Mango | YES | Flowery areas in pink biome | Docile, honey plorts attract other slimes |
 | **Phosphor** | Fruit | Cuberry | YES | Throughout (NIGHT ONLY) | Glowing, requires Solar Shield in corrals, burns in sunlight |
 
-### Asset Collection Sequence
+#### Phase 1: Unlock Starlight Strand
 
-**Phase 1: Unlock Starlight Strand**
+Pop the Cotton Gordo to activate the portal to Starlight Strand.
 
-- Pop Cotton Gordo to activate portal (feed 15 Water Lettuce from your garden)
+- **Cotton Gordo Location:** Rainbow Fields - Southeast of Refinery Link, top of hill
+- **Food Required:** 30 Veggies (Water Lettuce counts 2x, so 15 Water Lettuce)
+- **Reward:** Cave access to Starlight Strand portal switch
 
-**Phase 2: Starlight Strand Collection**
+#### Phase 2: Asset Acquisition & Preparation
 
-- Enter Starlight Strand and collect:
-  - 6 Phosphor Slimes (for Phosphor-Honey largos)
-  - 6 Honey Plorts (from wild Honey Slimes - to convert Phosphor into Largos)
-  - 30+ Cuberries (for feeding Phosphor-Honey largos)
+Enter Starlight Strand and collect the necessary slimes and resources.
+
+**Slimes Needed:**
+- 6 Phosphor Slimes (spawn at NIGHT only throughout Starlight Strand)
+- 6 Honey Plorts (from wild Honey Slimes in flowery pink areas)
+
+**Food Stockpile:**
+- 30+ Cuberries (Phosphor favorite - found throughout Starlight Strand)
+
+**Collection Strategy:**
+- Wait for nighttime to capture Phosphor Slimes (they burn in daylight)
+- Collect Honey Plorts from wild Honey Slimes during the day
+- Harvest Cuberries to stockpile for initial feeding
 - Return to ranch and deploy slimes immediately
 
-### Ranch Development & Plot Allocation (Conservatory - 4 plots)
+#### Phase 3: Plot-by-Plot Build
 
-Now that you have all necessary slimes, execute the expansion:
+Execute the following Conservatory expansion:
 
 | **Plot** | **Type** | **Contents** | **Base Cost** | **Upgrades** | **Total Cost** | **Purpose/Notes** |
 |----------|----------|--------------|---------------|--------------|----------------|-------------------|
@@ -71,19 +82,33 @@ Now that you have all necessary slimes, execute the expansion:
 | **4** | Garden | Cuberries | 250 NB | Nutrient Soil (600), Sprinkler (700) | 1,550 NB | **NEW** - Feeds Plot 3 |
 | **5-8** | EMPTY | - | - | - | - | Reserved for Chapter 3 expansion (Crystal-Rock and Boom-Batty operations) |
 
-### Upgrade Path for this Chapter (Priority Order)
+**Total Investment:** 4,500 NB (plots/upgrades)
+
+#### Phase 4: Automation Integration
+
+**Plort Collector Management:**
+- Plot 1 (Tabby-Cotton): Manually collect plorts from storage
+- Plot 3 (Phosphor-Honey): Plort Collector auto-vacuums plorts
+- **Crafting Plorts:** Deposit Phosphor and Honey Plorts into Refinery for reserves (target: 50+ of each)
+- **Sell Excess:** Once stockpiled 50+ of each type, sell surplus
+
+**Food Restocking:**
+- Plot 2 (Water Lettuce Garden): Harvest every 2-3 in-game days, manually feed Plot 1
+- Plot 4 (Cuberry Garden): Harvest every 2-3 in-game days, manually feed Plot 3
+- Cuberries are Phosphor favorite (produces 4 plorts per feeding: 2 Phosphor + 2 Honey)
+
+**Management Notes:**
+- Auto-Feeders not yet available (unlock in later chapters)
+- Manual feeding required every 1-2 days
+- Focus on stockpiling crafting plorts, not maximizing revenue
+
+#### Phase 5: Vacpack Upgrades (Priority Order)
 
 - **Power Core** (450 Newbucks + 10 Cotton Plorts): Boosts energy to 150. Your Tabby-Cotton operation provides abundant Cotton Plorts for this upgrade.
 - **Tank Booster** (450 Newbucks + 10 Tabby Plorts): Increases carrying capacity from 20 to 30 units per slot. This is a massive quality-of-life improvement for Chapter 3 collection runs.
 - **Plot Upgrades:** Plort Collector (750 Newbucks) and essential corral upgrades (High Walls, Air Net, Solar Shield) for your Phosphor-Honey operation.
 
 **Total Investment:** 900 Newbucks + materials
-
-### Additional Tips
-
-- Phosphor-Honey Largos are essential for crafting plort accumulation. Deposit Phosphor and Honey Plorts into Refinery for reserves. Sell excess once you have 50+ of each type stockpiled.
-- Cuberries are Phosphor slimes' favorite food, producing 2 Phosphor + 2 Honey plorts per feeding (4 total).
-- With 4 inventory slots at 20 units each (80 total capacity), focus on one task at a time: collect slimes, return to ranch, then collect food.
 
 ### End of Chapter Completion Checklist
 
