@@ -104,8 +104,8 @@ Execute the following build in order:
 **Total Capital Required:**
 - Expansion: 2,800 Newbucks
 - Plots: 1,450 Newbucks (5 plots: 250 + 250 + 250 + 250 + 450)
-- Upgrades: ~5,000 Newbucks (gardens, corrals, coop, silo upgrades)
-- **Total: ~9,250 Newbucks**
+- Upgrades: ~8,400 Newbucks (gardens, corrals, coop, silo upgrades)
+- **Total: ~12,650 Newbucks**
 
 **Revenue Added:**
 - Twin-Flutter Largos: ~100-150 Newbucks per feeding × 6 slimes = 600-900/day
@@ -113,9 +113,9 @@ Execute the following build in order:
 - **Total Archway Revenue: +2,000-3,500 Newbucks/day**
 
 **Total Ranch Revenue (after Chapter 11):**
-- Previous Ranch Revenue (Ch 9): ~12,000-17,000 Newbucks/day
+- Previous Ranch Revenue (Ch 9): ~6,500-8,500 Newbucks/day
 - Archway Addition: +2,000-3,500 Newbucks/day
-- **New Total: ~14,000-20,500+ Newbucks/day**
+- **New Total: ~8,500-12,000+ Newbucks/day**
 
 ### Success Metrics
 

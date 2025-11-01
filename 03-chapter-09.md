@@ -1,6 +1,6 @@
-# Part 3: Automation & Empire Completion (Chapters 9-11)
+# Part 3: Automation & Empire Completion (Chapters 9-12)
 
-_This part implements total ranch automation through Quantum Drones, unlocks the final two ranch expansions (The Archway and The Digsite), and completes your pre-Labyrinth slime collection. Your ranch transforms from a manually-managed operation into a fully automated empire capable of generating 100,000+ Newbucks per week with minimal intervention._
+_This part implements total ranch automation through Quantum Drones, unlocks the Grey Labyrinth and captures its elite slimes (Twin, Sloomber, Hyper), then integrates them into high-value ranch operations. You'll establish the highest-value plort production on your ranch and optionally add weather slimes from rare events. Your ranch transforms from a manually-managed operation into a fully automated empire capable of generating 100,000+ Newbucks per week with minimal intervention._
 
 ## Chapter 9: Quantum Drones - Ranch Automation
 
@@ -182,7 +182,7 @@ There are **10 total Ghostly Drones** across Rainbow Island and the Grey Labyrin
 **Ranch Expansions (3 Drones - Easiest to Find):**
 - **First Ranch Expansion:** 1 Ghostly Drone guaranteed spawn in whichever expansion you unlocked first (The Gully, The Archway, or The Den)
 - **The Tidepools:** 1 Ghostly Drone spawn
-- **The Digsite:** 1 Ghostly Drone spawn (unlocked in Chapter 11 - skip for Chapter 9, only 3 drones needed)
+- **The Digsite:** 1 Ghostly Drone spawn (unlocked in Chapter 12 - skip for Chapter 9, only 3 drones needed)
 
 **Wild Zones (4 Drones - Moderate Difficulty):**
 - **Rainbow Fields:** Tallest mountain summit in the middle (requires advanced jetpack)
@@ -195,7 +195,7 @@ There are **10 total Ghostly Drones** across Rainbow Island and the Grey Labyrin
 - **Dreamland:** High tower in the pink area (requires platforming)
 - **Prismacore:** Flying around the portal/staircase area
 
-**Recommendation for Chapter 9:** Hunt the 3 easiest drones from your available ranch expansions (First Expansion, Tidepools, and one from wild zones like Starlight Strand). The Digsite drone is not available until Chapter 11. Save Grey Labyrinth drones for later chapters when you need additional stations.
+**Recommendation for Chapter 9:** Hunt the 3 easiest drones from your available ranch expansions (First Expansion, Tidepools, and one from wild zones like Starlight Strand). The Digsite drone is not available until Chapter 12. Save Grey Labyrinth drones for later chapters when you need additional stations.
 
 **How to Capture Ghostly Drones:**
 
@@ -305,9 +305,9 @@ Once you progress through the game, you'll have access to 7 more Ghostly Drones 
 
 ---
 
-**Drone 5 - Archway Plort Collection (Chapter 10+)**
+**Drone 5 - Archway Plort Collection (Chapter 11+)**
 
-**Purpose:** Automate plort collection from Archway's rare slime operations
+**Purpose:** Automate plort collection from Archway's Grey Labyrinth slime operations
 
 **Station Location:** The Archway - central area
 
@@ -316,19 +316,19 @@ Once you progress through the game, you'll have access to 7 more Ghostly Drones 
 - **Source:** Plort Collector
 - **Destination:** Silo (store high-value plorts for price spike selling)
 
-**Result:** Continuously collects ALL plorts from Dervish-Ringtail and Boom-Tangle corrals and stores them
+**Result:** Continuously collects ALL plorts from Twin-Flutter and Sloomber-Saber corrals and stores them
 
 **Expected Result:** Archway plorts automatically collected while you manage feeding and monitor prices
 
-**Note:** You'll need to manually feed the Archway corrals for favorite food bonuses. Food automation is NOT recommended here since drone would distribute to ALL auto-feeders (both Dervish-Ringtail and Boom-Tangle corrals), losing favorite food optimization.
+**Note:** You'll need to manually feed the Archway corrals for favorite food bonuses. Food automation is NOT recommended here since drone would distribute to ALL auto-feeders (both Twin-Flutter and Sloomber-Saber corrals), losing favorite food optimization.
 
-**Battery Management:** Charge with Honey or Dervish Plorts
+**Battery Management:** Charge with Twin, Sloomber, or Flutter Plorts
 
 ---
 
-**Drone 6 - Digsite Plort Collection (Chapter 11+)**
+**Drone 6 - Digsite Plort Collection (Chapter 12+)**
 
-**Purpose:** Automate plort collection from Tabby-based Largo operations
+**Purpose:** Automate plort collection from weather slime operations
 
 **Station Location:** The Digsite - central area
 
@@ -337,20 +337,13 @@ Once you progress through the game, you'll have access to 7 more Ghostly Drones 
 - **Source:** Plort Collector
 - **Destination:** Silo (for price monitoring and storage)
 
-**Result:** Continuously collects ALL plorts from Tabby-Saber and Tabby-Boom corrals and stores them
+**Result:** Continuously collects ALL plorts from Dervish-Ringtail and Tangle-Hyper corrals and stores them
 
-**Expected Result:** Tabby plorts, Saber plorts, and Boom plorts automatically collected
+**Expected Result:** Dervish plorts, Ringtail plorts, Tangle plorts, and Hyper plorts automatically collected
 
-**Note:** You'll need to manually feed the Digsite corrals for favorite food bonuses. Both corrals share the same favorite food (Stony Hens from the coop).
+**Note:** You'll need to manually feed the Digsite corrals for favorite food bonuses (Prickle Pears for Dervish-Ringtail, Painted Hens for Tangle-Hyper).
 
-**Alternative - Food Automation (ACCEPTABLE HERE):** Since both corrals eat the SAME favorite food (Stony Hens), you CAN automate:
-- **Target:** Stony Hens (specific food type)
-- **Source:** Coop
-- **Destination:** Auto-Feeder
-- **Result:** Distributes Stony Hens to ALL auto-feeders (both Tabby-Saber and Tabby-Boom corrals)
-- **Why This Works:** Both largos have Tabby as a component, so Stony Hens are the favorite food for BOTH - you don't lose the 4-plort bonus!
-
-**Battery Management:** Charge with Tabby Plorts (cheap and abundant)
+**Battery Management:** Charge with Dervish Plorts (cheap and high-value - 75 base price)
 
 ### Automation Best Practices
 
@@ -377,8 +370,8 @@ Once you progress through the game, you'll have access to 7 more Ghostly Drones 
 - 1 Dash Pad: Conservatory ↔ The Gully (Chapter 5)
 - 1 Dash Pad: The Gully ↔ The Tidepools (Chapter 6)
 - 1 Dash Pad: Conservatory ↔ The Den (Chapter 8)
-- 1 Dash Pad: Conservatory ↔ The Archway (Chapter 10) - *not yet unlocked at this chapter*
-- 1 Dash Pad: The Den ↔ The Digsite (Chapter 11) - *not yet unlocked at this chapter*
+- 1 Dash Pad: Conservatory ↔ The Archway (Chapter 11) - *not yet unlocked at this chapter*
+- 1 Dash Pad: The Den ↔ The Digsite (Chapter 12) - *not yet unlocked at this chapter*
 
 **Catch-Up Crafting (If You Skipped Earlier):**
 
@@ -434,13 +427,15 @@ If you didn't build Dash Pads in previous chapters, now is a good time to add th
 
 ### Next Chapter Preparation
 
-With your core ranch operations automated, you can now focus on endgame content without worrying about daily ranch management.
+With your core ranch operations automated, you can now focus on the Grey Labyrinth without worrying about daily ranch management.
 
-**Chapter 10 Preparation:**
+**Chapter 10 Preparation: The Grey Labyrinth - Elite Asset Acquisition**
 
-- **Financial Target:** Continue accumulating wealth - drones generate 6,500-8,500 NB/day automatically
-- **Flutter Plort Accumulation:** Your Flutter operations continue producing - stockpile for future drone expansions (need 300 more Flutter Plorts for Drones 4-6)
-- **Exploration Focus:** With ranch automated, dedicate time to treasure pod hunting and resource stockpiling
+- **Financial Target:** Save ~2,000 Newbucks for Radiant Projector crafting
+- **Required Equipment:** Verify you have Heart Module III, Power Core III, Jetpack II, Dash Boots II
+- **Viktor's Call:** If you've popped Boom Gordo (Ch 3) or Flutter Gordo (Ch 4) and it's Day 20+, Viktor will call with Radiant Projector blueprint
+- **Materials Needed:** 10 Hunter Plorts, 10 Boom Plorts, 5 Silky Sand, 5 Lava Dust (for 3-4 Radiant Projectors)
+- **Objective:** Enter Grey Labyrinth, activate Map Data Nodes, capture Twin/Sloomber/Hyper slimes for Chapter 11 integration
 - **Future Drones (4-10):** Hunt the remaining 7 Ghostly Drones for expanded automation:
   - 4 drones in wild zones (Rainbow Fields, Starlight Strand, Ember Valley, Powderfall Bluffs)
   - 3 drones in Grey Labyrinth (endgame content)
@@ -452,4 +447,4 @@ With your core ranch operations automated, you can now focus on endgame content 
 
 **Strategic Position:**
 
-Your ranch is now a self-sustaining empire. Quantum Drones handle all routine tasks while you explore endgame biomes, hunt for rare resources, and prepare for the Grey Labyrinth. The automation infrastructure you've built will continue generating wealth 24/7 while you focus on the final challenges.
+Your ranch is now a self-sustaining empire. Quantum Drones handle all routine tasks while you enter the Grey Labyrinth to capture the rarest, most valuable slimes in the game. The automation infrastructure you've built will continue generating wealth 24/7 while you explore Rainbow Island's most dangerous zone.

@@ -106,8 +106,8 @@ Execute the following build in order:
 **Total Capital Required:**
 - Expansion: 6,000 Newbucks
 - Plots: 1,000 Newbucks (4 plots: 250 + 250 + 250 + 250)
-- Upgrades: ~5,000 Newbucks (gardens, corrals, coop upgrades)
-- **Total: ~12,000 Newbucks**
+- Upgrades: ~7,450 Newbucks (gardens, corrals, coop upgrades)
+- **Total: ~14,450 Newbucks**
 
 **Revenue Added:**
 - Dervish-Ringtail Largos: ~150-200 Newbucks per feeding × 6 slimes = 900-1,200/day
@@ -115,9 +115,9 @@ Execute the following build in order:
 - **Total Digsite Revenue: +2,500-3,500 Newbucks/day (if built)**
 
 **Total Ranch Revenue (after Chapter 12):**
-- Previous Ranch Revenue (Ch 11): ~14,000-20,500 Newbucks/day
+- Previous Ranch Revenue (Ch 11): ~8,500-12,000 Newbucks/day
 - Digsite Addition: +2,500-3,500 Newbucks/day
-- **New Total: ~16,500-24,000+ Newbucks/day**
+- **New Total: ~11,000-15,500+ Newbucks/day**
 
 ### Success Metrics
 
@@ -132,4 +132,4 @@ By the end of Chapter 12, you should have:
 
 ### Next Chapter Preparation
 
-Chapter 13 (The Endgame Audit) requires significant Grey Labyrinth plort stockpiles. Begin systematically farming Shadow Plorts (1,165 total needed) and Prisma Plorts (265 total needed) if you haven't already.
+Chapter 13 (The Endgame Audit) requires significant Grey Labyrinth plort stockpiles. Begin systematically farming Shadow Plorts (1,185 total needed) and Prisma Plorts (245 total needed) if you haven't already.

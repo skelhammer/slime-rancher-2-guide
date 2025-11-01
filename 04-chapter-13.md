@@ -1,3 +1,7 @@
+# Part 4: Endgame Mastery (Chapters 13-15)
+
+_This final part completes all prerequisites for the story finale, stabilizes the Prismacore to save Rainbow Island, and unlocks the post-game sandbox empire. You'll systematically open all Shadow Plort Doors, stockpile endgame resources, complete the main story, and gain access to unlimited creative ranching._
+
 ## Chapter 13: The Endgame Audit
 
 **Mindset:** _Final preparation for Prismacore._
@@ -21,7 +25,9 @@ The Shadow Plort Doors are the Grey Labyrinth's equivalent of Treasure Pods. The
 
 **Door Cost Breakdown:**
 - Costs range from 25-100 Shadow Plorts per door
-- Total needed: 1,165 Shadow Plorts
+- Total for doors: 1,165 Shadow Plorts
+- Additional for Nullifier (Chapter 14): 20 Shadow Plorts
+- **Total Shadow Plorts needed: 1,185**
 - **Store Shadow Plorts in SILOS** until all doors are open (cannot use Refinery plorts for doors)
 
 **Priority Doors (open first):**
@@ -30,11 +36,11 @@ The Shadow Plort Doors are the Grey Labyrinth's equivalent of Treasure Pods. The
 
 #### Phase 2: Prisma Plort Stockpiling
 
-**Objective:** Stockpile ~265 Prisma Plorts total
+**Objective:** Stockpile ~245 Prisma Plorts total
 
 **Prisma Plort Uses:**
 - 90 for Gigi's milestone trades (Chapter 14)
-- 175 for crafting upgrades (various Vacpack upgrades)
+- 155 for crafting upgrades (145 for Vacpack upgrades + 10 for Disruption Detector)
 
 **Prisma Plort Farming Strategy:**
 - During Prisma Disruptions, all food becomes "Unstable"
@@ -66,6 +72,8 @@ The Shadow Plort Doors are the Grey Labyrinth's equivalent of Treasure Pods. The
 **All required resources should be available from:**
 - Grey Labyrinth resource nodes (Magma Comb, Tin Petal, Black Indigonium, Aqua Glass, Dream Bubble, Royal Jelly)
 - Chapter 11-12 slime operations (Twin, Sloomber, Hyper, Ringtail plorts)
+  - If you skipped Chapter 12: Farm wild Hyper slimes in Grey Labyrinth Terrarium for 70 Hyper Plorts
+  - Ringtail plorts available from Chapter 8's Batty-Ringtail largos if Chapter 12 skipped
 - Shadow Plort Door rewards (Storage Cells, Power Chips, Heart Cells)
 
 #### Phase 4: Craft Disruption Detector
@@ -94,7 +102,7 @@ This helps optimize Prisma Plort farming timing.
 
 By the end of Chapter 13, you should have:
 - ✅ All 25 Shadow Plort Doors opened (1,165 Shadow Plorts spent)
-- ✅ ~265 Prisma Plorts stockpiled in SILOS
+- ✅ ~245 Prisma Plorts stockpiled in SILOS
 - ✅ Heart Module IV, Power Core V, Tank Booster V-VIII crafted
 - ✅ Disruption Detector crafted and placed
 - ✅ Ranch automation verified as self-sufficient

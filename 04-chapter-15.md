@@ -1,4 +1,4 @@
-## Chapter 14: Post-Game - Sandbox Empire
+## Chapter 15: Post-Game - Sandbox Empire
 
 > **⚠️ WORK IN PROGRESS:** This chapter is not yet completed or fully verified. Content may be incomplete, inaccurate, or subject to significant changes.
 

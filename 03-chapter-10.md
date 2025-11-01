@@ -212,9 +212,9 @@ Shadow Slimes are unique - they cannot be vacuumed or captured, but they produce
 - Repeat runs as needed
 
 **Shadow Plort Uses:**
-- 1,165 total needed to open all 25 Shadow Plort Doors (Chapter 13)
-- 20 needed for Nullifier crafting (Chapter 14)
-- Additional needs for Shadow Sureshot upgrade (amount TBD)
+- 1,165 for opening all 25 Shadow Plort Doors (Chapter 13)
+- 20 for Nullifier crafting (Chapter 14)
+- **Total needed: 1,185 Shadow Plorts**
 
 **CRITICAL - Store Shadow Plorts in SILOS, not Refinery** (cannot use Refinery plorts to open doors)
 
@@ -238,8 +238,8 @@ Prisma Plorts are created by stabilizing Unstable Plorts during Prisma Disruptio
 
 **Prisma Plort Uses:**
 - 90 total for Gigi's milestone trades (Chapter 14)
-- 175 total for crafting upgrades (various Vacpack upgrades)
-- Total needed: ~265 Prisma Plorts
+- 155 total for crafting upgrades (145 Vacpack upgrades + 10 Disruption Detector)
+- Total needed: ~245 Prisma Plorts
 
 **CRITICAL - Store Prisma Plorts in SILOS, not Refinery** (cannot trade Refinery plorts to Gigi)
 
@@ -297,7 +297,7 @@ By the end of Chapter 10, you should have:
 With elite Grey Labyrinth slimes captured and favorite foods collected, you're ready to integrate these valuable assets into your ranch operations. Chapter 11 (The Archway - Grey Labyrinth Operations) will establish the highest-value plort production on your entire ranch using Twin-Flutter and Sloomber-Saber Largo combinations.
 
 **Preparation for Chapter 11:**
-- Have 9,250 Newbucks saved (Archway expansion + upgrades)
+- Have 12,650 Newbucks saved (Archway expansion + upgrades)
 - Verify you have 10-12 Twin, Sloomber slimes stored
 - Verify you have Polaricherry, Candied Hen stocks
 - Have Saber Slimes available (from Chapter 7 Powderfall Bluffs operations)

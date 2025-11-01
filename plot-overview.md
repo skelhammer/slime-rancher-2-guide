@@ -1,6 +1,6 @@
-# Plot Overview - Complete Ranch Progression (Chapters 1-11)
+# Plot Overview - Complete Ranch Progression (Chapters 1-12)
 
-This document provides a quick reference for ranch plot progression through all chapters.
+This document provides a quick reference for ranch plot progression through all chapters. Note: Chapter 10 focuses on Grey Labyrinth exploration (no ranch changes), and Chapter 12 is optional.
 
 ---
 
@@ -154,6 +154,26 @@ This document provides a quick reference for ranch plot progression through all 
 
 *No ranch changes this chapter - focus on deploying 3 Quantum Drone Stations for automation*
 
+**Revenue:** Unchanged | **Total Ranch:** ~6,500-8,500 Newbucks/day
+
+---
+
+## Chapter 10: The Grey Labyrinth - Elite Asset Acquisition
+
+### All Expansions Unchanged
+
+*No ranch changes this chapter - focus on Grey Labyrinth exploration and slime capture*
+
+**Objectives:**
+- Enter Grey Labyrinth, activate 7 Map Data Nodes
+- Pop Gordos: Twin (50 Fruit), Sloomber (30 Meat), Hyper (30 Veggies)
+- Capture 10-12 of each: Twin Slimes, Sloomber Slimes, Hyper Slimes
+- Collect favorite foods: Polaricherry (40-60), Candied Hens (40-60), Turbo Taters (40-60)
+- Begin Shadow Plort farming (1,185 total needed)
+- Begin Prisma Plort farming (245 total needed)
+
+**Revenue:** Unchanged | **Total Ranch:** ~6,500-8,500 Newbucks/day
+
 ---
 
 ## Chapter 11: The Archway - Grey Labyrinth Operations
@@ -173,7 +193,7 @@ This document provides a quick reference for ranch plot progression through all 
 | 4 | Corral | Sloomber-Saber Largos (6) | Meat | Candied Hens (Plot 3) | Sloomber favorite: Candied Hen. Music Box required. HIGHEST VALUE COMBO. |
 | 5 | Silo | Plort & Food Storage (12 slots) | - | - | Grey Labyrinth plort storage |
 
-**Revenue:** +2,000-3,500 Newbucks/day | **Total Ranch:** ~14,000-20,500 Newbucks/day
+**Revenue:** +2,000-3,500 Newbucks/day | **Total Ranch:** ~8,500-12,000 Newbucks/day
 
 ---
 
@@ -196,7 +216,7 @@ This document provides a quick reference for ranch plot progression through all 
 | 3 | Coop | Painted Hens (6-8) + Roostros (2) | - | - | Feeds Plot 4 |
 | 4 | Corral | Tangle-Hyper Largos (6) | Omnivore | Painted Hens (Plot 3) or Prickle Pear (Plot 1) | Tangle favorite: Painted Hen. Music Box + Air Net REQUIRED. |
 
-**Revenue:** +2,500-3,500 Newbucks/day (if built) | **Total Ranch:** ~16,500-24,000 Newbucks/day
+**Revenue:** +2,500-3,500 Newbucks/day (if built) | **Total Ranch:** ~11,000-15,500 Newbucks/day
 
 ---
 
@@ -208,12 +228,12 @@ This document provides a quick reference for ranch plot progression through all 
 - **The Archway:** 5 plots (2 fruit/meat corrals + 1 coop + 1 garden + 1 silo)
 - **The Digsite:** 4 plots (OPTIONAL - 2 omnivore corrals + 1 coop + 1 garden)
 
-### Total Daily Revenue: 16,500-24,000+ Newbucks/day (with Digsite), 14,000-20,500+ (without Digsite)
+### Total Daily Revenue: 11,000-15,500+ Newbucks/day (with Digsite), 8,500-12,000+ (without Digsite)
 
-### Slime Collection Status (After Chapter 11):
+### Slime Collection Status (After Chapter 12):
 - **Common:** Pink, Cotton, Phosphor, Tabby, Rock ✓
 - **Rare:** Hunter, Honey, Boom, Batty, Crystal, Angler, Flutter, Ringtail, Saber ✓
 - **Grey Labyrinth:** Twin, Sloomber, Hyper ✓
-- **Weather Event:** Dervish, Tangle (if collected in Ch 12)
+- **Weather Event:** Dervish, Tangle (if collected and Chapter 12 completed)
 - **Special:** Puddle, Fire ✓
-- **Pre-Prismacore Collection:** COMPLETE
+- **Pre-Endgame Collection:** COMPLETE
