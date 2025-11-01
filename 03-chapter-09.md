@@ -397,21 +397,21 @@ If you didn't build Dash Pads in previous chapters, now is a good time to add th
 
 **Ghostly Drone Collection:**
 
-- 3 Ghostly Drones found in ranch expansions ✓
-- 3 Drone Station Modules obtained ✓
+- 3 Ghostly Drones found in ranch expansions ✅
+- 3 Drone Station Modules obtained ✅
 
 **Quantum Drone Stations Crafted:**
 
-- Station #1 crafted (5,000 NB + 100 Flutter Plorts + materials) ✓
-- Station #2 crafted (5,000 NB + 100 Flutter Plorts + materials) ✓
-- Station #3 crafted (5,000 NB + 100 Flutter Plorts + materials) ✓
-- Total investment: 15,000 NB + 300 Flutter Plorts + materials ✓
+- Station #1 crafted (5,000 NB + 100 Flutter Plorts + materials) ✅
+- Station #2 crafted (5,000 NB + 100 Flutter Plorts + materials) ✅
+- Station #3 crafted (5,000 NB + 100 Flutter Plorts + materials) ✅
+- Total investment: 15,000 NB + 300 Flutter Plorts + materials ✅
 
 **Drone Deployments:**
 
-- Drone 1: Conservatory automation (All Plort Collectors → Market Link) ✓
-- Drone 2: Gully plort collection (All Plort Collectors → Market Link) ✓
-- Drone 3: Tidepools automation (Puddle Plorts + Fire Plorts) ✓
+- Drone 1: Conservatory automation (All Plort Collectors → Market Link) ✅
+- Drone 2: Gully plort collection (All Plort Collectors → Market Link) ✅
+- Drone 3: Tidepools automation (Puddle Plorts + Fire Plorts) ✅
 
 **Automation Results:**
 
@@ -423,7 +423,7 @@ If you didn't build Dash Pads in previous chapters, now is a good time to add th
 
 **Optional Enhancements:**
 
-- Dash Pads installed if skipped in earlier chapters (3 pads for current expansions: Gully, Tidepools, Den) ✓
+- Dash Pads installed if skipped in earlier chapters (3 pads for current expansions: Gully, Tidepools, Den) ✅
 
 ### Next Chapter Preparation
 

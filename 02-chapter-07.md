@@ -176,32 +176,32 @@ Establish fast-travel access for critical Sun Sap and Perfect Snowflake farming.
 
 **Exploration:**
 
-- Accessed Powderfall Bluffs via waterfall entrance ✓
-- Saber Gordo popped, portal shortcut activated ✓
-- Both Map Data Nodes activated ✓
-- High-priority treasure pods opened (Portal blueprint, Sun Sap x3, Storage Cell) ✓
+- Accessed Powderfall Bluffs via waterfall entrance ✅
+- Saber Gordo popped, portal shortcut activated ✅
+- Both Map Data Nodes activated ✅
+- High-priority treasure pods opened (Portal blueprint, Sun Sap x3, Storage Cell) ✅
 
 **Asset Acquisition:**
 
-- 10-12 Saber Slimes captured ✓
-- 20-30 Thunderclucks collected (including Roostros) ✓
+- 10-12 Saber Slimes captured ✅
+- 20-30 Thunderclucks collected (including Roostros) ✅
 
 **Resource Stockpiles:**
 
-- 50+ Perfect Snowflakes ✓
-- 5-10 Sun Sap (CRITICAL) ✓
-- 30+ Slime Fossils ✓
-- Marked all Sun Sap tree locations for future farming ✓
+- 50+ Perfect Snowflakes ✅
+- 5-10 Sun Sap (CRITICAL) ✅
+- 30+ Slime Fossils ✅
+- Marked all Sun Sap tree locations for future farming ✅
 
 **Infrastructure:**
 
-- Portal placed for quick return access ✓
-- Refinery Link deployed in central valley for efficient resource farming ✓
+- Portal placed for quick return access ✅
+- Refinery Link deployed in central valley for efficient resource farming ✅
 
 **Upgrades Crafted:**
 
-- Extra Tank II (5th vac slot) ✓
-- Tank Guard III (optional) - if Strange Diamonds available ✓
+- Extra Tank II (5th vac slot) ✅
+- Tank Guard III (optional) - if Strange Diamonds available ✅
 
 ### Next Chapter Preparation
 

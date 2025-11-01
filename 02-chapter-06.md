@@ -124,15 +124,15 @@ Execute the following build in order:
 
 ### End of Chapter Completion Checklist
 
-- **Expansion Unlocked:** The Tidepools has been purchased and developed ✓
-- **Passive Income Stream:** Two fully upgraded Puddle Ponds (8 Puddle Slimes total) and two Incinerators (10 Fire Slimes total) are established, generating consistent, low-maintenance profit ✓
-- **Support Infrastructure:** A garden in Plot 5 supports the Fire Slime operation ✓
-- **Resource Stockpile:** You have a large reserve of Deep Brine and Silky Sand ✓
+- **Expansion Unlocked:** The Tidepools has been purchased and developed ✅
+- **Passive Income Stream:** Two fully upgraded Puddle Ponds (8 Puddle Slimes total) and two Incinerators (10 Fire Slimes total) are established, generating consistent, low-maintenance profit ✅
+- **Support Infrastructure:** A garden in Plot 5 supports the Fire Slime operation ✅
+- **Resource Stockpile:** You have a large reserve of Deep Brine and Silky Sand ✅
 - **Essential Upgrades Crafted:**
-  - Tank Booster III (50 capacity) ✓
-  - Power Core III (250 Energy) ✓
-  - Heart Module III (250 HP) ✓
-  - Tank Guard II (40% salvage) ✓
+  - Tank Booster III (50 capacity) ✅
+  - Power Core III (250 Energy) ✅
+  - Heart Module III (250 HP) ✅
+  - Tank Guard II (40% salvage) ✅
 
 ### Next Chapter Preparation
 

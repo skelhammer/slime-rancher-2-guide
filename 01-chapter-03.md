@@ -201,20 +201,20 @@ Establish a complete fast-travel loop between your ranch and Ember Valley using 
 
 ### End of Chapter Completion Checklist
 
-- **Ranch Expansion:** Conservatory expanded to 8 plots with 4 active corral operations ✓
-  - Plot 1-2: Tabby-Cotton Largos + Water Lettuce garden ✓
-  - Plot 3-4: Phosphor-Honey Largos + Cuberry garden ✓
-  - Plot 5-6: Crystal-Rock Largos + Heart Beet garden ✓
-  - Plot 7-8: Boom-Batty Largos + Pomegranite garden ✓
-- **Daily Revenue:** Increased from ~800 to ~2,500+ Newbucks ✓
-- **Gordo Targets:** Rock, Batty, Crystal, and Boom Gordos popped, unlocking key shortcuts and treasure pods ✓
-- **Map Reconnaissance:** Ember Valley Map Data Nodes activated ✓
-- **Resource Stockpile:** Significant quantities of Jellystone, Deep Brine, Primordy Oil, Lava Dust, Radiant Ore, and Wild Honey ✓
+- **Ranch Expansion:** Conservatory expanded to 8 plots with 4 active corral operations ✅
+  - Plot 1-2: Tabby-Cotton Largos + Water Lettuce garden ✅
+  - Plot 3-4: Phosphor-Honey Largos + Cuberry garden ✅
+  - Plot 5-6: Crystal-Rock Largos + Heart Beet garden ✅
+  - Plot 7-8: Boom-Batty Largos + Pomegranite garden ✅
+- **Daily Revenue:** Increased from ~800 to ~2,500+ Newbucks ✅
+- **Gordo Targets:** Rock, Batty, Crystal, and Boom Gordos popped, unlocking key shortcuts and treasure pods ✅
+- **Map Reconnaissance:** Ember Valley Map Data Nodes activated ✅
+- **Resource Stockpile:** Significant quantities of Jellystone, Deep Brine, Primordy Oil, Lava Dust, Radiant Ore, and Wild Honey ✅
 - **Essential Upgrades Crafted:**
-  - Water Tank (Tarr safety) ✓
-  - Dash Boots (ground speed) ✓
-  - Extra Tank (4th vac slot) ✓
-  - Power Core II (200 Energy) ✓
+  - Water Tank (Tarr safety) ✅
+  - Dash Boots (ground speed) ✅
+  - Extra Tank (4th vac slot) ✅
+  - Power Core II (200 Energy) ✅
 
 ### Next Chapter Preparation
 

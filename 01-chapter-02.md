@@ -108,15 +108,15 @@ Execute the following Conservatory expansion:
 
 ### End of Chapter Completion Checklist
 
-- **Gordo Target:** Cotton Gordo popped, granting access to Starlight Strand ✓
-- **Asset Upgrade:** Tabby-Cotton Largos kept running while adding Phosphor-Honey crafting operation ✓
+- **Gordo Target:** Cotton Gordo popped, granting access to Starlight Strand ✅
+- **Asset Upgrade:** Tabby-Cotton Largos kept running while adding Phosphor-Honey crafting operation ✅
 - **Ranch Expansion:** Conservatory expanded to 4 plots with:
-  - Tabby-Cotton Largo corral (from Chapter 1) producing Tabby and Cotton plorts ✓
-  - Phosphor-Honey Largo corral producing essential crafting plorts ✓
-  - Two fully upgraded gardens for Water Lettuce and Cuberries ✓
-  - Plots 5-8 reserved for Chapter 3 expansion ✓
-- **Daily Revenue:** Maintained at ~800-1,000 Newbucks (focus on crafting stockpile, not revenue) ✓
-- **Upgrades:** Power Core and Tank Booster crafted ✓
+  - Tabby-Cotton Largo corral (from Chapter 1) producing Tabby and Cotton plorts ✅
+  - Phosphor-Honey Largo corral producing essential crafting plorts ✅
+  - Two fully upgraded gardens for Water Lettuce and Cuberries ✅
+  - Plots 5-8 reserved for Chapter 3 expansion ✅
+- **Daily Revenue:** Maintained at ~800-1,000 Newbucks (focus on crafting stockpile, not revenue) ✅
+- **Upgrades:** Power Core and Tank Booster crafted ✅
 
 ### Next Chapter Preparation
 

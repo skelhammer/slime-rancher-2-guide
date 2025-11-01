@@ -171,25 +171,25 @@ Establish a complete fast-travel loop for Moondew Nectar farming and Flutter Plo
 
 ### End of Chapter Completion Checklist
 
-- **Gordo Targets:** All 5 Starlight Strand Gordos popped (Hunter, Honey, Ringtail, Angler, Flutter), unlocking crucial portals and shortcuts ✓
-- **Map Reconnaissance:** All Starlight Strand Map Data Nodes activated ✓
-- **Resource Stockpile:** 50+ Buzz Wax, 50+ Wild Honey, 30+ Moondew Nectar ✓
-- **Ranch Operations:** Conservatory unchanged from Chapter 3 ✓
-  - Plot 1-2: Tabby-Cotton Largos + Water Lettuce garden ✓
-  - Plot 3-4: Phosphor-Honey Largos + Cuberry garden ✓
-  - Plot 5-6: Crystal-Rock Largos + Heart Beet garden ✓
-  - Plot 7-8: Boom-Batty Largos + Pomegranite garden ✓
-  - Daily Revenue: ~2,500+ Newbucks ✓
+- **Gordo Targets:** All 5 Starlight Strand Gordos popped (Hunter, Honey, Ringtail, Angler, Flutter), unlocking crucial portals and shortcuts ✅
+- **Map Reconnaissance:** All Starlight Strand Map Data Nodes activated ✅
+- **Resource Stockpile:** 50+ Buzz Wax, 50+ Wild Honey, 30+ Moondew Nectar ✅
+- **Ranch Operations:** Conservatory unchanged from Chapter 3 ✅
+  - Plot 1-2: Tabby-Cotton Largos + Water Lettuce garden ✅
+  - Plot 3-4: Phosphor-Honey Largos + Cuberry garden ✅
+  - Plot 5-6: Crystal-Rock Largos + Heart Beet garden ✅
+  - Plot 7-8: Boom-Batty Largos + Pomegranite garden ✅
+  - Daily Revenue: ~2,500+ Newbucks ✅
 - **Asset Preparation:** Captured slimes for Chapter 5 operations:
-  - 6 Flutter Slimes (for Flutter-Tabby Largos in Gully) ✓
-  - 6 Angler Slimes (for Angler-Crystal Largos in Gully) ✓
+  - 6 Flutter Slimes (for Flutter-Tabby Largos in Gully) ✅
+  - 6 Angler Slimes (for Angler-Crystal Largos in Gully) ✅
 - **Tier II Upgrades Crafted:**
-  - Tank Booster II (40 capacity) ✓
-  - Heart Module II (200 HP) ✓
-  - Jetpack II (20% energy reduction) ✓
-  - Pulse Wave (defensive utility) ✓
-  - Dash Boots II (enhanced sprint) ✓
-  - Tank Guard (20% salvage on damage) ✓
+  - Tank Booster II (40 capacity) ✅
+  - Heart Module II (200 HP) ✅
+  - Jetpack II (20% energy reduction) ✅
+  - Pulse Wave (defensive utility) ✅
+  - Dash Boots II (enhanced sprint) ✅
+  - Tank Guard (20% salvage on damage) ✅
 
 ### Next Chapter Preparation
 

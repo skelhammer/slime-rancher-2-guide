@@ -107,17 +107,17 @@ Execute the following build in order:
 
 ### End of Chapter Completion Checklist
 
-- **Expansion Unlocked:** The Gully has been purchased and developed (5 plots) ✓
+- **Expansion Unlocked:** The Gully has been purchased and developed (5 plots) ✅
 - **Infrastructure Built:**
-  - Plot 1: Stony Hen Coop (primary protein production - Tabby favorite) ✓
-  - Plot 2: Sea Hen Coop (Angler favorite food) ✓
-  - Plot 3: Fully upgraded Silo (12 slots for food distribution) ✓
+  - Plot 1: Stony Hen Coop (primary protein production - Tabby favorite) ✅
+  - Plot 2: Sea Hen Coop (Angler favorite food) ✅
+  - Plot 3: Fully upgraded Silo (12 slots for food distribution) ✅
 - **New Production Divisions:**
-  - Plot 4: Angler-Crystal Largos generating high-value plorts ✓
-  - Plot 5: Flutter-Tabby Largos producing critical Flutter Plorts ✓
-- **Daily Revenue:** +1,500-2,000 Newbucks from The Gully operations ✓
-- **Total Ranch Revenue:** ~4,000-4,500 Newbucks/day (Conservatory + Gully combined) ✓
-- **Flutter Plort Stockpile:** Flutter-Tabby in Gully accumulating plorts in Refinery (target: 300+ for Chapter 9) ✓
+  - Plot 4: Angler-Crystal Largos generating high-value plorts ✅
+  - Plot 5: Flutter-Tabby Largos producing critical Flutter Plorts ✅
+- **Daily Revenue:** +1,500-2,000 Newbucks from The Gully operations ✅
+- **Total Ranch Revenue:** ~4,000-4,500 Newbucks/day (Conservatory + Gully combined) ✅
+- **Flutter Plort Stockpile:** Flutter-Tabby in Gully accumulating plorts in Refinery (target: 300+ for Chapter 9) ✅
 
 ### Next Chapter Preparation
 

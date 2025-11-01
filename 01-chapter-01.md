@@ -136,13 +136,13 @@ Pop the Pink Gordo to unlock access to Ember Valley for Radiant Ore collection (
 
 ### End of Chapter Completion Checklist
 
-- **Primary Revenue Stream:** One corral established with 6 Tabby-Cotton Largos ✓
-- **Gordo Target:** Pink Gordo popped and Ember Valley portal switch activated ✓
+- **Primary Revenue Stream:** One corral established with 6 Tabby-Cotton Largos ✅
+- **Gordo Target:** Pink Gordo popped and Ember Valley portal switch activated ✅
 - **Essential Upgrades Crafted:**
-  - Resource Harvester ✓
-  - Heart Module (150 HP) ✓
-  - Jetpack ✓
-- **Corral Security:** High Walls and Air Net installed on your main corral ✓
+  - Resource Harvester ✅
+  - Heart Module (150 HP) ✅
+  - Jetpack ✅
+- **Corral Security:** High Walls and Air Net installed on your main corral ✅
 
 ### Next Chapter Preparation
 
