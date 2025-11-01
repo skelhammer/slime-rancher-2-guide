@@ -88,9 +88,9 @@ Reference **Appendix F** (Locations & Collectibles) for exact locations once you
 **Key Zones Overview:**
 
 - **Waterworks (Hub):** Central aquatic hub with pipes and waterworks infrastructure. Contains Aqua Glass nodes (ONLY source in Labyrinth). Best entry point via Starlight Strand portal. Multiple locked rooms opened by plort statues. Connects to all major zones.
-- **Impossible Sky:** Grassy overgrown area with ruinous architecture. Contains Twin Slimes, Polaricherry trees, Black Indigonium nodes, and Royal Jelly. Features three plort statues (Shadow, Twin, Sloomber). Twin Gordo located here (unlocks portal to Rainbow Fields). The gilded area near Prismacore is part of this zone.
-- **Lava Depths:** Volcanic area with Magma Comb resource nodes. Accessed via Ember Valley portal with Radiant Projector puzzle. Contains 3 Rock plort statues and 1 Boom plort statue for shortcuts. Heavily stacked vertical rooms make navigation difficult.
-- **Dream Land:** Largest northern area with magenta vegetation, windmills, and Royal Jelly. Divided into 3 sub-areas:
+- **Impossible Sky:** Grassy overgrown area with ruinous architecture. Contains Twin Slimes, Polaricherry trees, Black Indigonium nodes, and Royal Jelly. Features three plort statues (Shadow, Twin, Sloomber). Twin Gordo located here (unlocks portal to Rainbow Fields). The gilded area near Prismacore is part of this zone. **Access to Dream Land unlocked from here, but access to Lava Depths requires entering from Lava Depths side first.**
+- **Lava Depths:** Volcanic area with Magma Comb resource nodes. **Must be accessed first via Ember Valley portal** with Radiant Projector puzzle to unlock the door to Impossible Sky. Contains 3 Rock plort statues and 1 Boom plort statue for shortcuts. Heavily stacked vertical rooms make navigation difficult.
+- **Dream Land:** Largest northern area with magenta vegetation, windmills, and Royal Jelly. Accessible from Impossible Sky. Divided into 3 sub-areas:
   - Central: First arrival point from Impossible Sky (no Sloomber/Candied Hens)
   - North: Contains Sloomber Gordo (portal to Conservatory). Requires Radiant Projector puzzle or pipes from east
   - West: Requires Radiant Projector puzzle (4+ projectors) or flying from north. Contains Shadow Plort Door shortcut to Waterworks
