@@ -93,7 +93,7 @@ Reference **Appendix F** (Locations & Collectibles) for exact locations once you
 - **Dream Land:** Largest northern area with magenta vegetation, windmills, and Royal Jelly. Accessible from Impossible Sky. Divided into 3 sub-areas:
   - Central: First arrival point from Impossible Sky (no Sloomber/Candied Hens)
   - North: Contains Sloomber Gordo (portal to Conservatory). Requires Radiant Projector puzzle or pipes from east
-  - West: Requires Radiant Projector puzzle (4+ projectors) or flying from north. Contains Shadow Plort Door shortcut to Waterworks
+  - West: Requires Radiant Projector puzzle (4 projectors required) or flying from north. Contains Shadow Plort Door shortcut to Waterworks
 - **Terrarium:** Sealed greenhouse biodome containing plants/food/slimes from most Rainbow Island regions. ONLY natural spawn of Hyper Slimes and Turbo Taters. Contains Hyper Gordo. **Access requires:** 3 Radiant Projectors, 1 Hunter Plort, 1 Angler Plort (entry puzzle at Lava Depths/Impossible Sky transition).
 - **Prismacore:** Final zone accessed via plort statue doors (Twin, Shadow, Sloomber required). Contains Gigi's exchange station and story finale. (Chapter 14 content)
 
