@@ -162,15 +162,7 @@ This document provides a quick reference for ranch plot progression through all 
 
 ### All Expansions Unchanged
 
-*No ranch changes this chapter - focus on Grey Labyrinth exploration and slime capture*
-
-**Objectives:**
-- Enter Grey Labyrinth, activate 7 Map Data Nodes
-- Pop Gordos: Twin (50 Fruit), Sloomber (30 Meat), Hyper (30 Veggies)
-- Capture 10-12 of each: Twin Slimes, Sloomber Slimes, Hyper Slimes
-- Collect favorite foods: Polaricherry (40-60), Candied Hens (40-60), Turbo Taters (40-60)
-- Begin Shadow Plort farming (1,185 total needed)
-- Begin Prisma Plort farming (245 total needed)
+*No ranch changes this chapter - Grey Labyrinth exploration only*
 
 **Revenue:** Unchanged | **Total Ranch:** ~6,500-8,500 Newbucks/day
 
