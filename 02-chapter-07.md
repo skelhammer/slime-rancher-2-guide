@@ -172,36 +172,23 @@ Establish fast-travel access for critical Sun Sap and Perfect Snowflake farming.
 - Aurora bridges appear only at night. Many treasure pods and shortcuts require these glowing bridges. Plan exploration during nighttime hours (after 6 PM game time).
 - Weather Events: Powderfall Bluffs experiences dynamic weather including thunderstorms (when Lightning Motes spawn) and blizzards (reduced visibility).
 
-### End of Chapter Completion Checklist
+### End of Chapter Checklist
 
-**Exploration:**
-
-- Accessed Powderfall Bluffs via waterfall entrance ✅
-- Saber Gordo popped, portal shortcut activated ✅
-- Both Map Data Nodes activated ✅
-- High-priority treasure pods opened (Portal blueprint, Sun Sap x3, Storage Cell) ✅
-
-**Asset Acquisition:**
-
-- 10-12 Saber Slimes captured ✅
-- 20-30 Thunderclucks collected (including Roostros) ✅
-
-**Resource Stockpiles:**
-
-- 50+ Perfect Snowflakes ✅
-- 5-10 Sun Sap (CRITICAL) ✅
-- 30+ Slime Fossils ✅
-- Marked all Sun Sap tree locations for future farming ✅
-
-**Infrastructure:**
-
-- Portal placed for quick return access ✅
-- Refinery Link deployed in central valley for efficient resource farming ✅
-
-**Upgrades Crafted:**
-
-- Extra Tank II (5th vac slot) ✅
-- Tank Guard III (optional) - if Strange Diamonds available ✅
+By the end of Chapter 7, you should have:
+- ✅ Accessed Powderfall Bluffs via waterfall entrance
+- ✅ Saber Gordo popped, portal shortcut activated
+- ✅ Both Map Data Nodes activated
+- ✅ High-priority treasure pods opened (Portal blueprint, Sun Sap x3, Storage Cell)
+- ✅ 10-12 Saber Slimes captured
+- ✅ 20-30 Thunderclucks collected (including Roostros)
+- ✅ 50+ Perfect Snowflakes stockpiled
+- ✅ 5-10 Sun Sap stockpiled (CRITICAL endgame resource)
+- ✅ 30+ Slime Fossils stockpiled
+- ✅ All Sun Sap tree locations marked for future farming
+- ✅ Portal placed for quick return access
+- ✅ Refinery Link deployed in central valley for efficient resource farming
+- ✅ Extra Tank II crafted (5th vac slot)
+- ✅ Tank Guard III crafted (optional - if Strange Diamonds available)
 
 ### Next Chapter Preparation
 

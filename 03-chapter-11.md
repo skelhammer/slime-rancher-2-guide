@@ -114,7 +114,7 @@ Connect your ranch expansions with two-way teleporters for quick travel between 
 
 **Total Investment:** 11,800 NB + materials (all 6 ranch teleporters)
 
-### End of Chapter Completion Checklist
+### End of Chapter Checklist
 
 By the end of Chapter 11, you should have:
 - ✅ The Archway expansion unlocked and operational

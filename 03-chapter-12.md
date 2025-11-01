@@ -102,11 +102,11 @@ Execute the following build in order:
 - The Digsite ↔ Grey Labyrinth Terrarium (Hyper slime zone)
 - 4,000 NB + 30 Dervish Plorts + 20 Tin Petal + 10 Dream Bubble + 10 Aqua Glass + 2 Royal Jelly
 
-### End of Chapter Completion Checklist
+### End of Chapter Checklist
 
 **IMPORTANT:** This chapter is optional. If you haven't collected weather slimes or find them too difficult to manage, skip this expansion entirely and proceed to Chapter 13.
 
-**If you completed this chapter, verify:
+By the end of Chapter 12, you should have:
 - ✅ The Digsite expansion unlocked and operational (OR intentionally skipped)
 - ✅ Dervish-Ringtail Largos established in Plot 2 (if built)
 - ✅ Tangle-Hyper Largos established in Plot 4 (if built)

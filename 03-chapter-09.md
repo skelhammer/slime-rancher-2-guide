@@ -393,37 +393,24 @@ If you didn't build Dash Pads in previous chapters, now is a good time to add th
 
 **Investment:** 500 Newbucks per Dash Pad × 3 current expansions = ~1,500 Newbucks (if catching up)
 
-### End of Chapter Completion Checklist
+### End of Chapter Checklist
 
-**Ghostly Drone Collection:**
-
-- 3 Ghostly Drones found in ranch expansions ✅
-- 3 Drone Station Modules obtained ✅
-
-**Quantum Drone Stations Crafted:**
-
-- Station #1 crafted (5,000 NB + 100 Flutter Plorts + materials) ✅
-- Station #2 crafted (5,000 NB + 100 Flutter Plorts + materials) ✅
-- Station #3 crafted (5,000 NB + 100 Flutter Plorts + materials) ✅
-- Total investment: 15,000 NB + 300 Flutter Plorts + materials ✅
-
-**Drone Deployments:**
-
-- Drone 1: Conservatory automation (All Plort Collectors → Market Link) ✅
-- Drone 2: Gully plort collection (All Plort Collectors → Market Link) ✅
-- Drone 3: Tidepools automation (Puddle Plorts + Fire Plorts) ✅
-
-**Automation Results:**
-
-- Conservatory: Fully automated plort collection from 8 plots (saves 15+ minutes/day)
-- Gully: Fully automated plort collection from 5 plots (saves 10 minutes/day)
-- Tidepools: Fully automated plort collection (saves 5 minutes/day)
-- Total daily ranch time: Reduced from 30-40 minutes to <10 minutes
-- Daily passive income: 6,500-8,500+ Newbucks with minimal management
-
-**Optional Enhancements:**
-
-- Dash Pads installed if skipped in earlier chapters (3 pads for current expansions: Gully, Tidepools, Den) ✅
+By the end of Chapter 9, you should have:
+- ✅ 3 Ghostly Drones found in ranch expansions
+- ✅ 3 Drone Station Modules obtained
+- ✅ Quantum Drone Station #1 crafted and deployed (5,000 NB + 100 Flutter Plorts + materials)
+- ✅ Quantum Drone Station #2 crafted and deployed (5,000 NB + 100 Flutter Plorts + materials)
+- ✅ Quantum Drone Station #3 crafted and deployed (5,000 NB + 100 Flutter Plorts + materials)
+- ✅ Total investment: 15,000 NB + 300 Flutter Plorts + materials
+- ✅ Drone 1: Conservatory automation (All Plort Collectors → Market Link)
+- ✅ Drone 2: Gully plort collection (All Plort Collectors → Market Link)
+- ✅ Drone 3: Tidepools automation (Puddle Plorts + Fire Plorts)
+- ✅ Conservatory fully automated (saves 15+ minutes/day)
+- ✅ Gully fully automated (saves 10 minutes/day)
+- ✅ Tidepools fully automated (saves 5 minutes/day)
+- ✅ Total daily ranch time reduced from 30-40 minutes to <10 minutes
+- ✅ Daily passive income: 6,500-8,500+ Newbucks with minimal management
+- ✅ Dash Pads installed (optional enhancement)
 
 ### Next Chapter Preparation
 
