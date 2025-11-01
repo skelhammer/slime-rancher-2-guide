@@ -84,22 +84,23 @@ Execute the following build in order:
 
 #### Phase 4: Infrastructure Gadgets (Optional Quality-of-Life)
 
-**Market Link Placement:**
-- **Location:** Central area of The Digsite near Plots 2 and 4 (corrals)
-- **Cost:** 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
-- **Purpose:** Quickly sell Dervish, Ringtail, Tangle, and Hyper plorts without traveling through Den to Conservatory
-- **Usage:** Sell all weather event plorts here (no plorts need stockpiling)
+**Market Link:**
+- Central area near Plots 2 and 4 (corrals)
+- 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
 
-**Refinery Link Placement:**
-- **Location:** Near entrance from The Den
-- **Cost:** 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
-- **Purpose:** Convenient deposit point for resources collected during exploration or occasional spawns
-- **Note:** The Digsite primarily houses rare slimes, not a major exploration resource zone
+**Refinery Link:**
+- Near entrance from The Den
+- 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
 
-**Dash Pad Placement:**
-- **Location:** Path between The Den entrance and The Digsite entrance
-- **Cost:** 500 NB + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
-- **Purpose:** Sprint with zero energy cost between Den and Digsite
+**Dash Pad:**
+- Path between The Den entrance and The Digsite entrance
+- 500 NB + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
+
+#### Phase 5: Digsite Teleporter (Optional Quality-of-Life)
+
+**Amber Teleporter - The Digsite ↔ Grey Labyrinth Terrarium**
+- The Digsite ↔ Grey Labyrinth Terrarium (Hyper slime zone)
+- 4,000 NB + 30 Dervish Plorts + 20 Tin Petal + 10 Dream Bubble + 10 Aqua Glass + 2 Royal Jelly
 
 ### End of Chapter Completion Checklist
 

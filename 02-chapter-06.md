@@ -78,22 +78,17 @@ Execute the following build in order:
 
 #### Phase 4: Infrastructure Gadgets (Optional Quality-of-Life)
 
-**Market Link Placement:**
-- **Location:** Central area near Ponds (Plots 1 & 2)
-- **Cost:** 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
-- **Purpose:** Quickly sell Puddle and Fire Plorts without traveling through Gully to Conservatory
-- **Usage:** Sell all plorts from Tidepools operations here (no plorts need stockpiling)
+**Market Link:**
+- Central area near Ponds (Plots 1 & 2)
+- 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
 
-**Refinery Link Placement:**
-- **Location:** Near entrance from The Gully
-- **Cost:** 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
-- **Purpose:** Convenient deposit point for resources collected during exploration
-- **Note:** Tidepools primarily generates passive income, not exploration resources
+**Refinery Link:**
+- Near entrance from The Gully
+- 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
 
-**Dash Pad Placement:**
-- **Location:** Path between The Gully entrance and Tidepools entrance
-- **Cost:** 500 NB + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
-- **Purpose:** Sprint with zero energy cost between Gully and Tidepools
+**Dash Pad:**
+- Path between The Gully entrance and Tidepools entrance
+- 500 NB + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
 
 #### Phase 5: Tier III Vacpack Upgrades
 
@@ -122,17 +117,19 @@ Execute the following build in order:
 3. Power Core III (energy for extended exploration)
 4. Tank Guard II (defensive insurance - optional but recommended)
 
-### End of Chapter Completion Checklist
+### End of Chapter Checklist
 
-- **Expansion Unlocked:** The Tidepools has been purchased and developed ✅
-- **Passive Income Stream:** Two fully upgraded Puddle Ponds (8 Puddle Slimes total) and two Incinerators (10 Fire Slimes total) are established, generating consistent, low-maintenance profit ✅
-- **Support Infrastructure:** A garden in Plot 5 supports the Fire Slime operation ✅
-- **Resource Stockpile:** You have a large reserve of Deep Brine and Silky Sand ✅
-- **Essential Upgrades Crafted:**
-  - Tank Booster III (50 capacity) ✅
-  - Power Core III (250 Energy) ✅
-  - Heart Module III (250 HP) ✅
-  - Tank Guard II (40% salvage) ✅
+By the end of Chapter 6, you should have:
+- ✅ The Tidepools expansion purchased and developed (5 plots)
+- ✅ Two fully upgraded Puddle Ponds (8 Puddle Slimes total)
+- ✅ Two Incinerators (10 Fire Slimes total)
+- ✅ Passive income stream established (consistent, low-maintenance profit)
+- ✅ Garden in Plot 5 supporting the Fire Slime operation
+- ✅ Large reserve of Deep Brine and Silky Sand stockpiled
+- ✅ Tank Booster III crafted (50 capacity)
+- ✅ Power Core III crafted (250 Energy)
+- ✅ Heart Module III crafted (250 HP)
+- ✅ Tank Guard II crafted (40% salvage)
 
 ### Next Chapter Preparation
 

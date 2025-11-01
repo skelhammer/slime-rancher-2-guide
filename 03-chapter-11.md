@@ -72,107 +72,47 @@ Execute the following build in order:
 
 #### Phase 4: Infrastructure Gadgets (Optional Quality-of-Life)
 
-**Market Link Placement:**
-- **Location:** Central area of The Archway near Plots 2 and 4 (corrals)
-- **Cost:** 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
-- **Purpose:** Quickly sell Twin, Sloomber, and Saber plorts without traveling to Conservatory
-- **Usage:** Can sell all plorts here OR store in Silo for later sale
+**Market Link:**
+- Central area near Plots 2 and 4 (corrals)
+- 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
 
-**Refinery Link Placement:**
-- **Location:** Near entrance from The Conservatory
-- **Cost:** 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
-- **Purpose:** Deposit resources collected during Grey Labyrinth farming runs
-- **Usage:** Convenient drop-off point before returning to Grey Labyrinth
+**Refinery Link:**
+- Near entrance from The Conservatory
+- 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
 
-**Dash Pad Placement:**
-- **Location:** Path between Conservatory entrance and The Archway entrance
-- **Cost:** 500 NB + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
-- **Purpose:** Sprint with zero energy cost between Conservatory and Archway
+**Dash Pad:**
+- Path between Conservatory entrance and The Archway entrance
+- 500 NB + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
 
-#### Phase 5: Teleporter Network (Optional Quality-of-Life)
+#### Phase 5: Ranch Teleporter Network (Optional Quality-of-Life)
 
-**Purpose:** Establish two-way teleporter connections between ranch areas and Grey Labyrinth for fast travel.
+Connect your ranch expansions with two-way teleporters for quick travel between areas.
 
-**Why Teleporters?**
-- **Two-way travel:** Unlike Refinery Links (one-way), Teleporters allow instant round-trip transport
-- **Grey Labyrinth access:** Dramatically speeds up Shadow/Prisma Plort farming runs
-- **Ranch navigation:** Quick travel between distant expansions
-- **Keep Refinery Links:** Teleporters augment (not replace) your existing one-way Refinery Links
+**1. Violet Teleporter - Conservatory ↔ The Gully**
+- Conservatory central ↔ The Gully central
+- 1,200 NB + 30 Phosphor Plorts + 20 Primordy Oil + 20 Radiant Ore + 10 Silky Sand + 2 Strange Diamonds
 
-**Recommended Teleporter Network (10 teleporter sets total):**
+**2. Pink Teleporter - Conservatory ↔ The Tidepools**
+- Conservatory central ↔ The Tidepools central
+- 1,200 NB + 30 Pink Plorts + 10 Jellystone + 10 Radiant Ore + 5 Lava Dust + 2 Strange Diamonds
 
-**Tier 1 - Essential Grey Labyrinth Access:**
+**3. Snowy Teleporter - Conservatory ↔ The Den**
+- Conservatory central ↔ The Den central
+- 1,200 NB + 30 Ringtail Plorts + 20 Slime Fossil + 20 Radiant Ore + 10 Lava Dust + 2 Strange Diamonds
 
-**1. Gold Teleporter - Conservatory ↔ Grey Labyrinth Waterworks**
-- **Cost:** 1,200 NB + 30 Twin Plorts + 20 Tin Petal + 20 Radiant Ore + 10 Wild Honey + 2 Royal Jelly
-- **Placement:** Conservatory (near Lab) ↔ Waterworks central hub (near Stabilizing Gate)
-- **Priority:** HIGHEST - Your main Grey Labyrinth farming access
+**4. Grey Teleporter - Conservatory ↔ The Archway**
+- Conservatory central ↔ The Archway central
+- 2,000 NB + 30 Tabby Plorts + 15 Buzz Wax + 15 Radiant Ore + 10 Silky Sand + 2 Strange Diamonds
 
-**2. Blue Teleporter - Grey Labyrinth Internal (Waterworks ↔ Dream Land)**
-- **Cost:** 2,000 NB + 30 Rock Plorts + 10 Deep Brine + 10 Radiant Ore + 5 Wild Honey + 2 Strange Diamonds
-- **Placement:** Waterworks hub ↔ Dream Land North (near Sloomber portal)
-- **Priority:** HIGH - Fast travel within Grey Labyrinth between farming zones
+**5. Green Teleporter - The Gully ↔ The Tidepools**
+- The Gully ↔ The Tidepools
+- 3,000 NB + 30 Twin Plorts + 20 Tin Petal + 10 Black Indigonium + 10 Dream Bubble + 2 Royal Jelly
 
-**Tier 2 - Ranch Expansion Network:**
+**6. Red Teleporter - The Den ↔ The Archway**
+- The Den ↔ The Archway
+- 3,000 NB + 30 Hyper Plorts + 20 Tin Petal + 10 Aqua Glass + 10 Magma Comb + 2 Royal Jelly
 
-**3. Violet Teleporter - Conservatory ↔ The Gully**
-- **Cost:** 1,200 NB + 30 Phosphor Plorts + 20 Primordy Oil + 20 Radiant Ore + 10 Silky Sand + 2 Strange Diamonds
-- **Placement:** Conservatory central ↔ The Gully central
-- **Why:** Connect main hub to western carnivore operations
-
-**4. Pink Teleporter - Conservatory ↔ The Tidepools**
-- **Cost:** 1,200 NB + 30 Pink Plorts + 10 Jellystone + 10 Radiant Ore + 5 Lava Dust + 2 Strange Diamonds
-- **Placement:** Conservatory central ↔ The Tidepools central
-- **Why:** Quick access to passive income area
-
-**5. Snowy Teleporter - Conservatory ↔ The Den**
-- **Cost:** 1,200 NB + 30 Ringtail Plorts + 20 Slime Fossil + 20 Radiant Ore + 10 Lava Dust + 2 Strange Diamonds
-- **Placement:** Conservatory central ↔ The Den central
-- **Why:** Fast travel to nocturnal operations (you have Ringtail Plorts from Ch 8)
-
-**6. Grey Teleporter - Conservatory ↔ The Archway**
-- **Cost:** 2,000 NB + 30 Tabby Plorts + 15 Buzz Wax + 15 Radiant Ore + 10 Silky Sand + 2 Strange Diamonds
-- **Placement:** Conservatory central ↔ The Archway central
-- **Why:** Quick access to your new Grey Labyrinth slime operations
-
-**Tier 3 - Advanced Connections (Optional):**
-
-**7. Green Teleporter - The Gully ↔ The Tidepools**
-- **Cost:** 3,000 NB + 30 Twin Plorts + 20 Tin Petal + 10 Black Indigonium + 10 Dream Bubble + 2 Royal Jelly
-- **Placement:** The Gully ↔ The Tidepools
-- **Why:** Connect western and southern expansions (saves travel through Conservatory)
-
-**8. Red Teleporter - The Den ↔ The Archway**
-- **Cost:** 3,000 NB + 30 Hyper Plorts + 20 Tin Petal + 10 Aqua Glass + 10 Magma Comb + 2 Royal Jelly
-- **Placement:** The Den ↔ The Archway
-- **Why:** Connect eastern expansions (requires Hyper Plorts from Ch 12 or wild farming)
-
-**9. Amber Teleporter - The Digsite ↔ Grey Labyrinth (if Chapter 12 built)**
-- **Cost:** 4,000 NB + 30 Dervish Plorts + 20 Tin Petal + 10 Dream Bubble + 10 Aqua Glass + 2 Royal Jelly
-- **Placement:** The Digsite ↔ Grey Labyrinth Terrarium
-- **Why:** Direct access from weather slime operations to Hyper slime zone (ONLY if you built Ch 12)
-
-**10. Berry Teleporter - Grey Labyrinth Internal (Impossible Sky ↔ Lava Depths)**
-- **Cost:** 4,000 NB + 30 Sloomber Plorts + 20 Tin Petal + 10 Black Indigonium + 10 Magma Comb + 2 Royal Jelly
-- **Placement:** Impossible Sky ↔ Lava Depths
-- **Why:** Complete Grey Labyrinth coverage (you're producing Sloomber Plorts from The Archway)
-
-**Total Investment:**
-- **Tier 1 (Essential):** 3,200 NB - Grey Labyrinth access and internal travel
-- **Tier 2 (Ranch Network):** 8,000 NB - Connect all ranch expansions to Conservatory hub
-- **Tier 3 (Advanced):** 14,000 NB - Cross-connections and complete coverage
-- **Grand Total:** 25,200 Newbucks + materials (if building all 10)
-
-**When to Craft:**
-- Craft after establishing Archway operations (you'll have Twin Plorts)
-- Grey Labyrinth resources available from Chapter 10 exploration
-- Wait until you have 15,000+ NB surplus (don't delay Chapter 12-13 progress)
-
-**Important Notes:**
-- Each teleporter set creates TWO devices (you place both ends)
-- Teleporters require line-of-sight between devices to function
-- Cannot use teleporters while carrying Unstable items during Prisma Disruptions
-- Different colored teleporters are independent networks (Gold teleporter only connects to other Gold teleporter)
+**Total Investment:** 11,800 NB + materials (all 6 ranch teleporters)
 
 ### End of Chapter Completion Checklist
 

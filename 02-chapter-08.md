@@ -153,22 +153,17 @@ This chapter involves reorganizing existing ranch operations across multiple exp
 
 #### Phase 6: Infrastructure Gadgets (Optional Quality-of-Life)
 
-**Market Link Placement:**
-- **Location:** Central area of The Den near Plots 1-3 (corrals)
-- **Cost:** 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
-- **Purpose:** Quickly sell Boom, Batty, Phosphor, and Ringtail plorts without traveling to Conservatory
-- **Usage:** Sell all plorts EXCEPT Flutter Plorts (deposit those in Refinery instead)
+**Market Link:**
+- Central area near Plots 1-3 (corrals)
+- 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
 
-**Refinery Link Placement:**
-- **Location:** Near entrance from The Conservatory
-- **Cost:** 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
-- **Purpose:** Deposit Flutter Plorts for stockpiling and occasional Jellystone that spawns in The Den
-- **Usage:** This is the PRIMARY deposit point for Flutter Plorts from Den operations
+**Refinery Link:**
+- Near entrance from The Conservatory
+- 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
 
-**Dash Pad Placement:**
-- **Location:** Path between Conservatory entrance and The Den entrance
-- **Cost:** 500 NB + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
-- **Purpose:** Sprint with zero energy cost between Conservatory and Den
+**Dash Pad:**
+- Path between Conservatory entrance and The Den entrance
+- 500 NB + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
 
 #### Additional Reorganization Tips
 
@@ -178,46 +173,30 @@ This chapter involves reorganizing existing ranch operations across multiple exp
 - **Solar Shields:** Conservatory has 2 Solar Shields (Phosphor-Honey Plot 3, Flutter-Honey Plot 7). The Den requires none due to permanent darkness.
 - **Occasional Spawns:** Jellystone occasionally spawns in The Den, providing a convenient backup crafting resource.
 
-### End of Chapter Completion Checklist
+### End of Chapter Checklist
 
-**Expansion Status:**
-
-- The Den unlocked and fully developed (5 plots) ✅
-- Conservatory reorganized (8 plots) ✅
-- The Gully reorganized (5 plots) ✅
-- Tidepools unchanged (5 plots) ✅
-
-**The Den Operations:**
-
-- Plot 1: Boom-Batty Largos (relocated, no Solar Shield needed) ✅
-- Plot 2: Flutter-Phosphor Largos (NEW, no Solar Shield needed) ✅
-- Plot 3: Batty-Ringtail Largos (NEW, no Solar Shield needed, both components nocturnal) ✅
-- Plots 4-5: Pomegranite and Cuberry gardens ✅
-- All nocturnal slimes consolidated in naturally dark environment ✅
-
-**Conservatory Reorganization:**
-
-- Plot 1-2: Tabby-Cotton Largos + Water Lettuce (unchanged from Ch2) ✅
-- Plot 3-4: Phosphor-Honey Largos + Cuberries (unchanged from Ch2, has Solar Shield) ✅
-- Plot 5-6: Crystal-Rock Largos + Heart Beets (unchanged from Ch3) ✅
-- Plot 7-8: Flutter-Honey Largos + Mint Mangos (NEW - replaced Boom-Batty, reuses Solar Shield) ✅
-- Theme: 2 veggie corrals + 2 fruit corrals (both fruit corrals have Solar Shields for nocturnal components) ✅
-
-**Gully Reorganization:**
-
-- Plot 1: Thundercluck Coop (converted from Stony Hens) ✅
-- Plot 2: Sea Hen Coop (unchanged from Chapter 5) ✅
-- Plot 3: Food Storage Silo (unchanged from Chapter 5) ✅
-- Plot 4: Angler-Crystal Largos (unchanged from Chapter 5) ✅
-- Plot 5: Saber-Hunter Largos (NEW - replaced Flutter-Tabby) ✅
-- Theme: Pure carnivore operations with specialty protein ✅
-
-**Production Metrics:**
-
-- Flutter Plort accumulation: 24-36 per day from 2 sources ✅
-- Total ranch revenue: 6,500-8,500+ Newbucks/day ✅
-- Solar Shield savings: 1,275 Newbucks one-time reduction ✅
-- Food type optimization: Fruit (Den), Veggie (Conservatory), Meat (Gully) ✅
+By the end of Chapter 8, you should have:
+- ✅ The Den expansion unlocked and fully developed (5 plots)
+- ✅ Conservatory reorganized (8 plots)
+- ✅ The Gully reorganized (5 plots)
+- ✅ The Tidepools unchanged (5 plots)
+- ✅ Den Plot 1: Boom-Batty Largos (relocated from Conservatory, no Solar Shield needed)
+- ✅ Den Plot 2: Flutter-Phosphor Largos (NEW, no Solar Shield needed)
+- ✅ Den Plot 3: Batty-Ringtail Largos (NEW, no Solar Shield needed)
+- ✅ Den Plots 4-5: Pomegranite and Cuberry gardens
+- ✅ All nocturnal slimes consolidated in naturally dark environment
+- ✅ Conservatory Plot 1-2: Tabby-Cotton Largos + Water Lettuce
+- ✅ Conservatory Plot 3-4: Phosphor-Honey Largos + Cuberries (has Solar Shield)
+- ✅ Conservatory Plot 5-6: Crystal-Rock Largos + Heart Beets
+- ✅ Conservatory Plot 7-8: Flutter-Honey Largos + Mint Mangos (NEW, reuses Solar Shield)
+- ✅ Gully Plot 1: Thundercluck Coop (converted from Stony Hens)
+- ✅ Gully Plot 2: Sea Hen Coop
+- ✅ Gully Plot 3: Food Storage Silo
+- ✅ Gully Plot 4: Angler-Crystal Largos
+- ✅ Gully Plot 5: Saber-Hunter Largos (NEW - replaced Flutter-Tabby)
+- ✅ Flutter Plort accumulation: 24-36 per day from 2 sources
+- ✅ Total ranch revenue: 6,500-8,500+ Newbucks/day
+- ✅ Food type optimization: Fruit (Den), Veggie (Conservatory), Meat (Gully)
 
 ### Next Chapter Preparation
 

@@ -342,6 +342,24 @@ This chapter is about resource gathering and asset acquisition, not revenue gene
 - Sloomber-Saber Largos: ~150-250 Newbucks per feeding
 - **Combined Archway Revenue: +2,000-3,500 Newbucks/day** (Chapter 11)
 
+#### Phase 6: Teleporter Network (Optional Quality-of-Life)
+
+Two-way teleporters allow instant round-trip transport, unlike one-way Refinery Links. Craft these to speed up Grey Labyrinth farming runs.
+
+**1. Gold Teleporter - Conservatory ↔ Grey Labyrinth Waterworks**
+- Conservatory (near Lab) ↔ Waterworks central hub (near Stabilizing Gate)
+- 1,200 NB + 30 Twin Plorts + 20 Tin Petal + 20 Radiant Ore + 10 Wild Honey + 2 Royal Jelly
+
+**2. Blue Teleporter - Grey Labyrinth Internal (Waterworks ↔ Dream Land)**
+- Waterworks hub ↔ Dream Land North (near Sloomber portal)
+- 2,000 NB + 30 Rock Plorts + 10 Deep Brine + 10 Radiant Ore + 5 Wild Honey + 2 Strange Diamonds
+
+**Notes:**
+- Each teleporter set creates TWO devices (you place both ends)
+- Teleporters require line-of-sight between devices to function
+- Cannot use teleporters while carrying Unstable items during Prisma Disruptions
+- Different colored teleporters are independent networks
+
 ### End of Chapter Checklist
 
 By the end of Chapter 10, you should have:

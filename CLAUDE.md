@@ -101,11 +101,16 @@ Before considering changes complete, verify:
 
 ### Git and Version Control
 
-**Important Rules:**
-- **DO NOT commit changes** unless the user explicitly requests it
+**CRITICAL RULES - READ CAREFULLY:**
+- **NEVER commit or push changes automatically** - ONLY commit/push when the user EXPLICITLY asks you to
+- **DO NOT commit after making edits** - Just make the edits and STOP
+- **DO NOT push after committing** - Only push when explicitly requested
+- The user will tell you when they want changes committed and pushed
 - Never use `git add .` - be selective about what files to stage
-- When committing, use descriptive messages that reference version numbers
+- When committing (only when asked), use descriptive messages that reference version numbers
 - Example: `git commit -m "v0.2 - Saber Strategies Edition: Update Chapter 7 and Appendix A"`
+
+**The user has repeatedly asked you to stop auto-committing. Follow this rule without exception.**
 
 ### Common Pitfalls to Avoid
 

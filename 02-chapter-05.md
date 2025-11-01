@@ -88,36 +88,30 @@ Execute the following build in order:
 
 #### Phase 4: Infrastructure Gadgets (Optional Quality-of-Life)
 
-**Market Link Placement:**
-- **Location:** Central area of The Gully near Plot 3 (Silo)
-- **Cost:** 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
-- **Purpose:** Quickly sell plorts from Gully operations without traveling to Conservatory
-- **Usage:** Sell Angler, Crystal, Tabby plorts here. Store Flutter Plorts in Refinery instead
+**Market Link:**
+- Central area near Plot 3 (Silo)
+- 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
 
-**Refinery Link Placement:**
-- **Location:** Near entrance of The Gully (convenient for depositing after exploration runs)
-- **Cost:** 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
-- **Purpose:** Deposit crafting materials and food resources before returning to exploration
-- **Usage:** Deposit Flutter Plorts here for stockpiling (DO NOT sell at Market Link)
+**Refinery Link:**
+- Near entrance
+- 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
 
-**Dash Pad Placement:**
-- **Location:** Near entrance for quick travel to central plot area
-- **Cost:** 500 NB + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
-- **Purpose:** Sprint with zero energy cost between entrance and operations area
+**Dash Pad:**
+- Near entrance
+- 500 NB + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
 
-### End of Chapter Completion Checklist
+### End of Chapter Checklist
 
-- **Expansion Unlocked:** The Gully has been purchased and developed (5 plots) ✅
-- **Infrastructure Built:**
-  - Plot 1: Stony Hen Coop (primary protein production - Tabby favorite) ✅
-  - Plot 2: Sea Hen Coop (Angler favorite food) ✅
-  - Plot 3: Fully upgraded Silo (12 slots for food distribution) ✅
-- **New Production Divisions:**
-  - Plot 4: Angler-Crystal Largos generating high-value plorts ✅
-  - Plot 5: Flutter-Tabby Largos producing critical Flutter Plorts ✅
-- **Daily Revenue:** +1,500-2,000 Newbucks from The Gully operations ✅
-- **Total Ranch Revenue:** ~4,000-4,500 Newbucks/day (Conservatory + Gully combined) ✅
-- **Flutter Plort Stockpile:** Flutter-Tabby in Gully accumulating plorts in Refinery (target: 300+ for Chapter 9) ✅
+By the end of Chapter 5, you should have:
+- ✅ The Gully expansion purchased and developed (5 plots)
+- ✅ Plot 1: Stony Hen Coop (primary protein production - Tabby favorite)
+- ✅ Plot 2: Sea Hen Coop (Angler favorite food)
+- ✅ Plot 3: Fully upgraded Silo (12 slots for food distribution)
+- ✅ Plot 4: Angler-Crystal Largos generating high-value plorts
+- ✅ Plot 5: Flutter-Tabby Largos producing critical Flutter Plorts
+- ✅ Daily revenue from The Gully: +1,500-2,000 Newbucks
+- ✅ Total ranch revenue: ~4,000-4,500 Newbucks/day (Conservatory + Gully combined)
+- ✅ Flutter Plorts accumulating in Refinery (target: 300+ for Chapter 9)
 
 ### Next Chapter Preparation
 

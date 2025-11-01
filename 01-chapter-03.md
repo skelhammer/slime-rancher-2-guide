@@ -199,22 +199,22 @@ Establish a complete fast-travel loop between your ranch and Ember Valley using 
 - Angler Slimes can stun food and other slimes with their antenna. They're best combined into Largos for easier management.
 - Briar Hens (Boom slimes' favorite) and Stony Hens (Tabby slimes' favorite) spawn in Ember Valley. Stock up on these for efficient Gordo feeding.
 
-### End of Chapter Completion Checklist
+### End of Chapter Checklist
 
-- **Ranch Expansion:** Conservatory expanded to 8 plots with 4 active corral operations ✅
-  - Plot 1-2: Tabby-Cotton Largos + Water Lettuce garden ✅
-  - Plot 3-4: Phosphor-Honey Largos + Cuberry garden ✅
-  - Plot 5-6: Crystal-Rock Largos + Heart Beet garden ✅
-  - Plot 7-8: Boom-Batty Largos + Pomegranite garden ✅
-- **Daily Revenue:** Increased from ~800 to ~2,500+ Newbucks ✅
-- **Gordo Targets:** Rock, Batty, Crystal, and Boom Gordos popped, unlocking key shortcuts and treasure pods ✅
-- **Map Reconnaissance:** Ember Valley Map Data Nodes activated ✅
-- **Resource Stockpile:** Significant quantities of Jellystone, Deep Brine, Primordy Oil, Lava Dust, Radiant Ore, and Wild Honey ✅
-- **Essential Upgrades Crafted:**
-  - Water Tank (Tarr safety) ✅
-  - Dash Boots (ground speed) ✅
-  - Extra Tank (4th vac slot) ✅
-  - Power Core II (200 Energy) ✅
+By the end of Chapter 3, you should have:
+- ✅ Conservatory expanded to 8 plots with 4 active corral operations
+- ✅ Plot 1-2: Tabby-Cotton Largos + Water Lettuce garden
+- ✅ Plot 3-4: Phosphor-Honey Largos + Cuberry garden
+- ✅ Plot 5-6: Crystal-Rock Largos + Heart Beet garden
+- ✅ Plot 7-8: Boom-Batty Largos + Pomegranite garden
+- ✅ Daily revenue increased from ~800 to ~2,500+ Newbucks
+- ✅ Rock, Batty, Crystal, and Boom Gordos popped (unlocking key shortcuts and treasure pods)
+- ✅ Ember Valley Map Data Nodes activated
+- ✅ Significant resource stockpile (Jellystone, Deep Brine, Primordy Oil, Lava Dust, Radiant Ore, Wild Honey)
+- ✅ Water Tank crafted (Tarr safety)
+- ✅ Dash Boots crafted (ground speed)
+- ✅ Extra Tank crafted (4th vac slot)
+- ✅ Power Core II crafted (200 Energy)
 
 ### Next Chapter Preparation
 

@@ -14,7 +14,7 @@ This is a 72-hour blitz with a single, non-negotiable objective: acquiring the k
 
 **Financial Checkpoint:**
 - **Starting Budget:** 0 Newbucks (fresh start)
-- **Required:** ~2,035 Newbucks for all upgrades and corral security
+- **Required:** ~2,535 Newbucks for all plots and upgrades
 - **Timeline:** Achieve in 3-4 days through Tabby-Cotton plort sales
 
 **Strategic Priorities:**
@@ -107,11 +107,8 @@ Pop the Pink Gordo to unlock access to Ember Valley for Radiant Ore collection (
 | **Heart Module** | 450 NB | 10 Pink Plort | 100 → 150 HP | HIGH - Essential for Ember Valley survival |
 | **Jetpack** | 450 NB | 10 Phosphor Plort, 10 Radiant Ore | Unlocks personal jetpack | **PRIMARY GOAL** - Enables vertical exploration |
 
-**Additional Corral Upgrades:**
-- High Walls (260 NB) + Air Net (425 NB) = 685 NB total - Prevents Largo escapes during exploration
-
-**Total Investment:** ~1,585 NB (upgrades) + 685 NB (corral security) = ~2,270 NB
-**Grand Total (Plots + Upgrades):** ~3,455 NB
+**Total Investment:** ~1,350 NB (upgrades)
+**Grand Total (Plots + Upgrades):** ~2,535 NB
 
 **Crafting Order:**
 1. Resource Harvester (enables Radiant Ore collection)
@@ -134,15 +131,15 @@ Pop the Pink Gordo to unlock access to Ember Valley for Radiant Ore collection (
 - Optimal corral population: 6 Largos (8-10 regular slimes)
 - Water Lettuce is Cotton favorite (4 plorts per feeding)
 
-### End of Chapter Completion Checklist
+### End of Chapter Checklist
 
-- **Primary Revenue Stream:** One corral established with 6 Tabby-Cotton Largos ✅
-- **Gordo Target:** Pink Gordo popped and Ember Valley portal switch activated ✅
-- **Essential Upgrades Crafted:**
-  - Resource Harvester ✅
-  - Heart Module (150 HP) ✅
-  - Jetpack ✅
-- **Corral Security:** High Walls and Air Net installed on your main corral ✅
+By the end of Chapter 1, you should have:
+- ✅ One corral established with 6 Tabby-Cotton Largos (primary revenue stream)
+- ✅ Pink Gordo popped and Ember Valley portal switch activated
+- ✅ Resource Harvester crafted
+- ✅ Heart Module crafted (150 HP)
+- ✅ Jetpack crafted
+- ✅ High Walls and Air Net installed on your main corral
 
 ### Next Chapter Preparation
 

@@ -98,6 +98,14 @@ This helps optimize Prisma Plort farming timing.
 - ✅ Coops are producing chickens
 - ✅ Ranch can operate autonomously while you're in Grey Labyrinth
 
+#### Advanced Grey Labyrinth Teleporter (Optional Quality-of-Life)
+
+Complete Grey Labyrinth coverage with internal fast travel between distant zones.
+
+**Berry Teleporter - Grey Labyrinth Internal (Impossible Sky ↔ Lava Depths)**
+- Impossible Sky ↔ Lava Depths
+- 4,000 NB + 30 Sloomber Plorts + 20 Tin Petal + 10 Black Indigonium + 10 Magma Comb + 2 Royal Jelly
+
 ### End of Chapter Checklist
 
 By the end of Chapter 13, you should have:
