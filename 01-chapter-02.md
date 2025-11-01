@@ -102,10 +102,6 @@ Pop the Cotton Gordo to activate the portal to Starlight Strand (see Gordo Strat
 | **Power Core** | 450 NB | 10 Cotton Plort | 100 → 150 Energy | HIGH - Enables longer exploration |
 | **Tank Booster** | 450 NB | 10 Tabby Plort | 20 → 30 units per slot | **CRITICAL** - Massive QoL for Chapter 3 collection runs |
 
-**Plot Upgrades:**
-- Plort Collector (750 NB) - Auto-vacuums plorts for Plot 3 (Phosphor-Honey corral)
-- Essential corral upgrades already listed in Phase 3 table (High Walls, Air Net, Solar Shield)
-
 **Total Investment:** 900 NB + materials
 
 **Crafting Materials Source:**
@@ -120,7 +116,7 @@ Pop the Cotton Gordo to activate the portal to Starlight Strand (see Gordo Strat
 4. **Stockpile Crafting Plorts:** Deposit 50+ Phosphor and 50+ Honey Plorts in Refinery for Chapter 3.
 5. **Craft Tank Booster:** CRITICAL—increases capacity from 20 to 30 units per slot (massive QoL).
 6. **Craft Power Core:** Extends exploration energy from 100 to 150.
-7. **Add Plort Collector:** Install on Phosphor-Honey corral for automated plort collection.
+7. **Install Auto-Feeders:** Automate feeding for Phosphor-Honey corral to maximize plort production.
 
 ### Financial Checkpoint
 
