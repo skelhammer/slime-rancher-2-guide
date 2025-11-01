@@ -22,22 +22,22 @@ The guide has been split into individual chapter files for easier editing and na
 - Optimal Corral Population
 
 **Appendices - Quick Reference Tables**
-- **[appendix-slimes.md](appendix-slimes.md)** - Slime Compendium & Gordo Locations
+- **[appendix-a-slimes.md](appendix-a-slimes.md)** - Slime Compendium & Gordo Locations
   - All slime types with diets, favorite foods, and locations
   - Complete Gordo locations and rewards
-- **[appendix-items.md](appendix-items.md)** - Item Compendium
+- **[appendix-b-items.md](appendix-b-items.md)** - Item Compendium
   - Food & crops guide
   - Chicken types and locations
   - Resources and crafting materials
   - Plort values
   - Upgrade components & blueprints
-- **[appendix-upgrades.md](appendix-upgrades.md)** - Upgrades & Ranch Costs
+- **[appendix-c-upgrades.md](appendix-c-upgrades.md)** - Upgrades & Ranch Costs
   - Vacpack upgrades (Health, Energy, Inventory, Mobility)
   - Ranch plot and upgrade costs
-- **[appendix-gadgets.md](appendix-gadgets.md)** - Craftable Gadgets & Warp Tech
+- **[appendix-e-gadgets.md](appendix-e-gadgets.md)** - Craftable Gadgets & Warp Tech
   - Utilities (Med Station, Dash Pad, Drones, Turrets, Flags)
   - Warp Tech (Home Portals, Teleporters, Warp Depots, Linked Cannons)
-- **[appendix-locations.md](appendix-locations.md)** - Locations & Collectibles
+- **[appendix-f-locations.md](appendix-f-locations.md)** - Locations & Collectibles
   - Ghostly and Research Drones
   - Treasure pod locations (Rainbow Fields, Ember Valley, Starlight Strand, Powderfall Bluffs, Conservatory)
   - Map data nodes

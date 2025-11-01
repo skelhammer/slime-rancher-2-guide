@@ -26,7 +26,7 @@ When the user requests changes to the guide, follow this workflow:
 #### Step 1: Identify Target File(s)
 - **Chapter content**: Edit specific chapter file (e.g., `01-chapter-01.md`, `03-chapter-09.md`)
 - **Core mechanics**: Edit `00-introduction.md`
-- **Reference tables**: Edit appropriate appendix (`appendix-slimes.md`, `appendix-items.md`, etc.)
+- **Reference tables**: Edit appropriate appendix (`appendix-a-slimes.md`, `appendix-b-items.md`, etc.)
 - **Ranch progression**: Edit `plot-overview.md`
 - **Navigation/meta**: Edit `README.md`
 
@@ -63,10 +63,10 @@ When the user requests changes to the guide, follow this workflow:
 - **Chapter 7** (02-chapter-07.md): Updated Saber Slime acquisition strategy
   - Added alternate route through northern passage
   - Corrected Thundercluck spawn location
-- **Appendix A** (appendix-slimes.md): Fixed Saber Slime favorite food
+- **Appendix A** (appendix-a-slimes.md): Fixed Saber Slime favorite food
 
 ### Fixed
-- Corrected markdown link in Chapter 7 to appendix-slimes.md
+- Corrected markdown link in Chapter 7 to appendix-a-slimes.md
 ```
 
 #### Step 5: Update README.md (if version changed)
@@ -140,7 +140,7 @@ This is a documentation repository containing a comprehensive walkthrough guide 
 
 - **Chapter Files:** `01-chapter-01.md` through `04-chapter-15.md` (organized by part number prefix)
 - **Core Files:** `00-introduction.md` (with version header), `plot-overview.md`, `README.md`
-- **Appendices:** `appendix-slimes.md`, `appendix-items.md`, `appendix-upgrades.md`, `appendix-gadgets.md`, `appendix-locations.md`
+- **Appendices:** `appendix-a-slimes.md`, `appendix-b-items.md`, `appendix-c-upgrades.md`, `appendix-e-gadgets.md`, `appendix-f-locations.md`
 
 **See [README.md](README.md) for complete chapter listings and navigation.**
 
@@ -171,7 +171,7 @@ The version header is located **only** in `00-introduction.md` at the top of the
 
 **IMPORTANT:** When making ANY changes to the guide:
 
-1. Edit the appropriate chapter file (`01-chapter-01.md`, `03-chapter-09.md`, `appendix-slimes.md`, `plot-overview.md`, etc.)
+1. Edit the appropriate chapter file (`01-chapter-01.md`, `03-chapter-09.md`, `appendix-a-slimes.md`, `plot-overview.md`, etc.)
 2. Update **ONLY** `00-introduction.md` with:
    - Incremented version number (e.g., 0.1 → 0.2)
    - Current date in "Last Updated" field

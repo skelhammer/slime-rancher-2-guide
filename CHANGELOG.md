@@ -197,19 +197,19 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 ## [0.1.2] - 2025-11-01 - Wiki Integration Edition
 
 ### Added
-- **Dream Lantern utilities** (appendix-upgrades.md): Added complete entries for Dream Lantern and Dream Lantern II
+- **Dream Lantern utilities** (appendix-c-upgrades.md): Added complete entries for Dream Lantern and Dream Lantern II
   - Dream Lantern: 3-day sleep cycle, ProntoMart blueprint (5,000 Newbucks), max 5 craftable
   - Dream Lantern II: 6-day sleep cycle, Shadow Plort Door blueprint, uses Royal Jelly instead of Strange Diamond
-- **Nullifier unstable wall functionality** (appendix-upgrades.md, 04-chapter-13.md): Documented Nullifier's secondary use
+- **Nullifier unstable wall functionality** (appendix-c-upgrades.md, 04-chapter-13.md): Documented Nullifier's secondary use
   - Can be placed in unstable walls (door-shaped indentations with rainbow texture) to open hidden passages
   - Passage remains open only while Nullifier is placed
-- **Enhanced food harvest yields** (appendix-items.md): Added Notes column documenting garden yields
+- **Enhanced food harvest yields** (appendix-b-items.md): Added Notes column documenting garden yields
   - Polaricherry: 20 per harvest (enhanced)
   - Turbo Tater: 13 per harvest
   - Pogofruit: 20 per harvest (enhanced)
 
 ### Changed
-- **Slime behavior documentation** (appendix-slimes.md): Extensive updates based on SR2 wiki
+- **Slime behavior documentation** (appendix-a-slimes.md): Extensive updates based on SR2 wiki
   - **Gold Slime**: Corrected favorite food from "Gilded Ginger" to "None" (Gilded Ginger does not exist in SR2)
     - Added sparkle sound, fleeing behavior, 1-4 plort drops based on Golden Sureshot level
   - **Lucky Slime**: Added jingling sound, stationary detection behavior, specific Newbuck rewards (100-150 first, 200-300 second, 300 third+)
@@ -220,13 +220,13 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
   - **Twin Slime**: Added portal mechanic details, color-shifting behavior
   - **Sloomber Slime**: Added sleep cloud frequency (increases when agitated), appearance description
   - **Hyper Slime**: Added dash behavior details
-- **Gordo Slimes table** (appendix-slimes.md): Complete overhaul with wiki-accurate information
+- **Gordo Slimes table** (appendix-a-slimes.md): Complete overhaul with wiki-accurate information
   - Added Notes column with favorite food multipliers for all Gordos
   - Standardized reward format: "12 [Slime Type] + 1 jar + [specific reward]"
   - Added special warnings: Phosphor (doesn't despawn), Boom (explosion damage), Ringtail (stone cycle), Flutter (ONLY Moondew Nectar)
   - Updated Twin Gordo location to "Impossible Sky", added color-change note
   - Updated Sloomber Gordo note: led to Conservatory pre-v1.0, now leads to Terrarium
-- **Resource locations** (appendix-items.md): Corrected and enhanced resource spawn information
+- **Resource locations** (appendix-b-items.md): Corrected and enhanced resource spawn information
   - **Candied Hen**: Corrected to breedable in coops (not collection-only)
   - **Sun Sap**: Updated to crimson trees/palms, grows 3x daily during daylight
   - **Black Indigonium**: Updated location to Impossible Sky
@@ -235,12 +235,12 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
   - **Prickle Pear**: Corrected location from Starlight Strand to Ember Valley
 - **Zone renaming** (all files): Updated "Prismacore Surroundings" to official name "Impossible Sky"
   - Updated 04-chapter-13.md: Merged Prismacore Surroundings into Impossible Sky zone description
-  - Updated appendix-items.md: Black Indigonium and Royal Jelly locations
-  - Updated appendix-locations.md: Map node and Shadow Plort Door locations
+  - Updated appendix-b-items.md: Black Indigonium and Royal Jelly locations
+  - Updated appendix-f-locations.md: Map node and Shadow Plort Door locations
   - Added note explaining Impossible Sky includes the gilded area near Prismacore
 
 ### Removed
-- **Gilded Ginger** (appendix-items.md): Removed entirely - does not exist in Slime Rancher 2
+- **Gilded Ginger** (appendix-b-items.md): Removed entirely - does not exist in Slime Rancher 2
   - Gilded Ginger was SR1-exclusive content from The Glass Desert
 
 ### Fixed
@@ -253,11 +253,11 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 ## [0.1.1] - 2025-11-01 - Patch 1.0.3 Update
 
 ### Changed
-- **Quantum Drone Station Crafting Cost** (03-chapter-09.md, appendix-upgrades.md): Updated Strange Diamond requirement from 3 to 2 per station
+- **Quantum Drone Station Crafting Cost** (03-chapter-09.md, appendix-c-upgrades.md): Updated Strange Diamond requirement from 3 to 2 per station
   - Total Strange Diamonds needed for 3 core drone stations reduced from 9 to 6
   - Updated all references in Chapter 9 (Financial Checkpoint, Capital Requirements, Phase 3 recipe)
   - Updated Appendix D crafting table
-- **Shadow Sureshot Recipe** (appendix-upgrades.md): Removed Strange Diamond requirement per Patch 1.0.3
+- **Shadow Sureshot Recipe** (appendix-c-upgrades.md): Removed Strange Diamond requirement per Patch 1.0.3
   - Added note that updated recipe is unverified (not yet reached in-game)
 
 ### Added
@@ -342,7 +342,7 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
   - Hunter Largo feral state management
 - **Optimal Corral Populations**: 6-slime efficiency standard
 
-### Appendix A: Slime Compendium (appendix-slimes.md)
+### Appendix A: Slime Compendium (appendix-a-slimes.md)
 - **35+ documented slime types** with complete data:
   - Normal slimes: Pink, Cotton, Phosphor, Tabby, Rock, Boom, Batty, Crystal, Honey, Hunter, Angler, Ringtail, Flutter, Saber
   - Special slimes: Fire, Puddle, Shadow, Twin, Sloomber, Hyper, Prisma
@@ -353,14 +353,14 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 - Diet types, favorite foods, and optimal Largo combinations
 - Location data for all biomes
 
-### Appendix B: Item Compendium (appendix-items.md)
+### Appendix B: Item Compendium (appendix-b-items.md)
 - **Complete food catalog**: Vegetables, fruits, meat, and special items
 - **Chicken types and spawn locations**
 - **Resource harvesting guide**: Crafting materials and components
 - **Plort value reference table**
 - **Upgrade components and blueprint locations**
 
-### Appendix C-E: Upgrades & Ranch Costs (appendix-upgrades.md)
+### Appendix C-E: Upgrades & Ranch Costs (appendix-c-upgrades.md)
 - **Vacpack upgrade trees**:
   - Health, Energy, Inventory capacity
   - Mobility enhancements (Dash Boots, Jetpack)
@@ -368,7 +368,7 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 - **Complete ranch plot cost breakdown**
 - **Corral upgrade progression and ROI analysis**
 
-### Appendix F-K: Locations & Collectibles (appendix-locations.md)
+### Appendix F-K: Locations & Collectibles (appendix-f-locations.md)
 - **Ghostly and Research Drone locations**
 - **Treasure pod maps** for all biomes:
   - Rainbow Fields, Ember Valley, Starlight Strand

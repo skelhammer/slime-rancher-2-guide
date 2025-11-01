@@ -21,7 +21,7 @@ The Shadow Plort Doors are the Grey Labyrinth's equivalent of Treasure Pods. The
 - Hit them with ANY thrown object (they drop Shadow Plorts, item is not consumed)
 - They sit motionless when undisturbed, jump when disturbed, then vanish
 - Optimal farming: Carry a stack of throwable items, systematically visit dark corners
-- Reference appendix-locations.md for all 25 Shadow Plort Door locations and costs
+- Reference appendix-f-locations.md for all 25 Shadow Plort Door locations and costs
 
 **Door Cost Breakdown:**
 - Costs range from 25-100 Shadow Plorts per door

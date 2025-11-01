@@ -74,7 +74,7 @@ The Grey Labyrinth contains 7 Map Data Nodes across all zones. Your FIRST priori
 - 1 node in Dream Land
 - 1 node in Terrarium
 
-Reference appendix-locations.md for exact locations once you're exploring.
+Reference appendix-f-locations.md for exact locations once you're exploring.
 
 **Initial Exploration Actions:**
 - Enter the Labyrinth and immediately begin searching for Map Data Nodes
