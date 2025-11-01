@@ -49,9 +49,26 @@ Pop the Pink Gordo to unlock the Ember Valley portal switch:
 | **Cotton** | Veggie | Water Lettuce | YES | Grassy areas throughout | Produces valuable Cotton Plorts |
 | **Phosphor** | Fruit | Cuberry | YES | Throughout (NIGHT ONLY) | Glowing, requires Solar Shield in corrals, burns in sunlight |
 
-### Ranch Development & Plot Allocation (Conservatory - 8 plots)
+#### Phase 1: Initial Asset Collection
 
-**Core Operation (Plots 1 & 2):**
+Collect the slimes and resources needed for your first ranch operation.
+
+**Slimes Needed:**
+- 6 Tabby Slimes (throughout Rainbow Fields starting area)
+- 6 Cotton Plorts (from wild Cotton Slimes in grassy areas)
+
+**Food Stockpile:**
+- 20+ Water Lettuce (wild patches near water throughout Rainbow Fields)
+
+**Collection Strategy:**
+- Capture 6 Tabby Slimes first
+- Collect 6 Cotton Plorts from wild Cotton Slimes
+- Feed Cotton Plorts to Tabby Slimes to create Tabby-Cotton Largos
+- Harvest Water Lettuce to stockpile for initial feeding
+
+#### Phase 2: Plot-by-Plot Build
+
+Execute the following Conservatory build:
 
 | **Plot** | **Type** | **Contents** | **Base Cost** | **Upgrades** | **Total Cost** | **Purpose/Notes** |
 |----------|----------|--------------|---------------|--------------|----------------|-------------------|
@@ -59,35 +76,67 @@ Pop the Pink Gordo to unlock the Ember Valley portal switch:
 | **2** | Garden | Water Lettuce | 250 NB | None yet | 250 NB | Feeds Plot 1. Will add Nutrient Soil + Sprinkler in Chapter 2 |
 | **3-8** | EMPTY | - | - | - | - | Strategic hold - conserve capital for Jetpack |
 
-### Upgrade Path for this Chapter (Priority Order)
+**Total Investment:** 1,185 NB (plots/upgrades)
+
+#### Phase 3: Unlock Ember Valley
+
+Pop the Pink Gordo to unlock access to Ember Valley for Radiant Ore collection (see Gordo Strategy table above for details).
+
+**Why Ember Valley?**
+- Radiant Ore spawns abundantly here (required for Jetpack crafting)
+- Provides access to additional resources for future chapters
+
+#### Phase 4: Resource Gathering for Jetpack
+
+**Night Hunt - Phosphor Slimes:**
+- Wait for nighttime in Rainbow Fields
+- Hunt Phosphor Slimes (spawn near central mountain and western areas)
+- Collect 10 Phosphor Plorts (DO NOT ranch them yet - requires Solar Shield which costs 425 NB)
+- Return before dawn (they burn in sunlight)
+
+**Ember Valley - Radiant Ore:**
+- Enter Ember Valley through portal (after popping Pink Gordo)
+- Harvest 10 Radiant Ore from glowing pink/magenta crystal nodes
+- **CRITICAL:** Must craft Resource Harvester first (see Phase 5)
+
+#### Phase 5: Vacpack Upgrades (Priority Order)
 
 - **Resource Harvester** (450 Newbucks + 10 Cotton Plorts): Without this, you cannot harvest Radiant Ore or any science resources needed for the Jetpack. CRAFT THIS FIRST.
 - **Heart Module** (450 Newbucks + 10 Pink Plorts): Increases max health from 100 to 150. Essential for survivability in Ember Valley.
 - **Corral Security Complete:** High Walls (260 Newbucks) + Air Net (425 Newbucks) = 685 Newbucks total. Purchase these NOW to prevent Largo escapes while you're away gathering Phosphor Plorts.
-- **Jetpack** (450 Newbucks + 10 Phosphor Plorts + 10 Radiant Ore): The ultimate goal of this chapter. Enables vertical exploration and access to previously unreachable areas. Hunt Phosphor Slimes at night in Rainbow Fields - they spawn consistently near the central mountain and western areas.
+- **Jetpack** (450 Newbucks + 10 Phosphor Plorts + 10 Radiant Ore): The ultimate goal of this chapter. Enables vertical exploration and access to previously unreachable areas.
 
-**Total Investment:** ~2,035 Newbucks + materials
+**Total Investment:** ~850 Newbucks + materials (Resource Harvester + Heart Module + Jetpack)
+**Grand Total (Plots + Upgrades):** ~2,035 Newbucks
 
-### Additional Early Game Tips
+**Crafting Order:**
+1. Resource Harvester (enables Radiant Ore collection)
+2. Heart Module (survivability for Ember Valley)
+3. Jetpack (unlocks vertical exploration)
+
+#### Phase 6: Ranch Management Fundamentals
 
 **Creating Largos:**
-- Feed a slime a different plort type to convert it into a Largo (e.g., feed a Tabby Slime a Cotton Plort to create a Tabby-Cotton Largo). Largos produce 2 plort types and are 2x more valuable than regular slimes.
+- Feed a slime a different plort type to convert it into a Largo
+- Example: Feed Tabby Slime a Cotton Plort → Tabby-Cotton Largo
+- Largos produce 2 plort types and are 2x more valuable than regular slimes
 
 **Inventory & Storage:**
-- You start with 4 inventory slots at 20 units each (80 total capacity). Tank Booster in Chapter 2 increases this to 30 units per slot (120 total).
-- The Refinery is located in The Lab beneath the Conservatory. Deposit plorts and resources there before crafting upgrades at the Fabricator.
-- **IMPORTANT:** Plorts deposited into the Refinery CANNOT be withdrawn. Only deposit plorts you need for crafting upgrades, not for selling.
-- To sell plorts: Deposit them directly into the Plort Market (the machine with the rainbow plort icon).
+- Starting capacity: 4 inventory slots at 20 units each (80 total)
+- The Refinery: Located in The Lab beneath the Conservatory
+- **CRITICAL:** Plorts deposited into Refinery CANNOT be withdrawn
+- Only deposit plorts needed for crafting upgrades, not for selling
+- To sell plorts: Use the Plort Market (rainbow plort icon machine)
 
-**Corral Management:**
-- Optimal population: 8-10 regular slimes OR 6 Largos per fully upgraded corral. Overcrowding causes agitation and reduced productivity.
-- Install High Walls and Air Net (see upgrade path above) to prevent escapes while you explore.
-- Auto-Feeders must be manually restocked. Plort Collectors must be manually emptied. No automatic transfers exist between plots.
+**Food Management:**
+- Plot 2 (Water Lettuce Garden): Harvest every 2-3 in-game days
+- Manually feed Plot 1 (Tabby-Cotton Largos)
+- Water Lettuce is Cotton favorite (produces 4 plorts per feeding: 2 Tabby + 2 Cotton)
 
-**Resource Collection:**
-- Phosphor Slimes spawn only at night throughout Rainbow Fields (recognizable by glowing cores and wings).
-- Radiant Ore spawns randomly on Rainbow Island but is abundant in Ember Valley (look for glowing pink/magenta crystal nodes after getting Resource Harvester).
-- Phosphor Slimes require Solar Shield (425 NB) + High Walls + Air Net when ranched (prevents disappearing in sunlight).
+**Corral Population:**
+- Optimal: 6 Largos per corral (8-10 for regular slimes)
+- Overcrowding causes agitation and reduced productivity
+- High Walls + Air Net prevent escapes during exploration
 
 ### End of Chapter Completion Checklist
 

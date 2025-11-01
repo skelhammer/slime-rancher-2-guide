@@ -47,11 +47,7 @@ Pop these two Rainbow Fields Gordos to unlock Starlight Strand access and treasu
 
 #### Phase 1: Unlock Starlight Strand
 
-Pop the Cotton Gordo to activate the portal to Starlight Strand.
-
-- **Cotton Gordo Location:** Rainbow Fields - Southeast of Refinery Link, top of hill
-- **Food Required:** 30 Veggies (Water Lettuce counts 2x, so 15 Water Lettuce)
-- **Reward:** Cave access to Starlight Strand portal switch
+Pop the Cotton Gordo to activate the portal to Starlight Strand (see Gordo Strategy table above for details).
 
 #### Phase 2: Asset Acquisition & Preparation
 
