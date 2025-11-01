@@ -54,7 +54,7 @@ The Shadow Plort Doors are the Grey Labyrinth's equivalent of Treasure Pods. The
 - Temporary Pink Slime operation near Stabilizing Gate in Grey Labyrinth
 - Collect Unstable food during disruption
 - Feed Pink Slimes → Unstable Plorts
-- Walk through Stabilizing Gate → Prisma Plorts
+- Walk through Stabilizing Gate → Unstable Plorts automatically convert to Prisma Plorts in your inventory
 - Deposit to portable Refinery Link or return to ranch
 
 #### Phase 3: Final Vacpack Upgrades

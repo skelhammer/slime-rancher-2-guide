@@ -161,4 +161,4 @@ Chapter 13 (The Endgame Audit) focuses on maximizing your Vacpack capabilities a
   - Vacpack final upgrades: 145 Prisma Plorts
   - Prisma Detector (shows disruption timers): 10 Prisma Plorts
 - **Financial Goal:** Accumulate 50,000+ Newbucks for final Vacpack upgrades and gadgets
-- **Farming Strategy:** Use throwable items (Pink Plorts, vegetables) to hit Shadow Slimes. During Prisma Disruptions, feed Unstable food to slimes near Stabilizing Gates to convert them to Prisma Plorts.
+- **Farming Strategy:** Use throwable items (Pink Plorts, vegetables) to hit Shadow Slimes. During Prisma Disruptions, feed Unstable food to slimes, then walk through Stabilizing Gates to automatically convert Unstable Plorts to Prisma Plorts in your inventory.

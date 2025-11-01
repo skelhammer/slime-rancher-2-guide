@@ -107,8 +107,8 @@ Reference **Appendix F** (Locations & Collectibles) for exact locations once you
 
 **Stabilization Methods:**
 - **Prisma Stabilizers:** Yellow floating portals that appear during disruptions. Shoot Unstable items through them to stabilize. **One-time use** - they disappear after use.
-- **Stabilizing Gates:** Permanent archway structures found throughout Labyrinth. Walk through with Unstable items in vac to stabilize them. Reusable.
-- **Result:** Unstable Plorts → Prisma Plorts (1 Unstable Plort typically becomes 1-2 Prisma Plorts when stabilized, with 2 being common)
+- **Stabilizing Gates:** Permanent archway structures found throughout Labyrinth. Walk through gate to automatically convert all Unstable Plorts in your vac into Prisma Plorts. Reusable.
+- **Result:** Unstable Plorts → Prisma Plorts (conversion happens instantly in your inventory when walking through gate - no items drop on ground)
 
 **No Slime Sea:** The bottom of the Labyrinth is a cloud ocean. Anything that falls in is PERMANENTLY LOST. There is no recovery.
 
@@ -234,8 +234,8 @@ Prisma Plorts are created by stabilizing Unstable Plorts during Prisma Disruptio
 1. Collect Unstable food (fruits, veggies, chickens) during Prisma Disruption
 2. Feed Pink Slimes immediately
 3. They produce Unstable Plorts
-4. Walk through Stabilizing Gate with Unstable Plorts in vac
-5. They convert to stable Prisma Plorts (1 Unstable Plort → 1-2 Prisma Plorts, typically 2)
+4. Walk through Stabilizing Gate - Unstable Plorts automatically convert to Prisma Plorts in your inventory
+5. Conversion rate: 1 Unstable Plort → 1-2 Prisma Plorts (typically 2)
 6. Deposit to nearby Refinery Link or return to ranch
 7. When done farming, vacuum up Pink Slimes and return them to ranch
 8. Avoid standing near ground cracks during disruptions (plasma/flame energy geysers)
