@@ -132,125 +132,33 @@ Ask the user for clarification when:
 
 ## Repository Overview
 
-This is a documentation repository containing a comprehensive walkthrough guide for Slime Rancher 2, a farming simulator video game. The repository contains a single markdown file with a detailed game guide.
+This is a documentation repository containing a comprehensive walkthrough guide for Slime Rancher 2, a farming simulator video game.
 
-## Repository Structure
+**For complete repository structure and file organization, see [README.md](README.md).**
 
-The guide has been split into individual chapter files for easier editing and navigation:
+## File Organization Quick Reference
 
-**Core Files:**
-- `00-introduction.md`: Introduction, core mechanics, and game fundamentals (contains version header)
-- `plot-overview.md`: Complete ranch progression quick reference for Chapters 1-11
-- `README.md`: Navigation guide with links to all sections
+- **Chapter Files:** `01-chapter-01.md` through `04-chapter-15.md` (organized by part number prefix)
+- **Core Files:** `00-introduction.md` (with version header), `plot-overview.md`, `README.md`
+- **Appendices:** `appendix-slimes.md`, `appendix-items.md`, `appendix-upgrades.md`, `appendix-locations.md`
 
-**Appendix Files (Quick Reference Tables):**
-- `appendix-slimes.md`: Appendix A - Slime Compendium & Gordo Locations
-- `appendix-items.md`: Appendix B - Item Compendium (food, resources, plorts, components)
-- `appendix-upgrades.md`: Appendices C-E - Upgrades & Ranch Costs
-- `appendix-locations.md`: Appendices F-K - Locations & Collectibles (drones, treasure pods, doors)
-
-**Part 1: The Foundation (Chapters 1-4)**
-- `01-chapter-01.md`: Chapter 1 - Early Game: The Sprint to Mobility
-- `01-chapter-02.md`: Chapter 2 - The Conservatory - Foundation Build
-- `01-chapter-03.md`: Chapter 3 - Ember Valley: Resource Extraction
-- `01-chapter-04.md`: Chapter 4 - Starlight Strand: Asset Acquisition
-
-**Part 2: The Industrial Revolution (Chapters 5-8)**
-- `02-chapter-05.md`: Chapter 5 - The Gully - Industrial Core
-- `02-chapter-06.md`: Chapter 6 - The Tidepools - Passive Income
-- `02-chapter-07.md`: Chapter 7 - Powderfall Bluffs - Saber Acquisition
-- `02-chapter-08.md`: Chapter 8 - The Den - Ranch Reorganization
-
-**Part 3: Automation & Empire Completion (Chapters 9-12)**
-- `03-chapter-09.md`: Chapter 9 - Quantum Drones - Ranch Automation
-- `03-chapter-10.md`: Chapter 10 - The Grey Labyrinth - Elite Asset Acquisition
-- `03-chapter-11.md`: Chapter 11 - The Archway - Grey Labyrinth Operations
-- `03-chapter-12.md`: Chapter 12 - The Digsite - Weather Slime Operations (OPTIONAL)
-
-**Part 4: Endgame Mastery (Chapters 13-15)**
-- `04-chapter-13.md`: Chapter 13 - The Endgame Audit
-- `04-chapter-14.md`: Chapter 14 - Prismacore Stabilization - Story Finale
-- `04-chapter-15.md`: Chapter 15 - Post-Game - Sandbox Empire
-
-## Content Organization
-
-The walkthrough is structured as follows:
-
-1. **Introduction & Core Mechanics** (`00-introduction.md`): Game fundamentals including plort market dynamics, Largo slime mechanics, Tarr prevention, agitation system, and optimal corral populations
-
-2. **Part 1: The Foundation** (Chapters 1-4): Early to late mid-game progression
-   - `01-chapter-01.md`: Chapter 1 - Early Game: The Sprint to Mobility
-   - `01-chapter-02.md`: Chapter 2 - The Conservatory - Foundation Build
-   - `01-chapter-03.md`: Chapter 3 - Ember Valley: Resource Extraction
-   - `01-chapter-04.md`: Chapter 4 - Starlight Strand: Asset Acquisition
-
-3. **Part 2: The Industrial Revolution** (Chapters 5-8): Industrial expansion and logistics
-   - `02-chapter-05.md`: Chapter 5 - The Gully - Industrial Core
-   - `02-chapter-06.md`: Chapter 6 - The Tidepools - Passive Income
-   - `02-chapter-07.md`: Chapter 7 - Powderfall Bluffs - Saber Acquisition
-   - `02-chapter-08.md`: Chapter 8 - The Den - Ranch Reorganization
-
-4. **Part 3: Automation & Empire Completion** (Chapters 9-12): Advanced automation and completing pre-Labyrinth slime collection
-   - `03-chapter-09.md`: Chapter 9 - Quantum Drones - Ranch Automation
-   - `03-chapter-10.md`: Chapter 10 - The Grey Labyrinth - Elite Asset Acquisition
-   - `03-chapter-11.md`: Chapter 11 - The Archway - Grey Labyrinth Operations
-   - `03-chapter-12.md`: Chapter 12 - The Digsite - Weather Slime Operations (OPTIONAL)
-
-5. **Part 4: Endgame Mastery** (Chapters 13-15): Final preparations and endgame content
-   - `04-chapter-13.md`: Chapter 13 - The Endgame Audit
-   - `04-chapter-14.md`: Chapter 14 - Prismacore Stabilization - Story Finale
-   - `04-chapter-15.md`: Chapter 15 - Post-Game - Sandbox Empire
-
-6. **Appendices** (4 separate files for better performance):
-   - **`appendix-slimes.md`** (Appendix A): Slime Compendium & Gordo Locations
-     - All slime types with diets, favorite foods, and locations
-     - Complete Gordo locations and rewards
-   - **`appendix-items.md`** (Appendix B): Item Compendium
-     - Food & crops guide
-     - Chicken types and locations
-     - Resources and crafting materials
-     - Plort values
-     - Upgrade components & blueprints
-   - **`appendix-upgrades.md`** (Appendices C-E): Upgrades & Ranch Costs
-     - Vacpack upgrades (Health, Energy, Inventory, Mobility)
-     - Craftable items (Utilities, Warp Tech)
-     - Ranch plot and upgrade costs
-   - **`appendix-locations.md`** (Appendices F-K): Locations & Collectibles
-     - Ghostly and Research Drones
-     - Treasure pod locations (all biomes)
-     - Map data nodes
-     - Plort door locations
-     - Grey Labyrinth Shadow doors
-     - Resource priority guide
-
-7. **Plot Overview** (`plot-overview.md`): Ranch progression quick reference
-   - Complete plot-by-plot layouts for Chapters 1-11
-   - Expansion-by-expansion breakdown with slime assignments
-   - Food source mappings and revenue estimates
-   - Total daily revenue tracking by chapter and costs
-
-## Guide Philosophy
-
-The guide takes an aggressive optimization approach focused on:
-- **Ruthless Asset Progression**: Treating slimes as profit-generating assets
-- **Capital Deployment**: Immediate reinvestment of Newbucks into infrastructure
-- **Automation**: Systematically eliminating manual labor through Auto-Feeders and drones
+**See [README.md](README.md) for complete chapter listings and navigation.**
 
 ## Writing Style
 
-When editing this guide, maintain the following stylistic elements:
+**For guide philosophy and writing style, see the "Guide Philosophy" and "How to Use This Guide" sections in [README.md](README.md).**
 
+Key formatting standards:
 - **Directive, strategic tone**: Frames gameplay as resource management and capital deployment
-- **Clear hierarchical structure**: Chapters with operational blueprints, strategic priorities, and success metrics
-- **Tabular data in appendices**: Quick reference tables for game mechanics
-- **Warning callouts**: CRITICAL warnings for important game mechanics (e.g., Tarr outbreaks, Prismatic Slimes)
-- **Consistent formatting**: Bold for emphasis, bullet points for lists, tables for comparative data
+- **Tables for comparative data**: Plot layouts, upgrade costs, resource comparisons
+- **Bold for CRITICAL warnings**: Tarr risks, mandatory upgrades, time-sensitive mechanics
+- **Consistent formatting**: Match existing chapter structure (see Step 1 in workflow above)
 
 ## Version Information
 
 The version header is located **only** in `00-introduction.md` at the top of the file:
-- Current Version: 0.1 - Initial Release
-- Last Updated: October 24, 2025
+- Current Version: 0.2.0 - Major Restructure Edition
+- Last Updated: November 1, 2025
 - Verified against Slime Rancher 2 Version 1.0 (released September 23, 2025)
 - Contains disclaimer about outdated prices/material costs due to recipe overhaul in v1.0
 
@@ -258,15 +166,6 @@ The version header is located **only** in `00-introduction.md` at the top of the
 - Increment version number for each update (0.1 → 0.2 → 0.3, etc.)
 - Give each version a fun, descriptive name based on what changed
 - Examples: "The Price is Right Edition" (price fixes), "Largo Optimization Edition" (new combos), "Spring Cleaning Edition" (reorganization)
-
-## Common Editing Tasks
-
-When updating this guide, common tasks include:
-
-- Updating prices and material costs when new patch information becomes available
-- Adding new slimes, biomes, or mechanics from game updates
-- Correcting inaccurate location descriptions or resource costs
-- Expanding appendices with newly discovered resources or strategies
 
 ### Version Update Process
 
@@ -287,28 +186,3 @@ When updating this guide, common tasks include:
 ```
 
 **Note:** When updating `plot-overview.md`, also update the version in `00-introduction.md` as this file is part of the main guide content.
-
-## Working with Individual Chapter Files
-
-The guide has been split into individual chapter files for easier editing:
-
-- **When editing a specific chapter**: Edit the corresponding chapter file (e.g., `01-chapter-01.md` for Chapter 1, `03-chapter-09.md` for Chapter 9)
-- **When editing core mechanics**: Edit `00-introduction.md`
-- **When editing reference tables**: Edit the appropriate appendix file:
-  - Slime/Gordo data: `appendix-slimes.md`
-  - Food/Items/Resources: `appendix-items.md`
-  - Upgrades/Costs: `appendix-upgrades.md`
-  - Treasure Pods/Drones/Doors: `appendix-locations.md`
-- **When editing ranch progression tables**: Edit `plot-overview.md`
-- **File naming convention**:
-  - Chapters: `[part-number]-chapter-[chapter-number].md` (e.g., `01-chapter-01.md`, `02-chapter-05.md`)
-  - Core files: `00-introduction.md`, `plot-overview.md`
-  - Appendices: `appendix-[category].md` (e.g., `appendix-slimes.md`, `appendix-items.md`)
-- **Benefits of this structure**:
-  - Much faster file loading and editing (very small, focused files)
-  - Minimal context usage when making targeted edits to specific chapters
-  - Easy to navigate directly to the chapter you need to edit
-  - Better organization for version control and tracking chapter-specific changes
-  - Each chapter can be edited independently without loading entire parts
-  - `plot-overview.md` provides quick table reference without reading full chapters
-  - Appendices split into 4 focused files to avoid token limits and improve performance

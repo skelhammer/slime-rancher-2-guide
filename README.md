@@ -78,7 +78,7 @@ The guide has been split into individual chapter files for easier editing and na
 
 ## Version Information
 
-- **Version:** 0.1.1 - Patch 1.0.3 Update
+- **Version:** 0.2.0 - Major Restructure Edition
 - **Last Updated:** November 1, 2025
 - **Game Version:** Verified against Slime Rancher 2 Version 1.0 (released September 23, 2025), updated for Patch 1.0.3
 - **Known Issues:** Prices and material costs are outdated due to v1.0 recipe overhaul without patch notes. Patch 1.0.3 balance changes documented in introduction.

@@ -4,6 +4,96 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 
 ## [0.2.0] - 2025-11-01 - Major Restructure Edition
 
+### Formatting Standardization (Latest Updates)
+
+**All chapters now follow consistent structure with Strategic Priorities and Financial Checkpoints**
+
+#### Added - Strategic Priorities Sections
+- **Chapters 1-2** (Hybrid chapters): Added 7-point Strategic Priorities lists
+- **Chapters 3, 4, 7** (Exploration chapters): Added Strategic Priorities and Financial Checkpoint sections
+- **Chapters 5, 6, 8, 9, 11, 12** (Building chapters): Added Strategic Priorities and Financial Checkpoint sections
+- **Chapter 10** (Grey Labyrinth): Enhanced with comprehensive Strategic Priorities
+
+**Strategic Priorities Format:**
+- 7-point numbered lists with actionable objectives
+- CRITICAL items marked with emphasis
+- Cross-references to future chapters where relevant
+- Ordered by priority (unlock → build → optimize)
+
+#### Added - Financial Checkpoint Sections
+- **Capital Required**: Detailed breakdown of expansion costs, plot costs, upgrade costs
+- **Revenue Impact**: Before/after revenue comparison showing daily increase
+- **Return on Investment**: ROI calculations showing break-even timeline
+- **Strategic Notes**: Context explaining financial decisions and long-term value
+
+#### Added - Phase Objectives
+- Every phase in all chapters now has clear "Objective:" statement
+- Consistent format: "**Objective:** [Clear, actionable goal]"
+- Applied to Chapters 1-12 (Chapters 13-15 are WIP endgame content)
+
+#### Restructured - Exploration Chapters (3, 4, 7)
+**Phased Format Applied:**
+- **Phase 1**: Initial Exploration & Map Data Nodes
+- **Phase 2**: Gordo Strategy & Slime Acquisition
+- **Phase 3**: Resource Extraction & Treasure Pods
+- **Phase 4**: Vacpack Upgrades (or Ranch Expansion for Chapter 3)
+- **Phase 5**: Warp Infrastructure Setup
+
+**Chapter-Specific Details:**
+- **Chapter 3** (Ember Valley): Hybrid exploration + ranch expansion to 8 plots
+- **Chapter 4** (Starlight Strand): 5 Gordos, biome overview (pink vs blue sub-biomes)
+- **Chapter 7** (Powderfall Bluffs): Sun Sap tree marking, critical endgame resources
+
+#### Restructured - Building Chapters (5, 6, 8, 9, 11, 12)
+**Phased Format Applied:**
+- **Phase 1**: Unlock The [Expansion]
+- **Phase 2**: Plot-by-Plot Build
+- **Phase 3**: Key Notes
+- **Phase 4**: Infrastructure Gadgets (Optional Quality-of-Life)
+- **Phase 5**: (Chapter-specific: Upgrades, Reorganization, Teleporters)
+
+**Chapter-Specific Enhancements:**
+- **Chapter 5** (The Gully): Protein production and Flutter Plort accumulation strategy
+- **Chapter 6** (The Tidepools): Passive income system and Tier III upgrade requirements
+- **Chapter 8** (The Den): Nocturnal slime consolidation and ranch-wide reorganization
+- **Chapter 9** (Quantum Drones): Drone deployment strategy and automation best practices
+- **Chapter 11** (The Archway): Grey Labyrinth elite slime integration
+- **Chapter 12** (The Digsite): Weather slime operations with security warnings
+
+#### Restructured - Hybrid Chapters (1, 2)
+**Enhanced with lighter formatting improvements:**
+- Added "Objective:" statements to all phases
+- Added Strategic Priorities (7-point lists)
+- Added Financial Checkpoint sections with ROI calculations
+- Maintained existing good structure while adding standardization
+
+#### Changed - End of Chapter Checklists
+- **Standardized format**: All chapters now use green ✅ emoji at beginning of each item
+- **Simplified layout**: Single bullet points without nested headers
+- **Consistent wording**: "By the end of Chapter X, you should have:"
+
+#### Changed - Vacpack Upgrade Sections
+- **Converted to tables**: All upgrade sections now use consistent table format
+- **Columns**: Upgrade | Cost | Materials | Effect | Component (where applicable)
+- **Priority indicators**: HIGH, CRITICAL, MANDATORY tags for essential upgrades
+- **Added missing sections**: Tier III upgrades in appropriate chapters
+
+#### Changed - Warp Infrastructure
+- **Chapter 10**: Expanded from 3 to 6 gadgets (Refinery Link + Market Link in each zone)
+- **Consistent naming**: "Warp Infrastructure Setup" for exploration chapters, "Infrastructure Gadgets" for building chapters
+- **Strategic rationale**: Each section explains WHY the infrastructure matters
+
+#### Removed - Redundant Content
+- **Chapter 2**: Removed redundant "Plot Upgrades" section (already in plot-by-plot table)
+- **CLAUDE.md**: Removed duplicate chapter listings and guide philosophy (now references README.md)
+- **Multiple chapters**: Streamlined automation sections to avoid repetition
+
+#### Fixed - Documentation
+- **CLAUDE.md**: Corrected chapter organization (Part 3: Ch 9-12, Part 4: Ch 13-15)
+- **CLAUDE.md**: Removed ~120 lines of redundant content, added references to README.md
+- **README.md**: Updated version from 0.1.1 to 0.2.0
+- **All version references**: Standardized to 0.2.0 - Major Restructure Edition
+
 ### Major Restructure: Chapters 10-15
 
 **OLD Structure:**
