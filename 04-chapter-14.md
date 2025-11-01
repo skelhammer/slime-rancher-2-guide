@@ -89,7 +89,7 @@ Reference the Slime Rancher 2 wiki or explore systematically through each Grey L
 - Grey Labyrinth remains accessible (no more disruptions, but Stabilizers remain)
 - Night Market access via Rainbow Coins
 
-### Success Metrics
+### End of Chapter Checklist
 
 By the end of Chapter 14, you should have:
 - ✅ Traded 90 Prisma Plorts to Gigi for milestones

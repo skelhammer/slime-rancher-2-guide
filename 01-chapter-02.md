@@ -87,7 +87,6 @@ Execute the following Conservatory expansion:
 - Sell excess after stockpiling
 
 **Manual Feeding Required:**
-- Auto-Feeders unlock in later chapters
 - Cuberries are Phosphor favorite (4 plorts per feeding)
 
 #### Phase 5: Vacpack Upgrades (Priority Order)

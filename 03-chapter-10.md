@@ -342,7 +342,7 @@ This chapter is about resource gathering and asset acquisition, not revenue gene
 - Sloomber-Saber Largos: ~150-250 Newbucks per feeding
 - **Combined Archway Revenue: +2,000-3,500 Newbucks/day** (Chapter 11)
 
-### Success Metrics
+### End of Chapter Checklist
 
 By the end of Chapter 10, you should have:
 - ✅ All 7 Grey Labyrinth Map Data Nodes activated

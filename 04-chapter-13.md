@@ -98,7 +98,7 @@ This helps optimize Prisma Plort farming timing.
 - ✅ Coops are producing chickens
 - ✅ Ranch can operate autonomously while you're in Grey Labyrinth
 
-### Success Metrics
+### End of Chapter Checklist
 
 By the end of Chapter 13, you should have:
 - ✅ All 25 Shadow Plort Doors opened (1,165 Shadow Plorts spent)
