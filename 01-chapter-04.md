@@ -83,23 +83,29 @@ Capture these slimes and plorts during your Starlight Strand exploration. For Ch
 
 ### Upgrade Path for this Chapter (Priority Order)
 
-**PHASE 1 - Complete Tier II Upgrades (delayed from Chapter 3):**
+**PHASE 1 - Complete Tier II Core Upgrades (delayed from Chapter 3):**
 
-These upgrades require Starlight Strand materials. Craft them as soon as you collect the necessary resources:
-
-- **Tank Booster II** (1,000 Newbucks + 20 Tabby Plorts + 10 Angler Plorts + 10 Radiant Ore + 10 Jellystone + 1 Storage Cell): Increases capacity from 30 to 40 units per slot. Your Tabby-Cotton operation provides Tabby Plorts. Collect wild Angler Plorts from coastal areas or capture Angler slimes.
-- **Heart Module II** (1,000 Newbucks + 20 Pink Plorts + 10 Honey Plorts + 10 Deep Brine + 10 Jellystone + 1 Heart Cell): Boosts health to 200. Collect wild Honey Plorts or capture Honey slimes temporarily.
-- **Jetpack II** (1,500 Newbucks + 20 Phosphor Plorts + 10 Batty Plorts + 20 Radiant Ore + 10 Wild Honey + 1 Jetpack Drive): Reduces Jetpack energy consumption by 20%. Your Phosphor-Honey operation provides abundant Phosphor Plorts. Wild Honey is plentiful in Starlight Strand.
+| **Upgrade** | **Cost** | **Materials** | **Effect** | **Component** |
+|-------------|----------|---------------|------------|---------------|
+| **Tank Booster II** | 1,000 NB | 20 Tabby Plort, 10 Angler Plort, 10 Radiant Ore, 10 Jellystone, 1 Storage Cell | 30 → 40 units per slot | Storage Cell (Ch 3) |
+| **Heart Module II** | 1,000 NB | 20 Pink Plort, 10 Honey Plort, 10 Deep Brine, 10 Jellystone, 1 Heart Cell | 150 → 200 HP | Heart Cell (Ch 3) |
+| **Jetpack II** | 1,500 NB | 20 Phosphor Plort, 10 Batty Plort, 20 Radiant Ore, 10 Wild Honey, 1 Jetpack Drive | 20% less energy consumption | Jetpack Drive (Ch 3) |
 
 **PHASE 2 - Tier II Utility Upgrades:**
 
-- **Pulse Wave** (450 Newbucks + 10 Flutter Plorts + 10 Jellystone + 5 Wild Honey): A defensive tool that pushes aggressive slimes away. Essential for dealing with Crystal and Rock Slimes. Collect wild Flutter Plorts from Starlight Strand.
-- **Dash Boots II** (1,500 Newbucks + 20 Boom Plorts + 10 Flutter Plorts + 10 Wild Honey + 10 Lava Dust + 1 Dash Boot Module): Enhanced sprint efficiency. Your Boom-Batty operation provides Boom Plorts. Dash Boot Module is in a Starlight Strand treasure pod.
-- **Tank Guard** (1,500 Newbucks + 20 Crystal Plorts + 10 Hunter Plorts + 10 Buzz Wax + 10 Lava Dust + 1 Tank Liner): Salvages 20% of tank contents on damage. Your Crystal-Rock operation from Chapter 3 provides Crystal Plorts. Collect 10+ wild Hunter Plorts from wild Hunter slimes in Starlight Strand. Tank Liner is in Starlight Strand treasure pods.
+| **Upgrade** | **Cost** | **Materials** | **Effect** | **Component** |
+|-------------|----------|---------------|------------|---------------|
+| **Pulse Wave** | 450 NB | 10 Flutter Plort, 10 Jellystone, 5 Wild Honey | Push slimes away | None |
+| **Dash Boots II** | 1,500 NB | 20 Boom Plort, 10 Flutter Plort, 10 Wild Honey, 10 Lava Dust, 1 Dash Boot Module | Enhanced sprint efficiency | Dash Boot Module (Ch 4 treasure pod) |
+| **Tank Guard** | 1,500 NB | 20 Crystal Plort, 10 Hunter Plort, 10 Buzz Wax, 10 Lava Dust, 1 Tank Liner | Salvages 20% on damage | Tank Liner #1 (Ch 4 treasure pod) |
 
-**Total Investment:** ~7,850 Newbucks + materials
+**Total Investment:** ~7,850 NB + materials
 
-**Note:** All required plorts are either produced by your existing corrals or can be collected wild. No ranch reorganization needed.
+**Material Sources:**
+- Tabby/Pink/Phosphor/Boom/Crystal Plorts: From your existing corrals
+- Angler/Honey/Hunter/Flutter Plorts: Collect wild or from exploration
+- Wild Honey, Buzz Wax: Abundant in Starlight Strand
+- Radiant Ore, Deep Brine, Jellystone, Lava Dust: From previous chapters
 
 ### Treasure Pod Locations
 

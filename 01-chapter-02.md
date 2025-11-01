@@ -100,11 +100,20 @@ Execute the following Conservatory expansion:
 
 #### Phase 5: Vacpack Upgrades (Priority Order)
 
-- **Power Core** (450 Newbucks + 10 Cotton Plorts): Boosts energy to 150. Your Tabby-Cotton operation provides abundant Cotton Plorts for this upgrade.
-- **Tank Booster** (450 Newbucks + 10 Tabby Plorts): Increases carrying capacity from 20 to 30 units per slot. This is a massive quality-of-life improvement for Chapter 3 collection runs.
-- **Plot Upgrades:** Plort Collector (750 Newbucks) and essential corral upgrades (High Walls, Air Net, Solar Shield) for your Phosphor-Honey operation.
+| **Upgrade** | **Cost** | **Materials** | **Effect** | **Priority** |
+|-------------|----------|---------------|------------|--------------|
+| **Power Core** | 450 NB | 10 Cotton Plort | 100 → 150 Energy | HIGH - Enables longer exploration |
+| **Tank Booster** | 450 NB | 10 Tabby Plort | 20 → 30 units per slot | **CRITICAL** - Massive QoL for Chapter 3 collection runs |
 
-**Total Investment:** 900 Newbucks + materials
+**Plot Upgrades:**
+- Plort Collector (750 NB) - Auto-vacuums plorts for Plot 3 (Phosphor-Honey corral)
+- Essential corral upgrades already listed in Phase 3 table (High Walls, Air Net, Solar Shield)
+
+**Total Investment:** 900 NB + materials
+
+**Crafting Materials Source:**
+- Cotton Plorts: From your Tabby-Cotton Largos (Plot 1)
+- Tabby Plorts: From your Tabby-Cotton Largos (Plot 1)
 
 ### End of Chapter Completion Checklist
 

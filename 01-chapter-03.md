@@ -117,34 +117,23 @@ Before deep exploration of Ember Valley, establish your two new corral operation
 
 ### Upgrade Path for this Chapter (Priority Order)
 
-**Phase 1: Essential Equipment (Craft First)**
+| **Upgrade** | **Cost** | **Materials** | **Effect** | **Priority** |
+|-------------|----------|---------------|------------|--------------|
+| **Water Tank** | 450 NB | 10 Deep Brine | Specialized water vac tank | **CRAFT FIRST** - Essential Tarr safety |
+| **Dash Boots** | 450 NB | 10 Boom Plort | Reduced sprint energy cost | HIGH - Mobility for Ember Valley |
+| **Extra Tank** | 1,500 NB | 10 Rock Plort, 10 Silky Sand | Adds 4th vac slot | MEDIUM - Better collection capacity |
+| **Power Core II** | 1,000 NB | 20 Cotton Plort, 10 Batty Plort, 10 Primordy Oil, 10 Jellystone, 1 Power Chip | 150 → 200 Energy | DELAYED - Craft after unlocking blueprints |
 
-- **Water Tank** (450 Newbucks + 10 Deep Brine): Essential safety equipment for Tarr management. Craft this FIRST before extensive Ember Valley exploration.
-- **Dash Boots** (450 Newbucks + 10 Boom Plorts): Critical efficiency upgrade for faster ground traversal. Use the wild Boom plorts you collected in Chapter 2.
+**Upgrade Components Required:**
+- **Jetpack Drive** (Tier II blueprint) - Rock Gordo treasure pod (plateau above gordo)
+- **Power Chip** (Tier II blueprint) - Batty Gordo treasure pod
+- **Heart Cell** (Tier II blueprint) - Underground ledge before Crystal Gordo waterfall
+- **Storage Cell** (Tier II blueprint) - Behind Rainbow Fields portal (1 Batty Plort statue)
 
-**Phase 2: Ranch Expansion**
+**Total Investment:** ~3,400 NB (upgrades only) + 8,745 NB (ranch expansion) = ~12,145 NB + materials
 
-- **Build Plots 5-8:** Invest 8,745 Newbucks to establish Crystal-Rock and Boom-Batty corral operations (detailed above).
-
-**Phase 3: Capacity Upgrades**
-
-- **Extra Tank** (1,500 Newbucks + 10 Rock Plorts + 10 Silky Sand): Adds a 4th vac tank slot. Use wild Rock plorts from Chapter 2 or plorts from your new Crystal-Rock operation.
-
-**Phase 4: Unlock Tier II Blueprints**
-
-- Pop Rock Gordo → Access Jetpack Drive treasure pod
-- Pop Batty Gordo → Access Power Chip treasure pod
-- Hunt for Heart Cell treasure pod (underground ledge before Crystal Gordo waterfall)
-- Locate Storage Cell behind Rainbow Fields portal (requires 1 Batty Plort to activate statue)
-
-**Phase 5: Tier II Upgrades**
-
-- **Power Core II** (1,000 Newbucks + 20 Cotton Plorts + 10 Batty Plorts + 10 Primordy Oil + 10 Jellystone + 1 Power Chip): Boosts energy to 200.
-
-**Total Investment:** ~12,045 Newbucks + materials (including ranch expansion)
-
-**Material Collection Strategy:** As you explore Ember Valley popping Gordos and opening treasure pods, you'll naturally collect most of the materials needed for these upgrades. Prioritize harvesting:
-
+**Material Collection Strategy:**
+As you explore Ember Valley popping Gordos and opening treasure pods, prioritize harvesting:
 - Jellystone (10+ for Power Core II and future upgrades)
 - Primordy Oil (10+ for Power Core II)
 - Deep Brine (10+ for Water Tank)

@@ -93,13 +93,22 @@ Pop the Saber Gordo to unlock a valuable portal shortcut:
 
 ### Upgrade Path for this Chapter (Priority Order)
 
-**Recommended Upgrades:**
+| **Upgrade** | **Cost** | **Materials** | **Effect** | **Component** | **Priority** |
+|-------------|----------|---------------|------------|---------------|--------------|
+| **Extra Tank II** | 3,000 NB | 40 Rock Plort, 20 Ringtail Plort, 20 Silky Sand, 2 Strange Diamond, 1 Vac Tank | Adds 5th vac slot | Vac Tank (Ch 3) | **RECOMMENDED** - Essential for Powderfall resource runs |
+| **Tank Guard III** | 10,000 NB | 40 Crystal Plort, 30 Hunter Plort, 30 Buzz Wax, 2 Strange Diamond, 1 Tank Liner | Salvages 60% on damage | Tank Liner #3 (Ch 4) | OPTIONAL - Only if surplus Strange Diamonds |
 
-- **Extra Tank II** (3,000 Newbucks + 40 Rock Plorts + 20 Ringtail Plorts + 20 Silky Sand + 2 Strange Diamonds + 1 Vac Tank): Adds a 5th vac tank slot. Essential for extended resource runs and carrying diverse materials from Powderfall Bluffs.
+**Material Sources:**
+- Rock/Crystal Plorts: From your Conservatory Crystal-Rock corrals
+- Ringtail Plorts: Collect wild at night from multiple biomes
+- Hunter Plorts: Collect wild from Starlight Strand
+- Silky Sand, Buzz Wax: Starlight Strand stockpile
+- Strange Diamonds: Starlight Strand treasure pod (need to reserve 2 per Quantum Drone for Ch 9)
 
-**Optional Upgrades:**
-
-- **Tank Guard III** (10,000 Newbucks + 40 Crystal Plorts + 30 Hunter Plorts + 30 Buzz Wax + 2 Strange Diamonds + 1 Tank Liner): Salvages 60% of tank contents upon health loss. Excellent insurance for the hazardous Powderfall Bluffs environment with aggressive Saber Slimes. Only craft if you have surplus Strange Diamonds (need to reserve 3 per Quantum Drone for Chapter 9).
+**Upgrade Components in Powderfall Bluffs:**
+- **Storage Cell:** Northeast cliffside via aurora bridges (night only, 19:00-5:15) - Reserve for endgame
+- **Sureshot Module:** Mountain summit near East Map Data Node - Needed for Golden Sureshot II
+- **Power Chip:** Behind highest pink coral on coastal reef island - Reserve for endgame
 
 **CRITICAL:** Sun Sap is the bottleneck material for late-game upgrades. Every Sun Sap tree location must be marked and revisited weekly.
 

@@ -101,18 +101,23 @@ Pop the Pink Gordo to unlock access to Ember Valley for Radiant Ore collection (
 
 #### Phase 5: Vacpack Upgrades (Priority Order)
 
-- **Resource Harvester** (450 Newbucks + 10 Cotton Plorts): Without this, you cannot harvest Radiant Ore or any science resources needed for the Jetpack. CRAFT THIS FIRST.
-- **Heart Module** (450 Newbucks + 10 Pink Plorts): Increases max health from 100 to 150. Essential for survivability in Ember Valley.
-- **Corral Security Complete:** High Walls (260 Newbucks) + Air Net (425 Newbucks) = 685 Newbucks total. Purchase these NOW to prevent Largo escapes while you're away gathering Phosphor Plorts.
-- **Jetpack** (450 Newbucks + 10 Phosphor Plorts + 10 Radiant Ore): The ultimate goal of this chapter. Enables vertical exploration and access to previously unreachable areas.
+| **Upgrade** | **Cost** | **Materials** | **Effect** | **Priority** |
+|-------------|----------|---------------|------------|--------------|
+| **Resource Harvester** | 450 NB | 10 Cotton Plort | Harvest science resources from nodes | **CRAFT FIRST** - Required for Radiant Ore collection |
+| **Heart Module** | 450 NB | 10 Pink Plort | 100 → 150 HP | HIGH - Essential for Ember Valley survival |
+| **Jetpack** | 450 NB | 10 Phosphor Plort, 10 Radiant Ore | Unlocks personal jetpack | **PRIMARY GOAL** - Enables vertical exploration |
 
-**Total Investment:** ~850 Newbucks + materials (Resource Harvester + Heart Module + Jetpack)
-**Grand Total (Plots + Upgrades):** ~2,035 Newbucks
+**Additional Corral Upgrades:**
+- High Walls (260 NB) + Air Net (425 NB) = 685 NB total - Prevents Largo escapes during exploration
+
+**Total Investment:** ~1,585 NB (upgrades) + 685 NB (corral security) = ~2,270 NB
+**Grand Total (Plots + Upgrades):** ~3,455 NB
 
 **Crafting Order:**
 1. Resource Harvester (enables Radiant Ore collection)
-2. Heart Module (survivability for Ember Valley)
-3. Jetpack (unlocks vertical exploration)
+2. Corral Security (High Walls + Air Net - prevents escapes)
+3. Heart Module (survivability for Ember Valley)
+4. Jetpack (unlocks vertical exploration)
 
 #### Phase 6: Ranch Management Fundamentals
 

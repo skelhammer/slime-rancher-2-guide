@@ -111,6 +111,33 @@ Execute the following build in order:
 - **Cost:** 500 NB + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
 - **Purpose:** Sprint with zero energy cost between Gully and Tidepools
 
+#### Phase 5: Tier III Vacpack Upgrades
+
+**CRITICAL:** These upgrades are required for Chapter 7 (Powderfall Bluffs). Aggressive Saber Slimes require maximum defensive capability.
+
+| **Upgrade** | **Cost** | **Materials** | **Effect** | **Component** |
+|-------------|----------|---------------|------------|---------------|
+| **Tank Booster III** | 3,000 NB | 30 Tabby Plort, 20 Angler Plort, 30 Radiant Ore, 10 Lava Dust, 1 Storage Cell | 40 → 50 units per slot | Storage Cell (Ch 3/4) |
+| **Power Core III** | 3,000 NB | 30 Cotton Plort, 20 Batty Plort, 30 Primordy Oil, 10 Wild Honey, 1 Power Chip | 200 → 250 Energy | Power Chip (Ch 3/4) |
+| **Heart Module III** | 3,000 NB | 30 Pink Plort, 20 Honey Plort, 30 Deep Brine, 10 Silky Sand, 1 Heart Cell | 200 → 250 HP | Heart Cell (Ch 3/4) |
+| **Tank Guard II** | 5,000 NB | 30 Crystal Plort, 20 Hunter Plort, 20 Buzz Wax, 1 Strange Diamond, 1 Tank Liner | Salvages 40% on damage | Tank Liner #2 (Ch 4) |
+
+**Total Investment:** ~14,000 NB + materials
+
+**Material Sources:**
+- Tabby/Cotton/Pink/Crystal Plorts: From your Conservatory corrals
+- Angler/Batty Plorts: From your Gully corrals (Angler-Crystal, Flutter-Tabby currently; will change in Ch 8)
+- Honey/Hunter Plorts: Collect wild from Starlight Strand or ranch temporarily
+- Radiant Ore, Primordy Oil, Lava Dust: Ember Valley stockpile
+- Deep Brine, Silky Sand, Buzz Wax, Wild Honey: Starlight Strand stockpile
+- Strange Diamond: Starlight Strand treasure pod (Flutter Gordo pit)
+
+**Crafting Priority:**
+1. Heart Module III (survivability first)
+2. Tank Booster III (inventory capacity for Powderfall collections)
+3. Power Core III (energy for extended exploration)
+4. Tank Guard II (defensive insurance - optional but recommended)
+
 ### End of Chapter Completion Checklist
 
 - **Expansion Unlocked:** The Tidepools has been purchased and developed ✓
