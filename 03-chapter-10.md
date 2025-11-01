@@ -227,7 +227,7 @@ Prisma Plorts are created by stabilizing Unstable Plorts during Prisma Disruptio
 
 **Temporary Pink Slime Farm Setup:**
 1. Bring 50 Pink Slimes from ranch to Grey Labyrinth
-2. Set up near a Stabilizing Gate in Waterworks (main hub)
+2. Set up near a Stabilizing Gate (permanent archway structures found throughout the Labyrinth)
 3. Place Pink Slimes in temporary open area (no corral needed)
 
 **Operation During Disruption:**
@@ -254,26 +254,31 @@ Prisma Plorts are created by stabilizing Unstable Plorts during Prisma Disruptio
 
 #### Phase 6: Warp Infrastructure Setup
 
-**Objective:** Establish permanent one-way warp infrastructure in the Grey Labyrinth for efficient resource farming and emergency extraction.
+**Objective:** Establish comprehensive one-way warp infrastructure across the Grey Labyrinth's three main zones for efficient resource farming and emergency extraction.
 
-The Grey Labyrinth is vast and dangerous. Setting up strategic warp gadgets dramatically improves farming efficiency and provides critical safety nets for exploration.
+The Grey Labyrinth is vast and dangerous. Setting up strategic warp gadgets in each major zone dramatically improves farming efficiency and provides critical safety nets for exploration.
 
-**Deploy Three Key Gadgets:**
+**Deploy Six Key Gadgets (One Refinery Link + One Market Link per zone):**
 
-**1. Refinery Link**
-- Waterworks central hub (near main Stabilizing Gate)
-- 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
+**Impossible Sky:**
+- **Refinery Link:** Near Twin Gordo area - 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
+- **Market Link:** Central area - 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
 
-**2. Market Link**
-- Impossible Sky (near Twin Gordo area)
-- 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
+**Dream Land:**
+- **Refinery Link:** Dream Land North (near Sloomber portal) - 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
+- **Market Link:** Central Dream Land - 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
 
-**3. Yellow Home Portal**
-- Terrarium (sealed biodome)
-- 250 NB + 10 Cotton Plorts + 5 Jellystone + 5 Deep Brine
+**Terrarium:**
+- **Refinery Link:** Central Terrarium - 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
+- **Market Link:** Near Hyper Gordo area - 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
 
-**Total Investment:** 750 NB + materials
-- Keep both systems - one-way gadgets provide utility (deposit/sell/extract), teleporters provide navigation
+**Total Investment:** 1,500 NB + materials (30 Phosphor Plorts, 60 Pink Plorts, 30 Jellystone, 15 Deep Brine, 30 Buzz Wax, 30 Primordy Oil, 15 Silky Sand)
+
+**Benefits:**
+- **Refinery Links:** Deposit crafting materials immediately upon collection (prevents loss from falls/Tarr)
+- **Market Links:** Sell plorts directly without returning to ranch
+- **Coverage:** Every major zone has both utilities for maximum efficiency
+- **Optional:** Add Yellow Home Portal to Terrarium (250 NB + 10 Cotton Plorts + 5 Jellystone + 5 Deep Brine) for quick extraction
 
 ### Strategic Priorities
 
@@ -289,9 +294,10 @@ The Grey Labyrinth is vast and dangerous. Setting up strategic warp gadgets dram
 
 **Capital Required:**
 - Radiant Projectors: 2,000 Newbucks (4 × 500)
-- Warp Infrastructure: 750 Newbucks (Refinery Link + Market Link + Yellow Home Portal)
-- Materials: Hunter/Boom Plorts, Silky Sand, Lava Dust, Phosphor Plorts, Pink Plorts, Cotton Plorts (from existing operations)
-- **Total: ~2,750 Newbucks**
+- Warp Infrastructure: 1,500 Newbucks (3 Refinery Links + 3 Market Links across all zones)
+- Optional Yellow Home Portal: 250 Newbucks (Terrarium extraction)
+- Materials: Hunter/Boom Plorts, Silky Sand, Lava Dust, Phosphor Plorts, Pink Plorts, Jellystone, Deep Brine, Buzz Wax, Primordy Oil (from existing operations)
+- **Total: ~3,500-3,750 Newbucks**
 
 **No Direct Revenue Added:**
 
@@ -302,12 +308,12 @@ This chapter is about resource gathering and asset acquisition, not revenue gene
 - Sloomber-Saber Largos: ~150-250 Newbucks per feeding
 - **Combined Archway Revenue: +2,000-3,500 Newbucks/day** (Chapter 11)
 
-#### Phase 6: Teleporter Network (Optional Quality-of-Life)
+#### Phase 7: Teleporter Network (Optional Quality-of-Life)
 
 Two-way teleporters allow instant round-trip transport, unlike one-way Refinery Links. Craft these to speed up Grey Labyrinth farming runs.
 
 **1. Gold Teleporter - Conservatory ↔ Grey Labyrinth Waterworks**
-- Conservatory (near Lab) ↔ Waterworks central hub (near Stabilizing Gate)
+- Conservatory (near Lab) ↔ Waterworks central hub
 - 1,200 NB + 30 Twin Plorts + 20 Tin Petal + 20 Radiant Ore + 10 Wild Honey + 2 Royal Jelly
 
 **2. Blue Teleporter - Grey Labyrinth Internal (Waterworks ↔ Dream Land)**
@@ -336,7 +342,8 @@ By the end of Chapter 10, you should have:
 - ✅ Basic understanding of Shadow Plort farming (hit Shadow Slimes with throwables)
 - ✅ Basic understanding of Prisma Plort farming (Unstable food → slimes → Stabilizing Gate)
 - ✅ Shadow Plorts and Prisma Plorts stored in SILOS (not Refinery)
-- ✅ Warp infrastructure deployed (Refinery Link in Waterworks, Market Link in Impossible Sky, Yellow Home Portal in Terrarium)
+- ✅ Warp infrastructure deployed in all three main zones (3 Refinery Links + 3 Market Links in Impossible Sky, Dream Land, Terrarium)
+- ✅ Optional Yellow Home Portal placed in Terrarium for quick extraction
 - ✅ Ready to build The Archway expansion (Chapter 11)
 
 ### Next Chapter Preparation
