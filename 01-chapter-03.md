@@ -32,19 +32,35 @@ Expand your Conservatory to 8 plots while simultaneously extracting Ember Valley
 - Tier II upgrades crafted: Water Tank, Dash Boots, Extra Tank, Power Core II, Jetpack II
 - Resource stockpiles: 50+ Jellystone, 30+ Deep Brine, 30+ Radiant Ore, 30+ Primordy Oil
 
-### Gordo Strategy
+#### Phase 1: Initial Exploration & Map Data Nodes
 
-Pop all five Ember Valley Gordos to unlock shortcuts, treasure pods, and key blueprints:
+**Objective:** Enter Ember Valley, activate Map Data Nodes, and understand the biome layout.
+
+**Entry Point:** Ember Valley teleporter (unlocked after completing Chapter 2 story objectives)
+
+**Map Data Node Locations:**
+
+Ember Valley contains 3 Map Data Nodes. Activate these to reveal the full biome:
+
+- **Volcano Summit (East Coverage):** At the very top of the volcano's caldera. Reveals eastern half of Ember Valley including lava fields and northern chasm.
+- **Western Coast Pillar (West Coverage):** Tall rock pillar in geyser-filled western coastal area. Reveals western half including volcanic region and caves.
+- **Southern Lava Plateau (South Coverage):** High rock plateau near Boom Gordo in southern lava fields. Completes map coverage of southern volcanic zones.
+
+**Collection Priority:** Activate Western Coast Pillar first (easiest access from arrival portal), then Southern Lava Plateau, finally Volcano Summit (requires Jetpack).
+
+#### Phase 2: Gordo Strategy & Slime Acquisition
+
+**Objective:** Pop all 5 Gordos, capture breeding stock for ranch expansion, unlock treasure pods.
+
+**Gordo Locations & Rewards:**
 
 | **Gordo** | **Food Required** | **Location** | **Reward** |
 |-----------|-------------------|--------------|------------|
-| **Rock Gordo** | 50 Veggies (Heart Beets count 2x) | Cave near portal entrance (on rock formation) | Geyser to Jetpack Drive treasure pod |
-| **Batty Gordo** | 50 Fruit (Pomegranites count 2x) | Lowest western caves | Tunnel shortcut to another area |
-| **Crystal Gordo** | 50 Veggies (Odd Onions count 2x) | Northern area near chasm | Geyser for easier traversal |
-| **Boom Gordo** | 50 Meat (Briar Hens count 2x) | Western volcanic area (dais surrounded by lava pools) | Passage to Grey Labyrinth gate + Strange Diamond + Ember Valley Portal blueprint |
-| **Tabby Gordo** | 50 Meat (Stony Hens count 2x) | North-most point, top of large pillar sticking out of sea | Portal shortcut to Rainbow Fields |
-
-### Slime Locations for Ember Valley
+| **Rock Gordo** | 50 Veggies (Heart Beets count 2x) | Cave near portal entrance (on rock formation) | Geyser to Jetpack Drive treasure pod + 12 Rock Slimes + 1 jar |
+| **Batty Gordo** | 50 Fruit (Pomegranites count 2x) | Lowest western caves | Tunnel shortcut to another area + 12 Batty Slimes + 1 jar |
+| **Crystal Gordo** | 50 Veggies (Odd Onions count 2x) | Northern area near chasm | Geyser for easier traversal + 12 Crystal Slimes + 1 jar |
+| **Boom Gordo** | 50 Meat (Briar Hens count 2x) | Western volcanic area (dais surrounded by lava pools) | Passage to Grey Labyrinth gate + Strange Diamond + Ember Valley Portal blueprint + 12 Boom Slimes + 1 jar |
+| **Tabby Gordo** | 50 Meat (Stony Hens count 2x) | North-most point, top of large pillar sticking out of sea | Portal shortcut to Rainbow Fields + 12 Tabby Slimes + 1 jar |
 
 **Ember Valley Slimes:**
 
@@ -57,31 +73,32 @@ Pop all five Ember Valley Gordos to unlock shortcuts, treasure pods, and key blu
 | **Angler** | Meat | Sea Hen | YES | Coastal and water areas | Can stun food and slimes with antenna |
 | **Fire** | None (Ash) | None | NO | Lava pools | Cannot be ranched in corrals, needs Incinerator plot |
 
-### Asset Acquisition
+**Asset Acquisition Strategy:**
 
 Before beginning ranch expansion, gather all slimes and plorts needed for your new operations. With Tank Booster from Chapter 2, you now have 30 units per slot (4 slots = 120 total capacity).
 
-**Phase 1: Plorts for Upgrades (deposit in Refinery)**
-
+**Collection Run 1: Plorts for Upgrades (deposit in Refinery)**
 - Enter Ember Valley and collect:
   - 10+ Boom Plorts (for Dash Boots upgrade)
   - 10+ Rock Plorts (for Extra Tank upgrade)
 - Return to ranch, deposit in Refinery
 
-**Phase 2: Plorts for Largo Creation (keep in vac - DO NOT deposit)**
-
+**Collection Run 2: Plorts for Largo Creation (keep in vac - DO NOT deposit)**
 - Enter Ember Valley and collect:
   - 6 Batty Plorts (to feed Boom Slimes for Boom-Batty largos)
   - 6 Rock Plorts (to feed Crystal Slimes for Crystal-Rock largos)
 - Return to ranch, keep these in your vac for creating Largos
 
-**Phase 3: Slime Collection for Ranch Expansion**
-
+**Collection Run 3: Slime Collection for Ranch Expansion**
 - **6 Crystal Slimes:** Northern Ember Valley near chasm (deal contact damage, be careful)
 - **6 Boom Slimes:** Volcanic areas throughout Ember Valley
 - Return to ranch, deploy slimes and feed plorts to create Largos immediately
 
-### Resource Extraction
+**Alternate Strategy:** Pop Crystal Gordo and Boom Gordo to get 12 free slimes of each type, skipping wild capture.
+
+#### Phase 3: Resource Extraction & Treasure Pods
+
+**Objective:** Harvest critical Tier II crafting materials and open priority treasure pods.
 
 **Ember Valley Resources:**
 
@@ -94,9 +111,31 @@ Before beginning ranch expansion, gather all slimes and plorts needed for your n
 | **Lava Dust** | Near lava flows | Various upgrades, Dash Boots, Home Portals |
 | **Silky Sand** | Sandy areas | Health and tank slot upgrades, Market Link, Radiant Projector |
 
-### Ranch Expansion (Conservatory)
+**Material Collection Priority:**
+As you explore Ember Valley popping Gordos and opening treasure pods, prioritize harvesting:
+- Jellystone (10+ for Power Core II and future upgrades)
+- Primordy Oil (10+ for Power Core II)
+- Deep Brine (10+ for Water Tank)
+- Silky Sand (10+ for Extra Tank)
+- Radiant Ore (20+ for future Jetpack II in Chapter 4)
 
-Before deep exploration of Ember Valley, establish your two new corral operations using the slimes and plorts you collected in Chapter 2.
+**Treasure Pod Priorities:**
+
+**Priority 1 - Upgrade Components:**
+- **Jetpack Drive:** Plateau above Rock Gordo (requires popping gordo + Jetpack). Essential for Jetpack II upgrade (20% energy reduction).
+- **Storage Cell:** Behind Rainbow Fields portal, activate Batty Statue with 1 Batty Plort. Required for Tank Booster II.
+- **Heart Cell:** Underground ledge before Crystal Gordo waterfall. Needed for Heart Module II (200 HP).
+- **Vac Tank:** Top of coastal waterfall in water with Puddle Slimes. Required for Extra Tank II (5th vac slot).
+- **Sureshot Module:** Underground lava fields behind Angler Plort door. Enables Golden Sureshot series for Gold Slime hunting.
+
+**Priority 2 - Portal & Rare Materials:**
+- **Ember Valley Portal + Strange Diamond:** Both in room behind Boom Gordo. Portal eliminates 5-10 minutes per farming run; Strange Diamond is 1 of only 3 available pre-Chapter 11.
+
+#### Phase 4: Ranch Expansion (Conservatory)
+
+**Objective:** Expand Conservatory from 4 plots to 8 plots with two new Largo operations.
+
+Before deep exploration of Ember Valley, establish your two new corral operations using the slimes and plorts you collected.
 
 **Conservatory (8 plots - EXPANDED from Chapter 2):**
 
@@ -115,14 +154,18 @@ Before deep exploration of Ember Valley, establish your two new corral operation
 
 **Daily Revenue:** ~2,500+ Newbucks/day (increased from ~800)
 
-### Upgrade Path for this Chapter (Priority Order)
+#### Phase 5: Vacpack Upgrades
+
+**Objective:** Craft essential Tier II upgrades for safety and mobility.
 
 | **Upgrade** | **Cost** | **Materials** | **Effect** | **Priority** |
 |-------------|----------|---------------|------------|--------------|
 | **Water Tank** | 450 NB | 10 Deep Brine | Specialized water vac tank | **CRAFT FIRST** - Essential Tarr safety |
 | **Dash Boots** | 450 NB | 10 Boom Plort | Reduced sprint energy cost | HIGH - Mobility for Ember Valley |
 | **Extra Tank** | 1,500 NB | 10 Rock Plort, 10 Silky Sand | Adds 4th vac slot | MEDIUM - Better collection capacity |
-| **Power Core II** | 1,000 NB | 20 Cotton Plort, 10 Batty Plort, 10 Primordy Oil, 10 Jellystone, 1 Power Chip | 150 → 200 Energy | DELAYED - Craft after unlocking blueprints |
+| **Power Core II** | 1,000 NB | 20 Cotton Plort, 10 Batty Plort, 10 Primordy Oil, 10 Jellystone, 1 Power Chip | 150 → 200 Energy | DELAYED - Craft after unlocking Power Chip |
+
+**Total Upgrade Investment:** ~3,400 NB + materials
 
 **Upgrade Components Required:**
 - **Jetpack Drive** (Tier II blueprint) - Rock Gordo treasure pod (plateau above gordo)
@@ -130,74 +173,60 @@ Before deep exploration of Ember Valley, establish your two new corral operation
 - **Heart Cell** (Tier II blueprint) - Underground ledge before Crystal Gordo waterfall
 - **Storage Cell** (Tier II blueprint) - Behind Rainbow Fields portal (1 Batty Plort statue)
 
-**Total Investment:** ~3,400 NB (upgrades only) + 8,745 NB (ranch expansion) = ~12,145 NB + materials
-
-**Material Collection Strategy:**
-As you explore Ember Valley popping Gordos and opening treasure pods, prioritize harvesting:
-- Jellystone (10+ for Power Core II and future upgrades)
-- Primordy Oil (10+ for Power Core II)
-- Deep Brine (10+ for Water Tank)
-- Silky Sand (10+ for Extra Tank)
-- Radiant Ore (20+ for future Jetpack II in Chapter 4)
-
 **Save For Chapter 4:** Tank Booster II, Heart Module II, and Jetpack II will be crafted in Chapter 4 once you explore Starlight Strand and gather the necessary materials (Angler Plorts, Honey Plorts, Wild Honey).
 
-### Treasure Pod Locations
+#### Phase 6: Warp Infrastructure Setup
 
-**Priority 1 - Upgrade Components:**
+**Objective:** Establish fast-travel access for efficient resource farming.
 
-- **Jetpack Drive:** Plateau above Rock Gordo (requires popping gordo + Jetpack). Essential for Jetpack II upgrade (20% energy reduction).
-- **Storage Cell:** Behind Rainbow Fields portal, activate Batty Statue with 1 Batty Plort. Required for Tank Booster II.
-- **Heart Cell:** Underground ledge before Crystal Gordo waterfall. Needed for Heart Module II (200 HP).
-- **Vac Tank:** Top of coastal waterfall in water with Puddle Slimes. Required for Extra Tank II (5th vac slot).
-- **Sureshot Module:** Underground lava fields behind Angler Plort door. Enables Golden Sureshot series for Gold Slime hunting.
-
-**Priority 2 - Portal & Rare Materials:**
-
-- **Ember Valley Portal + Strange Diamond:** Both in room behind Boom Gordo. Portal eliminates 5-10 minutes per farming run; Strange Diamond is 1 of only 3 available pre-Chapter 11.
-
-### Map Data Node Locations
-
-- **Volcano Summit (East Coverage):** At the very top of the volcano's caldera. Reveals eastern half of Ember Valley including lava fields and northern chasm.
-- **Western Coast Pillar (West Coverage):** Tall rock pillar in geyser-filled western coastal area. Reveals western half including volcanic region and caves.
-- **Southern Lava Plateau (South Coverage):** High rock plateau near Boom Gordo in southern lava fields. Completes map coverage of southern volcanic zones.
-
-### Refinery Link Deployment
-
-Once you have the Refinery Link blueprint unlocked, deploy one in Ember Valley for efficient resource collection.
+**Deploy Refinery Link:**
 
 - **Crafting Requirements:** 250 Newbucks + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
-- **Optimal Placement:** Central geyser area between the Batty Gordo caves (western) and Crystal Gordo caves (northern) - this central hub provides easy access from most resource-rich zones (volcanic area, northern chasm, coastal caves)
-- **Alternative Placement:** Top of volcano caldera near Map Data Node - convenient for northern resource runs but requires more jetpack travel from southern and cave areas
+- **Optimal Placement:** Central geyser area between the Batty Gordo caves (western) and Crystal Gordo caves (northern)—this central hub provides easy access from most resource-rich zones (volcanic area, northern chasm, coastal caves)
 - **Benefit:** Eliminates need to return to Conservatory when inventory fills with Jellystone, Radiant Ore, Primordy Oil, and Lava Dust during extended farming sessions
 
-### Portal System
+**Deploy Portal System:**
 
-Establish a complete fast-travel loop between your ranch and Ember Valley using two complementary portals.
-
-**Phase 1: Ember Valley Portal (One-Way to Ember Valley)**
-
+**Ember Valley Portal (One-Way to Ember Valley):**
 - **Blueprint Location:** Treasure pod in room behind Boom Gordo
 - **Crafting Cost:** 2,000 Newbucks + 20 Boom Plorts + 10 Crystal Plorts + 10 Radiant Ore + 10 Primordy Oil
 - **Placement (Conservatory-Side):** Central Conservatory area between expansion entrances
 
-**Phase 2: Red Home Portal (One-Way to Conservatory)**
-
+**Red Home Portal (One-Way to Conservatory):**
 - **Crafting Cost:** 1,000 Newbucks + 20 Boom Plorts + 10 Jellystone + 10 Primordy Oil + 5 Lava Dust
 - **Placement (Ember Valley-Side):** Central geyser area between Batty and Crystal Gordo cave entrances (same location as Refinery Link)
 - **Why Red:** Uses Ember Valley resources (Boom Plorts, Lava Dust, Primordy Oil) you're already farming here
 
-**Total Investment:** 3,000 Newbucks + materials
+**Total Warp Investment:** 3,250 Newbucks + materials (250 NB Refinery Link + 3,000 NB Portal System)
 
-**Benefit:** Eliminates 5-10 minutes per resource farming run. Essential for efficient Primordy Oil, Radiant Ore, and Lava Dust collection throughout mid-game.
+**Strategic Rationale:** Eliminates 5-10 minutes per resource farming run. Essential for efficient Primordy Oil, Radiant Ore, and Lava Dust collection throughout mid-game.
 
-### Additional Ember Valley Tips
+### Strategic Priorities
 
-- Fire Slimes spawn in lava pools.
-- Boom Slimes explode periodically but don't harm themselves. The explosion can launch plorts across your ranch - another reason Plort Collectors are essential.
-- Crystal and Rock Slimes deal contact damage. Use the Pulse Wave (craftable in Chapter 4 once you have Flutter Plorts) to push them away, or simply keep your distance when collecting their plorts.
-- Angler Slimes can stun food and other slimes with their antenna. They're best combined into Largos for easier management.
-- Briar Hens (Boom slimes' favorite) and Stony Hens (Tabby slimes' favorite) spawn in Ember Valley. Stock up on these for efficient Gordo feeding.
+1. **Map First:** Activate all 3 Map Data Nodes to reveal volcanic areas, caves, and coastal zones.
+2. **Pop Key Gordos:** Rock, Batty, Crystal, Boom, Tabby—unlock treasure pods with upgrade components.
+3. **Ranch Expansion:** Expand Conservatory to 8 plots (Crystal-Rock and Boom-Batty operations).
+4. **Craft Water Tank:** CRITICAL—essential Tarr safety before deep exploration.
+5. **Collect Upgrade Components:** Jetpack Drive, Power Chip, Heart Cell, Storage Cell from treasure pods.
+6. **Harvest Resources:** Stockpile Jellystone, Deep Brine, Primordy Oil, Radiant Ore, Lava Dust, Silky Sand.
+7. **Deploy Warp Infrastructure:** Refinery Link + Portal system for resource farming efficiency.
+
+### Financial Checkpoint
+
+**Capital Required:**
+- Ranch Expansion: 8,745 Newbucks (Plots 5-8)
+- Vacpack Upgrades: 3,400 Newbucks (Water Tank, Dash Boots, Extra Tank, Power Core II)
+- Warp Infrastructure: 3,250 Newbucks (Refinery Link 250 NB + Portal System 3,000 NB)
+- Materials: Boom/Rock/Batty/Crystal/Cotton Plorts, Jellystone, Deep Brine, Radiant Ore, Primordy Oil, Lava Dust, Silky Sand (from Ember Valley harvesting)
+- **Total: ~15,395 Newbucks**
+
+**Revenue Impact:**
+
+- **Starting:** ~800 Newbucks/day (4 Conservatory plots from Chapter 2)
+- **After Expansion:** ~2,500+ Newbucks/day (8 Conservatory plots)
+- **Daily Increase:** +1,700 Newbucks/day
+
+**Return on Investment:** 15,395 NB ÷ 1,700 NB/day = ~9 days to break even
 
 ### End of Chapter Checklist
 
