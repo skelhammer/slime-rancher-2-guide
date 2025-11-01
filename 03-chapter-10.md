@@ -107,7 +107,7 @@ Reference **Appendix F** (Locations & Collectibles) for exact locations once you
 
 **Stabilization Methods:**
 - **Prisma Stabilizers:** Yellow floating portals that appear during disruptions. Shoot Unstable items through them to stabilize. **One-time use** - they disappear after use.
-- **Stabilizing Gates:** Permanent archway structures found throughout Labyrinth. Walk through gate to automatically convert all Unstable Plorts in your vac into Prisma Plorts. Reusable.
+- **Ancient Stabilizers:** Permanent archway structures found throughout Labyrinth. Walk through gate to automatically convert all Unstable Plorts in your vac into Prisma Plorts. Reusable.
 - **Result:** Unstable Plorts → Prisma Plorts (conversion happens instantly in your inventory when walking through gate - no items drop on ground)
 
 **No Slime Sea:** The bottom of the Labyrinth is a cloud ocean. Anything that falls in is PERMANENTLY LOST. There is no recovery.
@@ -227,14 +227,14 @@ Prisma Plorts are created by stabilizing Unstable Plorts during Prisma Disruptio
 
 **Temporary Pink Slime Farm Setup:**
 1. Bring 50 Pink Slimes from ranch to Grey Labyrinth
-2. Set up near a Stabilizing Gate (permanent archway structures found throughout the Labyrinth)
+2. Set up near an Ancient Stabilizer (permanent archway structures found throughout the Labyrinth)
 3. Place Pink Slimes in temporary open area (no corral needed)
 
 **Operation During Disruption:**
 1. Collect Unstable food (fruits, veggies, chickens) during Prisma Disruption
 2. Feed Pink Slimes immediately
 3. They produce Unstable Plorts
-4. Walk through Stabilizing Gate - Unstable Plorts automatically convert to Prisma Plorts in your inventory
+4. Walk through Ancient Stabilizer - Unstable Plorts automatically convert to Prisma Plorts in your inventory
 5. Conversion rate: 1 Unstable Plort → 1-2 Prisma Plorts (typically 2)
 6. Deposit to nearby Refinery Link or return to ranch
 7. When done farming, vacuum up Pink Slimes and return them to ranch
@@ -249,7 +249,7 @@ Prisma Plorts are created by stabilizing Unstable Plorts during Prisma Disruptio
 
 **Advanced Farming Note:**
 - Open early Shadow Plort Doors (25-50 plort cost) for shortcuts and quality-of-life improvements
-- Unlock Stabilizing Gate blueprint (75 Shadow Plorts) to craft permanent gate at ranch for convenient Prisma Plort farming
+- Unlock Ancient Stabilizer blueprint (75 Shadow Plorts) to craft permanent gate at ranch for convenient Prisma Plort farming
 - Systematic door completion is Chapter 13 objective
 
 #### Phase 6: Warp Infrastructure Setup
@@ -340,7 +340,7 @@ By the end of Chapter 10, you should have:
 - ✅ 40-60 Candied Hens collected (Sloomber favorite food)
 - ✅ 40-60 Turbo Taters collected (Hyper favorite food)
 - ✅ Basic understanding of Shadow Plort farming (hit Shadow Slimes with throwables)
-- ✅ Basic understanding of Prisma Plort farming (Unstable food → slimes → Stabilizing Gate)
+- ✅ Basic understanding of Prisma Plort farming (Unstable food → slimes → Ancient Stabilizer)
 - ✅ Shadow Plorts and Prisma Plorts stored in SILOS (not Refinery)
 - ✅ Warp infrastructure deployed in all three main zones (3 Refinery Links + 3 Market Links in Impossible Sky, Dream Land, Terrarium)
 - ✅ Optional Yellow Home Portal placed in Terrarium for quick extraction

@@ -11,7 +11,7 @@ All Shadow Plort-locked doors in the Grey Labyrinth endgame area.
 | Waterworks | 25  | In the main hub cave, after entering from Starlight Strand and taking a right. | Wall Lighting |
 | Lava Depths | 25  | In a lava-filled cave down the hall from a Boom Plort statue door. | Potted Lava Plants |
 | Waterworks | 25  | At the top of a spiral staircase inside one of the large grey pillars. | Young Cedaroak |
-| Waterworks | 25  | Inside a small cave located underneath a Stabilizing Gate structure. | Ancient Purple Oak |
+| Waterworks | 25  | Inside a small cave located underneath an Ancient Stabilizer structure. | Ancient Purple Oak |
 | Waterworks | 25  | In a secret room connected to the hedge maze; links back to the Starlight Strand portal. | Shortcut |
 | Waterworks | 25  | Inside a decorated glass room directly across from the hedge maze area. | Stabilizer Flag |
 | Lava Depths | 50  | Behind a stone door, hidden in a corner behind a large blue anemone decoration. | Power Chip |
@@ -23,7 +23,7 @@ All Shadow Plort-locked doors in the Grey Labyrinth endgame area.
 | Dream Land | 50  | On a tall, bell-like tower, on the side facing away from the map's edge. | Gold Twisted Tree |
 | Lava Depths | 75  | Hidden underneath a glass floor; a nearby button (behind a Plort Door) is required to raise it. | Storage Cell |
 | Lava Depths | 75  | In a large room with ceiling vents, hidden behind giant smiling slime statues. | Storage Cell #2 |
-| Waterworks | 75  | Next to Gigi in a grassy area with many Twin Slimes and Angler Fountains. | Stabilizing Gate |
+| Waterworks | 75  | Next to Gigi in a grassy area with many Twin Slimes and Angler Fountains. | Ancient Stabilizer |
 | Waterworks | 75  | On a ledge far below the main structures, located next to a table and chair. | Angler Fountain |
 | Waterworks | 100 | At the very end of the hedge maze, next to a map node and a stabilizer. | Injector Module |
 | Dream Land | 100 | At the end of the "pink windmill" area, behind a large door locked by a Radiant Projector puzzle. | Regen Module |

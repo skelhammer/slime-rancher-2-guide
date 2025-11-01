@@ -213,6 +213,6 @@ Quick reference guide for all food, resources, plorts, and upgrade components in
 | Aquarium | The Grey Labyrinth |
 | Magma Fountain | The Grey Labyrinth |
 | Gold Twisted Tree | The Grey Labyrinth |
-| Stabilizing Gate | The Grey Labyrinth |
+| Ancient Stabilizer | The Grey Labyrinth |
 | Angler Fountain | The Grey Labyrinth |
 

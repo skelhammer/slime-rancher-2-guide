@@ -47,14 +47,14 @@ The Shadow Plort Doors are the Grey Labyrinth's equivalent of Treasure Pods. The
 - Feed Unstable food to any slimes → produces Unstable Plorts
 - Stabilize Unstable Plorts using:
   - Prisma Stabilizers (yellow portals - one-time use)
-  - Stabilizing Gates (permanent archways - reusable)
+  - Ancient Stabilizers (permanent archways - reusable)
 - **CRITICAL: Store Prisma Plorts in SILOS, not Refinery** (Refinery plorts cannot be traded to Gigi)
 
 **Optimal Farming Setup:**
-- Temporary Pink Slime operation near Stabilizing Gate in Grey Labyrinth
+- Temporary Pink Slime operation near Ancient Stabilizer in Grey Labyrinth
 - Collect Unstable food during disruption
 - Feed Pink Slimes → Unstable Plorts
-- Walk through Stabilizing Gate → Unstable Plorts automatically convert to Prisma Plorts in your inventory
+- Walk through Ancient Stabilizer → Unstable Plorts automatically convert to Prisma Plorts in your inventory
 - Deposit to portable Refinery Link or return to ranch
 
 #### Phase 3: Final Vacpack Upgrades

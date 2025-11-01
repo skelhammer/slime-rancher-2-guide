@@ -44,7 +44,7 @@ Quick reference guide for all craftable gadgets, utilities, and warp technology 
 | Spout Resource Flag | 50  | 5 Pink Plorts, 1 Jellystone | A placeable flag that creates a custom spout/geyser icon marker on your world map. |
 | Mineral Resource Flag | 50  | 5 Pink Plorts, 1 Jellystone | A placeable flag that creates a custom mineral/ore icon marker on your world map. |
 | Hive Resource Flag | 50  | 5 Pink Plorts, 1 Jellystone | A placeable flag that creates a custom hive icon marker on your world map. |
-| Stabilizer Flag | 50  | 5 Pink Plorts, 1 Tin Petal | A placeable flag that creates a custom Stabilizing Gate icon marker on your world map. |
+| Stabilizer Flag | 50  | 5 Pink Plorts, 1 Tin Petal | A placeable flag that creates a custom Ancient Stabilizer icon marker on your world map. |
 
 ## Warp Tech
 
