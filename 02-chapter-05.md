@@ -47,86 +47,74 @@ Transform The Gully into your ranch's logistical core with automated food produc
 - Protein production supports all carnivore operations across entire ranch
 - Centralized food storage eliminates inefficient plot-to-plot transfers
 
-### Accessing The Gully
+#### Phase 1: Unlock The Gully
 
-Before you can begin development, you must unlock this expansion.
+**Capital Required:** 2,800 Newbucks
 
-- **Location:** The entrance to The Gully is located on the eastern side of the Conservatory, marked by a large wooden gate with vines growing over it.
-- **Unlock Cost:** 2,800 Newbucks
-- **Layout**: The Gully is a ravine-like area with plots arranged along a central path. It has a more natural, canyon-like aesthetic compared to the manicured Conservatory.
+The Gully is accessed from the eastern side of the Conservatory. This 5-plot expansion will become your ranch's protein production and logistics center.
 
-### Ranch Development & Plot Allocation: The Gully Build-Out (5 plots)
+**Location:** Eastern side of Conservatory (look for the large wooden gate with vines)
 
-#### Phase 1: Protein Production Infrastructure
+**Layout:** Ravine-like area with plots arranged along a central path. Natural canyon aesthetic.
 
-**Plot 1 (Coop): Primary Protein Facility - Stony Hen Breeding Operation:**
+#### Phase 2: Plot-by-Plot Build
 
-- **Build Order:** Coop (250) → High Walls (200) → Spring Grass (425) → Vitamizer (500)
-- **Total Investment:** 1,375 Newbucks
-- **Deployment:** Stock with 6-8 Stony Hens and 2 Roostros for breeding
+Execute the following build in order:
 
-**Plot 2 (Coop): Specialized Protein Facility - Sea Hen Breeding Operation:**
+**The Gully (5 plots - NEW EXPANSION):**
 
-- **Build Order:** Coop (250) → High Walls (200) → Spring Grass (425) → Vitamizer (500)
-- **Total Investment:** 1,375 Newbucks
-- **Deployment:** Stock with 6-8 Sea Hens and 2 Roostros for breeding
+| **Plot** | **Type** | **Contents** | **Base Cost** | **Upgrades** | **Total Cost** | **Purpose/Notes** |
+|----------|----------|--------------|---------------|--------------|----------------|-------------------|
+| **1** | Coop | Stony Hens + Roostros | 250 NB | High Walls (200), Spring Grass (425), Vitamizer (500) | 1,375 NB | Primary protein facility. Stock: 6-8 hens + 2 roostros. Breeds continuously. Feeds Plot 5 (Tabby favorite) |
+| **2** | Coop | Sea Hens + Roostros | 250 NB | High Walls (200), Spring Grass (425), Vitamizer (500) | 1,375 NB | Specialized protein facility. Stock: 6-8 hens + 2 roostros. Breeds continuously. Feeds Plot 4 (Angler favorite) |
+| **3** | Silo | Food Distribution | 450 NB | Tier 1 (500), Tier 2 (575), Tier 3 (650) | 2,175 NB | Central logistics hub for specialty hens, Roostros, Moondew Nectar, favorite foods |
+| **4** | Corral | Angler-Crystal Largos (6) | 250 NB | High Walls (260), Air Net (425), Plort Collector (750), Auto-Feeder (750), Music Box (350) | 2,785 NB | Produces Angler + Crystal Plorts. Feed Sea Hens (Angler favorite, 4 plorts/feeding). Crystal spikes - use Music Box + Water spray |
+| **5** | Corral | Flutter-Tabby Largos (6) | 250 NB | High Walls (260), Air Net (425), Solar Shield (425), Plort Collector (750), Auto-Feeder (750), Music Box (350) | 3,210 NB | Produces Flutter + Tabby Plorts. Feed Stony Hens (Tabby favorite, 4 plorts/feeding). **DO NOT SELL Flutter Plorts** (need 300+ for Ch 9 Quantum Drones). Solar Shield required for Flutter |
 
-#### Phase 2: Central Logistics Hub
+**Total Investment:** 2,800 NB (expansion) + 10,920 NB (plots/upgrades) = 13,720 NB
 
-**Plot 3 (Silo): Food Distribution Silo:**
+#### Phase 3: Automation Integration
 
-- **Build Order:** Silo (450) → Storage Tier 1 (500) → Storage Tier 2 (575) → Storage Tier 3 (650)
-- **Total Investment:** 2,175 Newbucks
-- **Storage Allocation Strategy:** Specialty Hens, Roostros, Moondew Nectar, and favorite foods
+**Auto-Feeder Setup:**
+- Plot 4 (Angler-Crystal): Stock with Sea Hens, set to Normal speed
+- Plot 5 (Flutter-Tabby): Stock with Stony Hens, set to Normal speed
 
-#### Phase 3: Production Division
+**Plort Collector Management:**
+- Both corrals have Plort Collectors that auto-vacuum plorts
+- Angler-Crystal: Sell Angler plorts freely, stockpile Crystal plorts for Tank Guard upgrades
+- Flutter-Tabby: **CRITICAL - DO NOT SELL Flutter Plorts**, store in Refinery (need 300+ for Chapter 9 Quantum Drones)
 
-**Plot 4 (Corral): Carnivore Largo Division - Angler-Crystal (6 largos):**
+**Food Restocking:**
+- Plot 1 (Stony Hen Coop): Collect hens as needed, restock Plot 5 Auto-Feeder
+- Plot 2 (Sea Hen Coop): Collect hens as needed, restock Plot 4 Auto-Feeder
+- Vitamizer upgrade increases chick maturation speed and egg production
 
-- **Build Order:** Corral (250) → High Walls (260) → Air Net (425) → Plort Collector (750) → Auto-Feeder (750) → Music Box (350)
-- **Total Investment:** 2,785 Newbucks
-- **Creation:** Deploy 6 Angler Slimes, feed 6 Crystal Plorts to create Angler-Crystal Largos
-- **Feed Strategy:** Sea Hens from Plot 2 Coop (Angler favorite food = 4 plorts per feeding)
+**Chicken Breeding Management:**
+- 2 Roostros + 6-8 hens produces sustainable meat supply
+- Occasional Hen Hens (standard chickens) spawn in The Gully as backup protein source
 
-**Plot 5 (Corral): Flutter-Tabby Largo Division (6 largos):**
+**Largo Special Mechanics:**
+- **Crystal-Rock:** Crystal spikes deal contact damage. Music Box reduces frequency. Use Water Tank spray to break spikes instantly
+- **Flutter-Tabby:** Tabby component makes them fast/agile. Flutter calming aura helps containment. Solar Shield mandatory
 
-- **Build Order:** Corral (250) → High Walls (260) → Air Net (425) → Solar Shield (425) → Plort Collector (750) → Auto-Feeder (750) → Music Box (350)
-- **Total Investment:** 3,210 Newbucks
-- **Creation:** Deploy 6 Flutter Slimes (captured in Chapter 4 from Starlight Strand southern pink biome), feed 6 Tabby Plorts to create Flutter-Tabby Largos
-- **Feed Strategy:** Stony Hens from Plot 1 Coop (Tabby's favorite food = 4 plorts per feeding)
-- **CRITICAL:** DO NOT SELL Flutter Plorts - store in Refinery (need 300+ for Chapter 9 Quantum Drones)
-- **Note:** Solar Shield required for Flutter component
+#### Phase 4: Infrastructure Gadgets (Optional Quality-of-Life)
 
-### Additional Gully Management Tips
+**Market Link Placement:**
+- **Location:** Central area of The Gully near Plot 3 (Silo)
+- **Cost:** 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
+- **Purpose:** Quickly sell plorts from Gully operations without traveling to Conservatory
+- **Usage:** Sell Angler, Crystal, Tabby plorts here. Store Flutter Plorts in Refinery instead
 
-- **Chicken Breeding:** 2 Roostros + 6-8 Stony Hens produces sustainable meat supply. Elder Collector in Plot 2 auto-harvests older chickens for maximum efficiency.
-- **Vitamizer Benefits:** Increases chick maturation speed and egg production. Essential for high-volume protein operations.
-- **Plort Market Strategy:** Sell plorts from your Conservatory operations (Crystal-Rock, Boom-Batty, Tabby-Cotton, Phosphor-Honey) and Gully operations (Angler-Crystal) daily. NEVER sell Flutter Plorts - store them in Refinery for Chapter 9.
-- **Angler-Crystal Largo Benefits:** Crystal plorts are extremely valuable (~60 Newbucks each). Angler plorts needed for Tank Booster upgrades. Crystal plorts needed for Tank Guard series. Sea Hens (Angler favorite) produce 4 plorts per feeding.
-- **Crystal Spike Management:** Crystal largos periodically grow damaging spikes. Music Box reduces frequency. Use Water Tank to spray and break spikes instantly, or keep distance when collecting plorts.
-- **Flutter-Tabby Management:** Tabby component makes these largos fast and agile. Flutter provides calming aura. Music Box essential for containment. Stony Hens (Tabby favorite) produce 4 plorts per feeding (2 Flutter + 2 Tabby). Solar Shield mandatory for Flutter component.
-- **Resource Pipeline:** The Gully's central location makes it ideal for depositing food resources before returning to exploration. All crafting materials (ores, dusts, sand, etc.) and critical plorts (Flutter, Crystal for stockpiling) should be deposited directly into the Refinery. Plot 3 Silo is exclusively for food distribution.
-- **Occasional Spawns:** Hen Hens (standard chickens) occasionally spawn in The Gully, providing a convenient backup protein source.
+**Refinery Link Placement:**
+- **Location:** Near entrance of The Gully (convenient for depositing after exploration runs)
+- **Cost:** 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
+- **Purpose:** Deposit crafting materials and food resources before returning to exploration
+- **Usage:** Deposit Flutter Plorts here for stockpiling (DO NOT sell at Market Link)
 
-### Optional: Dash Pad Connection
-
-**Purpose:** Create a zero-energy sprint path between Conservatory and The Gully
-
-**Blueprint Unlock:** Ember Valley treasure pod (Chapter 3) - "Inside a hole in a rock pillar by a lone geyser"
-
-**Crafting Cost:** 500 Newbucks + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
-
-**Material Availability:**
-- Crystal Plorts: From your Conservatory Crystal-Rock operation (Chapter 3) ✓
-- Angler Plorts: From wild Angler slimes in Starlight Strand (Chapter 4) or your Gully Angler-Crystal operation ✓
-- Lava Dust: Ember Valley exploration (Chapter 3) ✓
-- Silky Sand: Starlight Strand beaches (Chapter 4) ✓
-
-**Placement:** Position 1 Dash Pad along the path between Conservatory entrance and The Gully entrance
-
-**Effect:** Step on the Dash Pad to gain a temporary buff allowing zero-energy sprinting for ~10-15 seconds
-
-**Strategic Value:** LOW priority - save funds for critical upgrades first. Only craft if you have surplus Newbucks and want faster ranch traversal.
+**Dash Pad Placement:**
+- **Location:** Near entrance for quick travel to central plot area
+- **Cost:** 500 NB + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
+- **Purpose:** Sprint with zero energy cost between entrance and operations area
 
 ### End of Chapter Completion Checklist
 

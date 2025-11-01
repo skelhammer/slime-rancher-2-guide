@@ -6,6 +6,37 @@ You've captured Rainbow Island's most valuable slimes from the Grey Labyrinth. N
 
 ### The Operational Blueprint
 
+**Primary Objective:** Integrate Grey Labyrinth slimes into automated ranch operations and establish highest-value plort production
+
+**Financial Checkpoint:**
+- **Starting Budget:** Should have 50,000-70,000+ Newbucks from Chapter 10 operations
+- **Required:** ~12,650 Newbucks for Archway unlock (2,800 NB) and build-out (9,845 NB)
+- **Daily Revenue:** ~6,500-8,500 Newbucks from all operations
+- **Timeline:** Achieve in 2-3 days through all operations
+- **Farming Strategy:** If short on funds, spend 2-3 days farming plorts while simultaneously collecting Grey Labyrinth resources (Polaricherry, Candied Hens, Twin Plorts, Sloomber Plorts) from Chapter 10 exploration
+
+**Strategic Priorities:**
+
+- Unlock The Archway expansion (2,800 Newbucks - accessed from northwest corner of Conservatory)
+- Establish two Grey Labyrinth largo operations (Twin-Flutter and Sloomber-Saber)
+- Deploy Auto-Feeders IMMEDIATELY to prevent rare slime starvation
+- Integrate elite slimes into automated ranch systems
+
+**Key Success Metrics:**
+
+- The Archway unlocked and fully developed (5 plots)
+- Highest-value plort production active (Sloomber-Saber generates 900-1,500 NB/day)
+- All Auto-Feeders operational to prevent rare slime starvation
+- Total ranch revenue increased to 8,500-12,000+ Newbucks/day
+- Grey Labyrinth plort stockpiling for Chapter 13-14
+
+**Capital Requirements:**
+
+- Archway Unlock: 2,800 Newbucks
+- Full Build-Out: ~9,845 Newbucks (2 corrals + 1 coop + 1 garden + 1 silo)
+- **Total Investment: ~12,645 Newbucks**
+- Recommended Starting Budget: 15,000+ Newbucks
+
 #### Phase 1: Unlock The Archway
 
 **Capital Required:** 2,800 Newbucks
@@ -18,62 +49,17 @@ The Archway is accessed from the northwest corner of the Conservatory. This 5-pl
 
 Execute the following build in order:
 
-**Plot 1: Garden - Polaricherry**
-- **Cost:** 250 Newbucks
-- **Purpose:** Feeds Twin-Flutter Largos (Plot 2)
-- **Upgrade:** Install Nutrient Soil (600 Newbucks) + Sprinkler (700 Newbucks)
-- **Deposit:** Polaricherry (collected from Grey Labyrinth)
-- **Yield:** 20 Polaricherries per harvest (enhanced yield)
+**The Archway (5 plots - NEW EXPANSION):**
 
-**Plot 2: Corral - Twin-Flutter Largos**
-- **Cost:** 250 Newbucks (corral)
-- **Slimes:** 6 Twin-Flutter Largos
-- **Creation:** Feed 6 Twin Slimes with Flutter Plorts (or vice versa)
-- **Upgrades:**
-  - High Walls: 260 Newbucks (mandatory - Twin slimes jump)
-  - Auto-Feeder: 750 Newbucks (set to Normal speed, stock with Polaricherry)
-  - Plort Collector: 750 Newbucks (collects Twin + Flutter plorts)
-- **Diet:** Fruit (Polaricherry from Plot 1)
-- **Plort Production:** Twin Plorts (23-84) + Flutter Plorts (30-50)
-- **Special:** Flutter's calming aura reduces agitation, Twin creates portals to grab distant food
-- **Revenue per Feeding:** ~100-150 Newbucks (4 plorts total with favorite food)
+| **Plot** | **Type** | **Contents** | **Base Cost** | **Upgrades** | **Total Cost** | **Purpose/Notes** |
+|----------|----------|--------------|---------------|--------------|----------------|-------------------|
+| **1** | Garden | Polaricherry | 250 NB | Nutrient Soil (600), Sprinkler (700) | 1,550 NB | Feeds Plot 2. Polaricherry from Grey Labyrinth. 20 per harvest |
+| **2** | Corral | Twin-Flutter Largos (6) | 250 NB | High Walls (260), Auto-Feeder (750), Plort Collector (750) | 2,010 NB | Produces Twin + Flutter Plorts. Feed Polaricherry (Twin favorite, 4 plorts/feeding). Revenue: ~100-150 NB/feeding. Flutter calming aura, Twin portals grab distant food |
+| **3** | Coop | Candied Hens + Roostros | 250 NB | High Walls (200), Spring Grass (600), Vitamizer (700) | 1,750 NB | Feeds Plot 4. Stock: 6-8 hens + 2 roostros. Breeds continuously |
+| **4** | Corral | Sloomber-Saber Largos (6) | 250 NB | High Walls (260), Music Box (350), Auto-Feeder (750), Plort Collector (750) | 2,360 NB | Produces Sloomber + Saber Plorts. Feed Candied Hens (Sloomber favorite, 4 plorts/feeding). Revenue: ~150-250 NB/feeding. **HIGHEST VALUE COMBO IN GAME**. Music Box CRITICAL - Sloomber clouds pacify Saber |
+| **5** | Silo | Plort & Food Storage | 450 NB | Tier 1 (500), Tier 2 (575), Tier 3 (650) | 2,175 NB | Store Twin, Sloomber, Saber, Flutter plorts + Polaricherry/Candied Hen buffer. DO NOT put Grey Labyrinth plorts in Refinery yet (needed Ch 13-14) |
 
-**Plot 3: Coop - Candied Hens + Roostros**
-- **Cost:** 250 Newbucks
-- **Purpose:** Breeds Candied Hens for Sloomber-Saber Largos (Plot 4)
-- **Upgrades:**
-  - High Walls: 200 Newbucks
-  - Spring Grass: 600 Newbucks (speeds chick growth)
-  - Vitamizer: 700 Newbucks (increases egg production)
-- **Stock:** 6-8 Candied Hens + 2 Roostros (collected from Grey Labyrinth - Dream Land)
-- **Production:** Candied Hens breed continuously
-
-**Plot 4: Corral - Sloomber-Saber Largos**
-- **Cost:** 250 Newbucks (corral)
-- **Slimes:** 6 Sloomber-Saber Largos
-- **Creation:** Feed 6 Sloomber Slimes with Saber Plorts (or vice versa)
-- **Upgrades:**
-  - High Walls: 260 Newbucks (mandatory - Saber slimes are aggressive)
-  - Music Box: 350 Newbucks (CRITICAL - reduces Saber aggression, Sloomber sleep clouds help)
-  - Auto-Feeder: 750 Newbucks (set to Normal speed, stock with Candied Hens)
-  - Plort Collector: 750 Newbucks (collects Sloomber + Saber plorts)
-- **Diet:** Meat (Candied Hen from Plot 3 - Sloomber favorite)
-- **Plort Production:** Sloomber Plorts (37-85) + Saber Plorts (42-70)
-- **Special:** Sloomber's sleep clouds pacify aggressive Saber component - synergistic combination
-- **Revenue per Feeding:** ~150-250 Newbucks (4 plorts total with favorite food)
-- **HIGHEST VALUE COMBO IN THE GAME**
-
-**Plot 5: Silo - Plort & Food Storage**
-- **Cost:** 450 Newbucks
-- **Purpose:** Local storage for Grey Labyrinth plorts and food
-- **Upgrades:**
-  - Tier 1 Storage: 500 Newbucks (6 slots, 600 capacity)
-  - Tier 2 Storage: 575 Newbucks (9 slots, 900 capacity)
-  - Tier 3 Storage: 650 Newbucks (12 slots, 1,200 capacity)
-- **Storage Strategy:**
-  - Store Twin, Sloomber, Saber, Flutter plorts here
-  - Keep buffer stock of Polaricherry and Candied Hens
-  - DO NOT put Grey Labyrinth plorts in Refinery yet (needed for Chapter 13-14)
+**Total Investment:** 2,800 NB (expansion) + 9,845 NB (plots/upgrades) = 12,645 NB
 
 #### Phase 3: Automation Integration
 
@@ -92,7 +78,26 @@ Execute the following build in order:
 - Plot 3 (Candied Hen Coop): Collect hens as needed, restock Plot 4 Auto-Feeder
 - **OR** set up Quantum Drones to automate food restocking
 
-#### Phase 4: Teleporter Network (Optional Quality-of-Life)
+#### Phase 4: Infrastructure Gadgets (Optional Quality-of-Life)
+
+**Market Link Placement:**
+- **Location:** Central area of The Archway near Plots 2 and 4 (corrals)
+- **Cost:** 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
+- **Purpose:** Quickly sell Twin, Sloomber, and Saber plorts without traveling to Conservatory
+- **Usage:** Can sell all plorts here OR store in Silo for later sale
+
+**Refinery Link Placement:**
+- **Location:** Near entrance from The Conservatory
+- **Cost:** 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
+- **Purpose:** Deposit resources collected during Grey Labyrinth farming runs
+- **Usage:** Convenient drop-off point before returning to Grey Labyrinth
+
+**Dash Pad Placement:**
+- **Location:** Path between Conservatory entrance and The Archway entrance
+- **Cost:** 500 NB + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
+- **Purpose:** Sprint with zero energy cost between Conservatory and Archway
+
+#### Phase 5: Teleporter Network (Optional Quality-of-Life)
 
 **Purpose:** Establish two-way teleporter connections between ranch areas and Grey Labyrinth for fast travel.
 
@@ -177,32 +182,7 @@ Execute the following build in order:
 - Cannot use teleporters while carrying Unstable items during Prisma Disruptions
 - Different colored teleporters are independent networks (Gold teleporter only connects to other Gold teleporter)
 
-### Strategic Priorities
-
-1. **Install All Auto-Feeders FIRST**: This is non-negotiable. Grey Labyrinth slimes are too valuable to risk starvation.
-2. **Music Box on Sloomber-Saber Corral**: The Saber component is aggressive. The Music Box + Sloomber sleep clouds keep them calm.
-3. **Continue Grey Labyrinth Farming**: During ranch downtime, return to Grey Labyrinth to farm Shadow/Prisma Plorts for Chapter 13-14.
-4. **Monitor Plort Prices**: Diversify sales - don't flood market with one plort type.
-
-### Financial Checkpoint
-
-**Total Capital Required:**
-- Expansion: 2,800 Newbucks
-- Plots: 1,450 Newbucks (5 plots: 250 + 250 + 250 + 250 + 450)
-- Upgrades: ~8,400 Newbucks (gardens, corrals, coop, silo upgrades)
-- **Total: ~12,650 Newbucks**
-
-**Revenue Added:**
-- Twin-Flutter Largos: ~100-150 Newbucks per feeding × 6 slimes = 600-900/day
-- Sloomber-Saber Largos: ~150-250 Newbucks per feeding × 6 slimes = 900-1,500/day
-- **Total Archway Revenue: +2,000-3,500 Newbucks/day**
-
-**Total Ranch Revenue (after Chapter 11):**
-- Previous Ranch Revenue (Ch 9): ~6,500-8,500 Newbucks/day
-- Archway Addition: +2,000-3,500 Newbucks/day
-- **New Total: ~8,500-12,000+ Newbucks/day**
-
-### Success Metrics
+### End of Chapter Completion Checklist
 
 By the end of Chapter 11, you should have:
 - ✅ The Archway expansion unlocked and operational

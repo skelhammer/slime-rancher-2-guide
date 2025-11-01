@@ -32,40 +32,28 @@ Execute a comprehensive sweep of Starlight Strand to secure unique resources and
 
 ### Gordo Strategy
 
-**Hunter Gordo:**
-- **Location:** Starlight Strand - Western alcove past mushroom trees
-- **Food:** Meat (50 total, or 25 Roostros)
-- **Reward:** Azure Bushes chest + slime doorway shortcut
+Pop all five Starlight Strand Gordos to unlock shortcuts, treasure pods, and the Grey Labyrinth entrance:
 
-**Honey Gordo:**
-- **Location:** Starlight Strand - Ledge above waterfall, south of arrival portal
-- **Food:** Fruit (50 total, or 25 Mint Mangos)
-- **Reward:** Tall Pink Coral Columns + Tank Liner + two Phosphor plort shortcuts
-
-**Angler Gordo:**
-- **Location:** Starlight Strand - Far SE coast, sandy beach cave
-- **Food:** Meat (50 total, or 25 Sea Hens)
-- **Reward:** Up-spout fast return route
-
-**Ringtail Gordo:**
-- **Location:** Starlight Strand - Pink region SE, stone bridge east of cracked door
-- **Food:** Any (50 total - omnivore)
-- **Note:** Only appears at NIGHT (stone statue during day)
-- **Reward:** Portal shortcut to Rainbow Fields
-
-**Flutter Gordo:**
-- **Location:** Starlight Strand - Southernmost area, pink/blue biome junction
-- **Food:** Moondew Nectar ONLY (15 total)
-- **Reward:** Research Drone + Teleporter + path to Grey Labyrinth gate
+| **Gordo** | **Food Required** | **Location** | **Reward** |
+|-----------|-------------------|--------------|------------|
+| **Hunter Gordo** | 50 Meat (Roostros count 2x) | Western alcove past mushroom trees | Azure Bushes chest + slime doorway shortcut |
+| **Honey Gordo** | 50 Fruit (Mint Mangos count 2x) | Ledge above waterfall, south of arrival portal | Tall Pink Coral Columns + Tank Liner + two Phosphor plort shortcuts |
+| **Angler Gordo** | 50 Meat (Sea Hens count 2x) | Far SE coast, sandy beach cave | Up-spout fast return route |
+| **Ringtail Gordo** | 50 Any (omnivore) | Pink region SE, stone bridge east of cracked door (ONLY at NIGHT - stone statue during day) | Portal shortcut to Rainbow Fields |
+| **Flutter Gordo** | 15 Moondew Nectar ONLY | Southernmost area, pink/blue biome junction | Research Drone + Teleporter + path to Grey Labyrinth gate |
 
 ### Slime Locations for Starlight Strand
 
-- **Hunter Slimes:** Western areas and mushroom forests (relatively rare, can turn invisible)
-- **Honey Slimes:** Flowery areas in the pink biome (docile, honey plorts attract other slimes)
-- **Phosphor Slimes:** Spawn at night throughout the area (glow in the dark, require Solar Shield)
-- **Flutter Slimes:** Southern pink biome areas (only eat Moondew Nectar)
-- **Ringtail Slimes:** Throughout Starlight Strand (turn to stone during daytime, omnivores)
-- **Angler Slimes:** Coastal areas and beaches (can stun with antenna flash)
+**Starlight Strand Slimes:**
+
+| **Slime** | **Diet** | **Favorite** | **Largo?** | **Location** | **Special Notes** |
+|-----------|----------|--------------|------------|--------------|-------------------|
+| **Hunter** | Meat | Roostro | YES | Western areas and mushroom forests | Relatively rare, can turn invisible |
+| **Honey** | Fruit | Mint Mango | YES | Flowery areas in pink biome | Docile, honey plorts attract other slimes |
+| **Phosphor** | Fruit | Cuberry | YES | Throughout (NIGHT ONLY) | Glowing, requires Solar Shield in corrals |
+| **Flutter** | Moondew Nectar ONLY | Moondew Nectar | YES | Southern pink biome | ONLY eats Moondew Nectar (night spawn), calming aura |
+| **Ringtail** | Omnivore | Any | YES | Throughout Starlight Strand | Turn to stone during daytime, need Solar Shield or ranched as Largos |
+| **Angler** | Meat | Sea Hen | YES | Coastal areas and beaches | Can stun food and slimes with antenna flash |
 
 ### Asset Acquisition
 
@@ -79,13 +67,15 @@ Capture these slimes and plorts during your Starlight Strand exploration. For Ch
 
 ### Resource Extraction
 
-**Resource Harvesting Priorities:**
+**Starlight Strand Resources:**
 
-- **Buzz Wax** (50+): Common throughout Starlight Strand, needed for Tank Guard upgrades
-- **Wild Honey** (50+): From hives on trees/cliffs, needed for Jetpack II, Dash Boots II, and other upgrades
-- **Moondew Nectar** (30+): Rare, spawns only at night (5PM-6AM) in glowing blue flowers, essential for Flutter operations
-- **Sea Hens** (20+): Angler slimes' favorite food, found in coastal areas
-- **Mint Mangos** (30+): Honey slimes' favorite food, found throughout pink biome
+| **Resource** | **Location** | **Uses** |
+|--------------|--------------|----------|
+| **Buzz Wax** | Common throughout Starlight Strand | Tank Guard upgrades, Market Link, Taming Bell |
+| **Wild Honey** | Hives on trees/cliffs | Jetpack II, Dash Boots II, Pulse Wave, Home Portals, teleporters |
+| **Moondew Nectar** | Glowing blue flowers (NIGHT ONLY: 5PM-6AM) | Flutter slime ONLY food (essential for Flutter operations) |
+| **Sea Hens** | Coastal areas | Angler slime favorite food |
+| **Mint Mangos** | Throughout pink biome | Honey slime favorite food |
 
 ### Current Ranch Status (No Changes This Chapter)
 

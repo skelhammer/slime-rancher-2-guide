@@ -32,37 +32,32 @@ This is a 72-hour blitz with a single, non-negotiable objective: acquiring the k
 
 ### Gordo Strategy
 
-**Pink Gordo:**
-- **Location:** Rainbow Fields - Western area near slime statues
-- **Food:** Any (30 total)
-- **Reward:** Geyser to Ember Valley portal switch
+Pop the Pink Gordo to unlock the Ember Valley portal switch:
+
+| **Gordo** | **Food Required** | **Location** | **Reward** |
+|-----------|-------------------|--------------|------------|
+| **Pink Gordo** | 30 Any (omnivore) | Rainbow Fields - Western area near slime statues | Geyser to Ember Valley portal switch |
 
 ### Slime Locations for Chapter 1
 
-- **Pink Slimes:** Everywhere in Rainbow Fields (most common slime)
-- **Tabby Slimes:** Rainbow Fields, commonly found throughout the starting area
-- **Cotton Slimes:** Rainbow Fields, found in grassy areas throughout the map
-- **Phosphor Slimes:** Rainbow Fields, spawn ONLY at night, recognizable by glowing cores and wings
+**Rainbow Fields Slimes:**
+
+| **Slime** | **Diet** | **Favorite** | **Largo?** | **Location** | **Special Notes** |
+|-----------|----------|--------------|------------|--------------|-------------------|
+| **Pink** | Omnivore | Any | YES | Everywhere in Rainbow Fields | Most common slime, eats anything |
+| **Tabby** | Meat | Stony Hen | YES | Throughout starting area | Jumps frequently, needs High Walls |
+| **Cotton** | Veggie | Water Lettuce | YES | Grassy areas throughout | Produces valuable Cotton Plorts |
+| **Phosphor** | Fruit | Cuberry | YES | Throughout (NIGHT ONLY) | Glowing, requires Solar Shield in corrals, burns in sunlight |
 
 ### Ranch Development & Plot Allocation (Conservatory - 8 plots)
 
 **Core Operation (Plots 1 & 2):**
 
-**Plot 1 (Corral):** Your Tabby-Cotton Largo Division (6 slimes)
-
-- **Build Order:** Corral (250) → High Walls (260) → Air Net (425)
-- **Total Investment:** 935 Newbucks
-- **Feed Strategy:** Water Lettuce (Cotton favorite food, produces 2 Tabby + 2 Cotton plorts per feeding)
-
-**Plot 2 (Garden):** Water Lettuce garden for Tabby-Cotton Largos
-
-- **Build Order:** Garden (250)
-- **Total Investment:** 250 Newbucks
-- **Crop:** Water Lettuce (Cotton favorite food)
-
-**Strategic Hold (Plots 3-8):**
-
-- Do not purchase any additional plots. All capital is conserved for the primary mission: crafting the Jetpack.
+| **Plot** | **Type** | **Contents** | **Base Cost** | **Upgrades** | **Total Cost** | **Purpose/Notes** |
+|----------|----------|--------------|---------------|--------------|----------------|-------------------|
+| **1** | Corral | Tabby-Cotton Largos (6) | 250 NB | High Walls (260), Air Net (425) | 935 NB | Produces Tabby + Cotton Plorts. Feed Water Lettuce (Cotton favorite, 4 plorts/feeding) |
+| **2** | Garden | Water Lettuce | 250 NB | None yet | 250 NB | Feeds Plot 1. Will add Nutrient Soil + Sprinkler in Chapter 2 |
+| **3-8** | EMPTY | - | - | - | - | Strategic hold - conserve capital for Jetpack |
 
 ### Upgrade Path for this Chapter (Priority Order)
 

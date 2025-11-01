@@ -17,6 +17,36 @@ Weather event slimes (Dervish and Tangle) are among the rarest in the game, spaw
 
 ### The Operational Blueprint
 
+**Primary Objective:** Integrate rare weather event slimes into automated ranch operations (optional)
+
+**Financial Checkpoint:**
+- **Starting Budget:** Should have 50,000-60,000+ Newbucks from Chapter 11 operations
+- **Required:** ~14,450 Newbucks for Digsite unlock (6,000 NB) and build-out (8,445 NB)
+- **Daily Revenue:** ~8,500-12,000 Newbucks from all operations
+- **Timeline:** Achieve in 2-3 days if you have weather slimes ready
+- **Farming Strategy:** If you lack weather slimes, this chapter is skippable. Focus on Shadow/Prisma Plort farming for Chapter 13 instead.
+
+**Strategic Priorities:**
+
+- Unlock The Digsite expansion (6,000 Newbucks - accessed via The Den eastern passage)
+- Establish two weather event largo operations (Dervish-Ringtail and Tangle-Hyper)
+- Deploy maximum security measures (Air Net on Tangle-Hyper is MANDATORY)
+- Integrate rare weather slimes into automated ranch systems
+
+**Key Success Metrics:**
+
+- The Digsite unlocked and fully developed (4 plots) - OR chapter skipped
+- Weather event slimes integrated into automation - OR skipped
+- Total ranch revenue increased to 11,000-15,500+ Newbucks/day - IF built
+- All Auto-Feeders operational to prevent rare slime starvation
+
+**Capital Requirements:**
+
+- Digsite Unlock: 6,000 Newbucks
+- Full Build-Out: ~8,445 Newbucks (2 corrals + 1 coop + 1 garden)
+- **Total Investment: ~14,445 Newbucks**
+- Recommended Starting Budget: 15,000+ Newbucks
+
 #### Phase 1: Unlock The Digsite
 
 **Capital Required:** 6,000 Newbucks
@@ -25,59 +55,22 @@ The Digsite is accessed through The Den's eastern passage. This 4-plot expansion
 
 **Location:** Eastern passage from The Den (look for the cave tunnel)
 
+**Layout:** Archaeological dig site with exposed ruins and artifacts. Open-air environment suitable for all slime types.
+
 #### Phase 2: Plot-by-Plot Build
 
 Execute the following build in order:
 
-**Plot 1: Garden - Prickle Pears**
-- **Cost:** 250 Newbucks
-- **Purpose:** Feeds Dervish-Ringtail Largos (Plot 2), backup for Tangle-Hyper (Plot 4)
-- **Upgrade:** Install Nutrient Soil (600 Newbucks) + Sprinkler (700 Newbucks)
-- **Deposit:** Prickle Pear (found in Ember Valley or Grey Labyrinth)
-- **Yield:** Standard garden yield (7-13 per harvest)
+**The Digsite (4 plots - NEW EXPANSION - OPTIONAL):**
 
-**Plot 2: Corral - Dervish-Ringtail Largos**
-- **Cost:** 250 Newbucks (corral)
-- **Slimes:** 6 Dervish-Ringtail Largos
-- **Creation:** Feed 6 Dervish Slimes with Ringtail Plorts (or vice versa)
-- **Upgrades:**
-  - High Walls: 260 Newbucks (mandatory)
-  - Music Box: 350 Newbucks (reduces tornado frequency)
-  - Auto-Feeder: 750 Newbucks (set to Normal speed, stock with Prickle Pears)
-  - Plort Collector: 750 Newbucks (collects Dervish + Ringtail plorts)
-- **Diet:** Omnivore (Dervish eats fruit, Ringtail eats anything)
-- **Food Source:** Prickle Pear (Plot 1 - Dervish favorite)
-- **Plort Production:** Dervish Plorts (75 base!) + Ringtail Plorts (42-70)
-- **Special:** Dervish creates tornadoes when agitated (other Dervish slimes are immune), Ringtail turns to stone in daylight
-- **Revenue per Feeding:** ~150-200 Newbucks (4 plorts total with favorite food)
-- **VERY HIGH VALUE COMBO**
+| **Plot** | **Type** | **Contents** | **Base Cost** | **Upgrades** | **Total Cost** | **Purpose/Notes** |
+|----------|----------|--------------|---------------|--------------|----------------|-------------------|
+| **1** | Garden | Prickle Pears | 250 NB | Nutrient Soil (600), Sprinkler (700) | 1,550 NB | Feeds Plot 2 (Dervish favorite), backup for Plot 4. From Ember Valley or Grey Labyrinth. 7-13 per harvest |
+| **2** | Corral | Dervish-Ringtail Largos (6) | 250 NB | High Walls (260), Music Box (350), Auto-Feeder (750), Plort Collector (750) | 2,360 NB | Produces Dervish + Ringtail Plorts. Feed Prickle Pears (Dervish favorite, 4 plorts/feeding). Revenue: ~150-200 NB/feeding. **VERY HIGH VALUE COMBO**. Dervish creates tornadoes (Music Box reduces), Ringtail turns to stone in daylight |
+| **3** | Coop | Painted Hens + Roostros | 250 NB | High Walls (200), Spring Grass (600), Vitamizer (700) | 1,750 NB | Feeds Plot 4. Stock: 6-8 hens + 2 roostros (from Level 3 Pollen Storms). Breeds continuously |
+| **4** | Corral | Tangle-Hyper Largos (6) | 250 NB | High Walls (260), Air Net (425), Music Box (350), Auto-Feeder (750), Plort Collector (750) | 2,785 NB | Produces Tangle + Hyper Plorts. Feed Painted Hens (Tangle favorite, 4 plorts/feeding). Revenue: ~120-200 NB/feeding. **MAXIMUM SECURITY REQUIRED** - Air Net CRITICAL (Hyper extremely bouncy). Tangle vines grab food from 10 units away |
 
-**Plot 3: Coop - Painted Hens + Roostros**
-- **Cost:** 250 Newbucks
-- **Purpose:** Breeds Painted Hens for Tangle-Hyper Largos (Plot 4)
-- **Upgrades:**
-  - High Walls: 200 Newbucks
-  - Spring Grass: 600 Newbucks (speeds chick growth)
-  - Vitamizer: 700 Newbucks (increases egg production)
-- **Stock:** 6-8 Painted Hens + 2 Roostros (collected during Level 3 Pollen Storms)
-- **Production:** Painted Hens breed continuously
-
-**Plot 4: Corral - Tangle-Hyper Largos**
-- **Cost:** 250 Newbucks (corral)
-- **Slimes:** 6 Tangle-Hyper Largos
-- **Creation:** Feed 6 Tangle Slimes with Hyper Plorts (or vice versa)
-- **Upgrades:**
-  - High Walls: 260 Newbucks (mandatory - both slimes are very active)
-  - Air Net: 425 Newbucks (CRITICAL - Hyper component is extremely bouncy)
-  - Music Box: 350 Newbucks (reduces agitation)
-  - Auto-Feeder: 750 Newbucks (set to Normal speed, stock with Painted Hens)
-  - Plort Collector: 750 Newbucks (collects Tangle + Hyper plorts)
-- **Diet:** Omnivore (Tangle eats meat, Hyper eats veggies)
-- **Food Source:** Painted Hen (Plot 3 - Tangle favorite) OR Prickle Pear (Plot 1) as backup
-- **Plort Production:** Tangle Plorts + Hyper Plorts
-- **Special:** Tangle vines grab food from 10 units away, Hyper is extremely fast and bouncy
-- **Revenue per Feeding:** ~120-200 Newbucks (4 plorts total with favorite food)
-- **MAXIMUM SECURITY REQUIRED - This is the most difficult largo to contain in the game**
+**Total Investment:** 6,000 NB (expansion) + 8,445 NB (plots/upgrades) = 14,445 NB
 
 #### Phase 3: Automation Integration
 
@@ -91,37 +84,38 @@ Execute the following build in order:
 - **OR** set up Quantum Drone to transport plorts
 
 **Food Restocking:**
-- Plot 1 (Prickle Pear Garden): Harvest every 2-3 in-game days, restock Auto-Feeders
+- Plot 1 (Prickle Pear Garden): Harvest every 2-3 in-game days, restock Auto-Feeders for Plots 2 and 4
 - Plot 3 (Painted Hen Coop): Collect hens as needed, restock Plot 4 Auto-Feeder
+- Vitamizer upgrade increases chick maturation speed and egg production
 
-### Strategic Priorities
+**Largo Special Mechanics:**
+- **Dervish-Ringtail:** Dervish creates tornadoes that fling objects and slimes. Music Box reduces frequency. Ringtail turns to stone in daylight (The Digsite is open-air, so daylight exposure occurs)
+- **Tangle-Hyper:** Tangle vines grab food from 10 units away (can steal from neighboring plots - keep clear). Hyper component makes them EXTREMELY bouncy. Air Net is MANDATORY or they WILL escape.
 
-1. **Air Net on Tangle-Hyper Corral is MANDATORY**: The Hyper component makes this the most difficult largo to contain. Without Air Net, they WILL escape.
-2. **Music Box on Both Corrals**: Dervish creates tornadoes, Hyper dashes constantly. Music Box reduces these behaviors.
-3. **Monitor Tangle Vines**: Tangle vines can grab food from outside the corral (10 unit range). Keep neighboring plots clear or they'll steal food.
-4. **This Chapter is Optional**: If you find weather slimes too difficult to manage, skip this expansion entirely.
+#### Phase 4: Infrastructure Gadgets (Optional Quality-of-Life)
 
-### Financial Checkpoint
+**Market Link Placement:**
+- **Location:** Central area of The Digsite near Plots 2 and 4 (corrals)
+- **Cost:** 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
+- **Purpose:** Quickly sell Dervish, Ringtail, Tangle, and Hyper plorts without traveling through Den to Conservatory
+- **Usage:** Sell all weather event plorts here (no plorts need stockpiling)
 
-**Total Capital Required:**
-- Expansion: 6,000 Newbucks
-- Plots: 1,000 Newbucks (4 plots: 250 + 250 + 250 + 250)
-- Upgrades: ~7,450 Newbucks (gardens, corrals, coop upgrades)
-- **Total: ~14,450 Newbucks**
+**Refinery Link Placement:**
+- **Location:** Near entrance from The Den
+- **Cost:** 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
+- **Purpose:** Convenient deposit point for resources collected during exploration or occasional spawns
+- **Note:** The Digsite primarily houses rare slimes, not a major exploration resource zone
 
-**Revenue Added:**
-- Dervish-Ringtail Largos: ~150-200 Newbucks per feeding × 6 slimes = 900-1,200/day
-- Tangle-Hyper Largos: ~120-200 Newbucks per feeding × 6 slimes = 720-1,200/day
-- **Total Digsite Revenue: +2,500-3,500 Newbucks/day (if built)**
+**Dash Pad Placement:**
+- **Location:** Path between The Den entrance and The Digsite entrance
+- **Cost:** 500 NB + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
+- **Purpose:** Sprint with zero energy cost between Den and Digsite
 
-**Total Ranch Revenue (after Chapter 12):**
-- Previous Ranch Revenue (Ch 11): ~8,500-12,000 Newbucks/day
-- Digsite Addition: +2,500-3,500 Newbucks/day
-- **New Total: ~11,000-15,500+ Newbucks/day**
+### End of Chapter Completion Checklist
 
-### Success Metrics
+**IMPORTANT:** This chapter is optional. If you haven't collected weather slimes or find them too difficult to manage, skip this expansion entirely and proceed to Chapter 13.
 
-By the end of Chapter 12, you should have:
+**If you completed this chapter, verify:
 - ✅ The Digsite expansion unlocked and operational (OR intentionally skipped)
 - ✅ Dervish-Ringtail Largos established in Plot 2 (if built)
 - ✅ Tangle-Hyper Largos established in Plot 4 (if built)
@@ -132,4 +126,15 @@ By the end of Chapter 12, you should have:
 
 ### Next Chapter Preparation
 
-Chapter 13 (The Endgame Audit) requires significant Grey Labyrinth plort stockpiles. Begin systematically farming Shadow Plorts (1,185 total needed) and Prisma Plorts (245 total needed) if you haven't already.
+Chapter 13 (The Endgame Audit) focuses on maximizing your Vacpack capabilities and unlocking all final upgrades before the endgame.
+
+**Preparation for Chapter 13:**
+- **Shadow Plort Farming:** Begin systematically farming Shadow Plorts from Grey Labyrinth if you haven't already. Total needed: 1,185 Shadow Plorts
+  - Shadow Plort Doors: 1,165 plorts (unlocks treasure pods, shortcuts, areas)
+  - Strange Dimension Nullifier (unlock Grey Labyrinth fast travel): 20 Shadow Plorts
+- **Prisma Plort Farming:** Farm Prisma Plorts during Prisma Disruptions in Grey Labyrinth. Total needed: 245 Prisma Plorts
+  - Gigi's Silo upgrades: 90 Prisma Plorts
+  - Vacpack final upgrades: 145 Prisma Plorts
+  - Prisma Detector (shows disruption timers): 10 Prisma Plorts
+- **Financial Goal:** Accumulate 50,000+ Newbucks for final Vacpack upgrades and gadgets
+- **Farming Strategy:** Use throwable items (Pink Plorts, vegetables) to hit Shadow Slimes. During Prisma Disruptions, feed Unstable food to slimes near Stabilizing Gates to convert them to Prisma Plorts.

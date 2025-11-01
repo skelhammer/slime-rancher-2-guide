@@ -29,22 +29,21 @@
 
 ### Gordo Strategy
 
-**Cotton Gordo:**
-- **Location:** Rainbow Fields - SE of Refinery Link, top of hill
-- **Food:** Vegetables (30 total, or 15 Water Lettuce)
-- **Reward:** Cave to Starlight Strand portal switch
+Pop these two Rainbow Fields Gordos to unlock Starlight Strand access and treasure pods:
 
-**Phosphor Gordo:**
-- **Location:** Rainbow Fields - Cave near south Conservatory exit
-- **Food:** Fruit (30 total, or 15 Cuberries)
-- **Reward:** Treasure pod access with blueprints
+| **Gordo** | **Food Required** | **Location** | **Reward** |
+|-----------|-------------------|--------------|------------|
+| **Cotton Gordo** | 30 Veggies (Water Lettuce counts 2x) | Rainbow Fields - SE of Refinery Link, top of hill | Cave to Starlight Strand portal switch |
+| **Phosphor Gordo** | 30 Fruit (Cuberries counts 2x) | Rainbow Fields - Cave near south Conservatory exit | Treasure pod access with blueprints |
 
 ### Slime Locations for Chapter 2
 
-**Starlight Strand (needed for this chapter):**
+**Starlight Strand Slimes (needed for this chapter):**
 
-- **Honey Slimes:** Found near flowery areas in the pink biome
-- **Phosphor Slimes:** Spawn at night throughout Rainbow Island and Starlight Strand
+| **Slime** | **Diet** | **Favorite** | **Largo?** | **Location** | **Special Notes** |
+|-----------|----------|--------------|------------|--------------|-------------------|
+| **Honey** | Fruit | Mint Mango | YES | Flowery areas in pink biome | Docile, honey plorts attract other slimes |
+| **Phosphor** | Fruit | Cuberry | YES | Throughout (NIGHT ONLY) | Glowing, requires Solar Shield in corrals, burns in sunlight |
 
 ### Asset Collection Sequence
 
@@ -64,29 +63,13 @@
 
 Now that you have all necessary slimes, execute the expansion:
 
-**Starter Operation (Plots 1 & 2) - KEEP RUNNING:**
-
-**Plot 1 (Corral):** Tabby-Cotton Largo Division (6 slimes) - UNCHANGED from Chapter 1
-
-**Plot 2 (Garden):** Water Lettuce - UNCHANGED from Chapter 1
-
-**Crafting Component Operation (Plots 3 & 4) - NEW:**
-
-**Plot 3 (Corral):** Phosphor-Honey Largo Division (6 slimes).
-
-- **Build Order:** Corral (250) → High Walls (260) → Air Net (425) → Solar Shield (425) → Plort Collector (750)
-- **Total Investment:** 2,110 Newbucks
-- **Feed Strategy:** Cuberries (Phosphor favorite food, produces 2 Phosphor + 2 Honey plorts per feeding)
-
-**Plot 4 (Garden):** Cuberry garden for Phosphor-Honey Largos.
-
-- **Build Order:** Garden (250) → Nutrient Soil (600) → Sprinkler (700)
-- **Total Investment:** 1,550 Newbucks
-- **Crop:** Cuberry (Phosphor favorite food)
-
-**Plots 5-8:** EMPTY - Reserved for Chapter 3 expansion
-
-These plots will be developed in Chapter 3 with Hunter-Rock and Boom-Batty operations once you have more capital and upgrade components from Ember Valley.
+| **Plot** | **Type** | **Contents** | **Base Cost** | **Upgrades** | **Total Cost** | **Purpose/Notes** |
+|----------|----------|--------------|---------------|--------------|----------------|-------------------|
+| **1** | Corral | Tabby-Cotton Largos (6) | - | - | 935 NB | UNCHANGED from Chapter 1 - keep running |
+| **2** | Garden | Water Lettuce | - | - | 250 NB | UNCHANGED from Chapter 1 - feeds Plot 1 |
+| **3** | Corral | Phosphor-Honey Largos (6) | 250 NB | High Walls (260), Air Net (425), Solar Shield (425), Plort Collector (750) | 2,110 NB | **NEW** - Produces Phosphor + Honey Plorts for crafting. Feed Cuberries (Phosphor favorite, 4 plorts/feeding) |
+| **4** | Garden | Cuberries | 250 NB | Nutrient Soil (600), Sprinkler (700) | 1,550 NB | **NEW** - Feeds Plot 3 |
+| **5-8** | EMPTY | - | - | - | - | Reserved for Chapter 3 expansion (Crystal-Rock and Boom-Batty operations) |
 
 ### Upgrade Path for this Chapter (Priority Order)
 

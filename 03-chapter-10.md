@@ -101,12 +101,14 @@ Reference appendix-locations.md for exact locations once you're exploring.
 
 **Prisma Disruptions:** Reality-altering energy waves that periodically sweep through zones. During disruptions, all loose food and plorts become "Unstable."
 
+**Disruption Hazards:** During active disruptions, dangerous plasma/flame energy erupts from cracks in the ground. These energy geysers deal significant damage on contact. Avoid standing near ground cracks during disruptions.
+
 **Unstable Items:** Items with "Unstable" status randomly JUMP out of your Vacpack unpredictably. They pop out if you take damage and eventually vanish if left unstabilized. **CRITICAL:** You cannot use teleporters/warp depots while carrying Unstable items.
 
 **Stabilization Methods:**
 - **Prisma Stabilizers:** Yellow floating portals that appear during disruptions. Shoot Unstable items through them to stabilize. **One-time use** - they disappear after use.
 - **Stabilizing Gates:** Permanent archway structures found throughout Labyrinth. Walk through with Unstable items in vac to stabilize them. Reusable.
-- **Result:** Unstable Plorts → Prisma Plorts (valuable endgame resource)
+- **Result:** Unstable Plorts → Prisma Plorts (1 Unstable Plort typically becomes 1-2 Prisma Plorts when stabilized, with 2 being common)
 
 **No Slime Sea:** The bottom of the Labyrinth is a cloud ocean. Anything that falls in is PERMANENTLY LOST. There is no recovery.
 
@@ -233,14 +235,15 @@ Prisma Plorts are created by stabilizing Unstable Plorts during Prisma Disruptio
 2. Feed Pink Slimes immediately
 3. They produce Unstable Plorts
 4. Walk through Stabilizing Gate with Unstable Plorts in vac
-5. They convert to stable Prisma Plorts
+5. They convert to stable Prisma Plorts (1 Unstable Plort → 1-2 Prisma Plorts, typically 2)
 6. Deposit to nearby Refinery Link or return to ranch
 7. When done farming, vacuum up Pink Slimes and return them to ranch
+8. Avoid standing near ground cracks during disruptions (plasma/flame energy geysers)
 
 **Prisma Plort Uses:**
 - 90 total for Gigi's milestone trades (Chapter 14)
 - 155 total for crafting upgrades (145 Vacpack upgrades + 10 Disruption Detector)
-- Total needed: ~245 Prisma Plorts
+- **Total needed: ~245 Prisma Plorts (requires ~123-245 Unstable Plorts depending on conversion rate)**
 
 **CRITICAL - Store Prisma Plorts in SILOS, not Refinery** (cannot trade Refinery plorts to Gigi)
 

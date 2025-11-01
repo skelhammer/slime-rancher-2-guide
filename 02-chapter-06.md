@@ -37,94 +37,79 @@ Develop The Tidepools into a zero-maintenance division generating constant passi
 - **Total Investment: ~24,350 Newbucks**
 - Recommended Starting Budget: 25,000+ Newbucks
 
-### Accessing The Tidepools
+#### Phase 1: Unlock The Tidepools
 
-Before you can begin development, you must unlock this expansion.
+**Capital Required:** 6,000 Newbucks
 
-- **Location**: The entrance to The Tidepools is located at the far end of The Gully (must unlock The Gully first), marked by a coastal path leading to the water.
-- **Unlock Cost**: 6,000 Newbucks
-- **Layout**: The Tidepools is a seaside area with plots arranged along rocky tidal formations. Features natural water sources and a beach aesthetic with ocean views.
+The Tidepools is accessed from the far end of The Gully. This 5-plot expansion will become your ranch's passive income center.
 
-### Ranch Development & Plot Allocation: The Tidepools Build-Out (5 plots)
+**Location:** Far end of The Gully (must unlock Gully first) - coastal path leading to water
 
-#### Phase 1: Passive Income Infrastructure
+**Layout:** Seaside area with plots along rocky tidal formations. Beach aesthetic with ocean views and natural water sources.
 
-**Plot 1 (Pond): Puddle Pond Alpha (4 Slimes):**
+#### Phase 2: Plot-by-Plot Build
 
-- **Build Order:** Pond (450)
-- **Total Investment:** 450 Newbucks
-- **Feed Strategy:** None required (generates plorts passively from water)
-- **Purpose:** Zero-maintenance passive income
+Execute the following build in order:
 
-**Plot 2 (Pond) Puddle Pond Beta (4 Slimes):**
+**The Tidepools (5 plots - NEW EXPANSION):**
 
-- **Build Order:** Pond (450)
-- **Total Investment:** 450 Newbucks
-- **Feed Strategy:** None required (generates plorts passively from water)
-- **Purpose:** Zero-maintenance passive income
+| **Plot** | **Type** | **Contents** | **Base Cost** | **Upgrades** | **Total Cost** | **Purpose/Notes** |
+|----------|----------|--------------|---------------|--------------|----------------|-------------------|
+| **1** | Pond | Puddle Slimes (4) | 450 NB | None | 450 NB | Zero-maintenance passive income. Generates plorts from water. No feeding required |
+| **2** | Pond | Puddle Slimes (4) | 450 NB | None | 450 NB | Zero-maintenance passive income. Generates plorts from water. No feeding required |
+| **3** | Incinerator | Fire Slimes (5) | 450 NB | Ash Trough (500) | 950 NB | Low-maintenance income. Feed ash (throw veggies from Plot 5 into incinerator) |
+| **4** | Incinerator | Fire Slimes (5) | 450 NB | Ash Trough (500) | 950 NB | Low-maintenance income. Feed ash (throw veggies from Plot 5 into incinerator) |
+| **5** | Garden | Odd Onions (or any veggie) | 250 NB | Nutrient Soil (600), Sprinkler (700) | 1,550 NB | Ash production. Throw vegetables into incinerators to generate ash for Fire Slimes |
 
-#### Phase 2: Fire Slime Operations
+**Total Investment:** 6,000 NB (expansion) + 4,350 NB (plots/upgrades) = 10,350 NB
 
-**Plot 3 (Incinerator): Incinerator Alpha (5 Slimes):**
+**Asset Acquisition:**
+- **Puddle Slimes (8 total):** Starlight Strand (highest density) or Rainbow Fields. Cannot Largo, must use Pond plots
+- **Fire Slimes (10 total):** Ember Valley lava pools. Cannot Largo, must use Incinerator plots
 
-- **Build Order:** Incinerator (450) → Ash Trough (500)
-- **Total Investment:** 950 Newbucks
-- **Feed Strategy:** Throw vegetables from Plot 5 garden into incinerator to generate ash
-- **Purpose:** Low maintenance income from Fire Plorts
+#### Phase 3: Automation Integration
 
-**Plot 4 (Incinerator): Incinerator Beta (5 Slimes):**
+**Puddle Pond Management:**
+- Plots 1 & 2: Zero maintenance required
+- Puddle Slimes generate plorts passively from water (no feeding needed)
+- Simply collect plorts every 1-2 days
+- Revenue: ~640-960 NB/day (8 slimes × 2-3 plorts/day)
 
-- **Build Order:** Incinerator (450) → Ash Trough (500)
-- **Total Investment:** 950 Newbucks
-- **Feed Strategy:** Throw vegetables from Plot 5 garden into incinerator to generate ash
-- **Purpose:** Low maintenance income from Fire Plorts
+**Incinerator Management:**
+- Plots 3 & 4: Low maintenance required
+- Throw vegetables from Plot 5 Garden into incinerators to create ash
+- Fire Slimes consume ash and produce plorts
+- Revenue: ~900-1,350 NB/day (10 slimes × 2-3 plorts/day)
+- **Combined Tidepools Revenue: ~1,540-2,310 NB/day**
 
-#### Phase 3: Support Infrastructure
+**Time Efficiency:**
+- Requires only ~5-7 minutes every 1-2 days
+- Highest profit-per-minute ratio in the game
+- No Tarr risk (safest operation on ranch)
 
-**Plot 5 (Garden): Ash Production Garden:**
+**Garden Restocking:**
+- Plot 5 (Odd Onion Garden): Harvest every 2-3 in-game days
+- Throw harvested vegetables directly into Incinerators (Plots 3 & 4)
+- Ash Trough upgrade allows Fire Slimes to consume ash automatically
 
-- **Build Order:** Garden (250) → Nutrient Soil (600) → Sprinkler (700)
-- **Total Investment:** 1,550 Newbucks
-- **Crop:** Any fast-growing vegetable (Odd Onions recommended)
+#### Phase 4: Infrastructure Gadgets (Optional Quality-of-Life)
 
-### Asset Acquisition
+**Market Link Placement:**
+- **Location:** Central area near Ponds (Plots 1 & 2)
+- **Cost:** 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
+- **Purpose:** Quickly sell Puddle and Fire Plorts without traveling through Gully to Conservatory
+- **Usage:** Sell all plorts from Tidepools operations here (no plorts need stockpiling)
 
-**Puddle Slimes (8 total):**
-- **Location:** Starlight Strand (highest density) or Rainbow Fields
-- **Notes:** Cannot Largo, must be stored in ponds, generate plorts passively from water (zero maintenance)
+**Refinery Link Placement:**
+- **Location:** Near entrance from The Gully
+- **Cost:** 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
+- **Purpose:** Convenient deposit point for resources collected during exploration
+- **Note:** Tidepools primarily generates passive income, not exploration resources
 
-**Fire Slimes (10 total):**
-- **Location:** Ember Valley lava pools
-- **Notes:** Cannot Largo, must be stored in Incinerators, consume ash (throw vegetables into incinerator to generate ash)
-
-### Upgrade Path for this Chapter (Priority Order)
-
-This chapter combines infrastructure development (The Tidepools) with a major Tier III upgrade wave. Spread these investments strategically.
-
-- **Tank Booster III** (3,000 Newbucks + 30 Tabby Plorts + 20 Angler Plorts + 30 Radiant Ore + 10 Lava Dust + 1 Storage Cell): Increases inventory capacity to 50 units per slot. This is the highest priority upgrade as it dramatically improves resource collection efficiency.
-- **Power Core III** (3,000 Newbucks + 30 Cotton Plorts + 20 Batty Plorts + 10 Wild Honey + 30 Primordy Oil + 1 Power Chip): Boosts energy to 250, allowing for much longer Jetpack use. Essential for deep exploration of Powderfall Bluffs in Chapter 7.
-- **Heart Module III** (3,000 Newbucks + 30 Pink Plorts + 20 Honey Plorts + 30 Deep Brine + 10 Silky Sand + 1 Heart Cell): Increases survivability by boosting health to 250. Critical for surviving Saber Slime encounters in Chapter 7.
-- **Tank Guard II** (5,000 Newbucks + 30 Crystal Plorts + 20 Hunter Plorts + 20 Buzz Wax + 1 Strange Diamond + 1 Tank Liner): Upgrades salvage rate to 40% of tank contents upon taking damage. Provides excellent insurance during dangerous exploration.
-
-**Total Investment:** ~14,000 Newbucks + extensive materials
-
-### Additional Tidepools Tips
-
-- **Passive Income Calculation:**
-  - Puddle Slimes: 8 slimes × ~40 Newbucks × 2-3 plorts per day = ~640-960 Newbucks daily
-  - Fire Slimes: 10 slimes × ~45 Newbucks × 2-3 plorts per day = ~900-1,350 Newbucks daily
-  - Combined Total: ~1,540-2,310 Newbucks daily passive income
-- **Time Efficiency:** Tidepools requires ~5-7 minutes every 1-2 days for collection and ash feeding. Highest profit-per-minute ratio in the game.
-- **No Tarr Risk:** Neither Puddle Slimes nor Fire Slimes can create Tarr (no feeding/plort mixing for Puddles, Fire Slimes are isolated). This is the safest operation on your ranch.
-- **Strategic Value:** Passive income funds exploration and upgrade costs without active ranching labor.
-- **Access Route:** The Tidepools is accessed through The Gully.
-- **Occasional Spawns:** Deep Brine occasionally spawns in The Tidepools, though Rainbow Fields (near water) is the primary farming location.
-
-### Optional: Dash Pad Connection
-
-**Cost:** 500 Newbucks + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
-
-**Placement:** Position 1 Dash Pad along the path between The Gully entrance and The Tidepools entrance
+**Dash Pad Placement:**
+- **Location:** Path between The Gully entrance and Tidepools entrance
+- **Cost:** 500 NB + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
+- **Purpose:** Sprint with zero energy cost between Gully and Tidepools
 
 ### End of Chapter Completion Checklist
 

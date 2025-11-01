@@ -50,20 +50,25 @@ Launch a focused expedition into Powderfall Bluffs to capture elite Saber Slimes
 
 ### Gordo Strategy
 
-**Saber Gordo:**
-- **Location:** Powderfall Bluffs - Northern area, high mountain plateau
-- **Food:** Meat (50 total, or 25 Thunderclucks)
-- **Reward:** Portal shortcut to southern Ember Valley
+Pop the Saber Gordo to unlock a valuable portal shortcut:
+
+| **Gordo** | **Food Required** | **Location** | **Reward** |
+|-----------|-------------------|--------------|------------|
+| **Saber Gordo** | 50 Meat (Thunderclucks count 2x) | Northern area, high mountain plateau | Portal shortcut to southern Ember Valley |
 
 ### Slime Locations for Powderfall Bluffs
 
-- **Saber Slimes:** Mountain plateaus and frozen caves throughout northern areas (aggressive, can stun with roar)
-- **Pink Slimes:** Throughout Powderfall Bluffs (most common slime, omnivore)
-- **Phosphor Slimes:** Spawn at night throughout the area (glow in the dark, require Solar Shield)
-- **Puddle Slimes:** Frozen ponds and water sources throughout the biome (passive, only ranch in ponds)
-- **Cotton Slimes:** Grassy areas in valleys (natural high jumpers, require High Walls)
-- **Tabby Slimes:** Throughout Powderfall Bluffs (common, agile cat-like slimes)
-- **Rock Slimes:** Rocky terrain and cave entrances (deal contact damage when rolling)
+**Powderfall Bluffs Slimes:**
+
+| **Slime** | **Diet** | **Favorite** | **Largo?** | **Location** | **Special Notes** |
+|-----------|----------|--------------|------------|--------------|-------------------|
+| **Saber** | Meat | Thundercluck | YES | Mountain plateaus and frozen caves (northern) | Aggressive, can stun with roar, deals contact damage, fast-moving |
+| **Pink** | Omnivore | Any | YES | Throughout Powderfall Bluffs | Most common slime, eats anything |
+| **Phosphor** | Fruit | Cuberry | YES | Throughout (NIGHT ONLY) | Glowing, requires Solar Shield in corrals |
+| **Puddle** | None (Water) | None | NO | Frozen ponds and water sources | Passive, can only be ranched in Pond plots, produces plorts in water |
+| **Cotton** | Veggie | Water Lettuce | YES | Grassy areas in valleys | Natural high jumpers, require High Walls |
+| **Tabby** | Meat | Stony Hen | YES | Throughout Powderfall Bluffs | Common, agile cat-like slimes, jump frequently |
+| **Rock** | Veggie | Heart Beet | YES | Rocky terrain and cave entrances | Deals contact damage when rolling |
 
 ### Asset Acquisition
 
@@ -71,14 +76,16 @@ Launch a focused expedition into Powderfall Bluffs to capture elite Saber Slimes
 
 ### Resource Extraction
 
-**Resource Harvesting Priorities:**
+**Powderfall Bluffs Resources:**
 
-- **Perfect Snowflake** (50+): High priority - glimmering snowflakes on cliff faces, needed for endgame Vacpack upgrades
-- **Sun Sap** (10+): ULTRA-RARE - golden sap from frozen trees, CRITICAL bottleneck resource, mark all tree locations
-- **Slime Fossil** (50+): Common in cave walls, needed for endgame upgrades and Powderfall Bluffs Portal
-- **Thunderclucks (20-30):** Wild coops in central valley and caves - includes 2 Roostros for breeding
-- **Primordy Oil**: Supplement your collection from Ember Valley
-- **Lightning Mote**: Rare electrical energy, appears during thunderstorms
+| **Resource** | **Location** | **Uses** |
+|--------------|--------------|----------|
+| **Perfect Snowflake** | Cliff faces (glimmering) | Endgame Vacpack upgrades (Tank Booster IV, Golden Sureshot series), Snowball Machine |
+| **Sun Sap** | Frozen trees (golden sap) | ULTRA-RARE - CRITICAL bottleneck for endgame upgrades (Power Core IV, Golden Sureshot series) - MARK ALL TREES |
+| **Slime Fossil** | Cave walls | Endgame upgrades, Powderfall Bluffs Portal, Power Core III, Snowy Warp Depot |
+| **Thunderclucks** | Wild coops in central valley and caves | Saber slime favorite food (includes 2 Roostros for breeding) |
+| **Primordy Oil** | Various locations | Power Core upgrades (supplement Ember Valley collection) |
+| **Lightning Mote** | During thunderstorms | Linked Cannons crafting |
 
 ### Current Ranch Status (No Changes This Chapter)
 
@@ -191,7 +198,8 @@ Establish fast-travel access for critical Sun Sap and Perfect Snowflake farming.
 
 Chapter 8 unlocks The Den expansion and executes a major ranch reorganization to consolidate all nocturnal slimes and optimize food logistics.
 
-- **Financial Goal:** Save 15,000 Newbucks for The Den unlock (2,800 NB) plus full build-out (~13,900 NB).
-- **Asset Verification:** You should have 10-12 Saber Slimes and 20-30 Thunderclucks from this chapter ready for deployment.
-- **Reorganization Scope:** Chapter 8 relocates Boom-Batty Largos to The Den, creates two new nocturnal operations (Flutter-Phosphor, Batty-Honey), rebuilds Conservatory Plots 1 and 7 with new largos, and converts The Gully to pure carnivore operations.
-- **Flutter Plorts:** Continue accumulating in Refinery. Target 150-300+ by Chapter 8.
+- **Financial Goal:** Save 17,000+ Newbucks for The Den unlock (2,800 NB), build-out (13,905 NB), and Conservatory adjustments (475 NB).
+- **Asset Verification:** You should have 10-12 Saber Slimes and 20-30 Thunderclucks from this chapter ready for deployment in The Gully.
+- **Reorganization Scope:** Chapter 8 relocates Boom-Batty Largos to The Den, creates two new nocturnal operations (Flutter-Phosphor and Batty-Ringtail Largos), rebuilds Conservatory Plot 7 with Flutter-Honey Largos, and converts The Gully Plot 5 to Saber-Hunter Largos.
+- **Slime Collection:** Capture 6 Ringtail Slimes (spawn at night in multiple biomes) for Batty-Ringtail Largos in The Den.
+- **Flutter Plorts:** Continue accumulating in Refinery. Target: 300+ by Chapter 9 (needed for Quantum Drones).

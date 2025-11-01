@@ -39,17 +39,19 @@ Unlock The Den and execute a ranch-wide reorganization to consolidate nocturnal 
 - Conservatory Rebuild: ~475 Newbucks (1 Solar Shield + 1 garden replanting)
 - Recommended Starting Budget: 15,000+ Newbucks
 
-### Accessing The Den
+#### Phase 1: Unlock The Den
 
-Before you can begin development, you must unlock this expansion.
+**Capital Required:** 2,800 Newbucks
 
-- **Location:** The entrance to The Den is located on the western side of the Conservatory, marked by a cave entrance with wooden supports
-- **Unlock Cost:** 2,800 Newbucks
-- **Layout:** The Den is a sheltered grotto area carved into the hillside. It is naturally dark 24/7, which means **nocturnal slimes do not require Solar Shields here**
+The Den is accessed from the western side of the Conservatory. This 5-plot expansion will become your ranch's nocturnal operations center.
+
+**Location:** Western side of Conservatory (look for the cave entrance with wooden supports)
+
+**Layout:** Sheltered grotto area carved into the hillside. Naturally dark 24/7, which means **nocturnal slimes do not require Solar Shields here**.
 
 **CRITICAL:** The Den's permanent darkness eliminates the need for Solar Shields on Batty and Phosphor slimes, saving 425 Newbucks per corral (1,275 NB total across 3 corrals). This makes it the perfect location for all nocturnal operations.
 
-### Phase 1: Asset Acquisition & Preparation
+#### Phase 2: Asset Acquisition & Preparation
 
 Before beginning construction, gather all necessary slimes and resources.
 
@@ -66,46 +68,27 @@ Before beginning construction, gather all necessary slimes and resources.
 - 30+ Cuberries (Phosphor favorite - Starlight Strand)
 - 30+ Mint Mangos (Honey favorite - Starlight Strand)
 
-### Ranch Development & Plot Allocation: The Den Build-Out (5 plots)
+#### Phase 3: Plot-by-Plot Build
 
-#### Phase 1: Nocturnal Corral Infrastructure
+Execute the following build in order:
 
-**Plot 1 (Corral): Boom-Batty Largos (RELOCATED from Conservatory Plot 7)**
+**The Den (5 plots - NEW EXPANSION):**
 
-- **Build Order:** Corral (250) → High Walls (260) → Air Net (425) → Plort Collector (750) → Auto-Feeder (750) → Music Box (350)
-- **Total Investment:** 2,785 Newbucks
-- **Deployment:** Vacuum up Boom-Batty Largos from Conservatory Plot 7
-- **Feed Strategy:** Pomegranites from Plot 4 (Batty favorite)
+| **Plot** | **Type** | **Contents** | **Base Cost** | **Upgrades** | **Total Cost** | **Purpose/Notes** |
+|----------|----------|--------------|---------------|--------------|----------------|-------------------|
+| **1** | Corral | Boom-Batty Largos (6) | 250 NB | High Walls (260), Air Net (425), Plort Collector (750), Auto-Feeder (750), Music Box (350) | 2,785 NB | **RELOCATED** from Conservatory Plot 7. Feed Pomegranites (Batty favorite, 4 plorts/feeding) |
+| **2** | Corral | Flutter-Phosphor Largos (6) | 250 NB | High Walls (260), Air Net (425), Plort Collector (750), Auto-Feeder (750) | 2,435 NB | **NEW** - Produces Flutter + Phosphor Plorts. Feed Cuberries (Phosphor favorite, 4 plorts/feeding). **DO NOT SELL Flutter Plorts** (need for Ch 9 Quantum Drones) |
+| **3** | Corral | Batty-Ringtail Largos (6) | 250 NB | High Walls (260), Air Net (425), Plort Collector (750), Auto-Feeder (750), Music Box (350) | 2,785 NB | **NEW** - Produces Batty + Ringtail Plorts. Feed Pomegranites (Batty favorite) OR Cuberries (Ringtail omnivore). Ringtail turns to stone in sunlight - The Den is dark (perfect habitat) |
+| **4** | Garden | Pomegranites | 250 NB | Nutrient Soil (600), Sprinkler (700) | 1,550 NB | Feeds Plots 1 & 3 (Batty favorite) |
+| **5** | Garden | Cuberries | 250 NB | Nutrient Soil (600), Sprinkler (700) | 1,550 NB | Feeds Plot 2 (Phosphor favorite) |
 
-**Plot 2 (Corral): Flutter-Phosphor Largos (NEW)**
+**Total Investment:** 2,800 NB (expansion) + 11,105 NB (plots/upgrades) = 13,905 NB
 
-- **Build Order:** Corral (250) → High Walls (260) → Air Net (425) → Plort Collector (750) → Auto-Feeder (750)
-- **Total Investment:** 2,435 Newbucks
-- **Feed Strategy:** Cuberries from Plot 5 (Phosphor favorite)
-- **CRITICAL:** DO NOT SELL Flutter Plorts (needed for Chapter 9 Quantum Drones)
+#### Phase 4: Ranch Reorganization
 
-**Plot 3 (Corral): Batty-Ringtail Largos (NEW)**
+This chapter involves reorganizing existing ranch operations across multiple expansions to optimize efficiency.
 
-- **Build Order:** Corral (250) → High Walls (260) → Air Net (425) → Plort Collector (750) → Auto-Feeder (750) → Music Box (350)
-- **Total Investment:** 2,785 Newbucks
-- **Feed Strategy:** Pomegranites from Plot 4 (Batty favorite) OR Cuberries from Plot 5 (Ringtail is omnivore - eats any food type)
-- **Note:** Ringtail turns to stone in sunlight, but The Den is permanently dark - perfect habitat
-
-#### Phase 2: Support Infrastructure
-
-**Plot 4 (Garden): Pomegranite Production**
-
-- **Build Order:** Garden (250) → Nutrient Soil (600) → Sprinkler (700)
-- **Total Investment:** 1,550 Newbucks
-- **Crop:** Pomegranites (Batty favorite - feeds Plots 1 & 3)
-
-**Plot 5 (Garden): Cuberry Production**
-
-- **Build Order:** Garden (250) → Nutrient Soil (600) → Sprinkler (700)
-- **Total Investment:** 1,550 Newbucks
-- **Crop:** Cuberries (Phosphor favorite - feeds Plot 2)
-
-### Conservatory Reorganization
+**Conservatory Reorganization:**
 
 **RELOCATION:**
 
@@ -138,7 +121,7 @@ Before beginning construction, gather all necessary slimes and resources.
 
 - **Investment:** 50 Newbucks (Mint Mango seeds)
 
-### The Gully Reorganization
+**The Gully Reorganization:**
 
 **LIQUIDATION:**
 
@@ -156,19 +139,62 @@ Before beginning construction, gather all necessary slimes and resources.
 - **Feed Strategy:** Thunderclucks from Plot 1 (Saber favorite)
 - **Note:** Solar Shield not needed for Saber-Hunter (can be removed and reused elsewhere)
 
-### Additional Reorganization Tips
+#### Phase 5: Automation Integration
+
+**Auto-Feeder Setup (The Den):**
+- Plot 1 (Boom-Batty): Stock with Pomegranites, set to Normal speed
+- Plot 2 (Flutter-Phosphor): Stock with Cuberries, set to Normal speed
+- Plot 3 (Batty-Ringtail): Stock with Pomegranites, set to Normal speed
+
+**Plort Collector Management (The Den):**
+- All three corrals have Plort Collectors that auto-vacuum plorts
+- Plot 1: Collect Boom and Batty plorts, sell both
+- Plot 2: Collect Flutter and Phosphor plorts. **DO NOT SELL Flutter Plorts** - deposit into Refinery for Chapter 9. Sell Phosphor plorts
+- Plot 3: Collect Batty and Ringtail plorts, sell both
+
+**Food Restocking (The Den):**
+- Plot 4 (Pomegranite Garden): Harvest every 2-3 in-game days, restock Plots 1 and 3 Auto-Feeders
+- Plot 5 (Cuberry Garden): Harvest every 2-3 in-game days, restock Plot 2 Auto-Feeder
+
+**Conservatory Auto-Feeder Update:**
+- Plot 7 (Flutter-Honey): Stock with Mint Mangos from Plot 8, set to Normal speed
+- Continue existing automation for Plots 1, 3, 5
+
+**The Gully Auto-Feeder Update:**
+- Plot 5 (Saber-Hunter): Stock with Thunderclucks from Plot 1, set to Normal speed
+- Continue existing automation for Plot 4 (Angler-Crystal with Sea Hens)
+
+**Flutter Plort Accumulation Strategy:**
+- Two operations now produce 24-36 Flutter Plorts/day (Flutter-Honey in Conservatory Plot 7, Flutter-Phosphor in Den Plot 2)
+- Target: 300+ Flutter Plorts for Chapter 9 Quantum Drones
+- DO NOT SELL - deposit all Flutter Plorts into Refinery
+
+#### Phase 6: Infrastructure Gadgets (Optional Quality-of-Life)
+
+**Market Link Placement:**
+- **Location:** Central area of The Den near Plots 1-3 (corrals)
+- **Cost:** 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
+- **Purpose:** Quickly sell Boom, Batty, Phosphor, and Ringtail plorts without traveling to Conservatory
+- **Usage:** Sell all plorts EXCEPT Flutter Plorts (deposit those in Refinery instead)
+
+**Refinery Link Placement:**
+- **Location:** Near entrance from The Conservatory
+- **Cost:** 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
+- **Purpose:** Deposit Flutter Plorts for stockpiling and occasional Jellystone that spawns in The Den
+- **Usage:** This is the PRIMARY deposit point for Flutter Plorts from Den operations
+
+**Dash Pad Placement:**
+- **Location:** Path between Conservatory entrance and The Den entrance
+- **Cost:** 500 NB + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
+- **Purpose:** Sprint with zero energy cost between Conservatory and Den
+
+#### Additional Reorganization Tips
 
 - **Flutter Plorts:** Two operations produce 24-36 plorts/day (Flutter-Honey in Conservatory, Flutter-Phosphor in Den). Target: 300+ for Chapter 9 Quantum Drones. DO NOT SELL - deposit into Refinery
 - **Food Organization:** Fruit (Den + 1 Conservatory corral), Veggie (3 Conservatory corrals), Meat (2 Gully corrals)
 - **Chicken Coops:** Maintain 2 Roostros per 6-8 hens. Check Elder Collector every 1-2 days
 - **Solar Shields:** Conservatory has 2 Solar Shields (Phosphor-Honey Plot 3, Flutter-Honey Plot 7). The Den requires none due to permanent darkness.
 - **Occasional Spawns:** Jellystone occasionally spawns in The Den, providing a convenient backup crafting resource.
-
-### Optional: Dash Pad Connection
-
-**Cost:** 500 Newbucks + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
-
-**Placement:** Position 1 Dash Pad along the path between Conservatory entrance and The Den entrance
 
 ### End of Chapter Completion Checklist
 

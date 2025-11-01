@@ -34,39 +34,28 @@ Expand your Conservatory to 8 plots while simultaneously extracting Ember Valley
 
 ### Gordo Strategy
 
-**Rock Gordo:**
-- **Location:** Ember Valley - Cave near portal entrance (on rock formation)
-- **Food:** Vegetables (50 total, or 25 Heart Beets)
-- **Reward:** Geyser to Jetpack Drive treasure pod
+Pop all five Ember Valley Gordos to unlock shortcuts, treasure pods, and key blueprints:
 
-**Batty Gordo:**
-- **Location:** Ember Valley - Lowest western caves
-- **Food:** Fruit (50 total, or 25 Pomegranites)
-- **Reward:** Tunnel shortcut to another area
-
-**Crystal Gordo:**
-- **Location:** Ember Valley - Northern area near chasm
-- **Food:** Vegetables (50 total, or 25 Odd Onions)
-- **Reward:** Geyser for easier traversal
-
-**Boom Gordo:**
-- **Location:** Ember Valley - Western volcanic area (dais surrounded by lava pools)
-- **Food:** Meat (50 total, or 25 Briar Hens)
-- **Reward:** Passage to Grey Labyrinth gate + Strange Diamond + Ember Valley portal blueprint
-
-**Tabby Gordo:**
-- **Location:** Ember Valley - North-most point, top of large pillar sticking out of sea
-- **Food:** Meat (50 total, or 25 Stony Hens)
-- **Reward:** Portal shortcut to Rainbow Fields
+| **Gordo** | **Food Required** | **Location** | **Reward** |
+|-----------|-------------------|--------------|------------|
+| **Rock Gordo** | 50 Veggies (Heart Beets count 2x) | Cave near portal entrance (on rock formation) | Geyser to Jetpack Drive treasure pod |
+| **Batty Gordo** | 50 Fruit (Pomegranites count 2x) | Lowest western caves | Tunnel shortcut to another area |
+| **Crystal Gordo** | 50 Veggies (Odd Onions count 2x) | Northern area near chasm | Geyser for easier traversal |
+| **Boom Gordo** | 50 Meat (Briar Hens count 2x) | Western volcanic area (dais surrounded by lava pools) | Passage to Grey Labyrinth gate + Strange Diamond + Ember Valley Portal blueprint |
+| **Tabby Gordo** | 50 Meat (Stony Hens count 2x) | North-most point, top of large pillar sticking out of sea | Portal shortcut to Rainbow Fields |
 
 ### Slime Locations for Ember Valley
 
-- **Boom Slimes:** Volcanic areas throughout Ember Valley
-- **Batty Slimes:** Cave systems in western Ember Valley (nocturnal, spawn at night or in dark caves)
-- **Rock Slimes**: Throughout Ember Valley, deal contact damage
-- **Crystal Slimes:** Northern Ember Valley near chasm, deal contact damage from crystal spikes
-- **Angler Slimes:** Coastal and water areas of Ember Valley, can stun with antenna
-- **Fire Slimes:** Lava pools (cannot be ranched in corrals, provide ash for certain recipes)
+**Ember Valley Slimes:**
+
+| **Slime** | **Diet** | **Favorite** | **Largo?** | **Location** | **Special Notes** |
+|-----------|----------|--------------|------------|--------------|-------------------|
+| **Boom** | Meat | Briar Hen | YES | Volcanic areas throughout | Explodes periodically, doesn't harm self, launches plorts |
+| **Batty** | Fruit | Pomegranite | YES | Western cave systems | Nocturnal, spawns at night or in dark caves, flies |
+| **Rock** | Veggie | Heart Beet | YES | Throughout Ember Valley | Deals contact damage, rolls around |
+| **Crystal** | Veggie | Odd Onion | YES | Northern area near chasm | Deals contact damage from crystal spikes |
+| **Angler** | Meat | Sea Hen | YES | Coastal and water areas | Can stun food and slimes with antenna |
+| **Fire** | None (Ash) | None | NO | Lava pools | Cannot be ranched in corrals, needs Incinerator plot |
 
 ### Asset Acquisition
 
@@ -94,57 +83,35 @@ Before beginning ranch expansion, gather all slimes and plorts needed for your n
 
 ### Resource Extraction
 
-**Resource Harvesting Priorities:**
+**Ember Valley Resources:**
 
-- **Jellystone** (common throughout Ember Valley) - needed for multiple upgrades
-- **Deep Brine** (pools throughout map) - needed for Water Tank and health upgrades
-- **Radiant Ore** (glowing pink nodes) - needed for Tank Booster upgrades
-- **Primordy Oil** (volcanic areas) - needed for Power Core upgrades
-- **Lava Dust** (near lava flows) - needed for various upgrades
-- **Silky Sand** (sandy areas) - needed for health and tank slot upgrades
+| **Resource** | **Location** | **Uses** |
+|--------------|--------------|----------|
+| **Jellystone** | Common throughout Ember Valley | Multiple upgrades (Heart Module II, Tank Booster II, Refinery Link, etc.) |
+| **Deep Brine** | Pools throughout map | Water Tank, health upgrades, Home Portals |
+| **Radiant Ore** | Glowing pink nodes | Tank Booster upgrades, Jetpack, portals |
+| **Primordy Oil** | Volcanic areas | Power Core upgrades, Home Portals, Market Link |
+| **Lava Dust** | Near lava flows | Various upgrades, Dash Boots, Home Portals |
+| **Silky Sand** | Sandy areas | Health and tank slot upgrades, Market Link, Radiant Projector |
 
 ### Ranch Expansion (Conservatory)
 
 Before deep exploration of Ember Valley, establish your two new corral operations using the slimes and plorts you collected in Chapter 2.
 
-**Revenue Stream #1 (Plots 5 & 6):**
-
-**Plot 5 (Corral):** Crystal-Rock Largo Division (6 slimes).
-
-- **Build Order:** Corral (250) → High Walls (260) → Air Net (425) → Plort Collector (750) → Auto-Feeder (750) → Music Box (350)
-- **Total Investment:** 2,785 Newbucks
-- **Feed Strategy:** Heart Beets (Rock favorite food, produces 2 Crystal + 2 Rock plorts per feeding)
-
-**Plot 6 (Garden):** Heart Beet garden for Crystal-Rock Largos.
-
-- **Build Order:** Garden (250) → Nutrient Soil (600) → Sprinkler (700)
-- **Total Investment:** 1,550 Newbucks
-- **Crop:** Heart Beets (Rock favorite food)
-
-**Revenue Stream #2 (Plots 7 & 8):**
-
-**Plot 7 (Corral):** Boom-Batty Largo Division (6 slimes).
-
-- **Build Order:** Corral (250) → High Walls (260) → Air Net (425) → Solar Shield (425) → Plort Collector (750) → Auto-Feeder (750)
-- **Total Investment:** 2,860 Newbucks
-- **Feed Strategy:** Pomegranites (Batty favorite food, produces 2 Boom + 2 Batty plorts per feeding)
-
-**Plot 8 (Garden):** Pomegranite garden for Boom-Batty Largos.
-
-- **Build Order:** Garden (250) → Nutrient Soil (600) → Sprinkler (700)
-- **Total Investment:** 1,550 Newbucks
-- **Crop:** Pomegranites (Batty favorite food)
-
-### Current Ranch Status (After Expansion)
-
 **Conservatory (8 plots - EXPANDED from Chapter 2):**
 
-- Plot 1-2: Tabby-Cotton Largos + Water Lettuce garden
-- Plot 3-4: Phosphor-Honey Largos + Cuberry garden
-- Plot 5-6: Crystal-Rock Largos + Heart Beet garden (NEW)
-- Plot 7-8: Boom-Batty Largos + Pomegranite garden (NEW)
+| **Plot** | **Type** | **Contents** | **Base Cost** | **Upgrades** | **Total Cost** | **Purpose/Notes** |
+|----------|----------|--------------|---------------|--------------|----------------|-------------------|
+| **1** | Corral | Tabby-Cotton Largos (6) | - | - | 935 NB | UNCHANGED - keep running |
+| **2** | Garden | Water Lettuce | - | - | 250 NB | UNCHANGED - feeds Plot 1 |
+| **3** | Corral | Phosphor-Honey Largos (6) | - | - | 2,110 NB | UNCHANGED - crafting plorts |
+| **4** | Garden | Cuberries | - | - | 1,550 NB | UNCHANGED - feeds Plot 3 |
+| **5** | Corral | Crystal-Rock Largos (6) | 250 NB | High Walls (260), Air Net (425), Plort Collector (750), Auto-Feeder (750), Music Box (350) | 2,785 NB | **NEW** - Produces Crystal + Rock Plorts. Feed Heart Beets (Rock favorite, 4 plorts/feeding) |
+| **6** | Garden | Heart Beets | 250 NB | Nutrient Soil (600), Sprinkler (700) | 1,550 NB | **NEW** - Feeds Plot 5 |
+| **7** | Corral | Boom-Batty Largos (6) | 250 NB | High Walls (260), Air Net (425), Solar Shield (425), Plort Collector (750), Auto-Feeder (750) | 2,860 NB | **NEW** - Produces Boom + Batty Plorts. Feed Pomegranites (Batty favorite, 4 plorts/feeding) |
+| **8** | Garden | Pomegranites | 250 NB | Nutrient Soil (600), Sprinkler (700) | 1,550 NB | **NEW** - Feeds Plot 7 |
 
-**Total Investment:** 8,745 Newbucks
+**Total New Investment:** 8,745 Newbucks (Plots 5-8)
 
 **Daily Revenue:** ~2,500+ Newbucks/day (increased from ~800)
 
