@@ -42,7 +42,7 @@ The Radiant Projector is essential for solving light puzzles that lock the main 
 Bring the following items in your inventory:
 - **Entry Tools:** 3-4 crafted Radiant Projectors
 - **Puzzle Items:** Stack of Hunter Plorts and Angler Plorts (for Terrarium access later)
-- **Plort Statues (CRITICAL if entering from Starlight Strand):** 20+ Boom Plorts and 20+ Batty Plorts - there are plort statue doors very close to the Starlight Strand entrance that unlock shortcuts and valuable areas
+- **Plort Statues (CRITICAL if entering from Starlight Strand):** 1 Boom Plort and 1 Batty Plort - there are plort statue doors very close to the Starlight Strand entrance that unlock shortcuts and valuable areas
 - **Utility:** Full stack of throwable items (Pink Plorts work well) for farming Shadow Slimes
 
 ### The Operational Blueprint
