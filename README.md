@@ -33,12 +33,7 @@ The guide has been split into individual chapter files for easier editing and na
 - **[appendix-i-doors.md](appendix-i-doors.md)** - Plort Door Locations
 - **[appendix-j-shadow.md](appendix-j-shadow.md)** - Grey Labyrinth Shadow Plort Doors
 - **[appendix-k-resources.md](appendix-k-resources.md)** - Resource Priority Guide
-
-**[plot-overview.md](plot-overview.md) - Ranch Progression Quick Reference**
-- Complete ranch plot layouts for Chapters 1-11
-- Expansion-by-expansion breakdown with slime assignments
-- Food source mappings and revenue estimates
-- Total daily revenue tracking by chapter
+- **[appendix-l-plot-overview.md](appendix-l-plot-overview.md)** - Ranch Progression Quick Reference
 
 ### Part 1: The Foundation (Chapters 1-4)
 

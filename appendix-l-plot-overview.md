@@ -1,6 +1,6 @@
-# Plot Overview - Complete Ranch Progression (Chapters 1-12)
+# Appendix L: Ranch Progression Quick Reference
 
-This document provides a quick reference for ranch plot progression through all chapters. Note: Chapter 10 focuses on Grey Labyrinth exploration (no ranch changes), and Chapter 12 is optional.
+Complete ranch plot progression through all chapters (Chapters 1-12). Note: Chapter 10 focuses on Grey Labyrinth exploration (no ranch changes), and Chapter 12 is optional.
 
 ---
 

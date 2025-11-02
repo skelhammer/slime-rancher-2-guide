@@ -27,7 +27,7 @@ When the user requests changes to the guide, follow this workflow:
 - **Chapter content**: Edit specific chapter file (e.g., `01-chapter-01.md`, `03-chapter-09.md`)
 - **Core mechanics**: Edit `00-introduction.md`
 - **Reference tables**: Edit appropriate appendix (`appendix-a-slimes.md`, `appendix-b-items.md`, etc.)
-- **Ranch progression**: Edit `plot-overview.md`
+- **Ranch progression**: Edit `appendix-l-plot-overview.md`
 - **Navigation/meta**: Edit `README.md`
 
 #### Step 2: Make Content Edits
@@ -85,7 +85,7 @@ Before considering changes complete, verify:
 
 2. **Cross-Reference Validation**:
    - If you changed appendix data (slime stats, prices, locations), check if chapters reference that data
-   - If you changed chapter content, verify plot-overview.md still matches
+   - If you changed chapter content, verify appendix-l-plot-overview.md still matches
    - Ensure consistency between related sections
 
 3. **Formatting Consistency**:
@@ -139,8 +139,8 @@ This is a documentation repository containing a comprehensive walkthrough guide 
 ## File Organization Quick Reference
 
 - **Chapter Files:** `01-chapter-01.md` through `04-chapter-15.md` (organized by part number prefix)
-- **Core Files:** `00-introduction.md` (with version header), `plot-overview.md`, `README.md`
-- **Appendices:** `appendix-a-slimes.md`, `appendix-b-items.md`, `appendix-c-upgrades.md`, `appendix-d-ranch.md`, `appendix-e-gadgets.md`, `appendix-f-drones.md`, `appendix-g-treasure.md`, `appendix-h-map.md`, `appendix-i-doors.md`, `appendix-j-shadow.md`, `appendix-k-resources.md`
+- **Core Files:** `00-introduction.md` (with version header), `README.md`
+- **Appendices:** `appendix-a-slimes.md`, `appendix-b-items.md`, `appendix-c-upgrades.md`, `appendix-d-ranch.md`, `appendix-e-gadgets.md`, `appendix-f-drones.md`, `appendix-g-treasure.md`, `appendix-h-map.md`, `appendix-i-doors.md`, `appendix-j-shadow.md`, `appendix-k-resources.md`, `appendix-l-plot-overview.md`
 
 **See [README.md](README.md) for complete chapter listings and navigation.**
 
@@ -171,7 +171,7 @@ The version header is located **only** in `00-introduction.md` at the top of the
 
 **IMPORTANT:** When making ANY changes to the guide:
 
-1. Edit the appropriate chapter file (`01-chapter-01.md`, `03-chapter-09.md`, `appendix-a-slimes.md`, `plot-overview.md`, etc.)
+1. Edit the appropriate chapter file (`01-chapter-01.md`, `03-chapter-09.md`, `appendix-a-slimes.md`, `appendix-l-plot-overview.md`, etc.)
 2. Update **ONLY** `00-introduction.md` with:
    - Incremented version number (e.g., 0.1 → 0.2)
    - Current date in "Last Updated" field
@@ -185,4 +185,4 @@ The version header is located **only** in `00-introduction.md` at the top of the
 **Last Updated: Month Day, Year**
 ```
 
-**Note:** When updating `plot-overview.md`, also update the version in `00-introduction.md` as this file is part of the main guide content.
+**Note:** When updating `appendix-l-plot-overview.md`, also update the version in `00-introduction.md` as this file is part of the main guide content.
