@@ -134,9 +134,9 @@
 
 [h3]Conservatory Plots[/h3]
 [list]
-[*]Plot 1: FREE | Plot 2: 450 NB | Plot 3: 650 NB | Plot 4: 825 NB
+[*]Plot 1: 250 NB | Plot 2: 450 NB | Plot 3: 650 NB | Plot 4: 825 NB
 [*]Plot 5: 1,000 NB | Plot 6: 1,200 NB | Plot 7: 1,375 NB | Plot 8: 1,575 NB
-[*][b]Total for 8 plots: 7,075 NB[/b]
+[*][b]Total for 8 plots: 7,325 NB[/b]
 [/list]
 
 [h3]Ranch Expansions[/h3]
