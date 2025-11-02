@@ -1,6 +1,6 @@
 # Slime Rancher 2: A Practical Walkthrough
 
-#### Version 0.2.0 - Major Restructure Edition
+#### Version 0.3 - Steam Edition
 
 **Last Updated: November 1, 2025**
 

@@ -2,6 +2,30 @@
 
 All notable changes to this Slime Rancher 2 guide will be documented in this file.
 
+## [0.3] - 2025-11-01 - Steam Edition
+
+### Added
+- **Steam Guide**: Created condensed Steam Workshop version with 17 sections
+  - Section 1: Introduction + Core Mechanics
+  - Sections 2-16: Chapters 1-15 (one chapter per section for easy navigation)
+  - Section 17: Quick Reference & Appendices
+- **Format**: BBCode formatting for Steam Workshop compatibility
+- **Size**: ~87KB condensed from 4,750+ line full guide
+- **Structure**: Each chapter condensed to 3-6KB, all sections under Steam character limits
+
+### Changed
+- Version updated to 0.3 - Steam Edition across all files
+- Condensed appendices section for Steam compatibility
+- Removed old multi-chapter Steam sections in favor of 1-chapter-per-section format
+
+### Files Modified
+- `00-introduction.md` - Updated version to 0.3
+- `README.md` - Updated version references
+- `CLAUDE.md` - Updated current version
+- `steam/STEAM-VERSION.md` - Updated to 0.3
+- Created 17 new `steam/SECTION-XX-*.txt` files
+- Deleted old `steam/STEAM-GUIDE-SECTION-*.txt` files
+
 ## [0.2.0] - 2025-11-01 - Major Restructure Edition
 
 ### Formatting Standardization (Latest Updates)

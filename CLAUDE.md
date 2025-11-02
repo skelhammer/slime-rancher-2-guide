@@ -157,7 +157,7 @@ Key formatting standards:
 ## Version Information
 
 The version header is located **only** in `00-introduction.md` at the top of the file:
-- Current Version: 0.2.0 - Major Restructure Edition
+- Current Version: 0.3 - Steam Edition
 - Last Updated: November 1, 2025
 - Verified against Slime Rancher 2 Version 1.0 (released September 23, 2025)
 - Contains disclaimer about outdated prices/material costs due to recipe overhaul in v1.0
