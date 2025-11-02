@@ -1,0 +1,230 @@
+[h1]Quick Reference & Appendices[/h1]
+
+[h2]Essential Largo Combinations Summary[/h2]
+
+[h3]Tier 1: Early Game (Chapters 1-4)[/h3]
+[list]
+[*][b]Tabby-Cotton[/b]: Vegetable diet, Water Lettuce favorite, High Walls required
+[*][b]Phosphor-Honey[/b]: Fruit diet, Cuberry favorite, Solar Shield required
+[*][b]Crystal-Rock[/b]: Vegetable diet, Heart Beet favorite, High Walls required
+[*][b]Boom-Batty[/b]: Fruit diet, Pomegranite favorite, High Walls + Solar Shield
+[/list]
+
+[h3]Tier 2: Mid-Game (Chapters 5-8)[/h3]
+[list]
+[*][b]Angler-Crystal[/b]: Meat diet, Sea Hen favorite, High Walls required
+[*][b]Flutter-Tabby[/b]: Meat diet, Stony Hen favorite, High Walls + Solar Shield
+[*][b]Saber-Hunter[/b]: Meat diet, Thundercluck favorite, High Walls + Solar Shield + Auto-Feeder (CRITICAL)
+[*][b]Ringtail-Phosphor[/b]: Fruit diet, Cuberry/Pogofruit favorite, High Walls + Solar Shield
+[/list]
+
+[h3]Tier 3: Elite (Chapters 10-12)[/h3]
+[list]
+[*][b]Twin-Flutter[/b]: Nectar/Fruit, Moondew Nectar favorite, 57-135 NB/4-plort - ELITE
+[*][b]Sloomber-Saber[/b]: Meat, Thundercluck favorite, 79-155 NB/4-plort - HIGHEST VALUE IN GAME
+[*][b]Dervish-Ringtail[/b]: Vegetable, Prickle Pear favorite, Very High Value
+[*][b]Tangle-Hyper[/b]: Meat, Painted Hen favorite, High-Elite tier
+[/list]
+
+[hr][/hr]
+
+[h2]Critical Upgrade Path[/h2]
+
+[h3]Mobility (Priority Order)[/h3]
+[olist]
+[*][b]Jetpack[/b] (3,450 NB) - Chapter 1, HIGHEST PRIORITY
+[*][b]Dash Boots[/b] (450 NB) - Chapter 2
+[*][b]Jetpack Drive[/b] (2,250 NB + materials) - Chapter 3
+[*][b]Dash Boots II[/b] (1,800 NB + materials) - Chapter 4+
+[/olist]
+
+[h3]Vacpack Upgrades[/h3]
+[list]
+[*][b]Tier I[/b] (Ch 2): Power Core I (450 NB), Tank Booster I (450 NB)
+[*][b]Tier II[/b] (Ch 3): Power Core II (1,350 NB + Jellystone/Deep Brine), Tank Booster II
+[*][b]Tier III[/b] (Ch 6+): Power Core III (2,700 NB + Buzz Wax/Wild Honey), Heart Module I (900 NB)
+[*][b]Tier IV-V[/b] (Ch 13-14): Heart Module IV (7,200 NB), Power Core V (10,800 NB), Tank Booster IV-VIII
+[/list]
+
+[h3]Ranch Infrastructure (Per Corral)[/h3]
+[list]
+[*][b]Plort Collector[/b] (750 NB) - MANDATORY, prevents Tarr
+[*][b]Auto-Feeder[/b] (900 NB) - Essential for automation
+[*][b]High Walls[/b] (260 NB) - For jumping/flying slimes
+[*][b]Solar Shield[/b] (425 NB) - For nocturnal slimes
+[/list]
+
+[hr][/hr]
+
+[h2]Resource Farming Locations[/h2]
+
+[h3]Common Resources (Tier I-II Upgrades)[/h3]
+[list]
+[*][b]Jellystone[/b]: Ember Valley caves
+[*][b]Deep Brine[/b]: Ember Valley pools
+[*][b]Radiant Ore[/b]: Ember Valley glowing deposits
+[/list]
+
+[h3]Uncommon Resources (Tier III Upgrades)[/h3]
+[list]
+[*][b]Buzz Wax[/b]: Starlight Strand bee hives
+[*][b]Wild Honey[/b]: Starlight Strand hives
+[*][b]Perfect Primordy Oil[/b]: Tidepools exclusive
+[/list]
+
+[h3]Rare Resources (Endgame)[/h3]
+[list]
+[*][b]Sun Sap[/b]: Powderfall Bluffs crimson trees (3x/day during daylight)
+[*][b]Perfect Snowflakes[/b]: Powderfall Bluffs deposits
+[*][b]Royal Jelly[/b]: Grey Labyrinth (Impossible Sky, Dream Land)
+[*][b]Black Indigonium[/b]: Grey Labyrinth (Impossible Sky)
+[*][b]Aqua Glass[/b]: Grey Labyrinth (Waterworks ONLY)
+[/list]
+
+[h3]Special Resources[/h3]
+[list]
+[*][b]Strange Diamonds[/b]: Treasure pods (2 per Quantum Drone Station after Patch 1.0.3)
+[*][b]Moondew Nectar[/b]: Starlight Strand glowing trees at night (Flutter/Twin favorite)
+[*][b]Thunderclucks[/b]: Powderfall Bluffs rare chickens (Saber favorite)
+[*][b]Prisma Plorts[/b]: Grey Labyrinth Prisma Disruption events (~265 total needed for story)
+[/list]
+
+[hr][/hr]
+
+[h2]Gordo Unlocks Quick Reference[/h2]
+
+[b]Rainbow Fields:[/b]
+[list]
+[*]Cotton Gordo (30 Water Lettuce) → Ember Valley portal
+[*]Phosphor Gordo (50 Cuberries) → Starlight Strand portal
+[/list]
+
+[b]Ember Valley:[/b]
+[list]
+[*]Rock Gordo (50 Heart Beets) → Southern Ember Valley
+[*]Batty Gordo (50 Pomegranites) → Cave system
+[/list]
+
+[b]Starlight Strand:[/b]
+[list]
+[*]Angler Gordo (50 Sea Hens) → Deep strand area
+[*]Hunter Gordo (50 Roostros) → Upper strand
+[*]Ringtail Gordo (50 Pogo Fruits) → Treasure pods
+[*]Flutter Gordo (30 Moondew Nectar ONLY) → Flutter Haven
+[/list]
+
+[b]Powderfall Bluffs:[/b]
+[list]
+[*]Tabby Gordo (50 Stony Hens) → Northern area
+[*]Honey Gordo (50 Mint Mangos) → Treasure pods
+[*]Saber Gordo (50 Thunderclucks) → Hidden valley
+[/list]
+
+[b]Grey Labyrinth:[/b]
+[list]
+[*]Twin Gordo (Impossible Sky) → Zone access
+[*]Sloomber Gordo → Terrarium zone
+[/list]
+
+[i]TIP: Favorite food counts as 2x (e.g., 50 normal = 25 favorite)[/i]
+
+[hr][/hr]
+
+[h2]Ranch Expansion Costs[/h2]
+
+[h3]Conservatory Plots[/h3]
+[list]
+[*]Plot 1: FREE | Plot 2: 450 NB | Plot 3: 650 NB | Plot 4: 825 NB
+[*]Plot 5: 1,000 NB | Plot 6: 1,200 NB | Plot 7: 1,375 NB | Plot 8: 1,575 NB
+[*][b]Total for 8 plots: 7,075 NB[/b]
+[/list]
+
+[h3]Ranch Expansions[/h3]
+[list]
+[*][b]The Gully[/b]: 2,800 NB (5 plots) - Meat production hub
+[*][b]The Tidepools[/b]: 6,000 NB (6 plots) - Passive income (Fire/Puddle)
+[*][b]The Den[/b]: 2,800 NB (4 plots) - Nocturnal consolidation
+[*][b]The Archway[/b]: 2,800 NB (5 plots) - Elite Grey Labyrinth slimes
+[*][b]The Digsite[/b]: 2,800 NB (4 plots) - Weather slimes (OPTIONAL)
+[*][b]Total: 17,200 NB[/b]
+[/list]
+
+[hr][/hr]
+
+[h2]Automation Equipment[/h2]
+
+[h3]Quantum Drones[/h3]
+[b]Quantum Drone Station (per station):[/b]
+[list]
+[*]5,000 Newbucks
+[*]100 Flutter Plorts
+[*]1 Ghostly Drone Component
+[*]2 Strange Diamonds
+[/list]
+
+[b]Total for 3 stations:[/b] 15,000 NB + 300 Flutter Plorts + 6 Strange Diamonds
+
+[h3]Essential Gadgets[/h3]
+[list]
+[*][b]Auto-Feeder[/b] (900 NB): Feeds slimes automatically
+[*][b]Plort Collector[/b] (750 NB): MANDATORY, prevents Tarr
+[*][b]Market Link[/b]: Direct plort selling from expansions
+[*][b]Warp Depot[/b]: Fast travel between zones
+[*][b]Refinery Link[/b]: Resource sharing
+[/list]
+
+[hr][/hr]
+
+[h2]Plort Market Values (Baseline)[/h2]
+
+[h3]Common Plorts[/h3]
+Pink: 7-10 | Cotton: 7-12 | Tabby: 18-25 | Phosphor: 18-25
+
+[h3]Uncommon Plorts[/h3]
+Rock: 25-35 | Honey: 25-40 | Crystal: 30-45 | Boom: 25-35 | Batty: 20-35
+
+[h3]Rare Plorts[/h3]
+Hunter: 35-50 | Angler: 30-50 | Ringtail: 42-70 | Flutter: 20-50 | Saber: 42-70
+
+[h3]Elite/Special Plorts[/h3]
+[list]
+[*]Twin: 37-85 | Sloomber: 37-85 | Hyper: 30-60
+[*]Dervish: 75 | Tangle: High value
+[*]Shadow: 25-40 (1,165 needed for all doors)
+[*]Fire: 35-45 (passive) | Puddle: 80-100 (passive, slow)
+[*]Gold: 150-250 (cannot ranch)
+[/list]
+
+[b]Market Strategy:[/b] Diversify sales (3-5 types/day), hoard elite plorts for price spikes
+
+[hr][/hr]
+
+[h2]Revenue Progression Summary[/h2]
+
+[list]
+[*][b]Chapter 1[/b]: ~500 NB/day (2 plots)
+[*][b]Chapter 2[/b]: ~800-1,000 NB/day (4 plots)
+[*][b]Chapter 3[/b]: ~2,500+ NB/day (8 plots)
+[*][b]Chapters 5-6[/b]: ~5,000-6,500 NB/day (3 expansions)
+[*][b]Chapter 8[/b]: ~6,500-8,500 NB/day (4 expansions)
+[*][b]Chapter 11[/b]: ~8,500-12,000 NB/day (5 expansions)
+[*][b]Chapter 12[/b]: ~11,000-15,500+ NB/day (6 expansions, if built)
+[/list]
+
+[b]Endgame Capacity:[/b] 77,000-108,500+ NB/week with full automation
+
+[hr][/hr]
+
+[h2]Full Guide on GitHub[/h2]
+
+[b]This Steam guide is condensed.[/b] For complete details:
+
+[h1]https://github.com/skelhammer/slime-rancher-2-guide[/h1]
+
+[b]Full guide includes:[/b] 15 detailed chapters, 12 comprehensive appendices, complete slime/item tables, drone programming strategies, and 4,750+ lines of strategic content.
+
+[hr][/hr]
+
+[b]Author:[/b] skelhammer | [b]Version:[/b] 0.3 - Steam Edition | [b]License:[/b] CC BY 4.0
+
+[b]Deploy capital aggressively. Automate relentlessly. Dominate the market.[/b]

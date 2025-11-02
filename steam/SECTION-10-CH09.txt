@@ -1,0 +1,174 @@
+[h1]Part 3: Automation & Empire[/h1]
+
+[h2]Chapter 9: Quantum Drones Automation[/h2]
+
+[b]Primary Objective:[/b] Deploy 3 Quantum Drone Stations to automate core ranch operations
+
+[hr][/hr]
+
+[h3]Financial Checkpoint[/h3]
+
+[list]
+[*][b]Starting Budget:[/b] 50,000-70,000+ NB from Chapter 8
+[*][b]Capital Required:[/b] ~15,000 NB for 3 Quantum Drone Stations
+[*][b]Materials Required:[/b] 300 Flutter Plorts, 6 Strange Diamonds, 45 Lava Dust, 45 Wild Honey
+[*][b]Time Savings:[/b] Daily ranch management reduced from 30+ minutes to <10 minutes
+[*][b]Timeline:[/b] 3-5 days through all operations
+[/list]
+
+[hr][/hr]
+
+[h3]Phase 1: Finding Ghostly Drones[/h3]
+
+[b]What Are Ghostly Drones?[/b]
+Ethereal, semi-transparent phantom drones that roam Rainbow Island. Interact with one to receive a Drone Station Module, then it disappears permanently.
+
+[b]Easiest 3 Locations (for Chapter 9):[/b]
+[list]
+[*][b]First Ranch Expansion:[/b] 1 Ghostly Drone in whichever expansion you unlocked first (Gully, Archway, or Den)
+[*][b]The Tidepools:[/b] 1 Ghostly Drone spawn
+[*][b]Starlight Strand:[/b] By the big two-colored tree (pink/blue biome junction)
+[/list]
+
+[b]How to Capture:[/b]
+[olist]
+[*]Approach the Ghostly Drone (within 5 meters)
+[*]Press interact button
+[*]Receive 1 Drone Station Module
+[*]Drone disappears permanently
+[/olist]
+
+[hr][/hr]
+
+[h3]Phase 2: Crafting Quantum Drone Stations[/h3]
+
+[b]Recipe Per Station:[/b]
+[list]
+[*]5,000 Newbucks
+[*]100 Flutter Plorts
+[*]15 Lava Dust
+[*]15 Wild Honey
+[*]2 Strange Diamonds
+[*]1 Drone Station Module
+[/list]
+
+[b]Total for 3 Stations:[/b] 15,000 NB + 300 Flutter Plorts + 45 Lava Dust + 45 Wild Honey + 6 Strange Diamonds + 3 Drone Station Modules
+
+[hr][/hr]
+
+[h3]Phase 3: Priority Drone Deployments[/h3]
+
+[b]Drone 1 - Conservatory Automation (HIGHEST PRIORITY):[/b]
+[list]
+[*]Station Location: Conservatory central area
+[*]Programming:
+  - Target: Plorts
+  - Source: Plort Collector
+  - Destination: Plort Market (immediate sales) OR Silo (price spike management)
+[*]Result: Continuously collects ALL plorts from ALL 4 corrals
+[*]Expected Result: 3,000-4,000+ NB/day with minimal intervention
+[*]Battery: Charge with Pink/Cotton Plorts (20-30 plorts = weeks of operation)
+[/list]
+
+[b]Drone 2 - Gully Plort Collection:[/b]
+[list]
+[*]Station Location: The Gully central area
+[*]Programming:
+  - Target: Plorts
+  - Source: Plort Collector
+  - Destination: Plort Market OR Silo
+[*]Result: Continuously collects plorts from both corrals (Angler-Crystal, Saber-Hunter)
+[*]Expected Result: 2,000-3,000+ NB/day automated
+[*]Battery: Charge with Crystal/Hunter Plorts (15-20 plorts = weeks)
+[/list]
+
+[b]Drone 3 - Tidepools Passive Income Automation:[/b]
+[list]
+[*]Station Location: The Tidepools central area
+[*]Programming:
+  - Target: Plorts
+  - Source: Plort Collector
+  - Destination: Plort Market OR Silo
+[*]Result: Continuously collects plorts from Puddle Ponds and Fire Incinerators
+[*]Expected Result: 1,540-2,310 NB/day with ZERO manual intervention
+[*]Battery: Charge with Pink Plorts (10-15 plorts = weeks)
+[/list]
+
+[hr][/hr]
+
+[h3]How Quantum Drones Work[/h3]
+
+[b]Two Operating Modes:[/b]
+[list]
+[*][b]Rancher Mode[/b] (Placed in ranch expansions):
+  - Program with Target → Source → Destination logic
+  - Instantly teleports between locations
+  - Handles all ranch automation
+[*][b]Explorer Mode[/b] (Placed in wild biomes):
+  - Generates "quantum" resources based on biome
+  - Deposits into shared Quantum Cloud inventory (max 9,999 items)
+  - Passive resource generation while away
+[/list]
+
+[b]Battery System:[/b]
+[list]
+[*]Runs on plorts: 0%-100% (green bar) with overcharge to 999% (golden bar)
+[*]Initial battery: 24%
+[*]Higher battery % = faster operation speed
+[*]Battery only drains during active task execution
+[*]Picking up station resets battery to 24%
+[/list]
+
+[b]Important Limitations:[/b]
+[list]
+[*]Drones only work within same expansion (cannot transfer between Conservatory/Gully/etc.)
+[*]Food to Auto-Feeders goes to ALL feeders randomly (loses favorite food bonuses)
+[*][b]Recommendation:[/b] Use drones ONLY for plort collection, manually feed for 4-plort bonus
+[/list]
+
+[hr][/hr]
+
+[h3]Strategic Priorities[/h3]
+
+[olist]
+[*][b]Hunt 3 Ghostly Drones:[/b] Locate in ranch expansions to obtain Drone Station Modules
+[*][b]Accumulate 300 Flutter Plorts:[/b] From Chapter 8 operations (DO NOT purchase)
+[*][b]Gather Strange Diamonds:[/b] Collect 6 from Starlight Strand treasure pods
+[*][b]Craft 3 Quantum Drone Stations:[/b] Build for ranch automation
+[*][b]Deploy Conservatory Drone:[/b] HIGHEST PRIORITY - automate largest, most valuable operation
+[*][b]Deploy Gully Drone:[/b] Automate carnivore plort collection
+[*][b]Deploy Tidepools Drone:[/b] Fully automate passive income
+[/olist]
+
+[hr][/hr]
+
+[h3]End of Chapter Checklist[/h3]
+
+[list]
+[*]✅ 3 Ghostly Drones found, 3 Drone Station Modules obtained
+[*]✅ Quantum Drone Station #1 crafted and deployed (5,000 NB + 100 Flutter Plorts)
+[*]✅ Quantum Drone Station #2 crafted and deployed (5,000 NB + 100 Flutter Plorts)
+[*]✅ Quantum Drone Station #3 crafted and deployed (5,000 NB + 100 Flutter Plorts)
+[*]✅ Total investment: 15,000 NB + 300 Flutter Plorts + materials
+[*]✅ Drone 1: Conservatory automation (All Plort Collectors → Market Link)
+[*]✅ Drone 2: Gully plort collection (All Plort Collectors → Market Link)
+[*]✅ Drone 3: Tidepools automation (Puddle + Fire Plorts)
+[*]✅ Total daily ranch time reduced from 30-40 minutes to <10 minutes
+[*]✅ Daily passive income: 6,500-8,500+ NB with minimal management
+[/list]
+
+[hr][/hr]
+
+[h3]Next Chapter Preparation[/h3]
+
+With core ranch operations automated, you can now focus on Grey Labyrinth exploration without worrying about daily ranch management.
+
+[b]Chapter 10 Preparation: Grey Labyrinth - Elite Asset Acquisition[/b]
+
+[b]Financial Target:[/b] Save ~2,000 NB for Radiant Projector crafting
+
+[b]Required Equipment:[/b] Verify you have Heart Module III, Power Core III, Jetpack II, Dash Boots II
+
+[b]Materials Needed:[/b] 10 Hunter Plorts, 10 Boom Plorts, 5 Silky Sand, 5 Lava Dust (for 3-4 Radiant Projectors)
+
+[b]Objective:[/b] Enter Grey Labyrinth, activate Map Data Nodes, capture Twin/Sloomber/Hyper slimes for Chapter 11 integration

@@ -1,0 +1,119 @@
+[h1]Part 1: The Foundation[/h1]
+
+[h2]Chapter 2: The Conservatory Foundation[/h2]
+
+[b]Primary Objective:[/b] Expand from 2 plots to 4 plots with essential crafting plort production
+
+[hr][/hr]
+
+[h3]Financial Checkpoint[/h3]
+
+[list]
+[*][b]Starting Budget:[/b] 500-1,000 NB from Chapter 1
+[*][b]Capital Required:[/b] ~4,500 NB total
+  - Phosphor-Honey operation: 3,660 NB
+  - Tier I upgrades: 900 NB
+[*][b]Daily Revenue:[/b] 800-1,000 NB/day (increased from 300-500)
+[*][b]Timeline:[/b] 5-7 days to accumulate funds
+[/list]
+
+[hr][/hr]
+
+[h3]Phase 1: Unlock Starlight Strand[/h3]
+
+[b]Cotton Gordo:[/b]
+[list]
+[*]Location: Rainbow Fields - SE of Refinery Link, top of hill
+[*]Feed 30 Veggies (Water Lettuce counts 2x)
+[*]Reward: Cave to Starlight Strand portal + 12 Cotton Slimes + 1 jar
+[/list]
+
+[hr][/hr]
+
+[h3]Phase 2: Asset Acquisition[/h3]
+
+[b]Slimes Needed:[/b]
+[list]
+[*]6 Phosphor Slimes (NIGHT ONLY throughout Starlight Strand)
+[*]6 Honey Plorts (from wild Honey Slimes in flowery pink areas)
+[/list]
+
+[b]Food Stockpile:[/b]
+[list]
+[*]30+ Cuberries (Phosphor favorite - Starlight Strand)
+[/list]
+
+[b]Collection Strategy:[/b] Wait for nighttime, capture Phosphor Slimes, collect Honey Plorts from wild Honey Slimes during day, harvest Cuberries.
+
+[hr][/hr]
+
+[h3]Phase 3: Conservatory Expansion[/h3]
+
+[b]New Plots:[/b]
+
+[b]Plot 3 - Phosphor-Honey Largos:[/b]
+[list]
+[*]Corral (250 NB) + High Walls (260) + Air Net (425) + Solar Shield (425) + Plort Collector (750) = 2,110 NB
+[*]Purpose: Produces Phosphor + Honey Plorts for crafting
+[*]Feed Cuberries (Phosphor favorite) = 4 plorts per feeding
+[/list]
+
+[b]Plot 4 - Cuberry Garden:[/b]
+[list]
+[*]Garden (250 NB) + Nutrient Soil (600) + Sprinkler (700) = 1,550 NB
+[*]Purpose: Feeds Plot 3
+[/list]
+
+[b]Plots 1-2:[/b] UNCHANGED from Chapter 1 (Tabby-Cotton + Water Lettuce)
+
+[b]Total Investment:[/b] 3,660 NB (new plots)
+
+[hr][/hr]
+
+[h3]Phase 4: Tier I Upgrades[/h3]
+
+[b]Craft These Immediately:[/b]
+[list]
+[*][b]Power Core[/b] (450 NB + 10 Cotton Plort) - 100 → 150 Energy
+[*][b]Tank Booster[/b] (450 NB + 10 Tabby Plort) - 20 → 30 units per slot - [b]CRITICAL QoL[/b]
+[/list]
+
+[b]Total Investment:[/b] 900 NB + materials
+
+[hr][/hr]
+
+[h3]Strategic Priorities[/h3]
+
+[olist]
+[*][b]Pop Cotton Gordo:[/b] Unlock Starlight Strand for Honey/Phosphor collection
+[*][b]Night Hunt:[/b] Capture 6 Phosphor Slimes at night
+[*][b]Expand to 4 Plots:[/b] Add Phosphor-Honey operation for crafting plorts
+[*][b]Stockpile Crafting Plorts:[/b] Deposit 50+ Phosphor and 50+ Honey in Refinery
+[*][b]Craft Tank Booster:[/b] CRITICAL - 30 units per slot (massive QoL upgrade)
+[*][b]Craft Power Core:[/b] 150 Energy for extended exploration
+[/olist]
+
+[hr][/hr]
+
+[h3]End of Chapter Checklist[/h3]
+
+[list]
+[*]✅ Cotton Gordo popped, Starlight Strand unlocked
+[*]✅ Conservatory expanded to 4 plots
+[*]✅ Phosphor-Honey Largo corral producing crafting plorts
+[*]✅ Cuberry garden operational
+[*]✅ Daily revenue: ~800-1,000 NB
+[*]✅ Power Core and Tank Booster crafted
+[/list]
+
+[hr][/hr]
+
+[h3]Next Chapter Preparation[/h3]
+
+Chapter 3 expands Conservatory to 8 plots and focuses on Ember Valley resource extraction.
+
+[b]Financial Goal:[/b] Save 10,000+ NB for ranch expansion (8,745 NB) and upgrades (Water Tank, Dash Boots, Extra Tank)
+
+[b]Gordo Prep:[/b] Stockpile vegetables (Heart Beets), fruit (Pomegranites), and meat (Briar Hens, Stony Hens) for Ember Valley Gordos
+
+[b]Asset Collection:[/b] Capture Boom, Batty, Crystal, and Rock slimes from Ember Valley for Chapter 3 operations

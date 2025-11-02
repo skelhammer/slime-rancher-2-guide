@@ -1,0 +1,180 @@
+[h1]Slime Rancher 2: A Practical Walkthrough[/h1]
+
+[b]Version 0.3 - Steam Edition[/b]
+[b]Last Updated:[/b] November 1, 2025
+
+[hr][/hr]
+
+[h2]About This Guide[/h2]
+
+This is a condensed Steam version of a comprehensive walkthrough for Slime Rancher 2, focused on aggressive optimization, capital deployment, and systematic automation. The full guide (4,750+ lines) is available on GitHub:
+
+[h1]https://github.com/skelhammer/slime-rancher-2-guide[/h1]
+
+[b]Guide Philosophy - Three Core Principles:[/b]
+[olist]
+[*][b]Ruthless Asset Progression[/b]: Slimes are assets, not pets
+[*][b]Capital Must Be Deployed[/b]: Immediate reinvestment in high-ROI infrastructure
+[*][b]Automate Everything[/b]: Eliminate manual labor systematically
+[/olist]
+
+[hr][/hr]
+
+[h2]IMPORTANT DISCLAIMER[/h2]
+
+[b]Game Version:[/b] Verified against Slime Rancher 2 v1.0 (September 23, 2025) + Patch 1.0.3
+
+[b]Known Issues:[/b] Prices and material costs are outdated due to v1.0 recipe overhaul without patch notes.
+
+[b]Patch 1.0.3 Changes (November 1, 2025):[/b]
+[list]
+[*]Quantum Drone Stations: Reduced Strange Diamond cost (confirmed: 2 per station)
+[*]Shadow Plort Doors: Reduced costs (unverified)
+[*]Shadow Sureshot: No longer requires Strange Diamonds (unverified new recipe)
+[*]Shadow Slimes: Drop extra plorts when hit, lurk longer (unverified)
+[*]Prisma Stabilizers: May produce more Prisma Plorts (unverified)
+[/list]
+
+[hr][/hr]
+
+[h2]Introduction: The Rancher's Mindset[/h2]
+
+Welcome, Rancher. You've arrived on Rainbow Island with a Vacpack and a dream. This isn't a cozy farming sim - this is high-stakes resource management where every decision compounds into exponential growth or stagnation.
+
+This guide transforms Rainbow Island into a hyper-efficient, multi-million Newbuck profit engine. Every action is a calculated investment governed by cost-benefit analysis.
+
+[b]Deploy capital aggressively. Automate relentlessly. Dominate the market.[/b]
+
+[hr][/hr]
+
+[h2]Core Mechanics: Understanding the Fundamentals[/h2]
+
+[h3]The Plort Market: Supply, Demand, and Price Manipulation[/h3]
+
+The plort market operates on dynamic supply and demand. Flood the market with one plort type, expect prices to crash next day.
+
+[b]Strategic Implications:[/b]
+[list]
+[*]Diversify plort production across multiple slime types
+[*]Sell balanced mix daily to avoid market saturation
+[*]Advanced: Hoard one plort type while flooding others, sell during price spikes
+[/list]
+
+[h3]Largo Slimes: Exponential Profit Through Combination[/h3]
+
+Largos form when a slime eats a different species' plort. Largos produce [b]BOTH plort types[/b] when fed.
+
+[b]The Mathematics:[/b]
+[list]
+[*]Base slime + normal food = 1 plort (~10 NB)
+[*]Base slime + favorite food = 2 plorts (same type, ~20 NB)
+[*]Largo + normal food = 2 plorts (one each type, ~30-50 NB)
+[*][b]Largo + favorite food = 4 plorts total (2 of each type, 60-150+ NB)[/b]
+[/list]
+
+[b]A properly fed Largo quadruples profit per feeding compared to base slimes.[/b]
+
+[h3]CRITICAL WARNING: Tarr Outbreaks and Prevention[/h3]
+
+[b]IF A LARGO EATS A THIRD PLORT TYPE[/b] (not one it produces), it transforms into a [b]Tarr[/b] - a hostile slime that devours other slimes and ranchers. Tarr produce MORE Tarr when consuming slimes, leading to catastrophic ranch-wide outbreaks in minutes.
+
+[b]Mandatory Prevention:[/b]
+[list]
+[*][b]Plort Collectors are MANDATORY on every corral[/b]
+[*]They auto-vacuum plorts before slimes can eat them
+[*]ALWAYS install before leaving slimes unattended
+[*]A single missed plort = total ranch failure
+[/list]
+
+[b]Emergency Response:[/b]
+[list]
+[*]Water kills Tarr instantly (use Water Tank upgrade)
+[*]Contain outbreaks immediately - every second counts
+[*]Consider sacrificing infected corrals (vacuum into Slime Sea)
+[/list]
+
+[h3]The Agitation System: Managing Slime Behavior[/h3]
+
+All slimes have hidden agitation value affecting behavior and productivity.
+
+[b]How Agitation Works:[/b]
+[list]
+[*]Builds when slimes reach 99% hunger
+[*]Takes ~12 in-game hours to reach maximum
+[*]High agitation = negative behaviors:
+  - Rock slimes roll more (contact damage)
+  - Boom slimes explode more (launch plorts everywhere)
+  - Crystal slimes produce damaging spikes
+  - [b]Hunter Largos revert to feral state (hostile)[/b]
+[/list]
+
+[b]Agitation Management:[/b]
+[list]
+[*][b]Feeding[/b]: ONLY way to permanently reset agitation to zero
+[*][b]Music Box[/b] (350 NB): Halves agitation growth rate
+[*][b]Slime Toys[/b]: Reduce growth by 12.5% (25% for favorites)
+[*][b]Auto-Feeders[/b] (900 NB): BEST SOLUTION - auto-dispense food on timer
+[/list]
+
+[h3]Optimal Corral Population[/h3]
+
+Overcrowding causes agitation and reduced production.
+
+[b]Sweet Spot:[/b]
+[list]
+[*]8-10 regular slimes per fully upgraded corral
+[*]5-6 Largos per fully upgraded corral
+[/list]
+
+More slimes ≠ more profit. It means chaos.
+
+[hr][/hr]
+
+[h2]Steam Guide Structure[/h2]
+
+This condensed Steam guide is split into 17 sections:
+
+[b]Section 1:[/b] Introduction + Core Mechanics (YOU ARE HERE)
+
+[b]Part 1: The Foundation[/b]
+[list]
+[*]Section 2: Chapter 1 - Early Game Sprint to Mobility
+[*]Section 3: Chapter 2 - The Conservatory Foundation
+[*]Section 4: Chapter 3 - Ember Valley Resource Extraction
+[*]Section 5: Chapter 4 - Starlight Strand Asset Acquisition
+[/list]
+
+[b]Part 2: The Industrial Revolution[/b]
+[list]
+[*]Section 6: Chapter 5 - The Gully Industrial Core
+[*]Section 7: Chapter 6 - The Tidepools Passive Income
+[*]Section 8: Chapter 7 - Powderfall Bluffs Saber Acquisition
+[*]Section 9: Chapter 8 - The Den Ranch Reorganization
+[/list]
+
+[b]Part 3: Automation & Empire[/b]
+[list]
+[*]Section 10: Chapter 9 - Quantum Drones Automation
+[*]Section 11: Chapter 10 - Grey Labyrinth Elite Asset Acquisition
+[*]Section 12: Chapter 11 - The Archway Grey Labyrinth Operations
+[*]Section 13: Chapter 12 - The Digsite Weather Slimes (OPTIONAL)
+[/list]
+
+[b]Part 4: Endgame Mastery[/b]
+[list]
+[*]Section 14: Chapter 13 - The Endgame Audit
+[*]Section 15: Chapter 14 - Prismacore Stabilization Story Finale
+[*]Section 16: Chapter 15 - Post-Game Sandbox Empire
+[/list]
+
+[b]Section 17:[/b] Quick Reference & Appendices
+
+[hr][/hr]
+
+[b]Full guide with 15 detailed chapters, 12 comprehensive appendices, and 4,750+ lines of strategic content available on GitHub.[/b]
+
+[h1]https://github.com/skelhammer/slime-rancher-2-guide[/h1]
+
+[hr][/hr]
+
+[b]License:[/b] CC BY 4.0 | [b]Author:[/b] skelhammer

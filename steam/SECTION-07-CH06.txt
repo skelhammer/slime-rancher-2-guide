@@ -1,0 +1,105 @@
+[h1]Part 2: The Industrial Revolution[/h1]
+
+[h2]Chapter 6: The Tidepools Passive Income[/h2]
+
+[b]Primary Objective:[/b] Construct a fully passive income operation requiring minimal daily interaction
+
+[hr][/hr]
+
+[h3]Financial Checkpoint[/h3]
+
+[list]
+[*][b]Starting Budget:[/b] 25,000-30,000+ NB from Chapter 5
+[*][b]Capital Required:[/b] ~24,350 NB total
+  - Tidepools unlock: 6,000 NB
+  - Build-out: 4,350 NB
+  - Tier III upgrades: 14,000 NB
+[*][b]Revenue Impact:[/b] ~5,540-6,810 NB/day (increased from ~4,500)
+[*][b]Passive Income:[/b] +1,540-2,310 NB/day with only 10-15 min management
+[*][b]Timeline:[/b] 5-7 days through all operations
+[/list]
+
+[hr][/hr]
+
+[h3]Phase 1: The Tidepools Build (5 Plots)[/h3]
+
+[b]Plot 1 & 2 - Puddle Ponds:[/b]
+[list]
+[*]Pond (450 NB each) × 2 = 900 NB
+[*]4 Puddle Slimes per pond (8 total)
+[*]Zero-maintenance passive income - generates plorts from water
+[/list]
+
+[b]Plot 3 & 4 - Fire Incinerators:[/b]
+[list]
+[*]Incinerator + Ash Trough (950 NB each) × 2 = 1,900 NB
+[*]5 Fire Slimes per incinerator (10 total)
+[*]Low-maintenance income - feed ash from vegetables
+[/list]
+
+[b]Plot 5 - Ash Production Garden:[/b]
+[list]
+[*]Garden + Nutrient Soil + Sprinkler = 1,550 NB
+[*]Plant Odd Onions (or any veggie)
+[*]Throw vegetables into incinerators to generate ash
+[/list]
+
+[b]Total Investment:[/b] 6,000 NB (unlock) + 4,350 NB (build) = 10,350 NB
+
+[hr][/hr]
+
+[h3]Phase 2: Tier III Upgrades (MANDATORY for Chapter 7)[/h3]
+
+[b]CRITICAL - Required Before Powderfall Bluffs:[/b]
+[list]
+[*][b]Tank Booster III[/b] (3,000 NB + materials) - 40 → 50 units per slot
+[*][b]Power Core III[/b] (3,000 NB + materials) - 200 → 250 Energy
+[*][b]Heart Module III[/b] (3,000 NB + materials) - 200 → 250 HP
+[*][b]Tank Guard II[/b] (5,000 NB + materials) - Salvages 40% on damage
+[/list]
+
+[b]Total Investment:[/b] ~14,000 NB + materials
+
+[b]Why MANDATORY:[/b] Chapter 7 (Powderfall Bluffs) contains aggressive Saber Slimes requiring maximum defensive capability.
+
+[hr][/hr]
+
+[h3]Strategic Priorities[/h3]
+
+[olist]
+[*][b]Unlock Tidepools:[/b] Purchase expansion (6,000 NB) from far end of Gully
+[*][b]Deploy Puddle Ponds:[/b] 8 slimes total for zero-maintenance plort generation
+[*][b]Deploy Fire Incinerators:[/b] 10 Fire Slimes for low-maintenance income
+[*][b]Build Ash Garden:[/b] Plant vegetables to generate ash for Fire Slimes
+[*][b]Craft Tier III Upgrades:[/b] CRITICAL - required for Chapter 7 Powderfall Bluffs survival
+[*][b]Establish Passive Income:[/b] 1,540-2,310 NB/day requiring only 10-15 min management
+[*][b]Zero Tarr Risk:[/b] Puddle and Fire Slimes cannot create Tarr
+[/olist]
+
+[hr][/hr]
+
+[h3]End of Chapter Checklist[/h3]
+
+[list]
+[*]✅ The Tidepools unlocked and developed (5 plots)
+[*]✅ Two Puddle Ponds (8 Puddle Slimes) - zero maintenance
+[*]✅ Two Incinerators (10 Fire Slimes) - low maintenance
+[*]✅ Ash production garden operational
+[*]✅ Passive income stream: 1,540-2,310 NB/day
+[*]✅ Tank Booster III crafted (50 capacity)
+[*]✅ Power Core III crafted (250 Energy)
+[*]✅ Heart Module III crafted (250 HP)
+[*]✅ Tank Guard II crafted (40% salvage)
+[/list]
+
+[hr][/hr]
+
+[h3]Next Chapter Preparation[/h3]
+
+Chapter 7 explores Powderfall Bluffs to capture Saber Slimes and harvest critical endgame resources.
+
+[b]Equipment Check:[/b] You MUST have all Tier III upgrades before entering Powderfall Bluffs
+
+[b]Carnivore Supplies:[/b] Stockpile 50+ meat (Thunderclucks preferred) to pop Saber Gordo
+
+[b]Objective:[/b] Capture 10-12 Saber Slimes + 20-30 Thunderclucks for Chapter 8's Den expansion. Harvest Sun Sap (ULTRA-RARE endgame resource)

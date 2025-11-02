@@ -1,0 +1,145 @@
+[h1]Part 2: The Industrial Revolution[/h1]
+
+[h2]Chapter 8: The Den Ranch Reorganization[/h2]
+
+[b]Primary Objective:[/b] Unlock The Den and consolidate all fruit-eating nocturnal slimes into one expansion
+
+[hr][/hr]
+
+[h3]Financial Checkpoint[/h3]
+
+[list]
+[*][b]Starting Budget:[/b] 40,000-50,000+ NB from Chapter 7
+[*][b]Capital Required:[/b] ~14,380 NB
+  - Den unlock: 2,800 NB
+  - Den build-out: 11,105 NB
+  - Conservatory rebuild: 475 NB
+[*][b]Revenue Impact:[/b] ~6,500-8,500 NB/day (optimized operations)
+[*][b]Strategic Value:[/b] Consolidates all nocturnal slimes, saves 1,275 NB in Solar Shield costs, doubles Flutter Plort production
+[/list]
+
+[hr][/hr]
+
+[h3]Phase 1: The Den Build (5 Plots)[/h3]
+
+[b]Plot 1 - Boom-Batty Largos:[/b]
+[list]
+[*]RELOCATED from Conservatory Plot 7
+[*]Corral + upgrades = 2,785 NB
+[*]Feed Pomegranites (Batty favorite)
+[*]NO Solar Shield needed (Den is permanently dark)
+[/list]
+
+[b]Plot 2 - Flutter-Phosphor Largos:[/b]
+[list]
+[*]NEW - Corral + upgrades (no Solar Shield) = 2,435 NB
+[*]Feed Cuberries (Phosphor favorite) = 4 plorts per feeding
+[*][b]DO NOT SELL Flutter Plorts[/b] - Need for Chapter 9 Quantum Drones
+[/list]
+
+[b]Plot 3 - Batty-Ringtail Largos:[/b]
+[list]
+[*]NEW - Corral + upgrades = 2,785 NB
+[*]Feed Pomegranites (Batty favorite) OR Cuberries
+[*]Ringtail turns to stone in daylight - Den is dark (perfect habitat)
+[/list]
+
+[b]Plot 4 - Pomegranite Garden:[/b]
+[list]
+[*]Garden + Nutrient Soil + Sprinkler = 1,550 NB
+[*]Feeds Plots 1 & 3
+[/list]
+
+[b]Plot 5 - Cuberry Garden:[/b]
+[list]
+[*]Garden + Nutrient Soil + Sprinkler = 1,550 NB
+[*]Feeds Plot 2
+[/list]
+
+[b]Total Investment:[/b] 2,800 NB (unlock) + 11,105 NB (build) = 13,905 NB
+
+[b]CRITICAL:[/b] Den's permanent darkness eliminates Solar Shields (saves 425 NB per corral = 1,275 NB total across 3 corrals)
+
+[hr][/hr]
+
+[h3]Phase 2: Ranch Reorganization[/h3]
+
+[b]Conservatory Changes:[/b]
+[list]
+[*]Plot 7: Replace Boom-Batty with [b]Flutter-Honey Largos[/b] (reuses existing Solar Shield)
+[*]Plot 8: Replant with Mint Mangos (50 NB)
+[*]Plots 1-6: UNCHANGED
+[/list]
+
+[b]Gully Changes:[/b]
+[list]
+[*]Plot 1: Convert Stony Hen Coop to [b]Thundercluck Coop[/b] (from Chapter 7)
+[*]Plot 5: Replace Flutter-Tabby with [b]Saber-Hunter Largos[/b] (deploy Saber Slimes + 6 Hunter Plorts)
+[*]Plots 2-4: UNCHANGED
+[/list]
+
+[hr][/hr]
+
+[h3]Phase 3: Key Notes[/h3]
+
+[b]Auto-Feeder Setup:[/b]
+[list]
+[*]Den Plot 1 (Boom-Batty): Pomegranites
+[*]Den Plot 2 (Flutter-Phosphor): Cuberries
+[*]Den Plot 3 (Batty-Ringtail): Pomegranites
+[*]Conservatory Plot 7 (Flutter-Honey): Mint Mangos
+[*]Gully Plot 5 (Saber-Hunter): Thunderclucks
+[/list]
+
+[b]CRITICAL - Flutter Plorts:[/b]
+[list]
+[*]Two operations produce 24-36 Flutter Plorts/day (Flutter-Honey + Flutter-Phosphor)
+[*][b]DO NOT SELL[/b] - Deposit all into Refinery
+[*]Target: 300+ for Chapter 9 Quantum Drones
+[/list]
+
+[hr][/hr]
+
+[h3]Strategic Priorities[/h3]
+
+[olist]
+[*][b]Unlock The Den:[/b] Purchase expansion (2,800 NB) from western Conservatory
+[*][b]Relocate Boom-Batty:[/b] Move from Conservatory to Den (saves 425 NB Solar Shield)
+[*][b]Deploy Flutter-Phosphor:[/b] Establish second Flutter operation to double plort production
+[*][b]Deploy Batty-Ringtail:[/b] Create third nocturnal operation
+[*][b]Rebuild Conservatory Plot 7:[/b] Replace with Flutter-Honey (maintain Flutter production)
+[*][b]Convert Gully Plot 5:[/b] Replace Flutter-Tabby with Saber-Hunter (upgrade to premium carnivores)
+[*][b]Double Flutter Production:[/b] Achieve 24-36 Flutter Plorts/day from two sources
+[/olist]
+
+[hr][/hr]
+
+[h3]End of Chapter Checklist[/h3]
+
+[list]
+[*]✅ The Den unlocked and developed (5 plots)
+[*]✅ Den Plot 1: Boom-Batty Largos (relocated, no Solar Shield)
+[*]✅ Den Plot 2: Flutter-Phosphor Largos (NEW, no Solar Shield)
+[*]✅ Den Plot 3: Batty-Ringtail Largos (NEW, no Solar Shield)
+[*]✅ Den Plots 4-5: Pomegranite and Cuberry gardens
+[*]✅ All nocturnal slimes consolidated in naturally dark environment
+[*]✅ Conservatory Plot 7: Flutter-Honey Largos (NEW, reuses Solar Shield)
+[*]✅ Gully Plot 5: Saber-Hunter Largos (NEW - replaced Flutter-Tabby)
+[*]✅ Flutter Plort accumulation: 24-36 per day from 2 sources
+[*]✅ Total ranch revenue: 6,500-8,500+ NB/day
+[*]✅ Food optimization: Fruit (Den), Veggie (Conservatory), Meat (Gully)
+[/list]
+
+[hr][/hr]
+
+[h3]Next Chapter Preparation[/h3]
+
+Chapter 9 implements total ranch automation using Quantum Drones.
+
+[b]Financial Goal:[/b] Save 20,000+ NB for 3 Quantum Drone Stations (15,000 NB) + materials
+
+[b]Flutter Plort Requirement:[/b] You need 300 Flutter Plorts total (100 per drone station). Your two Flutter operations should be producing 24-36 plorts per day. Continue accumulating until you reach 300+
+
+[b]Material Stockpiling:[/b] Gather Strange Diamonds (6 total), Lava Dust (45 total), Wild Honey (45 total), Radiant Ore, Jellystone
+
+[b]Drone Hunting:[/b] Chapter 9 requires finding 3 Ghostly Drones hidden in ranch expansions to obtain Drone Station Modules

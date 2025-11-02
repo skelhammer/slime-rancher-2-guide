@@ -1,7 +1,7 @@
 # Slime Rancher 2: A Practical Walkthrough - Steam Guide
 
-**Version 0.1 - Initial Release**
-**Last Updated: October 24, 2025**
+**Version 0.3 - Steam Edition**
+**Last Updated: November 1, 2025**
 
 ---
 
@@ -12,10 +12,11 @@
 **https://github.com/skelhammer/slime-rancher-2-guide**
 
 The full GitHub guide includes:
-- 14 detailed chapters with operational blueprints
-- Complete appendices with slime stats, item lists, upgrade costs, and treasure pod locations
+- 15 detailed chapters with operational blueprints
+- 12 comprehensive appendices with slime stats, item lists, upgrade costs, and treasure pod locations
 - Ranch progression tables showing plot-by-plot layouts
 - Drone automation strategies
+- Complete Grey Labyrinth and endgame coverage
 - 4,750+ lines of strategic content
 
 ---
@@ -161,24 +162,43 @@ More slimes does NOT mean more profit. It means chaos, overcrowding, and reduced
 - Drone 2 (Gully): Collect food from silos → Deliver to Auto-Feeders
 - Drone 3 (Tidepools): Collect Fire/Puddle plorts → Deposit in Plort Market
 
-**Chapters 10-11 [WIP - Not Yet Complete]**
-- Chapter 10: The Archway expansion, Dervish & Tangle slimes
-- Chapter 11: The Digsite expansion, final Tabby operations
-
-### Part 4: Endgame Mastery (Chapters 12-14) [WIP - Not Yet Complete]
-
-**Chapter 12: The Endgame Audit**
-- Complete all pre-Labyrinth upgrades
-- Collect all treasure pods
-- Systematic preparation checklist
-
-**Chapter 13: The Grey Labyrinth - Endgame Operations**
-- Navigate the dangerous endgame zone
+**Chapter 10: The Grey Labyrinth - Elite Asset Acquisition**
+- Navigate the dangerous Grey Labyrinth zone
 - Capture Shadow, Twin, Sloomber, and Hyper slimes
 - Handle Prisma Disruptions
-- Farm Prisma Plorts for final upgrades
+- Basic Shadow/Prisma Plort farming
+- Revenue: Access to highest-value slime types
 
-**Chapter 14: Post-Game - Sandbox Empire**
+**Chapter 11: The Archway - Grey Labyrinth Operations**
+- Unlock fourth expansion (2,800 NB)
+- Build 5-plot Grey Labyrinth slime integration
+- Deploy Twin-Flutter and Sloomber-Saber Largos (highest value combo in game)
+- Revenue: +2,000-3,500 NB/day (Total: ~8,500-12,000 NB/day)
+
+**Chapter 12: The Digsite - Weather Slime Operations (OPTIONAL)**
+- Unlock fifth expansion (2,800 NB)
+- Build 4-plot weather event slime operations
+- Deploy Dervish-Ringtail and Tangle-Hyper Largos
+- Can skip if you haven't collected weather slimes
+- Revenue: +2,500-3,500 NB/day if built
+
+### Part 4: Endgame Mastery (Chapters 13-15)
+
+**Chapter 13: The Endgame Audit**
+- Open all 25 Shadow Plort Doors (1,165 Shadow Plorts)
+- Stockpile Prisma Plorts (~265 total)
+- Complete final Vacpack upgrades
+- Verify ranch automation
+
+**Chapter 14: Prismacore Stabilization - Story Finale**
+- Trade with Gigi (90 Prisma Plorts)
+- Activate 5 Harmonizers
+- Craft and deploy Nullifier
+- Complete Slime Shower event
+- Stabilize Prismacore and unlock Rainbow Coins
+
+**Chapter 15: Post-Game Sandbox Empire**
+- Rare slime hunting (Gold, Lucky)
 - Market manipulation strategies
 - Themed ranch redesigns
 - Challenge modes and self-imposed rules
@@ -199,9 +219,10 @@ More slimes does NOT mean more profit. It means chaos, overcrowding, and reduced
 - **Flutter-Honey**: Nectar eaters, calming aura, requires Solar Shield
 
 ### Advanced Largos (Chapters 10+)
-- **Dervish-Ringtail**: Weather event slimes, Prickle Pears (Dervish favorite)
-- **Boom-Tangle**: Meat + weather slimes, Painted Hens (Tangle favorite)
-- **Tabby-Saber**: High-value Tabby combo (Tabby favorite: Stony Hens)
+- **Twin-Flutter**: Elite rare combo, calming aura synergy, feed Moondew Nectar
+- **Sloomber-Saber**: HIGHEST value combo in game (plorts 37-85 + 42-70), sleep clouds pacify aggression
+- **Dervish-Ringtail**: Weather event slimes, very high value (75 + 42-70), feed Prickle Pears
+- **Tangle-Hyper**: Premium rare combo, flexible omnivore diet, feed Painted Hens
 
 **Full slime stats, locations, and Gordo rewards available in the GitHub guide appendices.**
 
@@ -266,9 +287,10 @@ More slimes does NOT mean more profit. It means chaos, overcrowding, and reduced
 - **Chapter 3**: ~2,500+ NB/day (8 plots)
 - **Chapters 5-6**: ~5,000-6,500 NB/day (3 expansions)
 - **Chapter 8**: ~6,500-8,500 NB/day (4 expansions)
-- **Chapters 10-11**: ~12,000-17,000+ NB/day (6 expansions)
+- **Chapter 11**: ~8,500-12,000 NB/day (5 expansions)
+- **Chapter 12**: ~11,000-15,500+ NB/day (6 expansions, if built)
 
-**By Chapter 11, you'll have a fully automated ranch generating 100,000+ Newbucks per week.**
+**By Chapter 11, you'll have a fully automated ranch generating 60,000-84,000+ Newbucks per week. By Chapter 12, over 100,000 Newbucks per week.**
 
 ---
 
@@ -317,8 +339,9 @@ The complete GitHub guide includes detailed appendices with:
 This guide is built on three core principles: Ruthless Asset Progression, Capital Deployment, and Automation. Every strategy is designed to maximize profit, minimize manual labor, and transform your ranch into a self-sustaining empire.
 
 ### Version Notes
-- Verified against Slime Rancher 2 Version 1.0 (released September 23, 2025)
-- Chapters 10-14 are marked as Work In Progress and not yet fully verified
+- Verified against Slime Rancher 2 Version 1.0 (released September 23, 2025), updated for Patch 1.0.3
+- Major restructure: Chapters 10-15 reorganized for optimal gameplay flow
+- Grey Labyrinth content moved earlier (post-automation) for better progression
 - Prices and material costs may be outdated due to v1.0 recipe overhaul
 
 ---
@@ -331,4 +354,4 @@ For complete chapter breakdowns, detailed tables, automation blueprints, and com
 
 ---
 
-*Generated with Claude Code • Last Updated: October 24, 2025*
+*Generated with Claude Code • Last Updated: November 1, 2025*

@@ -1,0 +1,191 @@
+[h1]Part 4: Endgame Mastery[/h1]
+
+[h2]Chapter 14: Prismacore Stabilization Story Finale[/h2]
+
+[b]Primary Objective:[/b] Activate 5 Harmonizers, break Tarr barrier, deploy Nullifier to save Rainbow Island
+
+[hr][/hr]
+
+[h3]Understanding the Threat[/h3]
+
+[b]What is the Prismacore?[/b]
+An extraterrestrial object that crashed into Rainbow Island, source of all Prisma Disruption in the Grey Labyrinth.
+
+[b]The Escalating Crisis:[/b]
+[list]
+[*]Areas surrounding Prismacore are slowly turning to gold, structures failing and vanishing
+[*]If left unchecked: Dream Land falls, Labyrinth atmosphere collapses, Prismacore energy radiates across Far, Far Range
+[*]All life—including all slimes—will be lost
+[/list]
+
+[b]Your Mission:[/b] Stabilize the Prismacore permanently.
+
+[hr][/hr]
+
+[h3]Phase 1: Navigate to Prismacore[/h3]
+
+[b]Location:[/b] Heart of Grey Labyrinth (accessed through Impossible Sky)
+
+[b]Access Requirements:[/b]
+[list]
+[*]Must have opened plort statue doors (Twin, Shadow, Sloomber) to reach Prismacore entrance
+[*]Follow path from Impossible Sky toward gilded area
+[/list]
+
+[b]What to Bring:[/b]
+[list]
+[*]~90 Prisma Plorts (for Gigi trades)
+[*]Throwable items (for Harmonizer activation)
+[*]Full health/energy (Tarr barrier ahead)
+[/list]
+
+[hr][/hr]
+
+[h3]Phase 2: Trade with Gigi[/h3]
+
+[b]Location:[/b] Gigi's station inside Prismacore area
+
+[b]Milestone Trades (one-time rewards):[/b]
+[list]
+[*]20 Prisma Plorts → Nullifier blueprint
+[*]20 Prisma Plorts → Storage Cell
+[*]50 Prisma Plorts → Drone Station Module
+[*][b]Total for all milestones: 90 Prisma Plorts[/b]
+[/list]
+
+[b]Unlimited Trade:[/b]
+[list]
+[*]10 Prisma Plorts → 1 Rainbow Coin (repeatable)
+[*]Use this for Night Market purchases post-game
+[/list]
+
+[b]After Trading:[/b] Return to The Lab and craft the Nullifier
+
+[hr][/hr]
+
+[h3]Phase 3: Craft the Nullifier[/h3]
+
+[b]Recipe:[/b]
+[list]
+[*]1,000 Newbucks
+[*]20 Shadow Plorts
+[*]20 Hyper Plorts
+[*]20 Twin Plorts
+[*]20 Sloomber Plorts
+[/list]
+
+All plort types should be available from your Chapter 11-12 operations and Grey Labyrinth farming.
+
+[hr][/hr]
+
+[h3]Phase 4: Activate the 5 Harmonizers[/h3]
+
+[b]Location:[/b] Hidden throughout Grey Labyrinth zones
+
+[b]Activation:[/b] Shoot any item at each Harmonizer to activate it (fruits, vegetables, plorts, chickens—anything works)
+
+[b]Harmonizer Locations:[/b]
+Distributed across Grey Labyrinth zones. Explore each area systematically:
+[list]
+[*]Prismacore Surroundings - Check gilded areas near core
+[*]Dream Land zones (East, West, Central) - Look for elevated platforms and hidden alcoves
+[*]Impossible Sky zones - Explore vertical structures and floating platforms
+[*]The Mirage - Search desert-like areas with unstable terrain
+[*]Shifting Caverns - Check cave systems and tunnels
+[/list]
+
+[b]Search Strategy:[/b]
+[list]
+[*]Harmonizers emit a faint glow and distinctive sound when nearby
+[*]Use your map to track which zones you've thoroughly explored
+[*]Some require platforming or navigating around Stabilizers
+[/list]
+
+[b]Status Tracking:[/b] The game tracks how many Harmonizers you've activated. You must activate all 5 before you can stabilize the Prismacore.
+
+[hr][/hr]
+
+[h3]Phase 5: Prismacore Stabilization[/h3]
+
+[b]The Tarr Barrier:[/b]
+[list]
+[*]Giant Tarr barrier surrounds Prismacore's core
+[*]Cannot be crossed or destroyed with water
+[/list]
+
+[b]The Slime Shower:[/b]
+Large facility inside Prismacore designed to break the Tarr barrier. Requires slime sacrifice to activate.
+[list]
+[*][b]Two depositing ports:[/b] Choose either one (both work identically)
+[*][b]Requirement:[/b] Deposit 6 slimes total into a single port
+[*][b]Any slime type works:[/b] Pink, Rock, Phosphor, Largos—doesn't matter
+[*][b]Source options:[/b]
+  - Bring 6 slimes from your ranch (vacpack them up before entering)
+  - Catch 6 wild slimes in Grey Labyrinth zones
+  - Mix of both sources
+[/list]
+
+[b]Activation Process:[/b]
+[olist]
+[*]Approach either depositing port
+[*]Shoot 6 slimes into the port (they will be absorbed)
+[*]The Slime Shower activates automatically
+[*]The Tarr barrier dissolves, revealing path to Prismacore core
+[/olist]
+
+[b]Strategic Note:[/b] Using wild slimes from the Labyrinth is more efficient than bringing your valuable ranch largos. Pink slimes and common wild slimes work perfectly.
+
+[b]Nullifier Deployment:[/b]
+[list]
+[*]After Tarr barrier is broken, approach the Prismacore core
+[*]Deploy the Nullifier device
+[*][b]Cutscene:[/b] Rainbow Island stabilizes, Prisma Disruptions cease
+[/list]
+
+[hr][/hr]
+
+[h3]Phase 6: Story Resolution[/h3]
+
+[b]Gigi's Departure:[/b]
+[list]
+[*]After stabilization, Gigi leaves to reunite with her family, then returns to her own timeline
+[*]She will never be seen again after leaving
+[*]Most holographic pads become non-interactive
+[*]Prismacore holographic pad remains functional, showing recorded farewell message
+[/list]
+
+[b]World Changes:[/b]
+[list]
+[*][b]Prismacore stabilized:[/b] All readings normalized, Rainbow Island's future secured
+[*][b]Prisma disruption persists:[/b] Effects will last for a long time before fully recovering
+[*][b]Stabilizers remain necessary:[/b] Ancient Stabilizers in Labyrinth zones stay active
+[/list]
+
+[b]Post-Game Unlocks:[/b]
+[list]
+[*][b]Unlimited Rainbow Coin trading:[/b] 10 Prisma Plorts → 1 Rainbow Coin (repeatable forever)
+[*][b]Night Market access:[/b] Spend Rainbow Coins at ProntoMart for exclusive upgrades and decorations
+[*][b]Grey Labyrinth exploration:[/b] Remains fully accessible for resource farming
+[*][b]Prismatic decorations:[/b] New ranch customization options via Night Market
+[/list]
+
+[hr][/hr]
+
+[h3]End of Chapter Checklist[/h3]
+
+[list]
+[*]✅ Traded 90 Prisma Plorts to Gigi for milestones
+[*]✅ Crafted the Nullifier device
+[*]✅ Activated all 5 Harmonizers
+[*]✅ Deployed Slime Shower (6 slimes)
+[*]✅ Deployed Nullifier to stabilize Prismacore
+[*]✅ Main story complete
+[*]✅ Rainbow Coin trading unlocked
+[*]✅ Rainbow Island saved
+[/list]
+
+[hr][/hr]
+
+[h3]Next Chapter Preparation[/h3]
+
+The story is complete. The game is now yours. Chapter 15 (Post-Game Sandbox Empire) is about creative freedom and perfecting your automated empire.

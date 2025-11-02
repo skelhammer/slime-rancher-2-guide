@@ -1,0 +1,202 @@
+[h1]Part 1: The Foundation[/h1]
+
+[h2]Chapter 1: The Sprint to Mobility[/h2]
+
+[b]Primary Objective:[/b] Craft the Jetpack and unlock vertical exploration
+
+[b]Mindset:[/b] This is a 72-hour blitz with one non-negotiable goal: acquiring the Jetpack.
+
+[hr][/hr]
+
+[h3]Financial Checkpoint[/h3]
+
+[list]
+[*][b]Starting Budget:[/b] 0 Newbucks (fresh start)
+[*][b]Capital Required:[/b] ~2,535 NB total
+  - Ranch Setup: 1,185 NB (Plot 1 Corral + Plot 2 Garden + upgrades)
+  - Vacpack Upgrades: 1,350 NB (Resource Harvester, Heart Module, Jetpack)
+[*][b]Daily Revenue:[/b] 300-500 NB/day from Tabby-Cotton Largos
+[*][b]Timeline:[/b] 5-7 days to accumulate funds
+[/list]
+
+[hr][/hr]
+
+[h3]Phase 1: Initial Asset Collection[/h3]
+
+[b]Slimes Needed:[/b]
+[list]
+[*]6 Tabby Slimes (throughout Rainbow Fields)
+[*]6 Cotton Plorts (from wild Cotton Slimes in grassy areas)
+[/list]
+
+[b]Food Stockpile:[/b]
+[list]
+[*]20+ Water Lettuce (wild patches near water)
+[/list]
+
+[b]Collection Strategy:[/b]
+[olist]
+[*]Capture 6 Tabby Slimes first
+[*]Collect 6 Cotton Plorts from wild Cotton Slimes
+[*]Feed Cotton Plorts to Tabby Slimes → creates Tabby-Cotton Largos
+[*]Harvest Water Lettuce to stockpile for feeding
+[/olist]
+
+[hr][/hr]
+
+[h3]Phase 2: Plot-by-Plot Build[/h3]
+
+[b]Plot 1 - Tabby-Cotton Largos:[/b]
+[list]
+[*]Build Corral (250 NB)
+[*]Add High Walls (260 NB) - prevents jumping escapes
+[*]Add Air Net (425 NB) - prevents flying plorts
+[*][b]Total: 935 NB[/b]
+[*]Purpose: Primary revenue stream
+[*]Feed Water Lettuce (Cotton favorite) = 4 plorts per feeding
+[/list]
+
+[b]Plot 2 - Water Lettuce Garden:[/b]
+[list]
+[*]Build Garden (250 NB)
+[*]Plant Water Lettuce
+[*]No upgrades yet (save capital for Jetpack)
+[*]Will add Nutrient Soil + Sprinkler in Chapter 2
+[/list]
+
+[b]Plots 3-8:[/b]
+[list]
+[*]LEAVE EMPTY - Strategic hold
+[*]Conserve capital for Jetpack
+[/list]
+
+[b]Total Investment:[/b] 1,185 NB (plots + upgrades)
+
+[hr][/hr]
+
+[h3]Phase 3: Unlock Ember Valley[/h3]
+
+[b]Pink Gordo:[/b]
+[list]
+[*]Location: Rainbow Fields - Western area near slime statues
+[*]Feed 30 Any Food (omnivore, eats anything)
+[*]Reward: Geyser to Ember Valley portal switch + 12 Pink Slimes + 1 jar
+[/list]
+
+[b]Why Ember Valley?[/b]
+[list]
+[*]Radiant Ore spawns abundantly here (required for Jetpack)
+[*]Access to additional resources for future chapters
+[/list]
+
+[hr][/hr]
+
+[h3]Phase 4: Resource Gathering for Jetpack[/h3]
+
+[b]Night Hunt - Phosphor Slimes:[/b]
+[list]
+[*]Wait for nighttime in Rainbow Fields
+[*]Hunt Phosphor Slimes (spawn near central mountain/western areas)
+[*]Collect 10 Phosphor Plorts
+[*]DO NOT ranch them yet (requires Solar Shield = 425 NB)
+[*]Return before dawn (they burn in sunlight)
+[/list]
+
+[b]Ember Valley - Radiant Ore:[/b]
+[list]
+[*]Enter Ember Valley through portal (after popping Pink Gordo)
+[*]Harvest 10 Radiant Ore from glowing pink/magenta crystal nodes
+[*][b]CRITICAL:[/b] Must craft Resource Harvester first (450 NB + 10 Cotton Plorts)
+[/list]
+
+[hr][/hr]
+
+[h3]Phase 5: Vacpack Upgrades[/h3]
+
+[b]Crafting Order:[/b]
+[olist]
+[*][b]Resource Harvester[/b] (450 NB + 10 Cotton Plorts)
+  - Enables harvesting science resources from nodes
+  - [b]CRAFT FIRST[/b] - Required for Radiant Ore collection
+[*][b]Heart Module[/b] (450 NB + 10 Pink Plorts)
+  - Increases HP: 100 → 150
+  - Essential for Ember Valley survival
+[*][b]Jetpack[/b] (450 NB + 10 Phosphor Plorts + 10 Radiant Ore)
+  - Unlocks personal jetpack
+  - [b]PRIMARY GOAL[/b] - Enables vertical exploration
+[/olist]
+
+[b]Total Investment:[/b] 1,350 NB (upgrades)
+
+[hr][/hr]
+
+[h3]Phase 6: Core Mechanics Reference[/h3]
+
+[b]Creating Largos:[/b]
+[list]
+[*]Feed a slime a different plort type to convert it
+[*]Example: Tabby Slime + Cotton Plort = Tabby-Cotton Largo
+[*]Largos produce 2 plort types when fed
+[*]Largos fed favorite food = 4 plorts total (2 of each type)
+[/list]
+
+[b]Refinery vs Plort Market:[/b]
+[list]
+[*][b]Refinery[/b] (in Lab): Deposit plorts for crafting upgrades - [b]CANNOT withdraw[/b]
+[*][b]Plort Market:[/b] Sell plorts for Newbucks
+[/list]
+
+[b]Key Details:[/b]
+[list]
+[*]Optimal corral population: 6 Largos (8-10 regular slimes)
+[*]Water Lettuce is Cotton favorite (4 plorts per feeding)
+[/list]
+
+[hr][/hr]
+
+[h3]Strategic Priorities[/h3]
+
+[olist]
+[*][b]Revenue First:[/b] Establish Tabby-Cotton operation immediately (Day 1)
+[*][b]Pop Pink Gordo:[/b] Unlock Ember Valley for Radiant Ore
+[*][b]Night Hunt Phosphor:[/b] Collect 10 Phosphor Plorts at night
+[*][b]Craft Resource Harvester:[/b] CRITICAL - required before harvesting Radiant Ore
+[*][b]Harvest Radiant Ore:[/b] Collect 10 from Ember Valley
+[*][b]Deploy Capital to Jetpack:[/b] Don't expand plots - save for Jetpack
+[*][b]Corral Security:[/b] High Walls + Air Net prevent escapes
+[/olist]
+
+[hr][/hr]
+
+[h3]End of Chapter Checklist[/h3]
+
+[list]
+[*]✅ One corral with 6 Tabby-Cotton Largos (primary revenue stream)
+[*]✅ Pink Gordo popped, Ember Valley portal activated
+[*]✅ Resource Harvester crafted
+[*]✅ Heart Module crafted (150 HP)
+[*]✅ Jetpack crafted
+[*]✅ High Walls and Air Net installed on main corral
+[*]✅ Revenue: ~300-500 NB/day
+[/list]
+
+[hr][/hr]
+
+[h3]Next Chapter Preparation[/h3]
+
+Chapter 2 expands Conservatory to 4 plots, unlocks Starlight Strand, and crafts Tier I upgrades.
+
+[b]Financial Goal:[/b] Save 4,500+ NB for:
+[list]
+[*]Phosphor-Honey corral operation (2,110 NB)
+[*]Garden (1,550 NB)
+[*]Vacpack upgrades (900 NB)
+[/list]
+
+[b]Gordo Prep:[/b] Stockpile 30 vegetables (or 15 Water Lettuce) to pop Cotton Gordo → unlocks Starlight Strand
+
+[b]Asset Collection:[/b] Capture Phosphor + Honey Slimes from Starlight Strand for Phosphor-Honey Largos
+
+[hr][/hr]
+
+[b]This is a sprint chapter - every Newbuck goes toward the Jetpack. Once crafted, vertical exploration unlocks and the game opens dramatically.[/b]

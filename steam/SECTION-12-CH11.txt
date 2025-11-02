@@ -1,0 +1,116 @@
+[h1]Part 3: Automation & Empire[/h1]
+
+[h2]Chapter 11: The Archway Grey Labyrinth Operations[/h2]
+
+[b]Primary Objective:[/b] Integrate Grey Labyrinth slimes into automated ranch operations and establish highest-value plort production
+
+[hr][/hr]
+
+[h3]Financial Checkpoint[/h3]
+
+[list]
+[*][b]Starting Budget:[/b] 50,000-70,000+ NB from Chapter 10
+[*][b]Capital Required:[/b] ~12,645 NB
+  - Archway unlock: 2,800 NB
+  - Full build-out: 9,845 NB
+[*][b]Revenue Impact:[/b] ~8,500-12,000 NB/day (increased from ~8,500)
+[*][b]Daily Increase:[/b] +2,000-3,500 NB/day
+[*][b]ROI:[/b] ~4.6 days to break even
+[/list]
+
+[hr][/hr]
+
+[h3]Phase 1: The Archway Build (5 Plots)[/h3]
+
+[b]Plot 1 - Polaricherry Garden:[/b]
+[list]
+[*]Garden + Nutrient Soil + Sprinkler = 1,550 NB
+[*]Feeds Plot 2
+[*]Polaricherry from Grey Labyrinth (20 per harvest)
+[/list]
+
+[b]Plot 2 - Twin-Flutter Largos:[/b]
+[list]
+[*]Corral + High Walls + Auto-Feeder + Plort Collector = 2,010 NB
+[*]Feed Polaricherry (Twin favorite) = 4 plorts per feeding
+[*]Revenue: ~100-150 NB/feeding
+[*]Flutter calming aura, Twin portals grab distant food
+[/list]
+
+[b]Plot 3 - Candied Hen Coop:[/b]
+[list]
+[*]Coop + High Walls + Spring Grass + Vitamizer = 1,750 NB
+[*]Stock: 6-8 hens + 2 roostros
+[*]Feeds Plot 4
+[/list]
+
+[b]Plot 4 - Sloomber-Saber Largos:[/b]
+[list]
+[*]Corral + High Walls + Music Box + Auto-Feeder + Plort Collector = 2,360 NB
+[*]Feed Candied Hens (Sloomber favorite) = 4 plorts per feeding
+[*]Revenue: ~150-250 NB/feeding
+[*][b]HIGHEST VALUE COMBO IN GAME[/b]
+[*]Music Box CRITICAL - Sloomber clouds pacify Saber
+[/list]
+
+[b]Plot 5 - Silo:[/b]
+[list]
+[*]Silo + Tier 1 + Tier 2 + Tier 3 = 2,175 NB
+[*]Store Twin, Sloomber, Saber, Flutter plorts + food buffer
+[*]DO NOT put Grey Labyrinth plorts in Refinery yet (needed Ch 13-14)
+[/list]
+
+[b]Total Investment:[/b] 2,800 NB (unlock) + 9,845 NB (build) = 12,645 NB
+
+[hr][/hr]
+
+[h3]Phase 2: Key Notes[/h3]
+
+[b]Auto-Feeder Setup:[/b]
+[list]
+[*]Plot 2 (Twin-Flutter): Polaricherry
+[*]Plot 4 (Sloomber-Saber): Candied Hens
+[/list]
+
+[b]CRITICAL:[/b]
+[list]
+[*]Music Box on Sloomber-Saber corral is essential (Saber aggression + Sloomber sleep clouds)
+[*]Use Quantum Drones (from Chapter 9) to automate plort/food transport if desired
+[/list]
+
+[hr][/hr]
+
+[h3]Strategic Priorities[/h3]
+
+[olist]
+[*][b]Unlock The Archway:[/b] Purchase expansion (2,800 NB) from northwest corner of Conservatory
+[*][b]Deploy Twin-Flutter Largos:[/b] Establish high-value operation with premium Grey Labyrinth slimes
+[*][b]Deploy Sloomber-Saber Largos:[/b] HIGHEST-VALUE COMBO in game (150-250 NB per feeding)
+[*][b]Install Music Box:[/b] CRITICAL - Sloomber clouds pacify aggressive Saber behavior
+[*][b]Build Candied Hen Coop:[/b] Establish breeding program for Sloomber favorite food
+[*][b]Plant Polaricherry Garden:[/b] Grow Twin favorite food for maximum plort production
+[*][b]Stockpile Grey Labyrinth Plorts:[/b] Reserve Twin, Sloomber, Saber plorts in Silo for Chapters 13-14
+[/olist]
+
+[hr][/hr]
+
+[h3]End of Chapter Checklist[/h3]
+
+[list]
+[*]✅ The Archway expansion unlocked and operational
+[*]✅ Twin-Flutter Largos established in Plot 2
+[*]✅ Sloomber-Saber Largos established in Plot 4
+[*]✅ Auto-Feeders installed and stocked on both corrals
+[*]✅ Candied Hen breeding operation in Plot 3
+[*]✅ Polaricherry garden producing in Plot 1
+[*]✅ Silo storage for Grey Labyrinth plorts
+[*]✅ Grey Labyrinth elite slimes fully integrated into ranch automation
+[/list]
+
+[hr][/hr]
+
+[h3]Next Chapter Preparation[/h3]
+
+The Digsite expansion is OPTIONAL. If you've collected Dervish and Tangle slimes from weather events, Chapter 12 provides a home for them.
+
+[b]If you haven't collected weather slimes or don't care about them, skip Chapter 12 entirely and proceed to Chapter 13 (The Endgame Audit).[/b]

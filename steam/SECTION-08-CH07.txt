@@ -1,0 +1,141 @@
+[h1]Part 2: The Industrial Revolution[/h1]
+
+[h2]Chapter 7: Powderfall Bluffs Saber Acquisition[/h2]
+
+[b]Primary Objective:[/b] Capture Saber Slimes and establish resource pipeline for late-game upgrades
+
+[hr][/hr]
+
+[h3]Financial Checkpoint[/h3]
+
+[list]
+[*][b]Starting Budget:[/b] 35,000-45,000+ NB from Chapter 6
+[*][b]Capital Required:[/b] ~5,750-15,750 NB
+  - Extra Tank II: 3,000 NB
+  - Tank Guard III (optional): 10,000 NB
+  - Warp infrastructure: 2,750 NB
+[*][b]Daily Revenue:[/b] ~6,000-7,000 NB from all operations
+[*][b]Timeline:[/b] 2-3 days through all operations
+[/list]
+
+[hr][/hr]
+
+[h3]Phase 1: Accessing Powderfall Bluffs[/h3]
+
+[b]Entry Location:[/b] Hidden waterfall entrance in southwestern Ember Valley
+
+[b]How to Access:[/b]
+[olist]
+[*]Enter Ember Valley from Rainbow Fields
+[*]Travel to western volcanic region
+[*]Look for large waterfall near coastal area
+[*]Entrance is frozen cave BEHIND the waterfall
+[*]Requires Jetpack to navigate vertical ice walls
+[/olist]
+
+[b]Recommended Equipment:[/b] Heart Module III (250 HP), Power Core III (250 Energy), Jetpack II, Water Tank, Pulse Wave, Tank Guard II
+
+[hr][/hr]
+
+[h3]Phase 2: Saber Gordo & Asset Acquisition[/h3]
+
+[b]Saber Gordo:[/b]
+[list]
+[*]Location: Northern area, high mountain plateau
+[*]Feed 50 Meat (Thunderclucks count 2x)
+[*]Reward: Portal shortcut to southern Ember Valley + 12 Saber Slimes + 1 jar
+[/list]
+
+[b]Capture Strategy:[/b]
+[list]
+[*]10-12 Saber Slimes (pop Saber Gordo for 12 free)
+[*]20-30 Thunderclucks (including 2 Roostros for breeding)
+[*]Use Pulse Wave for crowd control - Sabers are aggressive and fast
+[*]Transport via Saber Gordo portal → Ember Valley → Rainbow Fields → Conservatory
+[/list]
+
+[hr][/hr]
+
+[h3]Phase 3: Critical Resource Extraction[/h3]
+
+[b]Priority Resources:[/b]
+[list]
+[*][b]Sun Sap[/b] (ULTRA-RARE) - From frozen trees (golden sap)
+  - CRITICAL bottleneck for endgame upgrades
+  - MARK ALL TREE LOCATIONS for weekly farming (5-7 day respawns)
+  - Target: 5-10 Sun Sap stockpiled
+[*][b]Perfect Snowflakes[/b] - Cliff faces (glimmering) - Target: 50+
+[*][b]Slime Fossils[/b] - Cave walls - Target: 30+
+[/list]
+
+[b]Priority Treasure Pod:[/b]
+[list]
+[*][b]Sun Sap x3[/b] - Top of cliff in forested area (Jetpack required)
+  - Provides 30% of total endgame requirements
+  - Collect immediately
+[/list]
+
+[hr][/hr]
+
+[h3]Phase 4: Upgrades & Warp Infrastructure[/h3]
+
+[b]Craft This Upgrade:[/b]
+[list]
+[*][b]Extra Tank II[/b] (3,000 NB + materials) - Adds 5th vac slot
+  - RECOMMENDED for Powderfall resource runs
+[/list]
+
+[b]Deploy Warp System:[/b]
+[list]
+[*][b]Refinery Link[/b] (250 NB) - Central valley plateau near Map Data Node
+[*][b]Powderfall Portal[/b] (2,000 NB) - One-way to Powderfall (place in Conservatory)
+[*][b]Blue Home Portal[/b] (500 NB) - One-way to Conservatory (place in central valley)
+[/list]
+
+[b]Strategic Rationale:[/b] Sun Sap is rarest crafting material with very slow respawns (5-7 days). Portal enables efficient weekly farming runs to check all marked tree locations.
+
+[hr][/hr]
+
+[h3]Strategic Priorities[/h3]
+
+[olist]
+[*][b]Map First:[/b] Activate Northern Mountain Summit Map Data Node immediately
+[*][b]Pop Saber Gordo:[/b] Unlock portal shortcut, receive 12 free Saber Slimes
+[*][b]Mark Sun Sap Trees:[/b] CRITICAL - every tree location must be marked for future weekly farming
+[*][b]Collect Thunderclucks:[/b] 20-30 Thunderclucks (including Roostros) for breeding program
+[*][b]Priority Treasure Pods:[/b] Sun Sap x3 treasure pod (30% of endgame requirements), Powderfall Portal
+[*][b]Deploy Warp Infrastructure:[/b] Portal system for efficient resource farming returns
+[*][b]Craft Extra Tank II:[/b] 5th vac slot essential for extended resource runs
+[/olist]
+
+[hr][/hr]
+
+[h3]End of Chapter Checklist[/h3]
+
+[list]
+[*]✅ Accessed Powderfall Bluffs via waterfall entrance
+[*]✅ Saber Gordo popped, portal shortcut activated
+[*]✅ Both Map Data Nodes activated
+[*]✅ 10-12 Saber Slimes captured
+[*]✅ 20-30 Thunderclucks collected (including Roostros)
+[*]✅ 50+ Perfect Snowflakes stockpiled
+[*]✅ 5-10 Sun Sap stockpiled (CRITICAL endgame resource)
+[*]✅ 30+ Slime Fossils stockpiled
+[*]✅ All Sun Sap tree locations marked for future farming
+[*]✅ Portal placed for quick return access
+[*]✅ Extra Tank II crafted (5th vac slot)
+[/list]
+
+[hr][/hr]
+
+[h3]Next Chapter Preparation[/h3]
+
+Chapter 8 unlocks The Den expansion and executes major ranch reorganization.
+
+[b]Financial Goal:[/b] Save 17,000+ NB for Den unlock (2,800 NB) + build-out (13,905 NB)
+
+[b]Asset Verification:[/b] 10-12 Saber Slimes + 20-30 Thunderclucks ready for deployment in Gully
+
+[b]Reorganization Scope:[/b] Relocates Boom-Batty to Den, creates two new nocturnal operations (Flutter-Phosphor, Batty-Ringtail), rebuilds Conservatory Plot 7 with Flutter-Honey, converts Gully Plot 5 to Saber-Hunter
+
+[b]Flutter Plorts:[/b] Continue accumulating in Refinery. Target: 300+ by Chapter 9

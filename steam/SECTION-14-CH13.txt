@@ -1,0 +1,138 @@
+[h1]Part 4: Endgame Mastery[/h1]
+
+[h2]Chapter 13: The Endgame Audit[/h2]
+
+[b]Primary Objective:[/b] Systematic completion of all prerequisites for the story finale
+
+[hr][/hr]
+
+[h3]The Operational Blueprint[/h3]
+
+This chapter is about opening all 25 Shadow Plort Doors and stockpiling resources needed for Prismacore stabilization.
+
+[hr][/hr]
+
+[h3]Phase 1: Shadow Plort Door Completion[/h3]
+
+[b]Objective:[/b] Open all 25 Shadow Plort Doors (1,165 Shadow Plorts total)
+
+[b]Shadow Plort Farming Strategy:[/b]
+[list]
+[*]Shadow Slimes spawn in groups of 2-5 in dark corners throughout Grey Labyrinth
+[*]Hit them with ANY thrown object (Pink Plorts, vegetables, anything)
+[*]They drop Shadow Plorts, then vanish
+[*]Respawn in same dark corner locations
+[*]Total needed: 1,185 Shadow Plorts (1,165 for doors + 20 for Nullifier)
+[*][b]CRITICAL:[/b] Store in SILOS, not Refinery (cannot use Refinery plorts for doors)
+[/list]
+
+[b]Door Cost Breakdown:[/b]
+[list]
+[*]Costs range from 25-100 Shadow Plorts per door
+[*]Total for all 25 doors: 1,165 Shadow Plorts
+[*]Priority Doors (open first): 25 & 50 plort doors for shortcuts and quality-of-life
+[/list]
+
+[hr][/hr]
+
+[h3]Phase 2: Prisma Plort Stockpiling[/h3]
+
+[b]Objective:[/b] Stockpile ~245 Prisma Plorts total
+
+[b]Prisma Plort Uses:[/b]
+[list]
+[*]90 for Gigi's milestone trades (Chapter 14)
+[*]155 for crafting upgrades (145 Vacpack + 10 Disruption Detector)
+[/list]
+
+[b]Prisma Plort Farming Strategy:[/b]
+[list]
+[*]During Prisma Disruptions, all food becomes "Unstable"
+[*]Feed Unstable food to any slimes → produces Unstable Plorts
+[*]Walk through Ancient Stabilizer → Unstable Plorts automatically convert to Prisma Plorts in inventory
+[*]Conversion rate: 1 Unstable → 1-2 Prisma Plorts (typically 2)
+[*][b]CRITICAL:[/b] Store in SILOS, not Refinery (cannot trade Refinery plorts to Gigi)
+[/list]
+
+[b]Optimal Farming Setup:[/b]
+[list]
+[*]Temporary Pink Slime operation near Ancient Stabilizer in Grey Labyrinth
+[*]Collect Unstable food during disruption
+[*]Feed Pink Slimes → Unstable Plorts
+[*]Walk through Ancient Stabilizer → conversion to Prisma Plorts
+[*]Deposit to portable Refinery Link or return to ranch
+[*]Avoid standing near ground cracks during disruptions (plasma/flame geysers)
+[/list]
+
+[hr][/hr]
+
+[h3]Phase 3: Final Vacpack Upgrades[/h3]
+
+[b]Required Endgame Upgrades:[/b]
+[list]
+[*][b]Heart Module IV[/b] (10,000 NB + materials)
+[*][b]Power Core V[/b] (15,000 NB + materials)
+[*][b]Tank Booster V[/b] (15,000 NB + materials)
+[*][b]Tank Booster VI[/b] (20,000 NB + materials)
+[*][b]Tank Booster VII[/b] (30,000 NB + materials)
+[*][b]Tank Booster VIII[/b] (50,000 NB + materials)
+[/list]
+
+[b]All required resources from:[/b]
+[list]
+[*]Grey Labyrinth resource nodes (Magma Comb, Tin Petal, Black Indigonium, Aqua Glass, Dream Bubble, Royal Jelly)
+[*]Chapter 11-12 slime operations (Twin, Sloomber, Hyper, Ringtail plorts)
+  - If you skipped Chapter 12: Farm wild Hyper slimes in Grey Labyrinth Terrarium for 70 Hyper Plorts
+  - Ringtail plorts available from Chapter 8's Batty-Ringtail largos if Chapter 12 skipped
+[*]Shadow Plort Door rewards (Storage Cells, Power Chips, Heart Cells)
+[/list]
+
+[hr][/hr]
+
+[h3]Phase 4: Craft Disruption Detector[/h3]
+
+[b]Blueprint:[/b] Obtained from Gigi in Impossible Sky area
+
+[b]Recipe:[/b] 500 NB + 10 Prisma Plorts + 5 Tin Petal + 5 Dream Bubble
+
+[b]Usage:[/b] Place in Grey Labyrinth to add map pins showing disruption status:
+[list]
+[*]White icon = No disruption
+[*]Yellow icon = Upcoming disruption
+[*]Red icon = Disruption ongoing
+[/list]
+
+This helps optimize Prisma Plort farming timing.
+
+[hr][/hr]
+
+[h3]Phase 5: Ranch Automation Verification[/h3]
+
+[b]Checklist:[/b]
+[list]
+[*]✅ All corrals have Auto-Feeders installed and stocked
+[*]✅ All corrals have Plort Collectors installed
+[*]✅ Quantum Drones (if installed) are functioning correctly
+[*]✅ Food gardens are producing and restocked
+[*]✅ Coops are producing chickens
+[*]✅ Ranch can operate autonomously while you're in Grey Labyrinth
+[/list]
+
+[hr][/hr]
+
+[h3]End of Chapter Checklist[/h3]
+
+[list]
+[*]✅ All 25 Shadow Plort Doors opened (1,165 Shadow Plorts spent)
+[*]✅ ~245 Prisma Plorts stockpiled in SILOS
+[*]✅ Heart Module IV, Power Core V, Tank Booster V-VIII crafted
+[*]✅ Disruption Detector crafted and placed
+[*]✅ Ranch automation verified as self-sufficient
+[*]✅ Ready for Prismacore finale
+[/list]
+
+[hr][/hr]
+
+[h3]Next Chapter Preparation[/h3]
+
+With all Shadow Plort Doors open and Prisma Plorts stockpiled, you're ready to enter the Prismacore and complete the main story.
