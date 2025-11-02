@@ -132,11 +132,11 @@
 
 [h2]Ranch Expansion Costs[/h2]
 
-[h3]Conservatory Plots[/h3]
+[h3]Plot Costs (All Locations)[/h3]
 [list]
-[*]Plot 1: 250 NB | Plot 2: 450 NB | Plot 3: 650 NB | Plot 4: 825 NB
-[*]Plot 5: 1,000 NB | Plot 6: 1,200 NB | Plot 7: 1,375 NB | Plot 8: 1,575 NB
-[*][b]Total for 8 plots: 7,325 NB[/b]
+[*]Corral: 250 NB | Garden: 250 NB | Coop: 250 NB
+[*]Silo: 450 NB | Pond: 450 NB | Incinerator: 450 NB
+[*]Conservatory has 8 plots available
 [/list]
 
 [h3]Ranch Expansions[/h3]
