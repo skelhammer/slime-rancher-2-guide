@@ -124,54 +124,31 @@ This chapter involves reorganizing existing ranch operations across multiple exp
 
 **Conservatory Reorganization:**
 
-**RELOCATION:**
+**RELOCATION:** Relocate Boom-Batty Largos from Plot 7 to The Den Plot 1
 
-1. **Plot 7-8:** Relocate Boom-Batty Largos to The Den Plot 1
+| **Plot** | **Type** | **Contents** | **Changes** | **Investment** | **Purpose/Notes** |
+|----------|----------|--------------|-------------|----------------|-------------------|
+| **1-2** | Corral + Garden | Tabby-Cotton Largos (6) + Water Lettuce | **UNCHANGED** | 0 NB | Established in Chapter 2. Continues producing Tabby + Cotton plorts |
+| **3-4** | Corral + Garden | Phosphor-Honey Largos (6) + Cuberries | **UNCHANGED** | 0 NB | Established in Chapter 2. Has Solar Shield. Produces Phosphor + Honey plorts |
+| **5-6** | Corral + Garden | Crystal-Rock Largos (6) + Heart Beets | **UNCHANGED** | 0 NB | Established in Chapter 3. Produces Crystal + Rock plorts |
+| **7** | Corral | Flutter-Honey Largos (6) | **NEW** - Replaces Boom-Batty | 0 NB | Deploy 6 Flutter Slimes + 6 Honey Plorts. Reuses existing Solar Shield. Feed Mint Mangos (Honey favorite). **DO NOT SELL Flutter Plorts** (need for Ch 9) |
+| **8** | Garden | Mint Mangos | **REPLANT** from Pomegranites | 50 NB | Feeds Plot 7 Flutter-Honey Largos (Honey favorite) |
 
-**Plot 1-2: Tabby-Cotton Largos + Water Lettuce - UNCHANGED**
-
-- Established in Chapter 2, no changes needed
-- Continues producing Tabby + Cotton plorts for upgrade series
-
-**Plot 3-4: Phosphor-Honey Largos + Cuberries - UNCHANGED**
-
-- Established in Chapter 2, has Solar Shield
-- Continues producing Phosphor + Honey plorts
-
-**Plot 5-6: Crystal-Rock Largos + Heart Beets - UNCHANGED**
-
-- Established in Chapter 3, no changes needed
-- Continues producing Crystal + Rock plorts
-
-**Plot 7 (Corral): Flutter-Honey Largos (NEW - replaces Boom-Batty)**
-
-- **Build Order:** Deploy 6 Flutter Slimes, feed 6 Honey Plorts to create Flutter-Honey Largos
-- **Investment:** 0 Newbucks (reuses existing corral with Solar Shield from Batty)
-- **Feed Strategy:** Mint Mangos from Plot 8 (Honey favorite)
-- **Note:** Solar Shield already installed from Boom-Batty, works for Flutter component
-- **CRITICAL:** DO NOT SELL Flutter Plorts (needed for Chapter 9 Quantum Drones)
-
-**Plot 8 (Garden): Mint Mango Production (replant from Pomegranites)**
-
-- **Investment:** 50 Newbucks (Mint Mango seeds)
+**Total Conservatory Investment:** 50 NB (Mint Mango seeds)
 
 **The Gully Reorganization:**
 
-**LIQUIDATION:**
+**LIQUIDATION:** Release Flutter-Tabby Largos from Plot 5 into Slime Sea
 
-1. **Plot 5:** Liquidate Flutter-Tabby Largos (release into Slime Sea)
+| **Plot** | **Type** | **Contents** | **Changes** | **Investment** | **Purpose/Notes** |
+|----------|----------|--------------|-------------|----------------|-------------------|
+| **1** | Coop | Thunderclucks (6-8) + 2 Roostros | **CONVERTED** from Stony Hens | 0 NB | Replace Stony Hens with Thunderclucks captured in Chapter 7 from Powderfall Bluffs. Feeds Saber-Hunter Largos (Saber favorite) |
+| **2** | Coop | Sea Hens (6-8) + 2 Roostros | **UNCHANGED** | 0 NB | Established in Chapter 4. Feeds Angler-Crystal Largos |
+| **3** | Silo | Food Storage | **UNCHANGED** | 0 NB | Established in Chapter 4. General storage |
+| **4** | Corral | Angler-Crystal Largos (6) | **UNCHANGED** | 0 NB | Established in Chapter 4. Feed Sea Hens. Produces Angler + Crystal plorts |
+| **5** | Corral | Saber-Hunter Largos (6) | **NEW** - Replaces Flutter-Tabby | 0 NB | Deploy Saber Slimes (from Ch 7) + 6 Hunter Plorts. Feed Thunderclucks (Saber favorite). Solar Shield not needed (can be removed/reused) |
 
-**Plot 1 (Coop): Thundercluck Breeding Facility (replace Stony Hens)**
-
-- **Investment:** 0 Newbucks (replace 6-8 Stony Hens with 6-8 Thunderclucks captured in Chapter 7 from Powderfall Bluffs wild coops + 2 Roostros)
-
-**Plots 2-4: Sea Hen Coop, Food Silo, Angler-Crystal Largos - UNCHANGED**
-
-**Plot 5 (Corral): Saber-Hunter Largos (NEW - replaces Flutter-Tabby)**
-
-- **Investment:** 0 Newbucks (reusing corral, remove Solar Shield if desired)
-- **Feed Strategy:** Thunderclucks from Plot 1 (Saber favorite)
-- **Note:** Solar Shield not needed for Saber-Hunter (can be removed and reused elsewhere)
+**Total Gully Investment:** 0 NB (reusing existing infrastructure)
 
 #### Phase 5: Key Notes
 
