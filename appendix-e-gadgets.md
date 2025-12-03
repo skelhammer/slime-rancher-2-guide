@@ -1,6 +1,41 @@
 # Appendix E: Craftable Gadgets & Warp Tech
 
-Quick reference guide for all craftable gadgets, utilities, and warp technology in Slime Rancher 2.
+Quick reference guide for all craftable gadgets, utilities, warp technology, and slime toys in Slime Rancher 2.
+
+## Slime Toys
+
+**Added in Patch 1.1.0 (Toys, Trimmings, and Tune-Ups):** Every slime type now has a favorite toy. Toys reduce slime agitation when placed in corrals. Favorite toys provide a 25% agitation reduction (vs. 12.5% for non-favorite toys). Some special toys cause "curious effects" beyond agitation reduction.
+
+Toys are purchased from **ProntoMart's Coo-Coo Corner**. One toy is guaranteed available for purchase daily.
+
+| **Toy Name** | **Favorite Slime** | **Notes** |
+| --- | --- | --- |
+| Big Rock | Rock | Rocky companion for rock-loving slimes |
+| Night Light | Phosphor | Provides comforting glow for nocturnal slimes |
+| Buzzy Bee | Honey | Bee-themed toy for honey producers |
+| Crystal Ball | Crystal | Mystical orb for crystal slimes |
+| Gyro Top | Dervish | Spinning top for cyclone slimes |
+| Sol Mate | Fire | Sun-shaped companion for fire slimes |
+| Charcoal Brick | Batty | Dark brick for cave-dwelling slimes |
+| Stego Buddy | Saber | Dinosaur friend for prehistoric slimes |
+| Rocket Ship | Hyper | High-speed toy for hyperactive slimes |
+| Stuffed Sheep | Cotton | Fluffy companion for cotton slimes |
+| Spinner Toy | Ringtail | Spinning entertainment for nocturnal thieves |
+| Happy Plush Bread Loaf | Sloomber | Cozy loaf for sleepy slimes |
+| Stuffed Chicken | Tabby/Hunter | Meat-shaped toy for carnivorous slimes |
+| Beach Ball | Pink | Classic toy for pink slimes |
+| Rubber Ducky | Puddle | Water-themed toy for puddle slimes |
+| Yarn Ball | Tabby | Classic cat toy |
+| Disco Ball | Phosphor | Alternative glowing toy |
+| Plush Carrot | Cotton | Veggie-shaped comfort toy |
+| Punching Bag | Boom | Explosion-safe entertainment |
+| Solar Ball | Flutter | Light-catching toy for flutter slimes |
+| Rubber Duckling | Angler | Aquatic toy for angler slimes |
+| Stress Ball | Boom | Alternative calming toy for explosive slimes |
+| Stuffed Slime | Twin | Plush companion for twin slimes |
+| Calming Cloud | Tangle | Soft cloud toy for tangle slimes |
+
+> **Note:** Toy-slime pairings may vary. Check ProntoMart's Coo-Coo Corner for current inventory and favorite toy information. Some toys may have special effects when used with specific slimes.
 
 ## Utilities
 
@@ -33,7 +68,8 @@ Quick reference guide for all craftable gadgets, utilities, and warp technology 
 | Easy Breezy Fan | 500 | 10 Dervish Plorts, 5 Rock Plorts, 3 Deep Brine | Creates a gentle gust of wind that pushes slimes and items. |
 | Round Bumper | 500 | 10 Pink Plorts, 10 Saber Plorts, 3 Primordy Oil | A bouncy bumper that sends slimes and other objects flying. |
 | Stunt Cannon | 1,000 | 20 Boom Plorts, 5 Fire Plorts, 3 Lava Dust | A cannon that can launch slimes (or the rancher) a long distance. |
-| Accelerator | 50  | 1 Ringtail Plort, 1 Deep Brine | A short-range speed booster, similar to a Dash Pad. |
+| Accelerator | 50  | 1 Ringtail Plort, 1 Deep Brine | A short-range speed booster, similar to a Dash Pad. Color variants available: Gold, Purple, Red, Pink, Grey, Green. |
+| Distributor | TBD | TBD | A new utility gadget for item distribution. **Warning:** Known issue - can break slime physics. |
 | Slimeball Goal | 5,000 | 25 Honey Plorts, 25 Flutter Plorts, 3 Silky Sand | A hoop for playing slimeball. |
 | Attention Flag | 50  | 5 Pink Plorts, 1 Jellystone | A placeable flag that creates a custom exclamation point marker on your world map. |
 | Cautious Flag | 50  | 5 Pink Plorts, 1 Slime Fossil | A placeable flag that creates a custom "X" marker on your world map. |
@@ -87,3 +123,57 @@ Quick reference guide for all craftable gadgets, utilities, and warp technology 
 | Pink Linked Cannon | 800 | 10 Batty Plorts, 3 Lightning Mote | Combining ancient warp technology and slime science allows the two sides of this linked cannon to efficiently transport items across distances. |
 | Red Linked Cannon | 800 | 10 Batty Plorts, 5 Magma Comb | Combining ancient warp technology and slime science allows the two sides of this linked cannon to efficiently transport items across distances. |
 | Violet Linked Cannon | 800 | 10 Hyper Plorts, 5 Magma Comb | Combining ancient warp technology and slime science allows the two sides of this linked cannon to efficiently transport items across distances. |
+
+## Decorative Gadgets
+
+**Added in Patch 1.1.0 (Toys, Trimmings, and Tune-Ups):** An expanded selection of decorative gadgets and variants for customizing the Conservatory and Rainbow Island.
+
+### Lighting
+
+| **Gadget Name** | **Description** |
+| --- | --- |
+| Labyrinth Wall Lamp | Grey Labyrinth-themed wall-mounted light |
+| Labyrinth Standing Lamp | Grey Labyrinth-themed floor lamp |
+| Purple Flower Lamp | Floral-themed purple light |
+| Orange Flower Lamp | Floral-themed orange light |
+| Pink Flower Lamp | Floral-themed pink light |
+| Prismatic Flower Lamp | Reward from Terrarium Shadow Plort Door (15 plorts) |
+
+### Plants & Foliage
+
+| **Gadget Name** | **Description** |
+| --- | --- |
+| Indigo Grass | Decorative purple-tinted grass |
+| Indigo Flowers | Decorative purple-tinted flowers |
+| Indigo Cypress | Single cypress tree with indigo coloring |
+| Indigo Cypress Cluster | Group of indigo cypress trees |
+| Tall Indigo Cypress | Large indigo cypress tree |
+| Indigo Shrubs | Decorative indigo-colored shrubs |
+
+### Slime Stages & Trees
+
+| **Gadget Name** | **Description** |
+| --- | --- |
+| Slime Stage | Base variant (see Utilities section) |
+| Purple Floral Slime Stage | Purple flower-decorated stage |
+| Yellow Floral Slime Stage | Yellow flower-decorated stage |
+| Blue Floral Slime Stage | Blue flower-decorated stage |
+| Prismatic #1 Slime Stage | Rainbow/prismatic themed stage |
+| Pastel #1 Slime Stage | Soft pastel-colored stage |
+| Monochromatic #1 Slime Stage | Single-color themed stage |
+| Purple Floral Slime Tree | Purple flower-decorated slime tree |
+| Coral Floral Slime Tree | Coral/pink flower-decorated slime tree |
+| Yellow Floral Slime Tree | Yellow flower-decorated slime tree |
+
+### Pillows & Décor
+
+| **Gadget Name** | **Description** |
+| --- | --- |
+| Large Purple Flower Pillow | Large decorative purple flower pillow |
+| Large Coral Flower Pillow | Large decorative coral/pink flower pillow |
+| Large Yellow Flower Pillow | Large decorative yellow flower pillow |
+| Small Purple Flower Pillow | Small decorative purple flower pillow |
+| Small Blue Flower Pillow | Small decorative blue flower pillow |
+| Small Yellow Flower Pillow | Small decorative yellow flower pillow |
+
+> **Note:** Crafting costs for decorative gadgets vary. Check the Fabricator for current recipes and material requirements.

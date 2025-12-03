@@ -74,7 +74,7 @@ Quick reference guide for all Vacpack upgrades in Slime Rancher 2.
 | Golden Sureshot | 1,500 | 20 Fire Plort, 1 Gold Plort, 10 Perfect Snowflake, 1 Sun Sap, 1 Golden Sureshot Module | Doubles the amount of gold plorts produced when hit |
 | Golden Sureshot II | 3,000 | 30 Saber Plort, 2 Gold Plort, 20 Perfect Snowflake, 2 Sun Sap, 1 Golden Sureshot Module | Triples the amount of gold plorts produced when hit |
 | Golden Sureshot III | 6,000 | 40 Saber Plort, 3 Gold Plort, 30 Perfect Snowflake, 3 Sun Sap, 1 Golden Sureshot Module | Quadruples the amount of gold plorts produced when hit |
-| Shadow Sureshot | 10,000 | 20 Sloomber Plort, 20 Twin Plort, 20 Hyper Plort, 1 Shadow Sureshot Module | Doubles the amount of shadow plorts produced when hit. NOTE: Patch 1.0.3 removed Strange Diamond requirement - recipe shown is updated but unverified. |
+| Shadow Sureshot | 10,000 | 20 Sloomber Plort, 20 Twin Plort, 20 Hyper Plort, 1 Shadow Sureshot Module | Doubles the amount of shadow plorts produced when hit. Recipe confirmed as of Patch 1.0.3. |
 
 ### Regeneration Upgrades
 

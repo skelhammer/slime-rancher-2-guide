@@ -86,6 +86,7 @@
 [*]Hit Shadow Slimes with thrown objects (Pink Plorts, vegetables, anything)
 [*]They drop Shadow Plorts, then vanish
 [*]Respawn in same dark corner locations
+[*][b](Patch 1.1.0) Shadow Pots:[/b] Break open pots throughout Grey Labyrinth to release Shadow Slimes - can pick up and move pots for strategic farming!
 [*]Total needed: 1,185 Shadow Plorts (1,165 for doors + 20 for Nullifier)
 [*][b]CRITICAL:[/b] Store in SILOS, not Refinery (cannot use Refinery plorts for doors)
 [/list]

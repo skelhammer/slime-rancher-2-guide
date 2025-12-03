@@ -2,6 +2,52 @@
 
 All notable changes to this Slime Rancher 2 guide will be documented in this file.
 
+## [0.3.1] - 2025-12-02 - Toys, Trimmings, and Tune-Ups Edition
+
+### Added
+- **Patch 1.1.0 Documentation**: Full coverage of the "Toys, Trimmings, and Tune-Ups" update
+- **Slime Toys Section** (appendix-e-gadgets.md): New section documenting all slime toys
+  - 13 new toys from patch: Big Rock, Night Light, Buzzy Bee, Crystal Ball, Gyro Top, Sol Mate, Charcoal Brick, Stego Buddy, Rocket Ship, Stuffed Sheep, Spinner Toy, Happy Plush Bread Loaf, Stuffed Chicken
+  - Every slime type now has a favorite toy with 25% agitation reduction
+  - Some toys have "curious effects" beyond agitation reduction
+- **Decorative Gadgets Section** (appendix-e-gadgets.md): New section for decorative items
+  - Lighting: Labyrinth Wall/Standing Lamps, Flower Lamps (Purple/Orange/Pink)
+  - Plants: Indigo Grass, Flowers, Cypress variants, Shrubs
+  - Slime Stages: Floral variants (Purple/Yellow/Blue), Prismatic/Pastel/Monochromatic variants
+  - Pillows: Large and Small Flower Pillows in various colors
+- **Shadow Pots** (appendix-a-slimes.md): New Shadow Slime spawn mechanic in Grey Labyrinth
+  - Break open to release Shadow Slimes
+  - Can be picked up and moved for strategic plort farming
+- **Distributor Gadget** (appendix-e-gadgets.md): New utility gadget (warning: can break slime physics)
+- **Accelerator Color Variants**: Gold, Purple, Red, Pink, Grey, Green variants added
+
+### Changed
+- **Explorer Drones** (appendix-f-drones.md):
+  - Can now target Odd Onions
+  - Nerfed to prevent excessive passive plort farming at max energy/resources
+- **Shadow Sureshot Recipe** (appendix-c-upgrades.md): Marked as confirmed (was previously unverified)
+- **Resource Locations** (appendix-b-items.md, steam files): Fixed incorrect locations
+  - Jellystone: Rainbow Fields (primary), not Ember Valley
+  - Deep Brine: Rainbow Fields (primary), not Ember Valley
+- **Strange Diamond** (appendix-b-items.md): Added rare spawn in Ember Valley caves
+- **Agitation System** (00-introduction.md): Updated toy section to reference Patch 1.1.0 changes
+
+### Fixed
+- Resource location errors in Steam guide sections (SECTION-17-APPENDICES.txt, STEAM-VERSION.md)
+
+### Files Modified
+- `00-introduction.md` - Updated version, patch disclaimer, and agitation section
+- `README.md` - Updated version references
+- `appendix-a-slimes.md` - Added Shadow Pots to Shadow Slime entry
+- `appendix-b-items.md` - Fixed Jellystone/Deep Brine locations, added Strange Diamond cave note
+- `appendix-c-upgrades.md` - Confirmed Shadow Sureshot recipe
+- `appendix-e-gadgets.md` - Added Slime Toys and Decorative Gadgets sections
+- `appendix-f-drones.md` - Added Explorer Drone changes section
+- `steam/SECTION-17-APPENDICES.txt` - Fixed resource locations
+- `steam/STEAM-VERSION.md` - Fixed resource locations
+
+---
+
 ## [0.3] - 2025-11-01 - Steam Edition
 
 ### Added

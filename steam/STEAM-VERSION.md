@@ -1,7 +1,7 @@
 # Slime Rancher 2: A Practical Walkthrough - Steam Guide
 
-**Version 0.3 - Steam Edition**
-**Last Updated: November 1, 2025**
+**Version 0.3.1 - Toys, Trimmings, and Tune-Ups Edition**
+**Last Updated: December 2, 2025**
 
 ---
 
@@ -260,8 +260,8 @@ More slimes does NOT mean more profit. It means chaos, overcrowding, and reduced
 - **Install Auto-Feeders before long trips** - Prevents agitation during exploration
 
 ### Resource Farming
-- **Jellystone** - Ember Valley caves, craft early upgrades
-- **Deep Brine** - Ember Valley pools, needed for all advanced upgrades
+- **Jellystone** - Rainbow Fields caves, craft early upgrades
+- **Deep Brine** - Rainbow Fields pools/geysers, needed for all advanced upgrades
 - **Radiant Ore** - Ember Valley glowing deposits
 - **Buzz Wax & Wild Honey** - Starlight Strand, critical for Tier III upgrades
 - **Sun Sap & Perfect Snowflakes** - Powderfall Bluffs, endgame materials
@@ -339,7 +339,8 @@ The complete GitHub guide includes detailed appendices with:
 This guide is built on three core principles: Ruthless Asset Progression, Capital Deployment, and Automation. Every strategy is designed to maximize profit, minimize manual labor, and transform your ranch into a self-sustaining empire.
 
 ### Version Notes
-- Verified against Slime Rancher 2 Version 1.0 (released September 23, 2025), updated for Patch 1.0.3
+- Verified against Slime Rancher 2 Version 1.0, updated for Patch 1.1.0 (Toys, Trimmings, and Tune-Ups)
+- **Patch 1.1.0:** Added slime toys for every slime type, Shadow Pots in Grey Labyrinth, new decorative gadgets, Explorer Drone updates
 - Major restructure: Chapters 10-15 reorganized for optimal gameplay flow
 - Grey Labyrinth content moved earlier (post-automation) for better progression
 - Prices and material costs may be outdated due to v1.0 recipe overhaul
@@ -354,4 +355,4 @@ For complete chapter breakdowns, detailed tables, automation blueprints, and com
 
 ---
 
-*Generated with Claude Code • Last Updated: November 1, 2025*
+*Generated with Claude Code • Last Updated: December 2, 2025*

@@ -60,8 +60,8 @@
 
 [h3]Common Resources (Tier I-II Upgrades)[/h3]
 [list]
-[*][b]Jellystone[/b]: Ember Valley caves
-[*][b]Deep Brine[/b]: Ember Valley pools
+[*][b]Jellystone[/b]: Rainbow Fields caves and rock formations
+[*][b]Deep Brine[/b]: Rainbow Fields pools and geysers
 [*][b]Radiant Ore[/b]: Ember Valley glowing deposits
 [/list]
 
@@ -83,10 +83,11 @@
 
 [h3]Special Resources[/h3]
 [list]
-[*][b]Strange Diamonds[/b]: Treasure pods (2 per Quantum Drone Station after Patch 1.0.3)
+[*][b]Strange Diamonds[/b]: Treasure pods, rarely in Ember Valley caves (2 per Quantum Drone Station)
 [*][b]Moondew Nectar[/b]: Starlight Strand glowing trees at night (Flutter/Twin favorite)
 [*][b]Thunderclucks[/b]: Powderfall Bluffs rare chickens (Saber favorite)
 [*][b]Prisma Plorts[/b]: Grey Labyrinth Prisma Disruption events (~265 total needed for story)
+[*][b]Shadow Pots[/b]: [b](Patch 1.1.0)[/b] Break open in Grey Labyrinth to release Shadow Slimes - can be moved for strategic farming!
 [/list]
 
 [hr][/hr]
@@ -173,6 +174,15 @@
 [*][b]Refinery Link[/b]: Resource sharing
 [/list]
 
+[h3]Slime Toys (Patch 1.1.0)[/h3]
+[list]
+[*]Every slime now has a favorite toy (25% agitation reduction)
+[*]Non-favorite toys: 12.5% reduction
+[*]Purchased from ProntoMart's Coo-Coo Corner (1 new toy available daily)
+[*]Some toys have special "curious effects" beyond agitation reduction
+[*][b]Notable toys:[/b] Big Rock (Rock), Buzzy Bee (Honey), Stego Buddy (Saber), Rocket Ship (Hyper), Stuffed Sheep (Cotton)
+[/list]
+
 [hr][/hr]
 
 [h2]Plort Market Values (Baseline)[/h2]
@@ -225,6 +235,6 @@ Hunter: 35-50 | Angler: 30-50 | Ringtail: 42-70 | Flutter: 20-50 | Saber: 42-70
 
 [hr][/hr]
 
-[b]Author:[/b] skelhammer | [b]Version:[/b] 0.3 - Steam Edition | [b]License:[/b] CC BY 4.0
+[b]Author:[/b] skelhammer | [b]Version:[/b] 0.3.1 - Toys, Trimmings, and Tune-Ups Edition | [b]License:[/b] CC BY 4.0
 
 [b]Deploy capital aggressively. Automate relentlessly. Dominate the market.[/b]

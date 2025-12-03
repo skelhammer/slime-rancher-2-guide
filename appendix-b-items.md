@@ -40,9 +40,9 @@ Quick reference guide for all food, resources, plorts, and upgrade components in
 
 | **Resource Name** | **Appearance** | **Best Farming Location(s)** |
 | --- | --- | --- |
-| Jellystone | Pink, crystalline rock nodes. | Ember Valley, The Digsite (occasionally spawns in The Den) |
-| Radiant Ore | Glowing pink and magenta crystal shards. | Ember Valley, Starlight Strand |
-| Deep Brine | Geysers of bubbling blue liquid from the ground. | Rainbow Fields (near water), Ember Valley (occasionally spawns in The Tidepools) |
+| Jellystone | Pink, crystalline rock nodes. | Rainbow Fields (primary), The Digsite (occasionally spawns in The Den) |
+| Radiant Ore | Glowing pink and magenta crystal shards. | Ember Valley (primary), Starlight Strand |
+| Deep Brine | Geysers of bubbling blue liquid from the ground. | Rainbow Fields (primary), The Tidepools |
 | Primordy Oil | Seeps of thick, black crude oil. | The Digsite, Ember Valley |
 | Silky Sand | Piles of fine, sparkling grey sand. | Starlight Strand (Coasts), The Tidepools |
 | Lava Dust | Small piles of glowing red embers near lava. | Ember Valley (Volcanic Areas) |
@@ -52,7 +52,7 @@ Quick reference guide for all food, resources, plorts, and upgrade components in
 | Perfect Snowflake | Glimmering, iridescent snowflakes on high cliffs. | Powderfall Bluffs (Peaks) |
 | Sun Sap | Golden, glowing sap dripping from crimson trees and palms. | Powderfall Bluffs (grows up to 3x daily during daylight) |
 | Lightning Mote | A crackling ball of electrical energy. | Powderfall Bluffs (during thunderstorms) |
-| Strange Diamond | A sharp, rainbow-colored crystal. | The Digsite (Caves) |
+| Strange Diamond | A sharp, rainbow-colored crystal. | The Digsite (Caves), rarely in Ember Valley caves |
 | Magma Comb | Hexagonal, glowing rock formations near lava. | The Grey Labyrinth (Lava Depths) |
 | Tin Petal | Metallic, flower-like nodes in mechanical areas. | The Grey Labyrinth |
 | Black Indigonium | Black metallic nodes (almost no light reflection). | The Grey Labyrinth (Impossible Sky) |

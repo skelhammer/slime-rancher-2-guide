@@ -2,6 +2,12 @@
 
 Complete locations for all Ghostly and Research Drones in Slime Rancher 2.
 
+## Explorer Drone Changes (Patch 1.1.0)
+
+**New Feature:** Odd Onions can now be selected as a target for Explorer Drones.
+
+**Balance Change:** Explorer Drones have been adjusted to no longer gather high rates of plorts over a short period of time when at max energy and max resources. This prevents excessive passive plort farming.
+
 ## Ghostly Drones
 
 | **Location Type** | **Specific Area** | **Quantity** | **Notes** |

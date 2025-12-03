@@ -1,14 +1,16 @@
 # Slime Rancher 2: A Practical Walkthrough
 
-#### Version 0.3 - Steam Edition
+#### Version 0.3.1 - Toys, Trimmings, and Tune-Ups Edition
 
-**Last Updated: November 1, 2025**
+**Last Updated: December 2, 2025**
 
 ### IMPORTANT DISCLAIMER
 
 This guide has been verified against the official Slime Rancher 2 Wiki and patch notes for Version 1.0 (released September 23, 2025). Prices and material costs are out of date, as version 1.0 overhauled all recipes without including them in the patch notes. Information will be updated as it's discovered.
 
-**Patch 1.0.3 Update (November 1, 2025):** Patch 1.0.3 introduced several balance changes. Confirmed updates include reduced Strange Diamond costs for Quantum Drone Stations. Additional changes from Patch 1.0.3 that are not yet verified in-game include: reduced Shadow Plort costs for doors/pods in Grey Labyrinth, Shadow Sureshot no longer requires Strange Diamonds (new recipe unknown), Shadow Slimes drop extra plorts when hit and lurk longer, Prisma Stabilizers may produce additional Prisma Plorts, unstable items can be held in tank longer, and common/uncommon resource nodes provide more resources. These unverified changes will be updated as they are confirmed during gameplay.
+**Patch 1.0.3 Update (November 1, 2025):** Patch 1.0.3 introduced several balance changes. Confirmed updates include reduced Strange Diamond costs for Quantum Drone Stations and Shadow Sureshot recipe (now 20 Sloomber/20 Twin/20 Hyper Plorts + Module). Additional changes from Patch 1.0.3 that are not yet verified in-game include: reduced Shadow Plort costs for doors/pods in Grey Labyrinth, Shadow Slimes drop extra plorts when hit and lurk longer, Prisma Stabilizers may produce additional Prisma Plorts, unstable items can be held in tank longer, and common/uncommon resource nodes provide more resources.
+
+**Patch 1.1.0 Update (December 2, 2025 - "Toys, Trimmings, and Tune-Ups"):** Major content update adding slime toys for every slime type, Shadow Pots in Grey Labyrinth, new decorative gadgets (lamps, plants, pillows, stages), and the Distributor gadget. Explorer Drones can now target Odd Onions but were nerfed to prevent excessive passive plort farming. See Appendix E for complete toy and gadget lists.
 
 # Introduction: The Rancher's Mindset
 
@@ -100,6 +102,7 @@ All slimes have a hidden agitation value that determines their behavior and happ
   - Can stack with a Music Box
   - Multiple toys don't stack with each other
   - One toy guaranteed available for purchase daily
+  - **Patch 1.1.0 Update:** Every slime type now has a favorite toy. Some special toys cause "curious effects" beyond agitation reduction. See [Appendix E](appendix-e-gadgets.md) for complete toy list.
 - **Auto-Feeders** (BEST SOLUTION):
   - Automatically dispense food on a timer
   - Keep slimes consistently fed and happy

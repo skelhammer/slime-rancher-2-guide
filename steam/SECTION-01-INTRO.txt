@@ -1,7 +1,7 @@
 [h1]Slime Rancher 2: A Practical Walkthrough[/h1]
 
-[b]Version 0.3 - Steam Edition[/b]
-[b]Last Updated:[/b] November 1, 2025
+[b]Version 0.3.1 - Toys, Trimmings, and Tune-Ups Edition[/b]
+[b]Last Updated:[/b] December 2, 2025
 
 [hr][/hr]
 
@@ -22,17 +22,23 @@ This is a condensed Steam version of a comprehensive walkthrough for Slime Ranch
 
 [h2]IMPORTANT DISCLAIMER[/h2]
 
-[b]Game Version:[/b] Verified against Slime Rancher 2 v1.0 (September 23, 2025) + Patch 1.0.3
+[b]Game Version:[/b] Verified against Slime Rancher 2 v1.0, updated for Patch 1.1.0 (December 2, 2025)
 
 [b]Known Issues:[/b] Prices and material costs are outdated due to v1.0 recipe overhaul without patch notes.
 
 [b]Patch 1.0.3 Changes (November 1, 2025):[/b]
 [list]
 [*]Quantum Drone Stations: Reduced Strange Diamond cost (confirmed: 2 per station)
+[*]Shadow Sureshot: Recipe confirmed (20 Sloomber/Twin/Hyper Plorts + Module)
 [*]Shadow Plort Doors: Reduced costs (unverified)
-[*]Shadow Sureshot: No longer requires Strange Diamonds (unverified new recipe)
-[*]Shadow Slimes: Drop extra plorts when hit, lurk longer (unverified)
-[*]Prisma Stabilizers: May produce more Prisma Plorts (unverified)
+[/list]
+
+[b]Patch 1.1.0 Changes (December 2, 2025 - "Toys, Trimmings, and Tune-Ups"):[/b]
+[list]
+[*][b]Slime Toys:[/b] Every slime type now has a favorite toy (25% agitation reduction)
+[*][b]Shadow Pots:[/b] New breakable pots in Grey Labyrinth release Shadow Slimes (can be moved for strategic farming)
+[*][b]New Gadgets:[/b] Distributor, decorative lamps, plants, pillows, and slime stage variants
+[*][b]Explorer Drones:[/b] Can now target Odd Onions; nerfed to prevent excessive passive plort farming
 [/list]
 
 [hr][/hr]
@@ -112,7 +118,7 @@ All slimes have hidden agitation value affecting behavior and productivity.
 [list]
 [*][b]Feeding[/b]: ONLY way to permanently reset agitation to zero
 [*][b]Music Box[/b] (350 NB): Halves agitation growth rate
-[*][b]Slime Toys[/b]: Reduce growth by 12.5% (25% for favorites)
+[*][b]Slime Toys[/b]: Reduce growth by 12.5% (25% for favorites). [b]Patch 1.1.0:[/b] Every slime now has a favorite toy!
 [*][b]Auto-Feeders[/b] (900 NB): BEST SOLUTION - auto-dispense food on timer
 [/list]
 

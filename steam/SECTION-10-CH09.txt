@@ -108,6 +108,7 @@ Ethereal, semi-transparent phantom drones that roam Rainbow Island. Interact wit
   - Generates "quantum" resources based on biome
   - Deposits into shared Quantum Cloud inventory (max 9,999 items)
   - Passive resource generation while away
+  - [b](Patch 1.1.0)[/b] Can now target Odd Onions; nerfed to prevent excessive plort farming
 [/list]
 
 [b]Battery System:[/b]
