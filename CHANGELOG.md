@@ -50,7 +50,7 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
   - `book.toml` — mdBook config (title, theme, repo integration, search tuning).
   - `SUMMARY.md` — book's master TOC; drives the sidebar and next/prev navigation.
   - `.github/workflows/pages.yml` — Actions workflow that installs mdBook, builds the book, and deploys to GitHub Pages. Uses `enablement: true` on configure-pages so Pages is auto-enabled on first run.
-  - `pagetoc.css` + `pagetoc.js` — in-page TOC (scans h2/h3 headings, scroll-syncs active heading). Inserted inline right after each page's h1 with `position: sticky` so it stays visible while scrolling on all viewport widths. Only suppressed on the three single-table appendices (H/I/J) which have no subheadings to list.
+  - `pagetoc.css` + `pagetoc.js` — in-page TOC (scans h2/h3 headings, scroll-syncs active heading). Hybrid layout: floating right-side panel on viewports wider than 1200px, inline sticky block in the content column on narrower viewports, static block on mobile. The DOM placement is the same in all three modes (right after the page's h1), so the CSS media queries swap between `position: fixed`, `position: sticky`, and `position: static` without layout jumps. Only suppressed on the three single-table appendices (H/I/J) which have no subheadings to list.
   - `.gitignore` — excludes `book/` build output.
   - `.github/workflows/linkcheck.yml` — excludes the `skelhammer.github.io` URL (until first deploy) and the `book/` build directory.
   - `.github/workflows/markdownlint.yml` — excludes `SUMMARY.md` and `book/`.
