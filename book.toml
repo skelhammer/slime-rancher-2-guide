@@ -19,6 +19,8 @@ edit-url-template = "https://github.com/skelhammer/slime-rancher-2-guide/edit/ma
 site-url = "/slime-rancher-2-guide/"
 no-section-label = false
 smart-punctuation = true
+additional-css = ["pagetoc.css"]
+additional-js = ["pagetoc.js"]
 
 [output.html.fold]
 enable = true
