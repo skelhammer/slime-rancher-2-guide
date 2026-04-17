@@ -42,7 +42,8 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 ### Fixed (post-release community corrections)
 - **Batty Gordo treasure pod contents** (`01-chapter-03.md:60`, `steam/SECTION-04-CH03.txt`): Corrected the Batty Gordo reward row. The jar contains slime science resources (not a Power Chip). The Power Core II BLUEPRINT is also awarded on pop.
 - **Power Chip location** (`01-chapter-03.md:172`, `steam/SECTION-04-CH03.txt`): Fixed the Tier II Upgrade Components list. Power Chip is a component found in a Rainbow Fields treasure pod (cave near the Starlight Strand portal, among glowing mushrooms), not in the Batty Gordo treasure pod. The guide previously confused the Power Core II blueprint (Batty Gordo) with the Power Chip component (Rainbow Fields pod). Clarifying note added.
-- **`steam/SECTION-17-APPENDICES.txt` footer version**: Was stuck at `0.3.1 - Toys, Trimmings, and Tune-Ups Edition` from the v0.3.1 update; refreshed to match the current 0.4 version. Added file to the `version-sync.yml` allowlist and CLAUDE.md's mirror-file list.
+- **`steam/SECTION-17-APPENDICES.txt` footer version**: Was stuck at `0.3.1 - Toys, Trimmings, and Tune-Ups Edition` from the v0.3.1 update; refreshed to match the current 0.4 version. Added file to the `version-sync.yml` allowlist and CLAUDE.md's mirror-file list. (This footer later moved to SECTION-18-APPENDICES-2.txt when SECTION-17 was split; see next bullet.)
+- **Steam SECTION-17 character-limit overflow**: Appendices section (10,386 bytes) exceeded Steam's per-section ~8 KB cap, causing the Gadget Bundles list to truncate mid-sentence on the published guide. Split into two Steam sections: `steam/SECTION-17-APPENDICES.txt` (Part 1 of 2 — Combinations, Upgrade Path, Resource Farming, Gordo Unlocks, Ranch Expansion Costs; 5.9 KB) and new `steam/SECTION-18-APPENDICES-2.txt` (Part 2 of 2 — Automation Equipment, Plort Market Values, Revenue Progression, full-guide link, version footer; 4.9 KB). Updated `steam/README.md` to list 18 sections, version-sync allowlist, and CLAUDE.md mirror-file references.
 
 ### Changed
 - **Distributor entry** (appendix-e-gadgets.md): Updated to reflect Patch 1.2 nerf - can no longer duplicate objects or break their physics.
@@ -74,9 +75,11 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 - `steam/SECTION-09-CH08.txt` - Pairing Rationale + Meat-Minimization Strategy sections
 - `steam/SECTION-11-CH10.txt` - Sanctuary callout
 - `steam/SECTION-16-CH15.txt` - Radiant / Sprinkles callouts
-- `steam/SECTION-17-APPENDICES.txt` - Resource Detector, Radiant Slimes, Sanctuary, Plot Upgrades, Gadget Bundles sections; version footer refresh
+- `steam/SECTION-17-APPENDICES.txt` - Resource Detector, Radiant Slimes, Sanctuary, Plot Upgrades, Gadget Bundles sections; split into Part 1 of 2 (Combinations through Expansion Costs) to fit Steam's ~8 KB per-section limit
+- `steam/SECTION-18-APPENDICES-2.txt` - NEW. Part 2 of 2 of the appendices split — Automation Equipment, Plort Market, Revenue Progression, full-guide link, version footer
+- `steam/README.md` - Updated to list 18 sections and document the SECTION-17/18 split
 - `steam/STEAM-VERSION.md` - Version bump + Patch 1.2 line
-- `.github/workflows/version-sync.yml` - Added SECTION-17-APPENDICES.txt to allowlist
+- `.github/workflows/version-sync.yml` - Swapped SECTION-17-APPENDICES.txt for SECTION-18-APPENDICES-2.txt in the allowlist (footer version moved with the split)
 
 ### Created
 - `.github/workflows/linkcheck.yml`
