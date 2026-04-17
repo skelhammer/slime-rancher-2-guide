@@ -1,6 +1,7 @@
 // Per-page table of contents for mdBook.
-// Scans the current page's h2/h3 headings, injects a floating right-side TOC,
-// and highlights the heading closest to the top of the viewport as you scroll.
+// Scans the current page's h2/h3 headings, injects an "On this page" panel
+// right after the page's h1 (or at the top if no h1), and highlights the
+// heading closest to the top of the viewport as the reader scrolls.
 // Styles live in pagetoc.css.
 
 (function () {
@@ -16,7 +17,8 @@
 
         const headings = Array.from(content.querySelectorAll('h2, h3'));
 
-        // No point rendering a TOC on sparse pages (e.g. short appendices).
+        // No point rendering a TOC when there's nothing to index.
+        // (3 appendices in this book are single-table pages with no h2/h3.)
         if (headings.length < 2) return;
 
         // mdBook usually adds ids to headings, but fall back to a slug if missing.
@@ -46,7 +48,14 @@
         });
         toc.appendChild(ul);
 
-        document.body.appendChild(toc);
+        // Place the TOC right after the page's h1, or at the top of main if
+        // there's no h1 (rare — mdBook usually generates one).
+        const h1 = content.querySelector('h1');
+        if (h1 && h1.parentNode) {
+            h1.parentNode.insertBefore(toc, h1.nextSibling);
+        } else {
+            content.insertBefore(toc, content.firstChild);
+        }
 
         const links = Array.from(toc.querySelectorAll('a'));
 
