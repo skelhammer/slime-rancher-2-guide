@@ -1,8 +1,8 @@
 # Slime Rancher 2: A Practical Walkthrough
 
-#### Version 0.3.1 - Toys, Trimmings, and Tune-Ups Edition
+#### Version 0.3.2 - Shadow Sanitation Edition
 
-**Last Updated: December 2, 2025**
+**Last Updated: April 16, 2026**
 
 ### IMPORTANT DISCLAIMER
 
@@ -11,6 +11,8 @@ This guide has been verified against the official Slime Rancher 2 Wiki and patch
 **Patch 1.0.3 Update (November 1, 2025):** Patch 1.0.3 introduced several balance changes. Confirmed updates include reduced Strange Diamond costs for Quantum Drone Stations and Shadow Sureshot recipe (now 20 Sloomber/20 Twin/20 Hyper Plorts + Module). Additional changes from Patch 1.0.3 that are not yet verified in-game include: reduced Shadow Plort costs for doors/pods in Grey Labyrinth, Shadow Slimes drop extra plorts when hit and lurk longer, Prisma Stabilizers may produce additional Prisma Plorts, unstable items can be held in tank longer, and common/uncommon resource nodes provide more resources.
 
 **Patch 1.1.0 Update (December 2, 2025 - "Toys, Trimmings, and Tune-Ups"):** Major content update adding slime toys for every slime type, Shadow Pots in Grey Labyrinth, new decorative gadgets (lamps, plants, pillows, stages), and the Distributor gadget. Explorer Drones can now target Odd Onions but were nerfed to prevent excessive passive plort farming. See Appendix E for complete toy and gadget lists.
+
+**Patch 1.1.1 Update (January 22, 2026):** Bug-fix and balance patch following 1.1.0. Memory optimizations to address game crashes. Shadow Slimes now despawn once they've produced their maximum number of Shadow Plorts (preventing infinite farming on a single spawn). Shadow Pots now contain fewer Shadow Slimes per pot - plan for more pots, fewer plorts per break.
 
 # Introduction: The Rancher's Mindset
 

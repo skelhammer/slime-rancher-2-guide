@@ -2,6 +2,32 @@
 
 All notable changes to this Slime Rancher 2 guide will be documented in this file.
 
+## [0.3.2] - 2026-01-22 - Shadow Sanitation Edition
+
+### Added
+- **Patch 1.1.1 Documentation**: Coverage of the January 22, 2026 bug-fix and balance patch
+  - Memory optimizations addressing game crashes
+  - Shadow Slimes now despawn once they've produced their max plort count (no more infinite farming on a single spawn)
+  - Shadow Pots now contain fewer Shadow Slimes per pot (anti-overcrowding fix)
+
+### Changed
+- **Shadow Slime entry** (appendix-a-slimes.md): Added Patch 1.1.1 despawn cap and reduced Shadow Pot capacity notes
+- **Steam Chapter 10** (steam/SECTION-11-CH10.txt): Added Patch 1.1.1 callout under Shadow farming strategy
+- **Steam Appendices** (steam/SECTION-17-APPENDICES.txt): Updated Shadow Pots line with 1.1.1 changes
+- **Steam Intro** (steam/SECTION-01-INTRO.txt): Added Patch 1.1.1 changes block; bumped version/date
+- **Steam Version Notes** (steam/STEAM-VERSION.md): Bumped version/date and added 1.1.1 line
+
+### Files Modified
+- `00-introduction.md` - Bumped to v0.3.2, added Patch 1.1.1 disclaimer block
+- `README.md` - Updated version/date headers
+- `appendix-a-slimes.md` - Added Patch 1.1.1 notes to Shadow Slime entry
+- `steam/SECTION-01-INTRO.txt` - Version bump + 1.1.1 patch block
+- `steam/SECTION-11-CH10.txt` - Added 1.1.1 Shadow farming callout
+- `steam/SECTION-17-APPENDICES.txt` - Updated Shadow Pots line
+- `steam/STEAM-VERSION.md` - Version bump + 1.1.1 line
+
+---
+
 ## [0.3.1] - 2025-12-02 - Toys, Trimmings, and Tune-Ups Edition
 
 ### Added

@@ -84,7 +84,7 @@ Quick reference guide for all food, resources, plorts, and upgrade components in
 | Puddle Plort | Puddle | ~30−50 |
 | Shadow Plort | Shadow | Special |
 | Twin Plort | Twin | Special |
-| Sloomber Plor | Sloomber | Special |
+| Sloomber Plort | Sloomber | Special |
 | Hyper Plort | Hyper | Special |
 | Prisma Plort | Prisma | Special |
 | Dervish Plort | Dervish | Special |

@@ -87,7 +87,7 @@
 [*][b]Moondew Nectar[/b]: Starlight Strand glowing trees at night (Flutter/Twin favorite)
 [*][b]Thunderclucks[/b]: Powderfall Bluffs rare chickens (Saber favorite)
 [*][b]Prisma Plorts[/b]: Grey Labyrinth Prisma Disruption events (~265 total needed for story)
-[*][b]Shadow Pots[/b]: [b](Patch 1.1.0)[/b] Break open in Grey Labyrinth to release Shadow Slimes - can be moved for strategic farming!
+[*][b]Shadow Pots[/b]: [b](Patch 1.1.0)[/b] Break open in Grey Labyrinth to release Shadow Slimes - can be moved for strategic farming! [b](Patch 1.1.1)[/b] Pots now contain fewer slimes; Shadow Slimes despawn once max plorts produced.
 [/list]
 
 [hr][/hr]

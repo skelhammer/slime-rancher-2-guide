@@ -1,7 +1,7 @@
 # Slime Rancher 2: A Practical Walkthrough - Steam Guide
 
-**Version 0.3.1 - Toys, Trimmings, and Tune-Ups Edition**
-**Last Updated: December 2, 2025**
+**Version 0.3.2 - Shadow Sanitation Edition**
+**Last Updated: January 22, 2026**
 
 ---
 
@@ -339,8 +339,9 @@ The complete GitHub guide includes detailed appendices with:
 This guide is built on three core principles: Ruthless Asset Progression, Capital Deployment, and Automation. Every strategy is designed to maximize profit, minimize manual labor, and transform your ranch into a self-sustaining empire.
 
 ### Version Notes
-- Verified against Slime Rancher 2 Version 1.0, updated for Patch 1.1.0 (Toys, Trimmings, and Tune-Ups)
+- Verified against Slime Rancher 2 Version 1.0, updated for Patch 1.1.1 (January 22, 2026)
 - **Patch 1.1.0:** Added slime toys for every slime type, Shadow Pots in Grey Labyrinth, new decorative gadgets, Explorer Drone updates
+- **Patch 1.1.1:** Memory/crash fixes; Shadow Slimes despawn after max plort production; Shadow Pots contain fewer slimes per pot
 - Major restructure: Chapters 10-15 reorganized for optimal gameplay flow
 - Grey Labyrinth content moved earlier (post-automation) for better progression
 - Prices and material costs may be outdated due to v1.0 recipe overhaul

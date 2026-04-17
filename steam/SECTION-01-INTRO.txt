@@ -1,7 +1,7 @@
 [h1]Slime Rancher 2: A Practical Walkthrough[/h1]
 
-[b]Version 0.3.1 - Toys, Trimmings, and Tune-Ups Edition[/b]
-[b]Last Updated:[/b] December 2, 2025
+[b]Version 0.3.2 - Shadow Sanitation Edition[/b]
+[b]Last Updated:[/b] January 22, 2026
 
 [hr][/hr]
 
@@ -22,7 +22,7 @@ This is a condensed Steam version of a comprehensive walkthrough for Slime Ranch
 
 [h2]IMPORTANT DISCLAIMER[/h2]
 
-[b]Game Version:[/b] Verified against Slime Rancher 2 v1.0, updated for Patch 1.1.0 (December 2, 2025)
+[b]Game Version:[/b] Verified against Slime Rancher 2 v1.0, updated for Patch 1.1.1 (January 22, 2026)
 
 [b]Known Issues:[/b] Prices and material costs are outdated due to v1.0 recipe overhaul without patch notes.
 
@@ -39,6 +39,13 @@ This is a condensed Steam version of a comprehensive walkthrough for Slime Ranch
 [*][b]Shadow Pots:[/b] New breakable pots in Grey Labyrinth release Shadow Slimes (can be moved for strategic farming)
 [*][b]New Gadgets:[/b] Distributor, decorative lamps, plants, pillows, and slime stage variants
 [*][b]Explorer Drones:[/b] Can now target Odd Onions; nerfed to prevent excessive passive plort farming
+[/list]
+
+[b]Patch 1.1.1 Changes (January 22, 2026):[/b]
+[list]
+[*][b]Memory Optimizations:[/b] Crash fixes
+[*][b]Shadow Slimes:[/b] Now despawn after producing their max plort count (no more infinite farming on a single spawn)
+[*][b]Shadow Pots:[/b] Contain fewer Shadow Slimes per pot (anti-overcrowding)
 [/list]
 
 [hr][/hr]
