@@ -2,6 +2,26 @@
 
 Quick reference guide for all craftable gadgets, utilities, warp technology, and slime toys in Slime Rancher 2.
 
+**Contents:**
+
+- [Slime Toys](#slime-toys)
+- [Utilities](#utilities)
+- [Warp Tech](#warp-tech)
+- [Decorative Gadgets](#decorative-gadgets)
+  - [Lighting](#lighting)
+  - [Plants & Foliage](#plants--foliage)
+  - [Slime Stages & Trees](#slime-stages--trees)
+  - [Pillows & Décor](#pillows--décor)
+- [Patch 1.2 Gadgets (Radiant Slime Sanctuary)](#patch-12-gadgets-radiant-slime-sanctuary)
+  - [Furniture](#furniture)
+  - [Themed Platforms](#themed-platforms)
+  - [Lava Lamps](#lava-lamps)
+  - [Statues](#statues)
+  - [Sanctuary Portals](#sanctuary-portals)
+- [Gadget Bundles (Patch 1.2)](#gadget-bundles-patch-12)
+
+---
+
 ## Slime Toys
 
 **Added in Patch 1.1.0 (Toys, Trimmings, and Tune-Ups):** Every slime type now has a favorite toy. Toys reduce slime agitation when placed in corrals. Favorite toys provide a 25% agitation reduction (vs. 12.5% for non-favorite toys). Some special toys cause "curious effects" beyond agitation reduction.

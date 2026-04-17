@@ -27,8 +27,9 @@ When the user requests changes to the guide, follow this workflow:
 - **Chapter content**: Edit specific chapter file (e.g., `01-chapter-01.md`, `03-chapter-09.md`)
 - **Core mechanics**: Edit `00-introduction.md`
 - **Reference tables**: Edit appropriate appendix (`appendix-a-slimes.md`, `appendix-b-items.md`, etc.)
-- **Ranch progression**: Edit `appendix-l-plot-overview.md`
+- **Ranch progression**: Edit `appendix-l-plot-overview.md` (treat changes here as main guide content — version + CHANGELOG update required)
 - **Navigation/meta**: Edit `README.md`
+- **New chapter / new CHANGELOG entry**: start from `.templates/chapter-template.md` or `.templates/changelog-entry-template.md`
 
 #### Step 2: Make Content Edits
 - Follow the [Writing Style](#writing-style) guidelines below
@@ -69,10 +70,13 @@ When the user requests changes to the guide, follow this workflow:
 - Corrected markdown link in Chapter 7 to appendix-a-slimes.md
 ```
 
-#### Step 5: Update README.md (if version changed)
-If you updated the version in Step 3, also update:
-- The version header at the top of README.md
-- The "Version Information" section near the bottom of README.md
+#### Step 5: Update the mirror files (if version changed)
+If you updated the version in Step 3, also update the header in each of the sanctioned mirror files so they stay in sync with `00-introduction.md`:
+- `README.md` — version header at the top (only spot; bottom Version Information section is version-free)
+- `steam/STEAM-VERSION.md` — version header at the top
+- `steam/SECTION-01-INTRO.txt` — version header at the top (BBCode)
+
+The `version-sync.yml` CI job will fail if any file outside this list (plus `CHANGELOG.md`) hardcodes a `Version 0.X` string.
 
 ### Quality Checks
 
@@ -156,33 +160,20 @@ Key formatting standards:
 
 ## Version Information
 
-The version header is located **only** in `00-introduction.md` at the top of the file:
-- Current Version: 0.3.1 - Toys, Trimmings, and Tune-Ups Edition
-- Last Updated: December 2, 2025
-- Verified against Slime Rancher 2 Version 1.0, updated for Patch 1.1.0
-- Contains disclaimer about outdated prices/material costs due to recipe overhaul in v1.0
+The current version, last-updated date, and verification status live **exclusively** in `00-introduction.md`. Do NOT duplicate them here or in individual chapter/appendix files. The `README.md` version header and `steam/STEAM-VERSION.md` / `steam/SECTION-01-INTRO.txt` headers are mirrors that must be kept in sync with `00-introduction.md` — everything else should be version-free.
+
+A CI job (`.github/workflows/version-sync.yml`) enforces this by failing on any hardcoded `Version 0.X` string outside the sanctioned mirror files.
 
 **Version Numbering Scheme:**
 - Increment version number for each update (0.1 → 0.2 → 0.3, etc.)
 - Give each version a fun, descriptive name based on what changed
 - Examples: "The Price is Right Edition" (price fixes), "Largo Optimization Edition" (new combos), "Spring Cleaning Edition" (reorganization)
 
-### Version Update Process
-
-**IMPORTANT:** When making ANY changes to the guide:
-
-1. Edit the appropriate chapter file (`01-chapter-01.md`, `03-chapter-09.md`, `appendix-a-slimes.md`, `appendix-l-plot-overview.md`, etc.)
-2. Update **ONLY** `00-introduction.md` with:
-   - Incremented version number (e.g., 0.1 → 0.2)
-   - Current date in "Last Updated" field
-   - Fun, descriptive version name reflecting the change
-3. Do NOT update version info in individual chapter files - it only lives in `00-introduction.md`
-
-**Version Header Format:**
+**Version Header Format (for `00-introduction.md`):**
 ```markdown
 #### Version 0.XX - Descriptive Name Edition
 
 **Last Updated: Month Day, Year**
 ```
 
-**Note:** When updating `appendix-l-plot-overview.md`, also update the version in `00-introduction.md` as this file is part of the main guide content.
+For the step-by-step version update workflow, see **Step 3** and **Step 5** of the Making Changes Workflow above.

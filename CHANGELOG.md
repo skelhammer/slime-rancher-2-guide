@@ -2,6 +2,19 @@
 
 All notable changes to this Slime Rancher 2 guide will be documented in this file.
 
+**Version History:**
+
+- [0.4 - Radiant Sanctuary Edition (2026-04-16)](#04---2026-04-16---radiant-sanctuary-edition)
+- [0.3.2 - Shadow Sanitation Edition (2026-01-22)](#032---2026-01-22---shadow-sanitation-edition)
+- [0.3.1 - Toys, Trimmings, and Tune-Ups Edition (2025-12-02)](#031---2025-12-02---toys-trimmings-and-tune-ups-edition)
+- [0.3 - Steam Edition (2025-11-01)](#03---2025-11-01---steam-edition)
+- [0.2.0 - Major Restructure Edition (2025-11-01)](#020---2025-11-01---major-restructure-edition)
+- [0.1.2 - Wiki Integration Edition (2025-11-01)](#012---2025-11-01---wiki-integration-edition)
+- [0.1.1 - Patch 1.0.3 Update (2025-11-01)](#011---2025-11-01---patch-103-update)
+- [0.1 - Initial Release (2025-10-24)](#01---2025-10-24---initial-release)
+
+---
+
 ## [0.4] - 2026-04-16 - Radiant Sanctuary Edition
 
 ### Added
@@ -14,20 +27,52 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
   - **Resource Detector toy** (appendix-e-gadgets.md): New toy for the rancher - tracks direction of nearby science/crafting resources.
   - **~30 new decorative gadgets** (appendix-e-gadgets.md): New "Patch 1.2 Gadgets" section covering Comfy Couches, Scientist's Chair/Desk, Half-Circle/Round/Step platforms (Grass/Ice/Magma/Moss/Stone), Lava Lamps in 6 colors, Golden Honey/Saber Statues, and Sanctuary Portals.
   - **Gadget Bundles** (appendix-e-gadgets.md): New section covering 22 themed multi-item bundles in Coo-Coo Corner.
+- **Repository Housekeeping** (post-release, 2026-04-16): Infrastructure and metadata pass folded into the same 0.4 edition to avoid version-number sprawl.
+  - **GitHub Actions CI** (`.github/workflows/`):
+    - `linkcheck.yml` — lychee scan of all markdown links on every push/PR.
+    - `markdownlint.yml` — formatting enforcement via `.markdownlint.json`.
+    - `version-sync.yml` — greps for `Version 0.X` strings outside sanctioned mirror files (`00-introduction.md`, `README.md`, `CHANGELOG.md`, `steam/STEAM-VERSION.md`, `steam/SECTION-01-INTRO.txt`) and fails on drift.
+  - **Markdownlint config** (`.markdownlint.json`): rules tuned for long-form prose.
+  - **Templates** (`.templates/`): `chapter-template.md`, `changelog-entry-template.md`, and a `README.md` pointing back to CLAUDE.md's authoring workflow.
+  - **Table-of-contents blocks** on files >200 lines: `CHANGELOG.md`, `appendix-b-items.md`, `appendix-e-gadgets.md`, `appendix-l-plot-overview.md`.
 
 ### Changed
 - **Distributor entry** (appendix-e-gadgets.md): Updated to reflect Patch 1.2 nerf - can no longer duplicate objects or break their physics.
 - **Steam guide files** (steam/SECTION-01-INTRO.txt, steam/SECTION-17-APPENDICES.txt, steam/STEAM-VERSION.md): Added Patch 1.2 changes block, Radiant Slimes section, Sanctuary section, plot upgrades, Gadget Bundles, Resource Detector callout. Version refresh.
+- **`steam/SECTION-11-CH10.txt`** (Chapter 10: Grey Labyrinth): Added Patch 1.2 Sanctuary callout in the Entry / Prerequisites area.
+- **`steam/SECTION-16-CH15.txt`** (Chapter 15: Post-Game Sandbox): Added Patch 1.2 Radiant Slime Collection and Sanctuary Completion items to the Archivist's 100% Completion checklist.
+- **`CLAUDE.md`**: Replaced hardcoded stale `0.3.1 / December 2, 2025` version block with a pointer to `00-introduction.md` as the single source of truth; collapsed the duplicated "Version Update Process" section into a reference to Steps 3 and 5 of the workflow; added a `.templates/` pointer to Step 1; noted the new CI enforcement.
+- **`steam/README.md`**: Full rewrite. Removed references to deleted `STEAM-GUIDE-SECTION-1.txt` through `-4.txt` and nonexistent `STEAM-GUIDE-BBCODE.txt`. Listed all 17 current `SECTION-XX-*.txt` files with one-line descriptions. Corrected "14 chapters" → "15 chapters". Added Sync Policy section.
+- **`README.md`**: Removed duplicate Version + Last Updated fields from the Version Information section near the bottom (they already appear in the header at the top of the file). Retains Game Version and Known Issues lines.
+
+### Fixed
+- **Version drift in CLAUDE.md**: The hardcoded `0.3.1` version in CLAUDE.md directly contradicted its own rule that version information lives only in `00-introduction.md`. Root cause removed; CI now prevents recurrence.
+- **Steam README inaccuracies**: `steam/README.md` referenced a 4-section layout replaced in v0.3 by 17 sections, and an imaginary `STEAM-GUIDE-BBCODE.txt`. Both corrected.
 
 ### Files Modified
 - `00-introduction.md` - Bumped to v0.4, added Patch 1.2 disclaimer block
-- `README.md` - Updated version/date headers
+- `README.md` - Version header refresh, deduplicated version info at bottom
+- `CLAUDE.md` - Version pointer + workflow consolidation
 - `appendix-a-slimes.md` - Added Radiant Slimes section
+- `appendix-b-items.md` - Added TOC
 - `appendix-d-ranch.md` - Added Garden Growth Amplifier, Silo Improved Storage Capacity, The Sanctuary expansion section
-- `appendix-e-gadgets.md` - Added Resource Detector toy, Distributor nerf note, Patch 1.2 Gadgets section, Gadget Bundles section
+- `appendix-e-gadgets.md` - Added Resource Detector toy, Distributor nerf note, Patch 1.2 Gadgets section, Gadget Bundles section, TOC
+- `appendix-l-plot-overview.md` - Added TOC
+- `steam/README.md` - Full rewrite
 - `steam/SECTION-01-INTRO.txt` - Version bump + Patch 1.2 changes block
+- `steam/SECTION-11-CH10.txt` - Sanctuary callout
+- `steam/SECTION-16-CH15.txt` - Radiant / Sprinkles callouts
 - `steam/SECTION-17-APPENDICES.txt` - Resource Detector, Radiant Slimes, Sanctuary, Plot Upgrades, Gadget Bundles sections
 - `steam/STEAM-VERSION.md` - Version bump + Patch 1.2 line
+
+### Created
+- `.github/workflows/linkcheck.yml`
+- `.github/workflows/markdownlint.yml`
+- `.github/workflows/version-sync.yml`
+- `.markdownlint.json`
+- `.templates/chapter-template.md`
+- `.templates/changelog-entry-template.md`
+- `.templates/README.md`
 
 ---
 

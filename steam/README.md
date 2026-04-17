@@ -1,62 +1,59 @@
 # Steam Guide Version
 
-This directory contains the condensed Steam Community Guide version of the Slime Rancher 2 walkthrough.
+This directory contains the condensed Steam Community Guide version of the Slime Rancher 2 walkthrough. It mirrors the main GitHub guide but is split across 17 sections sized for Steam's per-section character limits.
 
 ## Files
 
-- **STEAM-VERSION.md** - Markdown source (for editing and review)
-- **STEAM-GUIDE-BBCODE.txt** - Single-file BBCode version (may hit size limits)
-- **STEAM-GUIDE-SECTION-1.txt** - Section 1: Introduction & Core Mechanics
-- **STEAM-GUIDE-SECTION-2.txt** - Section 2: Walkthrough Overview
-- **STEAM-GUIDE-SECTION-3.txt** - Section 3: Slime Combinations & Tips
-- **STEAM-GUIDE-SECTION-4.txt** - Section 4: Appendices & Full Guide Info
+- **STEAM-VERSION.md** — Single-document markdown source. Useful for editing, diffing, and previewing the whole Steam guide locally before converting to BBCode.
+- **SECTION-01-INTRO.txt** — Introduction, version block, and Core Mechanics
+- **SECTION-02-CH01.txt** — Chapter 1: Early Game / Sprint to Mobility
+- **SECTION-03-CH02.txt** — Chapter 2: The Conservatory (Foundation Build)
+- **SECTION-04-CH03.txt** — Chapter 3: Ember Valley (Resource Extraction)
+- **SECTION-05-CH04.txt** — Chapter 4: Starlight Strand (Asset Acquisition)
+- **SECTION-06-CH05.txt** — Chapter 5: The Gully (Industrial Core)
+- **SECTION-07-CH06.txt** — Chapter 6: The Tidepools (Passive Income)
+- **SECTION-08-CH07.txt** — Chapter 7: Powderfall Bluffs (Saber Acquisition)
+- **SECTION-09-CH08.txt** — Chapter 8: The Den (Ranch Reorganization)
+- **SECTION-10-CH09.txt** — Chapter 9: Quantum Drones (Ranch Automation)
+- **SECTION-11-CH10.txt** — Chapter 10: The Grey Labyrinth (Elite Asset Acquisition)
+- **SECTION-12-CH11.txt** — Chapter 11: The Archway (Grey Labyrinth Operations)
+- **SECTION-13-CH12.txt** — Chapter 12: The Digsite (Weather Slime Operations, OPTIONAL)
+- **SECTION-14-CH13.txt** — Chapter 13: The Endgame Audit
+- **SECTION-15-CH14.txt** — Chapter 14: Prismacore Stabilization (Story Finale)
+- **SECTION-16-CH15.txt** — Chapter 15: Post-Game Sandbox Empire
+- **SECTION-17-APPENDICES.txt** — Quick reference tables and appendix highlights
 
-## How to Use (Multi-Section Method - RECOMMENDED)
+## Publishing Workflow
 
-Steam guides work best with multiple sections. Use the section files:
+Steam guides use multiple sections that are created one at a time in the editor. For this guide:
 
-1. Go to Steam Community → Guides → Create Guide
-2. Select "Slime Rancher 2" as the game
-3. Create **Section 1**:
-   - Title: "Introduction & Core Mechanics"
-   - Copy/paste contents of `STEAM-GUIDE-SECTION-1.txt`
-4. Click "Add Section"
-5. Create **Section 2**:
-   - Title: "Walkthrough Overview"
-   - Copy/paste contents of `STEAM-GUIDE-SECTION-2.txt`
-6. Click "Add Section"
-7. Create **Section 3**:
-   - Title: "Slime Combinations & Tips"
-   - Copy/paste contents of `STEAM-GUIDE-SECTION-3.txt`
-8. Click "Add Section"
-9. Create **Section 4**:
-   - Title: "Appendices & Full Guide"
-   - Copy/paste contents of `STEAM-GUIDE-SECTION-4.txt`
-10. Preview to verify formatting
-11. Publish!
+1. Go to Steam Community → Guides → Create Guide, and select Slime Rancher 2.
+2. For **each** `SECTION-XX-*.txt` file, click "Add Section", paste the contents, and set the section title to match the descriptor after the section number (e.g., "Chapter 10: The Grey Labyrinth"). Paste in order — Steam uses the order as the table of contents.
+3. Preview to verify BBCode renders correctly (tables, bold, lists).
+4. Publish.
 
-## What's Included
+## Content Scope
 
-This condensed version includes:
-- Core mechanics (Largos, Tarr prevention, agitation system)
-- Walkthrough overview for all 14 chapters
-- Essential slime combinations
-- Key upgrades and progression
-- Critical tips for ranch management, resources, and market strategy
-- Links to the full GitHub guide for detailed content
+The Steam guide covers:
 
-## What's on GitHub Only
+- Core mechanics (Largos, Tarr prevention, agitation, plort market)
+- All 15 chapters condensed to fit Steam section size limits (typically 3–7 KB per chapter)
+- A single appendices section with quick-reference highlights — the full appendix tables remain on GitHub only
+- Patch history and version disclaimers aligned with the main guide
 
-The full guide at https://github.com/skelhammer/slime-rancher-2-guide includes:
-- Detailed chapter-by-chapter walkthroughs
-- Complete appendices with tables
-- Plot-by-plot ranch progression layouts
-- Drone automation strategies
-- 4,750+ lines of strategic content
+For the full depth (every gadget, every treasure pod, every plort door, the complete plot-overview tables, etc.), readers should follow the link to the GitHub guide included in SECTION-01.
+
+## Sync Policy
+
+- **`SECTION-01-INTRO.txt`** and **`SECTION-17-APPENDICES.txt`** are updated with every guide version bump (they carry the patch notes block and appendix changes).
+- **`STEAM-VERSION.md`** is updated with every guide version bump.
+- **Chapter sections (`SECTION-02-CH01.txt` through `SECTION-16-CH15.txt`)** are updated when a patch materially changes the chapter's topic (e.g., Sanctuary access for Chapter 10, Radiant Slimes for Chapter 15). Patch notes that are purely introductory live in SECTION-01 only — chapter files reference "see SECTION-01 changes block" rather than re-stating every patch.
 
 ## Maintenance
 
 When updating the Steam guide:
-1. Edit `STEAM-VERSION.md` (markdown is easier to work with)
-2. Convert to BBCode and update `STEAM-GUIDE-BBCODE.txt`
-3. Re-paste into Steam to update the published guide
+
+1. Edit the relevant `SECTION-XX-*.txt` directly (BBCode format) and the corresponding region in `STEAM-VERSION.md` if the change is material.
+2. Bump the version string in `SECTION-01-INTRO.txt` and `STEAM-VERSION.md` to match `00-introduction.md`.
+3. If a chapter section was re-synced, note the changes in the root `CHANGELOG.md` entry.
+4. Re-paste each changed section into the published Steam guide.

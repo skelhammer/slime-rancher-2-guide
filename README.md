@@ -64,12 +64,10 @@ The guide has been split into individual chapter files for easier editing and na
 
 ## Version Information
 
-- **Version:** 0.4 - Radiant Sanctuary Edition
-- **Last Updated:** April 16, 2026
 - **Game Version:** Verified against Slime Rancher 2 Version 1.0, updated for Patch 1.2 (April 16, 2026 - "Radiant Slime Sanctuary")
 - **Known Issues:** Prices and material costs are outdated due to v1.0 recipe overhaul without patch notes. Patch notes documented in introduction.
 
-> Note: Version information is maintained in `00-introduction.md` only. When making changes to any part of the guide, update the version header there.
+> The guide version and last-updated date are shown at the top of this README and maintained canonically in [`00-introduction.md`](00-introduction.md). Per-patch history lives in [CHANGELOG.md](CHANGELOG.md).
 
 ## Guide Philosophy
 

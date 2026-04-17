@@ -2,6 +2,21 @@
 
 Complete ranch plot progression through all chapters (Chapters 1-12). Note: Chapter 10 focuses on Grey Labyrinth exploration (no ranch changes), and Chapter 12 is optional.
 
+**Contents:**
+
+- [Chapter 1: The Sprint to Mobility](#chapter-1-the-sprint-to-mobility)
+- [Chapter 2: The Conservatory - Foundation Build](#chapter-2-the-conservatory---foundation-build)
+- [Chapter 3: Ember Valley - Resource Extraction](#chapter-3-ember-valley---resource-extraction)
+- [Chapter 4: Starlight Strand - Asset Acquisition](#chapter-4-starlight-strand---asset-acquisition)
+- [Chapter 5: The Gully - Industrial Core](#chapter-5-the-gully---industrial-core)
+- [Chapter 6: The Tidepools - Passive Income](#chapter-6-the-tidepools---passive-income)
+- [Chapter 7: Powderfall Bluffs - Saber Acquisition](#chapter-7-powderfall-bluffs---saber-acquisition)
+- [Chapter 8: The Den - Ranch Reorganization](#chapter-8-the-den---ranch-reorganization)
+- [Chapter 9: Quantum Drones - Ranch Automation](#chapter-9-quantum-drones---ranch-automation)
+- [Chapter 10: The Grey Labyrinth - Elite Asset Acquisition](#chapter-10-the-grey-labyrinth---elite-asset-acquisition)
+- [Chapter 11: The Archway - Grey Labyrinth Operations](#chapter-11-the-archway---grey-labyrinth-operations)
+- [Chapter 12: The Digsite - Weather Slime Operations (OPTIONAL)](#chapter-12-the-digsite---weather-slime-operations-optional)
+
 ---
 
 ## Chapter 1: The Sprint to Mobility

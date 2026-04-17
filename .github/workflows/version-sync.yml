@@ -1,0 +1,52 @@
+name: Version Sync Check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+# Enforces CLAUDE.md's rule: the version string ("Version 0.X...") lives ONLY
+# in 00-introduction.md and a small set of sanctioned mirror files. Any other
+# file hardcoding a version is drift waiting to happen.
+
+jobs:
+  version-sync:
+    name: Detect version drift
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Scan for hardcoded versions outside sanctioned files
+        run: |
+          set -euo pipefail
+
+          # Files allowed to contain "Version 0.X" strings:
+          allowed='^(00-introduction\.md|README\.md|CHANGELOG\.md|steam/STEAM-VERSION\.md|steam/SECTION-01-INTRO\.txt|\.github/workflows/version-sync\.yml|\.templates/.*)$'
+
+          # Grep for the version pattern across tracked text files.
+          matches=$(grep -RInE 'Version 0\.[0-9]+' \
+            --include='*.md' --include='*.txt' \
+            . || true)
+
+          if [ -z "$matches" ]; then
+            echo "No Version 0.X strings found anywhere. Unexpected — is 00-introduction.md intact?"
+            exit 1
+          fi
+
+          # Filter to offending files (those not in the allowed list).
+          offenders=$(echo "$matches" | awk -F: '{print $1}' | sort -u | grep -Ev "$allowed" || true)
+
+          if [ -n "$offenders" ]; then
+            echo "::error::Version string drift detected. The version may only be hardcoded in 00-introduction.md, README.md, CHANGELOG.md, steam/STEAM-VERSION.md, and steam/SECTION-01-INTRO.txt."
+            echo ""
+            echo "Offending files:"
+            echo "$offenders"
+            echo ""
+            echo "Offending lines:"
+            echo "$matches" | grep -Ev "^($(echo "$allowed" | sed 's/|/\\|/g')):" || true
+            exit 1
+          fi
+
+          echo "Version-string locations are clean."

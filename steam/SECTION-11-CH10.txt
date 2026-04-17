@@ -19,6 +19,8 @@
 
 [b]Entry Location:[/b] Starlight Strand - door directly under where Flutter Gordo was positioned (RECOMMENDED route)
 
+[b](Patch 1.2) The Sanctuary:[/b] The Grey Labyrinth now hosts a new ranch expansion run by the Caretaker NPC. Inside, Radiant Slimes (rare prismatic-altered variants of any species) can shed Prisma energy while keeping their radiant colors. The Sanctuary contains themed decoratable rooms with alcoves for favored slimes, a "Lost and Found" that recovers Radiant Slimes lost in their base form, and generates a new currency called [b]Sprinkles[/b] (spent on Sanctuary expansions, themes, gadgets, decor). See SECTION-01 and SECTION-17 for full detail.
+
 [hr][/hr]
 
 [h3]Phase 1: Understanding Grey Labyrinth Mechanics[/h3]

@@ -2,6 +2,19 @@
 
 Quick reference guide for all food, resources, plorts, and upgrade components in Slime Rancher 2.
 
+**Contents:**
+
+- [Food & Crops](#food--crops)
+- [Chickens](#chickens)
+- [Resources](#resources)
+- [Plorts](#plorts)
+- [Upgrade Components & Blueprints](#upgrade-components--blueprints)
+- [Key & Special Items](#key--special-items)
+- [Drone Station Module](#drone-station-module)
+- [Decorations (Curios)](#decorations-curios)
+
+---
+
 ### Food & Crops
 
 | **Food Item** | **Type** | **Favorite of (Slime)** | **Primary Location(s)** | **Notes** |
