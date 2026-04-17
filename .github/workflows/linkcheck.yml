@@ -31,7 +31,9 @@ jobs:
             --max-cache-age 1d
             --accept '200,204,206,301,302,403,429'
             --exclude-path 'steam/'
+            --exclude-path 'book/'
             --exclude 'wiki.slimerancher.com'
             --exclude 'monomipark.com'
+            --exclude 'skelhammer.github.io'
             './**/*.md'
           fail: true

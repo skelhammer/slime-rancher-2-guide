@@ -146,6 +146,7 @@ This is a documentation repository containing a comprehensive walkthrough guide 
 - **Chapter Files:** `01-chapter-01.md` through `04-chapter-15.md` (organized by part number prefix)
 - **Core Files:** `00-introduction.md` (with version header), `README.md`
 - **Appendices:** `appendix-a-slimes.md`, `appendix-b-items.md`, `appendix-c-upgrades.md`, `appendix-d-ranch.md`, `appendix-e-gadgets.md`, `appendix-f-drones.md`, `appendix-g-treasure.md`, `appendix-h-map.md`, `appendix-i-doors.md`, `appendix-j-shadow.md`, `appendix-k-resources.md`, `appendix-l-plot-overview.md`
+- **Book site (mdBook):** `book.toml` (config) and `SUMMARY.md` (site TOC / chapter ordering) at repo root. Any time a chapter or appendix file is added, renamed, or reordered, `SUMMARY.md` must be updated to match — it drives the left-sidebar TOC and the next/prev buttons on [skelhammer.github.io/slime-rancher-2-guide](https://skelhammer.github.io/slime-rancher-2-guide/). The `pages.yml` workflow rebuilds the site on every push to `main`.
 
 **See [README.md](README.md) for complete chapter listings and navigation.**
 

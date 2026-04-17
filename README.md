@@ -3,6 +3,8 @@
 **Version 0.4 - Radiant Sanctuary Edition**
 **Last Updated:** April 16, 2026
 
+📖 **Read online:** [skelhammer.github.io/slime-rancher-2-guide](https://skelhammer.github.io/slime-rancher-2-guide/) — full book site with sidebar TOC, next/prev navigation, and search. Rebuilt automatically on every push to `main`.
+
 ## About This Guide
 
 This is a comprehensive walkthrough guide for Slime Rancher 2, focused on aggressive optimization, capital deployment, and systematic automation. The guide takes you from the early game sprint to mobility through endgame empire management.

@@ -1,2 +1,5 @@
 # Claude Code local settings
 .claude/
+
+# mdBook build output (published via GitHub Actions, not committed)
+book/

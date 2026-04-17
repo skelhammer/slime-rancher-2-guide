@@ -45,6 +45,17 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 - **`steam/SECTION-17-APPENDICES.txt` footer version**: Was stuck at `0.3.1 - Toys, Trimmings, and Tune-Ups Edition` from the v0.3.1 update; refreshed to match the current 0.4 version. Added file to the `version-sync.yml` allowlist and CLAUDE.md's mirror-file list. (This footer later moved to SECTION-18-APPENDICES-2.txt when SECTION-17 was split; see next bullet.)
 - **Steam SECTION-17 character-limit overflow**: Appendices section (10,386 bytes) exceeded Steam's per-section ~8 KB cap, causing the Gadget Bundles list to truncate mid-sentence on the published guide. Split into two Steam sections: `steam/SECTION-17-APPENDICES.txt` (Part 1 of 2 — Combinations, Upgrade Path, Resource Farming, Gordo Unlocks, Ranch Expansion Costs; 5.9 KB) and new `steam/SECTION-18-APPENDICES-2.txt` (Part 2 of 2 — Automation Equipment, Plort Market Values, Revenue Progression, full-guide link, version footer; 4.9 KB). Updated `steam/README.md` to list 18 sections, version-sync allowlist, and CLAUDE.md mirror-file references.
 
+### Added (post-release — book site)
+- **mdBook + GitHub Pages deployment**: The guide now publishes as a browseable book site at `https://skelhammer.github.io/slime-rancher-2-guide/` (takes effect after enabling GitHub Pages with "GitHub Actions" as the source). Left sidebar TOC visible on every page, next/prev buttons at the bottom, full-text search, light/dark themes, auto-rebuilt on every push to `main`.
+  - `book.toml` — mdBook config (title, theme, repo integration, search tuning).
+  - `SUMMARY.md` — book's master TOC; drives the sidebar and next/prev navigation.
+  - `.github/workflows/pages.yml` — Actions workflow that installs mdBook, builds the book, and deploys to GitHub Pages.
+  - `.gitignore` — excludes `book/` build output.
+  - `.github/workflows/linkcheck.yml` — excludes the `skelhammer.github.io` URL (until first deploy) and the `book/` build directory.
+  - `.github/workflows/markdownlint.yml` — excludes `SUMMARY.md` and `book/`.
+  - `README.md` — added "Read online" callout linking to the Pages site.
+  - `CLAUDE.md` — documented the new `book.toml` / `SUMMARY.md` files and the requirement to update `SUMMARY.md` whenever chapter files are added, renamed, or reordered.
+
 ### Changed
 - **Distributor entry** (appendix-e-gadgets.md): Updated to reflect Patch 1.2 nerf - can no longer duplicate objects or break their physics.
 - **Steam guide files** (steam/SECTION-01-INTRO.txt, steam/SECTION-17-APPENDICES.txt, steam/STEAM-VERSION.md): Added Patch 1.2 changes block, Radiant Slimes section, Sanctuary section, plot upgrades, Gadget Bundles, Resource Detector callout. Version refresh.
