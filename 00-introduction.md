@@ -1,6 +1,6 @@
 # Slime Rancher 2: A Practical Walkthrough
 
-#### Version 0.3.2 - Shadow Sanitation Edition
+#### Version 0.4 - Radiant Sanctuary Edition
 
 **Last Updated: April 16, 2026**
 
@@ -13,6 +13,8 @@ This guide has been verified against the official Slime Rancher 2 Wiki and patch
 **Patch 1.1.0 Update (December 2, 2025 - "Toys, Trimmings, and Tune-Ups"):** Major content update adding slime toys for every slime type, Shadow Pots in Grey Labyrinth, new decorative gadgets (lamps, plants, pillows, stages), and the Distributor gadget. Explorer Drones can now target Odd Onions but were nerfed to prevent excessive passive plort farming. See Appendix E for complete toy and gadget lists.
 
 **Patch 1.1.1 Update (January 22, 2026):** Bug-fix and balance patch following 1.1.0. Memory optimizations to address game crashes. Shadow Slimes now despawn once they've produced their maximum number of Shadow Plorts (preventing infinite farming on a single spawn). Shadow Pots now contain fewer Shadow Slimes per pot - plan for more pots, fewer plorts per break.
+
+**Patch 1.2 Update (April 16, 2026 - "Radiant Slime Sanctuary"):** Major content update introducing Radiant Slimes (rare prismatic-altered variants of every slime type that can spawn anywhere their normal version appears) and **The Sanctuary** - a new ranch expansion accessed through the Grey Labyrinth. The Caretaker NPC operates the Sanctuary, where Radiant Slimes can shed Prisma energy while keeping their radiant colors. The Sanctuary contains themed, decoratable rooms with alcoves for favored slimes, a "Lost and Found" that recovers Radiant Slimes lost in their base form, and generates a new currency: **Sprinkles** (used to unlock Sanctuary expansions, themes, gadgets, and decorations). Major plot upgrades: **Improved Storage Capacity** for Silos (200 items per slot, up from 100) and **Growth Amplifier** for Gardens (expanded growing space per plot). New **Resource Detector** toy actively tracks the direction of nearby science resources. **Gadget Bundles** now sold in Coo-Coo Corner (22 themed bundles). Roughly 30 new decorative gadgets including comfy couches, scientist furniture, half-circle/round/step platforms in grass/ice/magma/moss/stone, lava lamps in 6 colors, golden Honey/Saber statues, and Sanctuary Portals. Distributors nerfed to prevent object duplication. PS5 auto-save corruption fixed (1.2.1). See Appendices A, D, and E for full details.
 
 # Introduction: The Rancher's Mindset
 

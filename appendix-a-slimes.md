@@ -2,6 +2,20 @@
 
 Quick reference guide for all slime types and Gordo locations in Slime Rancher 2.
 
+### Radiant Slimes (Patch 1.2)
+
+**Added in Patch 1.2 (Radiant Slime Sanctuary):** Rare, shimmering variants of any standard slime, altered by the Prisma Core. Radiant Slimes use a different color palette and have a visible radiant effect. They can spawn anywhere the normal version of their slime type appears, so any biome with a base slime is also a potential Radiant spawn location.
+
+| **Aspect** | **Detail** |
+| --- | --- |
+| Spawn Rate | Very rare - can appear anywhere the base slime type spawns |
+| Variants | Every slime type has a Radiant variant |
+| Capture | Vacuum and ranch like the base slime; behavior matches the base type |
+| Special Use | Take to **The Sanctuary** (new expansion) so the Caretaker can help them shed excess Prisma energy while retaining their radiant colors |
+| Loss Recovery | The Sanctuary contains a **Lost and Found** that recovers Radiant Slimes which have reverted to their base form |
+
+> **Strategic Note:** Radiant Slimes are primarily a collection / customization mechanic tied to the Sanctuary. They don't change plort economics on their own - prioritize them for personalization, not capital throughput.
+
 ### Normal Slimes
 
 | **Slime Type** | **Diet** | **Favorite Food** | **Location(s)** | **Can Largo?** | **Special Notes** |

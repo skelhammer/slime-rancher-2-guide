@@ -6,6 +6,8 @@ Quick reference guide for all craftable gadgets, utilities, warp technology, and
 
 **Added in Patch 1.1.0 (Toys, Trimmings, and Tune-Ups):** Every slime type now has a favorite toy. Toys reduce slime agitation when placed in corrals. Favorite toys provide a 25% agitation reduction (vs. 12.5% for non-favorite toys). Some special toys cause "curious effects" beyond agitation reduction.
 
+**Patch 1.2 Update:** A new **Resource Detector** toy was added. Unlike other toys, it's intended for the rancher rather than slimes - pick it up and it will detect and indicate the direction of nearby science (crafting) resources. Batteries included. Significant utility tool for hunting Lava Dust, Tin Petal, Black Indigonium, and other science node materials.
+
 Toys are purchased from **ProntoMart's Coo-Coo Corner**. One toy is guaranteed available for purchase daily.
 
 | **Toy Name** | **Favorite Slime** | **Notes** |
@@ -34,6 +36,7 @@ Toys are purchased from **ProntoMart's Coo-Coo Corner**. One toy is guaranteed a
 | Stress Ball | Boom | Alternative calming toy for explosive slimes |
 | Stuffed Slime | Twin | Plush companion for twin slimes |
 | Calming Cloud | Tangle | Soft cloud toy for tangle slimes |
+| Resource Detector *(Patch 1.2)* | (For the Rancher) | Pick up to detect and track the direction of nearby science/crafting resources. Batteries included. |
 
 > **Note:** Toy-slime pairings may vary. Check ProntoMart's Coo-Coo Corner for current inventory and favorite toy information. Some toys may have special effects when used with specific slimes.
 
@@ -69,7 +72,7 @@ Toys are purchased from **ProntoMart's Coo-Coo Corner**. One toy is guaranteed a
 | Round Bumper | 500 | 10 Pink Plorts, 10 Saber Plorts, 3 Primordy Oil | A bouncy bumper that sends slimes and other objects flying. |
 | Stunt Cannon | 1,000 | 20 Boom Plorts, 5 Fire Plorts, 3 Lava Dust | A cannon that can launch slimes (or the rancher) a long distance. |
 | Accelerator | 50  | 1 Ringtail Plort, 1 Deep Brine | A short-range speed booster, similar to a Dash Pad. Color variants available: Gold, Purple, Red, Pink, Grey, Green. |
-| Distributor | TBD | TBD | A new utility gadget for item distribution. **Warning:** Known issue - can break slime physics. |
+| Distributor | TBD | TBD | A utility gadget for item distribution. **Patch 1.2:** Nerfed - can no longer be exploited to duplicate objects or break their physics. |
 | Slimeball Goal | 5,000 | 25 Honey Plorts, 25 Flutter Plorts, 3 Silky Sand | A hoop for playing slimeball. |
 | Attention Flag | 50  | 5 Pink Plorts, 1 Jellystone | A placeable flag that creates a custom exclamation point marker on your world map. |
 | Cautious Flag | 50  | 5 Pink Plorts, 1 Slime Fossil | A placeable flag that creates a custom "X" marker on your world map. |
@@ -177,3 +180,97 @@ Toys are purchased from **ProntoMart's Coo-Coo Corner**. One toy is guaranteed a
 | Small Yellow Flower Pillow | Small decorative yellow flower pillow |
 
 > **Note:** Crafting costs for decorative gadgets vary. Check the Fabricator for current recipes and material requirements.
+
+## Patch 1.2 Gadgets (Radiant Slime Sanctuary)
+
+**Added in Patch 1.2 (April 16, 2026):** A large batch of new decorative and Sanctuary-themed gadgets, plus the introduction of **Gadget Bundles** sold in Coo-Coo Corner.
+
+### Furniture
+
+| **Gadget Name** | **Description** |
+| --- | --- |
+| Short Comfy Couch | Compact couch for the Conservatory or Sanctuary rooms |
+| Long Comfy Couch | Extended couch for larger seating arrangements |
+| Scientist's Chair | Themed chair piece for scientist room layouts |
+| Scientist's Desk | Themed desk piece for scientist room layouts |
+
+### Themed Platforms
+
+Themed surface platforms in matching biome materials. Use to build raised areas, slime alcoves, or biome-themed displays in Sanctuary rooms.
+
+| **Gadget Name** | **Description** |
+| --- | --- |
+| Half-Circle Grass Platform | Half-circle platform with grass surface |
+| Half-Circle Ice Platform | Half-circle platform with ice surface |
+| Half-Circle Magma Platform | Half-circle platform with magma surface |
+| Half-Circle Moss Platform | Half-circle platform with moss surface |
+| Round Grass Platform | Circular platform with grass surface |
+| Round Ice Platform | Circular platform with ice surface |
+| Round Magma Platform | Circular platform with magma surface |
+| Round Moss Platform | Circular platform with moss surface |
+| Step Grass Platform | Stepped platform with grass surface |
+| Step Ice Platform | Stepped platform with ice surface |
+| Step Magma Platform | Stepped platform with magma surface |
+| Step Moss Platform | Stepped platform with moss surface |
+| Round Stone Platform | Circular stone platform |
+| Square Stone Platform | Square stone platform |
+
+### Lava Lamps
+
+| **Gadget Name** | **Description** |
+| --- | --- |
+| Blue Lava Lamp | Decorative lava lamp - blue variant |
+| Gold Lava Lamp | Decorative lava lamp - gold variant |
+| Green Lava Lamp | Decorative lava lamp - green variant |
+| Shadow Lava Lamp | Decorative lava lamp - shadow variant |
+| Red Lava Lamp | Decorative lava lamp - red variant |
+| Prismatic Lava Lamp | Decorative lava lamp - prismatic/rainbow variant |
+
+### Statues
+
+| **Gadget Name** | **Description** |
+| --- | --- |
+| Golden Honey Statue | Premium golden statue of a Honey Slime |
+| Golden Saber Statue | Premium golden statue of a Saber Slime |
+
+### Sanctuary Portals
+
+Decorative portals tied to the Sanctuary expansion. Variants for different room themes.
+
+| **Gadget Name** | **Description** |
+| --- | --- |
+| Blue Sanctuary Portal | Sanctuary-themed portal - blue variant |
+| Green Sanctuary Portal | Sanctuary-themed portal - green variant |
+| Teal Sanctuary Portal | Sanctuary-themed portal - teal variant |
+| Violet Sanctuary Portal | Sanctuary-themed portal - violet variant |
+
+## Gadget Bundles (Patch 1.2)
+
+**Added in Patch 1.2:** ProntoMart's Coo-Coo Corner now offers themed Gadget Bundles - discounted multi-item packages of related decorations. Use bundles for cost-efficient theme building (Sanctuary rooms, biome-matched Conservatory zones, scientist labs, etc.).
+
+| **Bundle** | **Theme** |
+| --- | --- |
+| Rainbow Fields Bundle | Rainbow Fields biome decor |
+| Tide Pools Bundle | Tide Pools biome decor |
+| Grass Bundle | Grass platforms / grass-themed decor |
+| Flowers Bundle | Floral decor pieces |
+| Conservatory Bundle | Conservatory-themed decor |
+| Map Markers Bundle | Map flag set (Attention, Cautious, Curious, Fruit, Meat, Veggie, etc.) |
+| Engineer Starter Bundle | Engineering / utility starter set |
+| Starlight Strand Bundle | Starlight Strand biome decor |
+| Ember Valley Bundle | Ember Valley biome decor |
+| Fences and Walls Bundle | Boundary / structural decor |
+| Music Bundle | Music-themed decor |
+| Lights Bundle | Lighting decor (lamps, etc.) |
+| Beach Day Bundle | Coastal / beach decor |
+| Planter Bundle | Plants and planters |
+| Powderfall Bluffs Bundle | Powderfall Bluffs biome decor |
+| Bait Bundle | Slime bait set (Fruit/Veggie/Meat) |
+| Magma Bundle | Magma platforms and lava-themed decor |
+| Cave Bundle | Cave / Grey Labyrinth decor |
+| Labyrinth Bundle | Grey Labyrinth-themed decor |
+| Wind Bundle | Wind / Dervish-themed decor |
+| Scientist Bundle | Scientist's Chair, Desk, and lab decor |
+| Reefs Bundle | Reef / aquatic decor |
+
+> **Note:** Bundle prices and exact contents vary. Check Coo-Coo Corner for current rotation and stock.
