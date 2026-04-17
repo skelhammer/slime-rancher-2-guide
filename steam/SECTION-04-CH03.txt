@@ -25,7 +25,7 @@
 [b]Pop These 5 Ember Valley Gordos:[/b]
 [list]
 [*][b]Rock Gordo[/b] (50 Veggies) → Jetpack Drive treasure pod + 12 Rock Slimes
-[*][b]Batty Gordo[/b] (50 Fruit) → Tunnel shortcut + 12 Batty Slimes
+[*][b]Batty Gordo[/b] (50 Fruit) → Tunnel shortcut + 12 Batty Slimes + Power Core II Blueprint + slime science resource jar
 [*][b]Crystal Gordo[/b] (50 Veggies) → Geyser + 12 Crystal Slimes
 [*][b]Boom Gordo[/b] (50 Meat) → Grey Labyrinth gate + Strange Diamond + Ember Valley Portal + 12 Boom Slimes
 [*][b]Tabby Gordo[/b] (50 Meat) → Portal to Rainbow Fields + 12 Tabby Slimes
@@ -98,7 +98,7 @@
 [b]Required Components:[/b]
 [list]
 [*]Jetpack Drive (Rock Gordo treasure pod)
-[*]Power Chip (Batty Gordo treasure pod)
+[*]Power Chip (Rainbow Fields treasure pod - cave near Starlight Strand portal, among glowing mushrooms; Batty Gordo gives only the Power Core II BLUEPRINT, not the Power Chip component)
 [*]Heart Cell (underground ledge before Crystal Gordo)
 [*]Storage Cell (behind Rainbow Fields portal - 1 Batty Plort statue)
 [/list]

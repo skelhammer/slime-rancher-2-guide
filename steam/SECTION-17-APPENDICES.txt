@@ -267,6 +267,6 @@ Hunter: 35-50 | Angler: 30-50 | Ringtail: 42-70 | Flutter: 20-50 | Saber: 42-70
 
 [hr][/hr]
 
-[b]Author:[/b] skelhammer | [b]Version:[/b] 0.3.1 - Toys, Trimmings, and Tune-Ups Edition | [b]License:[/b] CC BY 4.0
+[b]Author:[/b] skelhammer | [b]Version:[/b] 0.4 - Radiant Sanctuary Edition | [b]License:[/b] CC BY 4.0
 
 [b]Deploy capital aggressively. Automate relentlessly. Dominate the market.[/b]

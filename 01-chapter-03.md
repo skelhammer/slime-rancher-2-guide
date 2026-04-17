@@ -57,7 +57,7 @@ Ember Valley contains 3 Map Data Nodes. Activate these to reveal the full biome:
 | **Gordo** | **Food Required** | **Location** | **Reward** |
 |-----------|-------------------|--------------|------------|
 | **Rock Gordo** | 50 Veggies (Heart Beets count 2x) | Cave near portal entrance (on rock formation) | Geyser to Jetpack Drive treasure pod + 12 Rock Slimes + 1 jar |
-| **Batty Gordo** | 50 Fruit (Pomegranites count 2x) | Lowest western caves | Tunnel shortcut to another area + 12 Batty Slimes + 1 jar |
+| **Batty Gordo** | 50 Fruit (Pomegranites count 2x) | Lowest western caves | Tunnel shortcut to another area + 12 Batty Slimes + Power Core II Blueprint + 1 jar (slime science resources) |
 | **Crystal Gordo** | 50 Veggies (Odd Onions count 2x) | Northern area near chasm | Geyser for easier traversal + 12 Crystal Slimes + 1 jar |
 | **Boom Gordo** | 50 Meat (Briar Hens count 2x) | Western volcanic area (dais surrounded by lava pools) | Passage to Grey Labyrinth gate + Strange Diamond + Ember Valley Portal blueprint + 12 Boom Slimes + 1 jar |
 | **Tabby Gordo** | 50 Meat (Stony Hens count 2x) | North-most point, top of large pillar sticking out of sea | Portal shortcut to Rainbow Fields + 12 Tabby Slimes + 1 jar |
@@ -168,10 +168,10 @@ Before deep exploration of Ember Valley, establish your two new corral operation
 **Total Upgrade Investment:** ~3,400 NB + materials
 
 **Upgrade Components Required:**
-- **Jetpack Drive** (Tier II blueprint) - Rock Gordo treasure pod (plateau above gordo)
-- **Power Chip** (Tier II blueprint) - Batty Gordo treasure pod
-- **Heart Cell** (Tier II blueprint) - Underground ledge before Crystal Gordo waterfall
-- **Storage Cell** (Tier II blueprint) - Behind Rainbow Fields portal (1 Batty Plort statue)
+- **Jetpack Drive** (Tier II component) - Rock Gordo treasure pod (plateau above gordo)
+- **Power Chip** (Tier II component) - Rainbow Fields treasure pod in the cave near the Starlight Strand portal, among glowing mushrooms. _The Power Core II **blueprint** comes from popping the Batty Gordo; the Power Chip **component** needed to craft it is a separate treasure-pod find in Rainbow Fields._
+- **Heart Cell** (Tier II component) - Underground ledge before Crystal Gordo waterfall
+- **Storage Cell** (Tier II component) - Behind Rainbow Fields portal (1 Batty Plort statue)
 
 **Save For Chapter 4:** Tank Booster II, Heart Module II, and Jetpack II will be crafted in Chapter 4 once you explore Starlight Strand and gather the necessary materials (Angler Plorts, Honey Plorts, Wild Honey).
 

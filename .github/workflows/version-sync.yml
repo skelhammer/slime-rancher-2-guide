@@ -23,7 +23,7 @@ jobs:
           set -euo pipefail
 
           # Files allowed to contain "Version 0.X" strings:
-          allowed='^(00-introduction\.md|README\.md|CHANGELOG\.md|steam/STEAM-VERSION\.md|steam/SECTION-01-INTRO\.txt|\.github/workflows/version-sync\.yml|\.templates/.*)$'
+          allowed='^(00-introduction\.md|README\.md|CHANGELOG\.md|steam/STEAM-VERSION\.md|steam/SECTION-01-INTRO\.txt|steam/SECTION-17-APPENDICES\.txt|\.github/workflows/version-sync\.yml|\.templates/.*)$'
 
           # Grep for the version pattern across tracked text files.
           matches=$(grep -RInE 'Version 0\.[0-9]+' \

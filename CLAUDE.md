@@ -75,6 +75,7 @@ If you updated the version in Step 3, also update the header in each of the sanc
 - `README.md` — version header at the top (only spot; bottom Version Information section is version-free)
 - `steam/STEAM-VERSION.md` — version header at the top
 - `steam/SECTION-01-INTRO.txt` — version header at the top (BBCode)
+- `steam/SECTION-17-APPENDICES.txt` — version footer line at the bottom (BBCode)
 
 The `version-sync.yml` CI job will fail if any file outside this list (plus `CHANGELOG.md`) hardcodes a `Version 0.X` string.
 
@@ -160,7 +161,7 @@ Key formatting standards:
 
 ## Version Information
 
-The current version, last-updated date, and verification status live **exclusively** in `00-introduction.md`. Do NOT duplicate them here or in individual chapter/appendix files. The `README.md` version header and `steam/STEAM-VERSION.md` / `steam/SECTION-01-INTRO.txt` headers are mirrors that must be kept in sync with `00-introduction.md` — everything else should be version-free.
+The current version, last-updated date, and verification status live **exclusively** in `00-introduction.md`. Do NOT duplicate them here or in individual chapter/appendix files. The `README.md` version header, `steam/STEAM-VERSION.md`, `steam/SECTION-01-INTRO.txt`, and the footer of `steam/SECTION-17-APPENDICES.txt` are mirrors that must be kept in sync with `00-introduction.md` — everything else should be version-free.
 
 A CI job (`.github/workflows/version-sync.yml`) enforces this by failing on any hardcoded `Version 0.X` string outside the sanctioned mirror files.
 

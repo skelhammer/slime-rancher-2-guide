@@ -100,6 +100,24 @@
 
 [hr][/hr]
 
+[h3]Pairing Rationale: Why Saber-Hunter (Not a Flyer)[/h3]
+
+Common question: [i]"Shouldn't Saber pair with a flying slime?"[/i] [b]No.[/b] Saber already jumps; pair it with a Flutter or Batty and the largo clears walls almost instantly even with Air Nets installed. Saber-Hunter keeps both bases ground-bound. For a second Saber operation later, use another ground carnivore (Sloomber in Chapter 11 is the top-tier option), never a flyer.
+
+[h3]Optional: Meat-Minimization Strategy[/h3]
+
+If you want to skip chicken farming, pair carnivores with non-carnivores (Hunter-Honey, Hunter-Cotton, Angler-Phosphor). The largo accepts either diet, and the fruit/veggie favorite alone triggers the 4-plort bonus.
+
+[b]Trade-off:[/b]
+[list]
+[*][b]Give up:[/b] Top-tier meat combos (Saber-Hunter, Sloomber-Saber, Angler-Crystal) — premium chicken foods drive the top revenue ceiling.
+[*][b]Gain:[/b] No coops, no Elder Collectors, simpler drone automation, fewer moving parts. Conservatory/Gully slot counts open up.
+[/list]
+
+[b]Choose meat-minimized[/b] for simplicity and casual play. [b]Stick with the default[/b] (Saber-Hunter + Angler-Crystal) if you're optimizing peak Newbucks/day.
+
+[hr][/hr]
+
 [h3]Strategic Priorities[/h3]
 
 [olist]

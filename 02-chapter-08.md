@@ -188,6 +188,27 @@ This chapter involves reorganizing existing ranch operations across multiple exp
 - **Solar Shields:** Conservatory has 2 Solar Shields (Phosphor-Honey Plot 3, Flutter-Honey Plot 7). The Den requires none due to permanent darkness.
 - **Occasional Spawns:** Jellystone occasionally spawns in The Den, providing a convenient backup crafting resource.
 
+#### Pairing Rationale: Why Saber-Hunter and Not a Flying Combo
+
+A common reader question: _"Shouldn't I pair Saber with a flying slime?"_ **No.** Saber is a jumper on its own; combining it with a Flutter or Batty turns the largo into a jump-and-fly hybrid that clears walls almost instantly even with Air Nets. Saber-Hunter keeps both base slimes ground-bound, which is why this guide's Gully Plot 5 uses it. If you want to run a second Saber operation later in the game, pair it with another ground carnivore (Sloomber in Chapter 11 is the top-end example), never a flyer.
+
+#### Optional: The Meat-Minimization Strategy
+
+Some readers prefer to avoid chicken farming entirely. This is a viable alternative once you understand the trade-off.
+
+**How it works:** A largo made from a carnivore + a non-carnivore (e.g. Hunter-Honey, Hunter-Cotton, Angler-Phosphor) has a hybrid diet — the largo will accept either meat OR the non-carnivore's food type. Feed the favorite of either base slime to get the 4-plort bonus, which means a fruit/veggie favorite alone is enough. No chickens required.
+
+**What you give up:**
+- You cannot run the top-tier carnivore combos (Saber-Hunter, Sloomber-Saber, Angler-Crystal). These depend on both bases being meat-eaters to exploit premium chicken foods (Thunderclucks, Painted Hens) for the 4-plort bonus.
+- Peak revenue per corral is lower. Saber-Hunter is roughly 60-120 NB per 4-plort feeding; Hunter-Honey is roughly 35-90 NB — not drastically lower, but the ceiling is cut.
+
+**What you gain:**
+- No coops, no Elder Collectors, no Roostro management. The Gully becomes 5 garden/corral plots instead of 2 coops + 3 corrals.
+- Simpler automation — drones only need to shuttle between gardens/silos/corrals, no chicken-breeding loop.
+- Lower early-game friction, higher daily plort output per unit of rancher attention.
+
+**When to choose it:** If you value simplicity over peak Newbucks/day, or you're running a casual playthrough. If you're optimizing for maximum revenue (the guide's default), stick with Saber-Hunter and Angler-Crystal.
+
 ### End of Chapter Checklist
 
 By the end of Chapter 8, you should have:

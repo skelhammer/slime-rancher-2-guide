@@ -31,10 +31,18 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
   - **GitHub Actions CI** (`.github/workflows/`):
     - `linkcheck.yml` — lychee scan of all markdown links on every push/PR.
     - `markdownlint.yml` — formatting enforcement via `.markdownlint.json`.
-    - `version-sync.yml` — greps for `Version 0.X` strings outside sanctioned mirror files (`00-introduction.md`, `README.md`, `CHANGELOG.md`, `steam/STEAM-VERSION.md`, `steam/SECTION-01-INTRO.txt`) and fails on drift.
+    - `version-sync.yml` — greps for `Version 0.X` strings outside sanctioned mirror files (`00-introduction.md`, `README.md`, `CHANGELOG.md`, `steam/STEAM-VERSION.md`, `steam/SECTION-01-INTRO.txt`, `steam/SECTION-17-APPENDICES.txt`) and fails on drift.
   - **Markdownlint config** (`.markdownlint.json`): rules tuned for long-form prose.
   - **Templates** (`.templates/`): `chapter-template.md`, `changelog-entry-template.md`, and a `README.md` pointing back to CLAUDE.md's authoring workflow.
   - **Table-of-contents blocks** on files >200 lines: `CHANGELOG.md`, `appendix-b-items.md`, `appendix-e-gadgets.md`, `appendix-l-plot-overview.md`.
+- **Community Corrections** (post-release, 2026-04-16): Reader-feedback pass folded into the same 0.4 edition. Credit to migy, Glastic Roz, Reinch., Serenity, and LittleNinja on the Steam guide comments.
+  - **Chapter 8 - Pairing Rationale callout** (`02-chapter-08.md`): Added short "Why Saber-Hunter (Not a Flyer)" section addressing the common reader question about combining Saber with a flying slime. Mirrored in `steam/SECTION-09-CH08.txt`.
+  - **Chapter 8 - Meat-Minimization Strategy** (`02-chapter-08.md`): Added optional alternative strategy section for players who prefer to skip chicken farming — documents the carnivore + non-carnivore hybrid-diet largo approach, its trade-offs (loss of top-tier Saber-Hunter / Sloomber-Saber combos) and benefits (simpler automation, fewer moving parts). Mirrored in `steam/SECTION-09-CH08.txt`.
+
+### Fixed (post-release community corrections)
+- **Batty Gordo treasure pod contents** (`01-chapter-03.md:60`, `steam/SECTION-04-CH03.txt`): Corrected the Batty Gordo reward row. The jar contains slime science resources (not a Power Chip). The Power Core II BLUEPRINT is also awarded on pop.
+- **Power Chip location** (`01-chapter-03.md:172`, `steam/SECTION-04-CH03.txt`): Fixed the Tier II Upgrade Components list. Power Chip is a component found in a Rainbow Fields treasure pod (cave near the Starlight Strand portal, among glowing mushrooms), not in the Batty Gordo treasure pod. The guide previously confused the Power Core II blueprint (Batty Gordo) with the Power Chip component (Rainbow Fields pod). Clarifying note added.
+- **`steam/SECTION-17-APPENDICES.txt` footer version**: Was stuck at `0.3.1 - Toys, Trimmings, and Tune-Ups Edition` from the v0.3.1 update; refreshed to match the current 0.4 version. Added file to the `version-sync.yml` allowlist and CLAUDE.md's mirror-file list.
 
 ### Changed
 - **Distributor entry** (appendix-e-gadgets.md): Updated to reflect Patch 1.2 nerf - can no longer duplicate objects or break their physics.
@@ -52,7 +60,9 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 ### Files Modified
 - `00-introduction.md` - Bumped to v0.4, added Patch 1.2 disclaimer block
 - `README.md` - Version header refresh, deduplicated version info at bottom
-- `CLAUDE.md` - Version pointer + workflow consolidation
+- `CLAUDE.md` - Version pointer + workflow consolidation; SECTION-17 added to mirror list
+- `01-chapter-03.md` - Batty Gordo reward correction + Power Chip location fix
+- `02-chapter-08.md` - Added Pairing Rationale + Meat-Minimization Strategy sections
 - `appendix-a-slimes.md` - Added Radiant Slimes section
 - `appendix-b-items.md` - Added TOC
 - `appendix-d-ranch.md` - Added Garden Growth Amplifier, Silo Improved Storage Capacity, The Sanctuary expansion section
@@ -60,10 +70,13 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 - `appendix-l-plot-overview.md` - Added TOC
 - `steam/README.md` - Full rewrite
 - `steam/SECTION-01-INTRO.txt` - Version bump + Patch 1.2 changes block
+- `steam/SECTION-04-CH03.txt` - Batty Gordo reward correction + Power Chip location fix
+- `steam/SECTION-09-CH08.txt` - Pairing Rationale + Meat-Minimization Strategy sections
 - `steam/SECTION-11-CH10.txt` - Sanctuary callout
 - `steam/SECTION-16-CH15.txt` - Radiant / Sprinkles callouts
-- `steam/SECTION-17-APPENDICES.txt` - Resource Detector, Radiant Slimes, Sanctuary, Plot Upgrades, Gadget Bundles sections
+- `steam/SECTION-17-APPENDICES.txt` - Resource Detector, Radiant Slimes, Sanctuary, Plot Upgrades, Gadget Bundles sections; version footer refresh
 - `steam/STEAM-VERSION.md` - Version bump + Patch 1.2 line
+- `.github/workflows/version-sync.yml` - Added SECTION-17-APPENDICES.txt to allowlist
 
 ### Created
 - `.github/workflows/linkcheck.yml`
