@@ -2,7 +2,7 @@
 
 Complete treasure pod locations for all biomes in Slime Rancher 2.
 
-## Rainbow Fields Treasure Pods (17 Total)
+## Rainbow Fields Treasure Pods (18 Total)
 
 | **Known Contents** | **Location Description** | **Required Upgrade / Action** |
 | --- | --- | --- |
@@ -23,8 +23,9 @@ Complete treasure pod locations for all biomes in Slime Rancher 2.
 | Coastal Rock | Inside the cave where the Phosphor Gordo is found. | None |
 | Strange Diamond, Jellystone, Deep Brine | Appears next to the Starlight Strand portal after activating it for the first time. | Activate Starlight Strand portal |
 | Tank Liner | In the underground tunnel accessed after popping the Phosphor Gordo, behind a door. | Pop Phosphor Gordo & Tabby Plort |
+| Jellystone (x3), Deep Brine (x2), Strange Diamond (x1) | Next to the Rainbow Fields teleporter; appears after activating the Ember Valley Teleporter. | Activate Ember Valley Teleporter |
 
-## Ember Valley Treasure Pods (33 Total)
+## Ember Valley Treasure Pods (35 Total)
 
 | **Known Contents** | **Location Description** | **Required Upgrade / Action** |
 | --- | --- | --- |
@@ -61,8 +62,10 @@ Complete treasure pod locations for all biomes in Slime Rancher 2.
 | Display Case | Behind the Powderfall Bluffs portal underneath a tree (jetpack into the hole). | Jetpack |
 | Carousel | On the ledge of a half-dome structure to the left of the Saber Gordo portal. | Jetpack |
 | Golden Dervish Statue | Next to lava, hugging against the wall at ground level. | None |
+| Strange Diamond (x1), Primordy Oil (x3), Lava Dust (x2) | In the cave opened by feeding the Batty Gordo. | Pop Batty Gordo |
+| Strange Diamond (x1), Radiant Ore (x3), Silky Sand (x2) | On top of the cliff to the southeast of the geyser. | None |
 
-## Starlight Strand Treasure Pods (32 Total)
+## Starlight Strand Treasure Pods (34 Total)
 
 | **Known Contents** | **Location Description** | **Required Upgrade / Action** |
 | --- | --- | --- |
@@ -99,6 +102,7 @@ Complete treasure pod locations for all biomes in Slime Rancher 2.
 | Golden Tangle Statue | On a small island in the blue zone, jetpack from Ringtail Slime statue. | Jetpack |
 | Power Chip (2) | In the south coral area, next to a large arch. | None |
 | Strange Diamond | At the bottom of the cave before the Grey Labyrinth portal door. | Pop Flutter Gordo |
+| Buzz Wax (x3), Wild Honey (x2), Strange Diamond (x1) | On a ledge along the tunnel wall that the Angler Gordo unlocks. | Pop Angler Gordo |
 
 ## Powderfall Bluffs Treasure Pods (24 Total)
 

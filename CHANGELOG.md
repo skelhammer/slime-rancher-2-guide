@@ -4,6 +4,7 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 
 **Version History:**
 
+- [0.4.4 - Treasure Hunt Edition (2026-06-15)](#044---2026-06-15---treasure-hunt-edition)
 - [0.4.3 - Completionist Edition (2026-06-15)](#043---2026-06-15---completionist-edition)
 - [0.4.2 - Blueprint Edition (2026-06-15)](#042---2026-06-15---blueprint-edition)
 - [0.4.1 - Radiant Sanctuary Edition (2026-05-11)](#041---2026-05-11---radiant-sanctuary-edition)
@@ -15,6 +16,54 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 - [0.1.2 - Wiki Integration Edition (2025-11-01)](#012---2025-11-01---wiki-integration-edition)
 - [0.1.1 - Patch 1.0.3 Update (2025-11-01)](#011---2025-11-01---patch-103-update)
 - [0.1 - Initial Release (2025-10-24)](#01---2025-10-24---initial-release)
+
+---
+
+## [0.4.4] - 2026-06-15 - Treasure Hunt Edition
+
+_Reconciled against reader-supplied MapGenie data (Gordo + treasure-pod pages). Gordo data confirmed accurate (17/17, no changes); four resource pods MapGenie lists but the guide was missing were added, and a long-standing Starlight Strand header miscount was fixed._
+
+### Added
+
+- **Four missing treasure pods** (`appendix-g-treasure.md`), from MapGenie:
+  - **Rainbow Fields** - Jellystone (x3), Deep Brine (x2), Strange Diamond (x1): by the Rainbow Fields teleporter, appears after activating the Ember Valley Teleporter.
+  - **Ember Valley** - Strange Diamond (x1), Primordy Oil (x3), Lava Dust (x2): in the cave opened by feeding the Batty Gordo.
+  - **Ember Valley** - Strange Diamond (x1), Radiant Ore (x3), Silky Sand (x2): on top of the cliff southeast of the geyser.
+  - **Starlight Strand** - Buzz Wax (x3), Wild Honey (x2), Strange Diamond (x1): on a ledge in the tunnel the Angler Gordo unlocks.
+- **Filled previously-TBD collectible locations** (from MapGenie): two Grey Labyrinth (Terrarium) **map nodes** (`appendix-h-map.md`) and two **Shadow Plort Door** locations - Trydro Turret and Dream Lantern II (`appendix-j-shadow.md`).
+- **New Appendix M - Teleporter Network** (`appendix-m-teleporters.md`): A new appendix mapping every teleporter pair (surface zones + Grey Labyrinth) and how each end activates, built from MapGenie. Wired into `SUMMARY.md`, `README.md`, and `CLAUDE.md`; the Steam appendix count was updated 12 → 13.
+- **Grey Labyrinth element Plort Doors** (`appendix-i-doors.md`): Added the GL element doors MapGenie lists that were missing - the Angler door to the Hyper Gordo room, the Boom door shortcut between the Terrarium and Lava Depths, and a (location-unconfirmed) Hunter door.
+
+### Fixed
+
+- **Starlight Strand pod count** (`appendix-g-treasure.md`): The header read "32 Total" but the table already listed 33 pods. Corrected to "34 Total" (33 existing + the new Buzz Wax pod).
+- **Per-biome totals** now read 18 / 35 / 34 / 24 / 3 (Rainbow Fields / Ember Valley / Starlight Strand / Powderfall Bluffs / Conservatory) = 114, within one of MapGenie's listed 113.
+- **Research Drone counts** (`appendix-f-drones.md`): Rainbow Fields 2 → 7 and Powderfall Bluffs 1 → 4 to match MapGenie (Starlight Strand and Ember Valley were already correct at 6 each); the surface research-drone total is now 23.
+- **Shadow Plort Door costs & total** (`appendix-j-shadow.md`, chapters 10/12/13, `00-introduction.md`, Steam sections): MapGenie confirms Patch 1.0.3 reduced Shadow Plort costs (now **15 / 25 / 60 / 75** per door - no more 50s or 100s). Updated every door cost and recomputed the total to **~825** (was the pre-patch **1,165**); doors + Nullifier is now **~845** (was 1,185). Propagated the figure through Chapter 10, 12, 13 and the matching Steam sections, and marked the reduction confirmed in the introduction's Patch 1.0.3 note. Two entries (Wall Lighting, Ancient Stabilizer) couldn't be matched 1:1 on MapGenie, so the total is approximate - flagged in Appendix J.
+
+### Verified (no change)
+
+- **Gordo locations** (`appendix-a-slimes.md`): All 17 Gordos cross-checked against MapGenie's published list - every region, food type, quantity, and favorite-counts-as-2 matches. No corrections. (A few teleporter "unlocks" descriptions are worded differently between the guide and MapGenie - e.g. Sloomber's "Terrarium" vs MapGenie's "Conservatory Teleporter" - left as-is pending in-game confirmation.)
+- **Map Data Node count** (`appendix-h-map.md`): Confirmed at 17 (10 surface + 7 Grey Labyrinth) against MapGenie, resolving the earlier proxy doubt (which had suggested 5 Grey Labyrinth nodes) in the guide's favor.
+- **Surface Plort Doors** (`appendix-i-doors.md`): Rainbow Fields and Starlight Strand match MapGenie.
+- **Gordo unlock wording** (`appendix-a-slimes.md`): Re-checked the Sloomber Gordo - MapGenie's _teleporter_ data lists it activating the **Terrarium** Teleporter, matching the guide; MapGenie's _Gordo_ page (which says "Conservatory Teleporter") is internally inconsistent. Left the guide as-is.
+
+### Files Modified
+
+- `00-introduction.md` - Version bump to 0.4.4; marked the Patch 1.0.3 Shadow-cost reduction confirmed
+- `README.md` - Version header refresh; added Appendix M to the appendix list
+- `appendix-g-treasure.md` - Added 4 treasure pods; corrected Rainbow Fields / Ember Valley / Starlight Strand counts
+- `appendix-f-drones.md` - Corrected Research Drone counts (Rainbow Fields 7, Powderfall Bluffs 4)
+- `appendix-h-map.md` - Filled 2 TBD Terrarium map node locations
+- `appendix-i-doors.md` - Added the Ember Valley Slime Gate + 3 Grey Labyrinth element Plort Doors
+- `appendix-j-shadow.md` - Updated all Shadow costs to current values (~825 total); filled 2 TBD locations
+- `appendix-m-teleporters.md` - NEW: Teleporter Network appendix
+- `03-chapter-10.md`, `03-chapter-12.md`, `04-chapter-13.md` - Updated Shadow Plort totals (~825 / ~845) and cost ranges
+- `SUMMARY.md`, `CLAUDE.md` - Registered Appendix M
+- `steam/SECTION-01-INTRO.txt` - Version bump; appendix count 12 → 13
+- `steam/SECTION-11-CH10.txt`, `steam/SECTION-13-CH12.txt`, `steam/SECTION-14-CH13.txt` - Shadow Plort total updates
+- `steam/SECTION-18-APPENDICES-2.txt` - Version footer bump; appendix count 12 → 13
+- `steam/STEAM-VERSION.md` - Version bump; Shadow Plort total + appendix count updates
 
 ---
 

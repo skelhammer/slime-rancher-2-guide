@@ -19,5 +19,5 @@ All map node locations across Rainbow Island and the Grey Labyrinth.
 | The Grey Labyrinth 3 - Lava Depths | In the Lava Depths, inside the hallway locked by Plort Doors (use surrounding Rock Plort Statues to access). |
 | The Grey Labyrinth 4 - West | In the Waterworks area, at the end of the hedge maze directly next to a Shadow Plort Door. |
 | The Grey Labyrinth 5 - Dream Land | In Dream Land, south of the Sloomber Gordo, located on the edge of a cliff. |
-| The Grey Labyrinth 6 - Terrarium | In The Terrarium biodome (location details TBD). |
-| The Grey Labyrinth 7 - Terrarium | Second map node in The Terrarium biodome (location details TBD). |
+| The Grey Labyrinth 6 - Terrarium | At the top of a cliff in the Terrarium. |
+| The Grey Labyrinth 7 - Terrarium | Near a tree on a cliff, reached after unlocking the Angler Plort Door (the door that opens the Hyper Gordo room). |

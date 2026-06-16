@@ -31,8 +31,8 @@ Complete locations for all Ghostly and Research Drones in Slime Rancher 2.
 | The Gully | 1   | Upper cliffs area |
 | The Archway | 1   | On the back side of the main arch structure |
 | The Den | 1   | Inside a small cave within the expansion |
-| Rainbow Fields | 2   | One flying around the tall central mountain; one in the western area |
+| Rainbow Fields | 7   | Near the tunnel entrance (a ledge up the cliff, and atop the cliff above it); on a stone arch near a ranch plot; edge of an island next to a rock; on a mushroom on a cave's central pillar; by a cliff wall near a Refinery Link and tunnel; a small ledge next to a tree |
 | Starlight Strand | 6   | Near the large tree at pink/blue biome junction; various locations throughout |
 | Ember Valley | 6   | One at small oasis above Powderfall Bluffs entrance waterfall; one in lava caves; others scattered |
-| Powderfall Bluffs | 1   | High up on the large, isolated northwestern island |
+| Powderfall Bluffs | 4   | Snow pile at the edge of a ledge over the water; underground ledge by a large cave opening; underground alcove off the glowing-flower cave; end of a side path near a cliff edge |
 | Grey Labyrinth | 3   | Entrance tower to Dreamland; inside Terrarium; long walkway to Prismacore |

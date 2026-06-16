@@ -14,7 +14,7 @@ This chapter is about opening all 25 Shadow Plort Doors and stockpiling resource
 
 [h3]Phase 1: Shadow Plort Door Completion[/h3]
 
-[b]Objective:[/b] Open all 25 Shadow Plort Doors (1,165 Shadow Plorts total)
+[b]Objective:[/b] Open all 25 Shadow Plort Doors (~825 Shadow Plorts total)
 
 [b]Shadow Plort Farming Strategy:[/b]
 [list]
@@ -22,14 +22,14 @@ This chapter is about opening all 25 Shadow Plort Doors and stockpiling resource
 [*]Hit them with ANY thrown object (Pink Plorts, vegetables, anything)
 [*]They drop Shadow Plorts, then vanish
 [*]Respawn in same dark corner locations
-[*]Total needed: 1,185 Shadow Plorts (1,165 for doors + 20 for Nullifier)
+[*]Total needed: ~845 Shadow Plorts (~825 for doors + 20 for Nullifier)
 [*][b]CRITICAL:[/b] Store in SILOS, not Refinery (cannot use Refinery plorts for doors)
 [/list]
 
 [b]Door Cost Breakdown:[/b]
 [list]
-[*]Costs range from 25-100 Shadow Plorts per door
-[*]Total for all 25 doors: 1,165 Shadow Plorts
+[*]Costs range from 15-75 Shadow Plorts per door (reduced in Patch 1.0.3)
+[*]Total for all 25 doors: ~825 Shadow Plorts
 [*]Priority Doors (open first): 25 & 50 plort doors for shortcuts and quality-of-life
 [/list]
 
@@ -123,7 +123,7 @@ This helps optimize Prisma Plort farming timing.
 [h3]End of Chapter Checklist[/h3]
 
 [list]
-[*]✅ All 25 Shadow Plort Doors opened (1,165 Shadow Plorts spent)
+[*]✅ All 25 Shadow Plort Doors opened (~825 Shadow Plorts spent)
 [*]✅ ~245 Prisma Plorts stockpiled in SILOS
 [*]✅ Heart Module IV, Power Core V, Tank Booster V-VIII crafted
 [*]✅ Disruption Detector crafted and placed

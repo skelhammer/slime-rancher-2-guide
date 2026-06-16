@@ -1,6 +1,6 @@
 [h1]Slime Rancher 2: A Practical Walkthrough[/h1]
 
-[b]Version 0.4.3 - Completionist Edition[/b]
+[b]Version 0.4.4 - Treasure Hunt Edition[/b]
 [b]Last Updated:[/b] June 15, 2026
 
 [hr][/hr]
@@ -212,7 +212,7 @@ This condensed Steam guide is split into 17 sections:
 
 [hr][/hr]
 
-[b]Full guide with 15 detailed chapters, 12 comprehensive appendices, and 4,750+ lines of strategic content available on GitHub.[/b]
+[b]Full guide with 15 detailed chapters, 13 comprehensive appendices, and 4,750+ lines of strategic content available on GitHub.[/b]
 
 [h1]https://github.com/skelhammer/slime-rancher-2-guide[/h1]
 

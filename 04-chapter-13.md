@@ -12,7 +12,7 @@ This chapter is about systematic completion of all prerequisites for the story f
 
 #### Phase 1: Shadow Plort Door Completion
 
-**Objective:** Open all 25 Shadow Plort Doors (1,165 Shadow Plorts total)
+**Objective:** Open all 25 Shadow Plort Doors (~825 Shadow Plorts total)
 
 The Shadow Plort Doors are the Grey Labyrinth's equivalent of Treasure Pods. They grant access to blueprints, upgrade components, and critical shortcuts. You MUST open all 25 before proceeding to Prismacore.
 
@@ -26,10 +26,10 @@ The Shadow Plort Doors are the Grey Labyrinth's equivalent of Treasure Pods. The
 
 **Door Cost Breakdown:**
 
-- Costs range from 25-100 Shadow Plorts per door
-- Total for doors: 1,165 Shadow Plorts
+- Costs range from 15-75 Shadow Plorts per door (reduced in Patch 1.0.3)
+- Total for doors: ~825 Shadow Plorts
 - Additional for Nullifier (Chapter 14): 20 Shadow Plorts
-- **Total Shadow Plorts needed: 1,185**
+- **Total Shadow Plorts needed: ~845**
 - **Store Shadow Plorts in SILOS** until all doors are open (cannot use Refinery plorts for doors)
 
 **Priority Doors (open first):**
@@ -121,7 +121,7 @@ Complete Grey Labyrinth coverage with internal fast travel between distant zones
 
 By the end of Chapter 13, you should have:
 
-- ✅ All 25 Shadow Plort Doors opened (1,165 Shadow Plorts spent)
+- ✅ All 25 Shadow Plort Doors opened (~825 Shadow Plorts spent)
 - ✅ ~245 Prisma Plorts stockpiled in SILOS
 - ✅ Heart Module IV, Power Core V, Tank Booster V-VIII crafted
 - ✅ Disruption Detector crafted and placed

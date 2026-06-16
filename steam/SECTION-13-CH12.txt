@@ -123,8 +123,8 @@ Chapter 13 (The Endgame Audit) focuses on maximizing Vacpack capabilities and un
 
 [b]Preparation for Chapter 13:[/b]
 [list]
-[*][b]Shadow Plort Farming:[/b] Begin systematically farming Shadow Plorts from Grey Labyrinth. Total needed: 1,185
-  - Shadow Plort Doors: 1,165 plorts
+[*][b]Shadow Plort Farming:[/b] Begin systematically farming Shadow Plorts from Grey Labyrinth. Total needed: ~845
+  - Shadow Plort Doors: ~825 plorts
   - Strange Dimension Nullifier: 20 Shadow Plorts
 [*][b]Prisma Plort Farming:[/b] Farm Prisma Plorts during Prisma Disruptions. Total needed: 245
   - Gigi's Silo upgrades: 90 Prisma Plorts

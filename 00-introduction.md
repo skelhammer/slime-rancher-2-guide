@@ -1,6 +1,6 @@
 # Slime Rancher 2: A Practical Walkthrough
 
-#### Version 0.4.3 - Completionist Edition
+#### Version 0.4.4 - Treasure Hunt Edition
 
 **Last Updated: June 15, 2026**
 
@@ -8,7 +8,7 @@
 
 This guide has been verified against the official Slime Rancher 2 Wiki and patch notes for Version 1.0 (released September 23, 2025). Prices and material costs are out of date, as version 1.0 overhauled all recipes without including them in the patch notes. Information will be updated as it's discovered.
 
-**Patch 1.0.3 Update (November 1, 2025):** Patch 1.0.3 introduced several balance changes. Confirmed updates include reduced Strange Diamond costs for Quantum Drone Stations and Shadow Sureshot recipe (now 20 Sloomber/20 Twin/20 Hyper Plorts + Module). Additional changes from Patch 1.0.3 that are not yet verified in-game include: reduced Shadow Plort costs for doors/pods in Grey Labyrinth, Shadow Slimes drop extra plorts when hit and lurk longer, Prisma Stabilizers may produce additional Prisma Plorts, unstable items can be held in tank longer, and common/uncommon resource nodes provide more resources.
+**Patch 1.0.3 Update (November 1, 2025):** Patch 1.0.3 introduced several balance changes. Confirmed updates include reduced Strange Diamond costs for Quantum Drone Stations and Shadow Sureshot recipe (now 20 Sloomber/20 Twin/20 Hyper Plorts + Module). The reduced Shadow Plort costs for Grey Labyrinth doors/pods are now confirmed via MapGenie (see Appendix J - the full door set totals about 825, down from the pre-patch 1,165). Additional changes from Patch 1.0.3 that are not yet verified in-game include: Shadow Slimes drop extra plorts when hit and lurk longer, Prisma Stabilizers may produce additional Prisma Plorts, unstable items can be held in tank longer, and common/uncommon resource nodes provide more resources.
 
 **Patch 1.1.0 Update (December 2, 2025 - "Toys, Trimmings, and Tune-Ups"):** Major content update adding slime toys for every slime type, Shadow Pots in Grey Labyrinth, new decorative gadgets (lamps, plants, pillows, stages), and the Distributor gadget. Explorer Drones can now target Odd Onions but were nerfed to prevent excessive passive plort farming. See Appendix E for complete toy and gadget lists.
 

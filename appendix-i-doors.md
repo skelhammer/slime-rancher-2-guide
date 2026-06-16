@@ -9,6 +9,7 @@ All plort-locked doors and their rewards across Rainbow Island and the Grey Laby
 | Ember Valley | 1 Angler Plort | On the lower grass level of the island, next to a water spout. | Access to the Sureshot Module treasure pod. |
 | Ember Valley | 3 Boom Plorts | Inside the coastal cave with the Rock Gordo. | A path shortcut within the cave system. |
 | Ember Valley | 1 Batty, 1 Tabby, & 1 Boom Plort | Inside a secret waterfall cave across from the Crystal Gordo. | Access to the Powderfall Bluffs Portal. |
+| Ember Valley | Slime Gate (no plorts) | Inside the ruins behind the Boom Gordo. Align the beam using two Radiant Projectors after speaking with Viktor. | Access to the Grey Labyrinth Teleporter. |
 | Starlight Strand | 1 Hunter Plort | On the coastal side, directly behind the portal to Rainbow Fields. | A path shortcut. |
 | Starlight Strand | 1 Honey Plort | Inside the river cave in the northern blue region. | Access to a Storage Cell treasure pod. |
 | Starlight Strand | 1 Rock Plort | Outside the river cave in the southern pink region. | Access to a Storage Cell treasure pod. |
@@ -26,3 +27,6 @@ All plort-locked doors and their rewards across Rainbow Island and the Grey Laby
 | The Grey Labyrinth - Impossible Sky | 1 Shadow, 1 Sloomber, & 1 Twin Plort | In the Impossible Sky (grassy overgrown area); requires three separate plort statues. | Access to the area with the Twin Gordo. |
 | The Grey Labyrinth | 1 Boom Plort | In the lava area with rectangular grey pillars. | A hallway shortcut. |
 | The Grey Labyrinth | 3 Rock Plorts | Three separate doors in the Lava Depths that open one long hallway. | A major hallway shortcut. |
+| The Grey Labyrinth (Terrarium) | 1 Angler Plort | Down a corridor in the ice-cave area (Angler Plort statue). | A room with the Hyper Gordo. |
+| The Grey Labyrinth (Terrarium) | 1 Boom Plort | Down a hole at the end of the path, past a Shadow Plort Door (Boom Plort statue). | A shortcut between the Terrarium and the Lava Depths. |
+| The Grey Labyrinth | 1 Hunter Plort | Location not yet confirmed (Hunter Plort statue). | Reward not yet confirmed. |

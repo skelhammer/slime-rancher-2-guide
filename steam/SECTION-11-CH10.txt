@@ -90,7 +90,7 @@
 [*]Respawn in same dark corner locations
 [*][b](Patch 1.1.0) Shadow Pots:[/b] Break open pots throughout Grey Labyrinth to release Shadow Slimes - can pick up and move pots for strategic farming!
 [*][b](Patch 1.1.1) Despawn cap:[/b] Shadow Slimes now despawn once they hit their max plort count - work multiple spawns instead of camping one. Shadow Pots also contain fewer slimes per pot.
-[*]Total needed: 1,185 Shadow Plorts (1,165 for doors + 20 for Nullifier)
+[*]Total needed: ~845 Shadow Plorts (~825 for doors + 20 for Nullifier)
 [*][b]CRITICAL:[/b] Store in SILOS, not Refinery (cannot use Refinery plorts for doors)
 [/list]
 
@@ -128,7 +128,7 @@
 [*][b]Pop Gordos for Portals:[/b] Twin (Rainbow Fields), Sloomber (Conservatory), Hyper (key switch)
 [*][b]Capture Breeding Stock:[/b] 10-12 of each elite slime type (Twin, Sloomber, Hyper)
 [*][b]Collect Favorite Foods:[/b] 40-60 of each (Polaricherry, Candied Hen, Turbo Tater)
-[*][b]Farm Shadow Plorts Opportunistically:[/b] Start collecting for Chapter 13 (1,165 total needed)
+[*][b]Farm Shadow Plorts Opportunistically:[/b] Start collecting for Chapter 13 (~825 total needed)
 [*][b]Store Plorts in Silos:[/b] NEVER put Shadow/Prisma Plorts in Refinery until door/milestone objectives complete
 [*][b]Do Not Ranch Here:[/b] Grey Labyrinth is extraction zone, not ranching expansion
 [/olist]

@@ -149,10 +149,10 @@ The 25 Shadow Plort Doors are the Grey Labyrinth's equivalent of Treasure Pods:
 - **Visual:** Shaped like Refinery Links with sun-meter dial above
 - **Map Icon:** Moon/Sun symbols (black and yellow pokeball-like icon)
 - **Opening:** Deposit Shadow Plorts into door. Sun meter transitions to night-time (crescent moon), then unlocks
-- **Costs:** 25-100 Shadow Plorts per door (varies)
+- **Costs:** 15-75 Shadow Plorts per door (reduced in Patch 1.0.3)
 - **Total Count:** 25 doors (19 in main areas, 6 in Terrarium)
 - **Rewards:** Blueprints, upgrade components (Storage Cells, Power Chips), decorations, shortcuts
-- **Total Needed:** 1,165 Shadow Plorts to open all 25 (Chapter 13 objective)
+- **Total Needed:** ~825 Shadow Plorts to open all 25 (Chapter 13 objective)
 
 #### Phase 4: Asset Acquisition - Capturing Elite Slimes
 
@@ -232,9 +232,9 @@ Shadow Slimes are unique - they cannot be vacuumed or captured, but they produce
 
 **Shadow Plort Uses:**
 
-- 1,165 for opening all 25 Shadow Plort Doors (Chapter 13)
+- ~825 for opening all 25 Shadow Plort Doors (Chapter 13)
 - 20 for Nullifier crafting (Chapter 14)
-- **Total needed: 1,185 Shadow Plorts**
+- **Total needed: ~845 Shadow Plorts**
 
 **CRITICAL - Store Shadow Plorts in SILOS, not Refinery** (cannot use Refinery plorts to open doors)
 
@@ -311,7 +311,7 @@ The Grey Labyrinth is vast and dangerous. Setting up strategic warp gadgets in e
 2. **Pop Gordos for Portals:** Twin Gordo (Rainbow Fields), Sloomber Gordo (Conservatory), Hyper Gordo (key switch) - these portals save massive time.
 3. **Capture Breeding Stock:** 10-12 of each elite slime type (Twin, Sloomber, Hyper) is sufficient for ranch operations.
 4. **Collect Favorite Foods:** 40-60 of each food type (Polaricherry, Candied Hen, Turbo Tater) for Chapter 11 buildout.
-5. **Farm Shadow Plorts Opportunistically:** Start collecting Shadow Plorts now for Chapter 13 door opening (1,165 total needed).
+5. **Farm Shadow Plorts Opportunistically:** Start collecting Shadow Plorts now for Chapter 13 door opening (~825 total needed).
 6. **Store Plorts in Silos:** NEVER put Shadow/Prisma Plorts in Refinery until you've completed door/milestone objectives.
 7. **Do Not Ranch Here:** Grey Labyrinth is an extraction zone, not a ranching expansion. Capture assets and return to your secure ranch.
 

@@ -44,6 +44,7 @@
 - [J: Grey Labyrinth Shadow Plort Doors](appendix-j-shadow.md)
 - [K: Resource Priority Guide](appendix-k-resources.md)
 - [L: Ranch Progression Quick Reference](appendix-l-plot-overview.md)
+- [M: Teleporter Network](appendix-m-teleporters.md)
 
 ---
 

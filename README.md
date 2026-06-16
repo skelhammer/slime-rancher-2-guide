@@ -1,6 +1,6 @@
 # Slime Rancher 2: A Practical Walkthrough
 
-**Version 0.4.3 - Completionist Edition**
+**Version 0.4.4 - Treasure Hunt Edition**
 **Last Updated:** June 15, 2026
 
 📖 **Read online:** [skelhammer.github.io/slime-rancher-2-guide](https://skelhammer.github.io/slime-rancher-2-guide/) — full book site with sidebar TOC, next/prev navigation, and search. Rebuilt automatically on every push to `main`.
@@ -38,6 +38,7 @@ The guide has been split into individual chapter files for easier editing and na
 - **[appendix-j-shadow.md](appendix-j-shadow.md)** - Grey Labyrinth Shadow Plort Doors
 - **[appendix-k-resources.md](appendix-k-resources.md)** - Resource Priority Guide
 - **[appendix-l-plot-overview.md](appendix-l-plot-overview.md)** - Ranch Progression Quick Reference
+- **[appendix-m-teleporters.md](appendix-m-teleporters.md)** - Teleporter Network
 
 ### Part 1: The Foundation (Chapters 1-4)
 

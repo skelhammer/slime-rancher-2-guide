@@ -85,7 +85,7 @@ Hunter: 35-50 | Angler: 30-50 | Ringtail: 42-70 | Flutter: 20-50 | Saber: 42-70
 [list]
 [*]Twin: 37-85 | Sloomber: 37-85 | Hyper: 30-60
 [*]Dervish: 75 | Tangle: High value
-[*]Shadow: 25-40 (1,165 needed for all doors)
+[*]Shadow: 25-40 (~825 needed for all doors)
 [*]Fire: 35-45 (passive) | Puddle: 80-100 (passive, slow)
 [*]Gold: 150-250 (cannot ranch)
 [/list]
@@ -116,10 +116,10 @@ Hunter: 35-50 | Angler: 30-50 | Ringtail: 42-70 | Flutter: 20-50 | Saber: 42-70
 
 [h1]https://github.com/skelhammer/slime-rancher-2-guide[/h1]
 
-[b]Full guide includes:[/b] 15 detailed chapters, 12 comprehensive appendices, complete slime/item tables, drone programming strategies, and 4,750+ lines of strategic content.
+[b]Full guide includes:[/b] 15 detailed chapters, 13 comprehensive appendices, complete slime/item tables, drone programming strategies, and 4,750+ lines of strategic content.
 
 [hr][/hr]
 
-[b]Author:[/b] skelhammer | [b]Version:[/b] 0.4.3 - Completionist Edition | [b]License:[/b] CC BY 4.0
+[b]Author:[/b] skelhammer | [b]Version:[/b] 0.4.4 - Treasure Hunt Edition | [b]License:[/b] CC BY 4.0
 
 [b]Deploy capital aggressively. Automate relentlessly. Dominate the market.[/b]

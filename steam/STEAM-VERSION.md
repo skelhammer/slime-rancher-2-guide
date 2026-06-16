@@ -1,6 +1,6 @@
 # Slime Rancher 2: A Practical Walkthrough - Steam Guide
 
-**Version 0.4.3 - Completionist Edition**
+**Version 0.4.4 - Treasure Hunt Edition**
 **Last Updated: June 15, 2026**
 
 ---
@@ -13,7 +13,7 @@
 
 The full GitHub guide includes:
 - 15 detailed chapters with operational blueprints
-- 12 comprehensive appendices with slime stats, item lists, upgrade costs, and treasure pod locations
+- 13 comprehensive appendices with slime stats, item lists, upgrade costs, and treasure pod locations
 - Ranch progression tables showing plot-by-plot layouts
 - Drone automation strategies
 - Complete Grey Labyrinth and endgame coverage
@@ -185,7 +185,7 @@ More slimes does NOT mean more profit. It means chaos, overcrowding, and reduced
 ### Part 4: Endgame Mastery (Chapters 13-15)
 
 **Chapter 13: The Endgame Audit**
-- Open all 25 Shadow Plort Doors (1,165 Shadow Plorts)
+- Open all 25 Shadow Plort Doors (~825 Shadow Plorts)
 - Stockpile Prisma Plorts (~265 total)
 - Complete final Vacpack upgrades
 - Verify ranch automation
