@@ -1,8 +1,8 @@
 ## Chapter 6: The Tidepools - Passive Income
 
-**Mindset:** _Establish passive income streams._
+**Mindset:** _The best income is the kind you forget about._
 
-Develop The Tidepools into a zero-maintenance division generating constant passive income while crafting Tier III upgrades.
+The Tidepools is where the ranch starts paying you to do nothing. Puddle Slimes make plorts from plain water, Fire Slimes make them from ash, and neither can ever turn Tarr. Set it up once and it quietly prints money for about ten minutes of upkeep every couple of days. While it hums along, you'll craft the Tier III upgrades that keep you breathing in the next chapter's frozen, Saber-infested north.
 
 ### The Operational Blueprint
 
@@ -40,13 +40,13 @@ Develop The Tidepools into a zero-maintenance division generating constant passi
 
 ### Strategic Priorities
 
-1. **Unlock The Tidepools:** Purchase expansion access (6,000 NB) to establish passive income center.
-2. **Deploy Puddle Ponds:** Install two Puddle Ponds (8 slimes total) for zero-maintenance plort generation.
-3. **Deploy Fire Incinerators:** Install two Incinerators (10 Fire Slimes total) for low-maintenance income.
-4. **Build Ash Production Garden:** Plant vegetables to generate ash for Fire Slime feeding.
-5. **Craft Tier III Upgrades:** CRITICAL—Heart Module III, Tank Booster III, Power Core III required for Chapter 7 (Powderfall Bluffs).
-6. **Establish Passive Income:** Create 1,540-2,310 NB/day revenue stream requiring only 10-15 minutes management.
-7. **Zero Tarr Risk:** Puddle and Fire Slimes cannot create Tarr—safest operations on ranch.
+1. **Unlock The Tidepools.** 6,000 Newbucks. The door is at the far end of The Gully.
+2. **Drop two Puddle Ponds.** 8 slimes total, making plorts from nothing but water.
+3. **Light two Incinerators.** 10 Fire Slimes total, turning ash into income.
+4. **Plant the ash garden.** Veggies in, ash out, Fire Slimes fed.
+5. **Craft the Tier III upgrades.** Critical before Chapter 7: Heart Module III, Tank Booster III, and Power Core III are your survival kit for Powderfall Bluffs.
+6. **Bank the passive income.** 1,540 to 2,310 Newbucks a day for maybe 15 minutes of attention.
+7. **Enjoy zero Tarr risk.** Puddle and Fire Slimes can't ever go Tarr. This is the safest corner of the ranch.
 
 ### Financial Checkpoint
 
@@ -64,7 +64,7 @@ Develop The Tidepools into a zero-maintenance division generating constant passi
 - **Daily Increase:** +1,540-2,310 Newbucks/day
 - **Return on Investment:** 10,350 NB (expansion + build) ÷ 1,925 NB/day = ~5.4 days to break even
 
-**Strategic Note:** Tidepools passive income requires minimal daily interaction (10-15 minutes) while you explore Powderfall Bluffs in Chapter 7. Tier III upgrades are MANDATORY before entering aggressive Saber territory.
+**Strategic Note:** That hands-off income is the whole point. It keeps the Newbucks flowing while you're off freezing in Powderfall Bluffs next chapter. Do not leave for that trip without your Tier III upgrades. Saber territory is not the place to discover you're under-geared.
 
 #### Phase 1: Unlock The Tidepools
 
@@ -180,9 +180,9 @@ By the end of Chapter 6, you should have:
 
 ### Next Chapter Preparation
 
-Chapter 7 explores Powderfall Bluffs to capture Saber Slimes and harvest critical endgame resources (Sun Sap, Perfect Snowflakes).
+Chapter 7 sends you into Powderfall Bluffs to bag Saber Slimes and harvest the rare endgame stuff (Sun Sap, Perfect Snowflakes). Prep ahead:
 
-- **Equipment Check:** You should have all Tier III upgrades (Heart Module III, Power Core III, Tank Booster III, Tank Guard II) before entering Powderfall Bluffs. Aggressive Saber Slimes require maximum defensive capability.
-- **Carnivore Supplies:** Stockpile 50+ meat (Thunderclucks preferred) to pop the Saber Gordo and capture wild Saber Slimes.
-- **Access Route:** Locate the hidden waterfall entrance in southwestern Ember Valley.
-- **Objective:** Capture 10-12 Saber Slimes and 20-30 Thunderclucks for Chapter 8's Den expansion. Harvest Sun Sap (ULTRA-RARE endgame resource) and mark all tree locations.
+- **Gear check:** Have all your Tier III upgrades (Heart Module III, Power Core III, Tank Booster III, Tank Guard II) before you set foot up there. Sabers hit hard, and you'll want the cushion.
+- **Pack meat:** 50+ (Thunderclucks ideally) to pop the Saber Gordo and tame wild Sabers.
+- **Find the door:** The entrance is a hidden waterfall in southwestern Ember Valley.
+- **The mission:** Capture 10-12 Saber Slimes and 20-30 Thunderclucks for Chapter 8's Den, and harvest Sun Sap (ultra-rare) while marking every tree you spot.
