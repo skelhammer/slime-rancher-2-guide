@@ -1,8 +1,8 @@
 ## Chapter 7: Powderfall Bluffs - Saber Acquisition
 
-**Mindset:** _Execute the Saber expedition._
+**Mindset:** _Smash-and-grab in the snow._
 
-Launch a focused expedition into Powderfall Bluffs to capture elite Saber Slimes and secure critical endgame crafting resources.
+Powderfall Bluffs is a frozen, hostile, genuinely gorgeous slice of the map, and you're not here to settle down. This is a raid: get in, bag a pack of elite Saber Slimes, strip the cliffs of their rare endgame resources (Sun Sap above all), and get out before the Sabers wear you down. No new ranch plots this chapter, just a backpack full of expensive souvenirs.
 
 ### The Operational Blueprint
 
@@ -60,7 +60,7 @@ Powderfall Bluffs contains 2 Map Data Nodes. Activate these immediately upon ent
 - **Northern Mountain Summit (Primary Node):** Highest point on northern mountain near Saber Gordo location. Reveals majority of Powderfall Bluffs including Saber territory and ice caves.
 - **Central Valley Plateau (Secondary Node):** Large icy plateau near frozen lake in central valley. Completes map coverage of lower elevations and forested areas.
 
-**Collection Priority:** Activate Northern Summit immediately upon entry—it's near the waterfall entrance route and provides comprehensive map awareness. Central Valley node is optional but helps with Sun Sap tree navigation.
+**Collection Priority:** Hit the Northern Summit node first. It's right off the waterfall entrance route and lights up most of the map. The Central Valley node is optional, but it makes Sun Sap tree hunting a lot easier.
 
 #### Phase 2: Gordo Strategy & Slime Acquisition
 
@@ -90,7 +90,7 @@ Powderfall Bluffs contains 2 Map Data Nodes. Activate these immediately upon ent
 
 - **Location:** Northern plateau areas near Saber Gordo
 - **Method:** Pop Saber Gordo first to get 12 free Saber Slimes
-- **Tactics:** Use Pulse Wave for crowd control—Sabers are aggressive and fast
+- **Tactics:** Lean on Pulse Wave for crowd control. Sabers are aggressive, fast, and they travel in packs.
 - **Transport:** Return to ranch via Saber Gordo portal (southern Ember Valley) → Rainbow Fields → Conservatory
 
 **Thunderclucks (Target: 20-30)**
@@ -114,7 +114,7 @@ Powderfall Bluffs contains 2 Map Data Nodes. Activate these immediately upon ent
 | **Primordy Oil** | Various locations | Power Core upgrades (supplement Ember Valley collection) |
 | **Lightning Mote** | During thunderstorms | Linked Cannons crafting |
 
-**CRITICAL:** Sun Sap is the bottleneck material for late-game upgrades. Every Sun Sap tree location must be marked and revisited weekly (5-7 in-game days for respawns).
+**CRITICAL:** Sun Sap is the chokepoint for half your late-game upgrades, and it's miserly. Pin every tree you find and circle back weekly (it respawns every 5-7 in-game days). Future-you, mid-upgrade and one Sun Sap short, will thank you.
 
 **Treasure Pod Priorities:**
 
@@ -158,7 +158,7 @@ Powderfall Bluffs contains 2 Map Data Nodes. Activate these immediately upon ent
 **Deploy Refinery Link:**
 
 - **Crafting Requirements:** 250 Newbucks + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
-- **Optimal Placement:** Central valley plateau near Secondary Map Data Node—provides easy access to Sun Sap trees, Perfect Snowflake cliffs, and Slime Fossil caves
+- **Optimal Placement:** The central valley plateau by the Secondary Map Data Node. From there the Sun Sap trees, Perfect Snowflake cliffs, and Slime Fossil caves are all a short hop.
 - **Benefit:** Essential for depositing rare resources (especially Sun Sap) immediately upon collection. Prevents accidental loss from falls or Tarr encounters during extended exploration sessions.
 
 **Deploy Portal System:**
@@ -181,13 +181,13 @@ Powderfall Bluffs contains 2 Map Data Nodes. Activate these immediately upon ent
 
 ### Strategic Priorities
 
-1. **Map First:** Activate Northern Mountain Summit Map Data Node immediately upon entry for comprehensive map coverage.
-2. **Pop Saber Gordo:** Unlock portal shortcut and receive 12 free Saber Slimes to skip wild capture.
-3. **Mark Sun Sap Trees:** CRITICAL—every Sun Sap tree location must be marked for future weekly farming (5-7 day respawns).
-4. **Collect Thunderclucks:** 20-30 Thunderclucks (including Roostros) for breeding program and Saber favorite food.
-5. **Priority Treasure Pods:** Sun Sap x3 treasure pod (30% of endgame requirements), Powderfall Portal blueprint.
-6. **Deploy Warp Infrastructure:** Refinery Link + Portal system for efficient resource farming returns.
-7. **Craft Extra Tank II:** 5th vac slot essential for extended resource collection runs.
+1. **Map it first.** Activate the Northern Mountain Summit node on arrival so you're not exploring blind.
+2. **Pop the Saber Gordo.** Free portal shortcut and 12 free Sabers, no wild wrangling required.
+3. **Mark every Sun Sap tree.** Critical. This is the rarest material in the game, and you'll be back weekly (5-7 day respawns).
+4. **Grab Thunderclucks.** 20-30 of them (Roostros included) for breeding and Saber's favorite meal.
+5. **Hit the priority pods.** The Sun Sap x3 pod alone is 30% of your endgame supply, plus the Powderfall Portal blueprint.
+6. **Wire up fast travel.** A Refinery Link and Portal make the weekly Sun Sap loop quick.
+7. **Craft Extra Tank II.** A 5th vac slot you'll be glad to have on long resource runs.
 
 ### Financial Checkpoint
 
@@ -228,10 +228,10 @@ By the end of Chapter 7, you should have:
 
 ### Next Chapter Preparation
 
-Chapter 8 unlocks The Den expansion and executes a major ranch reorganization to consolidate all nocturnal slimes and optimize food logistics.
+Chapter 8 unlocks The Den and runs the biggest reshuffle yet, herding your nocturnal slimes into one place and tidying up food logistics. Prep ahead:
 
-- **Financial Goal:** Save 17,000+ Newbucks for The Den unlock (2,800 NB), build-out (13,905 NB), and Conservatory adjustments (475 NB).
-- **Asset Verification:** You should have 10-12 Saber Slimes and 20-30 Thunderclucks from this chapter ready for deployment in The Gully.
-- **Reorganization Scope:** Chapter 8 relocates Boom-Batty Largos to The Den, creates two new nocturnal operations (Flutter-Phosphor and Batty-Ringtail Largos), rebuilds Conservatory Plot 7 with Flutter-Honey Largos, and converts The Gully Plot 5 to Saber-Hunter Largos.
-- **Slime Collection:** Capture 6 Ringtail Slimes (spawn at night in multiple biomes) for Batty-Ringtail Largos in The Den.
-- **Flutter Plorts:** Continue accumulating in Refinery. Target: 300+ by Chapter 9 (needed for Quantum Drones).
+- **Bank it:** Aim for 17,000+ Newbucks: The Den unlock (2,800 NB), build-out (13,905 NB), and a few Conservatory tweaks (475 NB).
+- **Roster check:** You should walk in with 10-12 Sabers and 20-30 Thunderclucks from this trip, ready to deploy in The Gully.
+- **Know the plan:** Chapter 8 moves Boom-Batty to The Den, spins up two new night lines (Flutter-Phosphor and Batty-Ringtail), rebuilds Conservatory Plot 7 as Flutter-Honey, and converts Gully Plot 5 to Saber-Hunter.
+- **Catch some Ringtails:** Grab 6 (they're out at night across several biomes) for the Den's Batty-Ringtail line.
+- **The Flutter rule (yes, still):** Keep banking Flutter Plorts. 300+ by Chapter 9 for the drones.
