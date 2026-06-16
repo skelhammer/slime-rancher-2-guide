@@ -1,8 +1,8 @@
 ## Chapter 3: Ember Valley - Resource Extraction
 
-**Mindset:** _Extract critical resources._
+**Mindset:** _Strip-mine the volcano. Politely._
 
-Expand your Conservatory to 8 plots while simultaneously extracting Ember Valley's resources and blueprints for Tier II upgrades.
+Ember Valley is the messy, lava-soaked heart of your supply chain. This chapter you fill the Conservatory out to all 8 plots, stand up two new Largo lines, and haul home the resources and blueprints that every Tier II upgrade is hungry for. Bring a fireproof attitude.
 
 ### The Operational Blueprint
 
@@ -190,7 +190,7 @@ Before deep exploration of Ember Valley, establish your two new corral operation
 **Deploy Refinery Link:**
 
 - **Crafting Requirements:** 250 Newbucks + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
-- **Optimal Placement:** Central geyser area between the Batty Gordo caves (western) and Crystal Gordo caves (northern)—this central hub provides easy access from most resource-rich zones (volcanic area, northern chasm, coastal caves)
+- **Optimal Placement:** The central geyser area between the Batty Gordo caves (west) and the Crystal Gordo caves (north). This hub sits within easy reach of the resource-rich zones (volcanic area, northern chasm, coastal caves).
 - **Benefit:** Eliminates need to return to Conservatory when inventory fills with Jellystone, Radiant Ore, Primordy Oil, and Lava Dust during extended farming sessions
 
 **Deploy Portal System:**
@@ -213,13 +213,13 @@ Before deep exploration of Ember Valley, establish your two new corral operation
 
 ### Strategic Priorities
 
-1. **Map First:** Activate all 3 Map Data Nodes to reveal volcanic areas, caves, and coastal zones.
-2. **Pop Key Gordos:** Rock, Batty, Crystal, Boom, Tabby—unlock treasure pods with upgrade components.
-3. **Ranch Expansion:** Expand Conservatory to 8 plots (Crystal-Rock and Boom-Batty operations).
-4. **Craft Water Tank:** CRITICAL—essential Tarr safety before deep exploration.
-5. **Collect Upgrade Components:** Jetpack Drive, Power Chip, Heart Cell, Storage Cell from treasure pods.
-6. **Harvest Resources:** Stockpile Jellystone, Deep Brine, Primordy Oil, Radiant Ore, Lava Dust, Silky Sand.
-7. **Deploy Warp Infrastructure:** Refinery Link + Portal system for resource farming efficiency.
+1. **Map it first.** Light up all 3 Map Data Nodes so the volcano, caves, and coast stop being guesswork.
+2. **Pop the key Gordos.** Rock, Batty, Crystal, Boom, and Tabby each crack open treasure pods full of upgrade components.
+3. **Fill out the ranch.** Take the Conservatory to 8 plots with the Crystal-Rock and Boom-Batty lines.
+4. **Craft the Water Tank.** Critical Tarr insurance before you go deep. A full water vac is your panic button.
+5. **Grab the components.** Jetpack Drive, Power Chip, Heart Cell, and Storage Cell are all waiting in pods.
+6. **Stockpile materials.** Jellystone, Deep Brine, Primordy Oil, Radiant Ore, Lava Dust, Silky Sand. Hoard them all.
+7. **Wire up fast travel.** A Refinery Link plus a Portal turns the long resource slog into a quick loop.
 
 ### Financial Checkpoint
 
@@ -259,9 +259,9 @@ By the end of Chapter 3, you should have:
 
 ### Next Chapter Preparation
 
-Chapter 4 completes Tier II upgrades and explores Starlight Strand to capture slimes for Chapter 5's Gully expansion.
+Chapter 4 wraps up your Tier II upgrades and sends you into Starlight Strand to recruit the slimes that staff Chapter 5's Gully. Prep ahead:
 
-- **Financial Goal:** Save at least 7,850 Newbucks for Tier II upgrades (Tank Booster II, Heart Module II, Jetpack II, Pulse Wave, Dash Boots II, Tank Guard).
-- **Slime Acquisition:** You'll capture Angler (coastal areas), Ringtail (throughout map, spawn at night), Flutter (southern pink biome - only eat Moondew Nectar), and Honey Slimes (flowery pink biome areas) in Starlight Strand for Chapter 5 operations.
-- **Gordo Preparation:** Stockpile meat (Roostros for Hunter Gordo, Sea Hens for Angler Gordo), fruit (Mint Mangos for Honey Gordo), and Moondew Nectar (15 total for Flutter Gordo - only spawns at night).
-- **Resource Focus:** Buzz Wax, Wild Honey, and Moondew Nectar from Starlight Strand for upgrades and Flutter operations.
+- **Bank it:** Aim for at least 7,850 Newbucks for the Tier II upgrades (Tank Booster II, Heart Module II, Jetpack II, Pulse Wave, Dash Boots II, Tank Guard).
+- **Scout the roster:** Starlight Strand is home to Angler (coast), Ringtail (everywhere, at night), Flutter (southern pink biome, eats only Moondew Nectar), and Honey (flowery pink areas). You'll want all of them for Chapter 5.
+- **Prep the Gordos:** Stockpile meat (Roostros for Hunter, Sea Hens for Angler), fruit (Mint Mangos for Honey), and 15 Moondew Nectar for the Flutter Gordo. Remember, Moondew only blooms at night.
+- **Resource focus:** Buzz Wax, Wild Honey, and Moondew Nectar are your Starlight Strand take-home, for upgrades and the Flutter line.
