@@ -26,11 +26,14 @@ _Begins a full voice-and-clarity overhaul. The original prose was written with a
 
 ### Changed
 
-- **Introduction** (`00-introduction.md`): Rewrote the Rancher's Mindset opener, the three core principles, and every Core Mechanics section (Plort Market, Largos, the Tarr warning, Agitation, Optimal Corral Population) in the new voice. All values unchanged.
+- **Introduction** (`00-introduction.md`): Rewrote the Rancher's Mindset opener, the three core principles, and every Core Mechanics section (Plort Market, Largos, the Tarr warning, Agitation, Optimal Corral Population) in the new voice. Also **removed the long patch-log block** from the top (six update paragraphs) and replaced it with a one-line pointer to CHANGELOG.md, so the page opens on guide content instead of a changelog. All values unchanged.
+- **Chapter 1** (`01-chapter-01.md`): Voiced the opener, Mindset, Strategic Priorities, Strategic Note, and Next-Chapter prep; removed em dashes. Tables and step lists unchanged.
+- **Chapter 2** (`01-chapter-02.md`): Same treatment.
 
 ### Files Modified
 
-- `00-introduction.md` - Voice rewrite of the prose body + version bump to 0.5.0
+- `00-introduction.md` - Voice rewrite + removed the top patch-log block + version bump to 0.5.0
+- `01-chapter-01.md`, `01-chapter-02.md` - Voice rewrites (narrative / strategic prose)
 - `README.md` - Version header refresh
 - `steam/SECTION-01-INTRO.txt`, `steam/SECTION-18-APPENDICES-2.txt`, `steam/STEAM-VERSION.md` - Version headers only (Steam prose left as-is)
 
