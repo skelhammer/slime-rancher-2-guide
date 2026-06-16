@@ -1,12 +1,12 @@
 # Part 3: Automation & Empire Completion (Chapters 9-12)
 
-_This part implements total ranch automation through Quantum Drones, unlocks the Grey Labyrinth and captures its elite slimes (Twin, Sloomber, Hyper), then integrates them into high-value ranch operations. You'll establish the highest-value plort production on your ranch and optionally add weather slimes from rare events. Your ranch transforms from a manually-managed operation into a fully automated empire capable of generating 100,000+ Newbucks per week with minimal intervention._
+_Part 3 is the turning point where you stop running the ranch and the ranch starts running itself. You'll automate the whole operation with Quantum Drones, crack open the Grey Labyrinth to capture its elite slimes (Twin, Sloomber, Hyper), and put them to work in your highest-value corrals yet. Weather slimes are an optional bonus on top. By the end, this is a hands-off empire pulling 100,000+ Newbucks a week while you're off doing literally anything else._
 
 ## Chapter 9: Quantum Drones - Ranch Automation
 
-**Mindset:** _Automate everything._
+**Mindset:** _Fire yourself from the boring jobs._
 
-Deploy Quantum Drones to eliminate manual labor and transform your ranch from a hands-on operation into a fully automated empire.
+This is the chapter the whole guide has been building toward: making your own labor obsolete. You'll hunt down Ghostly Drones, build Quantum Drone Stations, and hand the daily plort grind over to machines. Done right, your ranch drops from 30-plus minutes of chores a day to under 10, and keeps earning whether you're watching or not.
 
 ### The Operational Blueprint
 
@@ -55,13 +55,13 @@ You should have 300+ Flutter Plorts accumulated from multiple sources: your curr
 
 ### Strategic Priorities
 
-1. **Hunt Ghostly Drones:** Locate 3 Ghostly Drones in ranch expansions to obtain Drone Station Modules.
-2. **Accumulate Flutter Plorts:** Ensure 300+ Flutter Plorts stockpiled (100 per drone station) from Chapter 8 operations.
-3. **Gather Strange Diamonds:** Collect 6 Strange Diamonds (2 per drone station) from Starlight Strand treasure pods.
-4. **Craft Quantum Drone Stations:** Build 3 stations (5,000 NB each + materials) for ranch automation.
-5. **Deploy Conservatory Drone:** HIGHEST PRIORITY—automate your largest, most valuable operation (8 plots).
-6. **Deploy Gully Drone:** Automate carnivore plort collection (Angler-Crystal, Saber-Hunter corrals).
-7. **Deploy Tidepools Drone:** Fully automate passive income (Puddle + Fire Slime plorts).
+1. **Hunt 3 Ghostly Drones.** Find them in your ranch expansions to claim their Drone Station Modules.
+2. **Cash in your Flutter stash.** You need 300+ banked (100 per station) from the Chapter 8 lines.
+3. **Round up 6 Strange Diamonds.** Two per station, from Starlight Strand treasure pods.
+4. **Build 3 Quantum Drone Stations.** 5,000 NB each plus materials.
+5. **Automate the Conservatory first.** Top priority: it's your biggest, richest operation (8 plots).
+6. **Then the Gully.** Hands-off plort collection from the Angler-Crystal and Saber-Hunter corrals.
+7. **Then the Tidepools.** Let a drone run the passive income while you forget it exists.
 
 ### Financial Checkpoint
 
@@ -80,7 +80,7 @@ You should have 300+ Flutter Plorts accumulated from multiple sources: your curr
 - **After Automation:** <10 minutes daily ranch management (drones handle plort collection automatically)
 - **Time Saved:** 20-30 minutes/day = 140-210 minutes/week freed for exploration
 
-**Strategic Note:** Quantum Drones transform your ranch from hands-on operation into fully automated empire. This automation enables Chapter 10's Grey Labyrinth exploration without daily ranch interruption.
+**Strategic Note:** This is the unlock that makes the back half of the game pleasant. Once the drones run the ranch, you can disappear into the Grey Labyrinth for hours and come home to a pile of Newbucks instead of a pile of chores.
 
 ### Phase 1: Understanding Quantum Drones
 
@@ -471,9 +471,9 @@ By the end of Chapter 9, you should have:
 
 ### Next Chapter Preparation
 
-With your core ranch operations automated, you can now focus on the Grey Labyrinth without worrying about daily ranch management.
+With the core ranch on autopilot, you're free to give the Grey Labyrinth your full attention. No more rushing home to feed slimes.
 
-**Chapter 10 Preparation: The Grey Labyrinth - Elite Asset Acquisition**
+**Chapter 10 Prep: The Grey Labyrinth - Elite Asset Acquisition**
 
 - **Financial Target:** Save ~2,000 Newbucks for Radiant Projector crafting
 - **Required Equipment:** Verify you have Heart Module III, Power Core III, Jetpack II, Dash Boots II
@@ -491,4 +491,4 @@ With your core ranch operations automated, you can now focus on the Grey Labyrin
 
 **Strategic Position:**
 
-Your ranch is now a self-sustaining empire. Quantum Drones handle all routine tasks while you enter the Grey Labyrinth to capture the rarest, most valuable slimes in the game. The automation infrastructure you've built will continue generating wealth 24/7 while you explore Rainbow Island's most dangerous zone.
+The ranch is officially self-sustaining. The drones handle the routine while you head into the Grey Labyrinth after the rarest, most valuable slimes in the game. Everything you've built keeps printing Newbucks around the clock, even while you're deep in the island's most dangerous corner.
