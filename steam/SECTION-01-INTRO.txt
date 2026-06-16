@@ -1,6 +1,6 @@
 [h1]Slime Rancher 2: A Practical Walkthrough[/h1]
 
-[b]Version 0.4.2 - Blueprint Edition[/b]
+[b]Version 0.4.3 - Completionist Edition[/b]
 [b]Last Updated:[/b] June 15, 2026
 
 [hr][/hr]

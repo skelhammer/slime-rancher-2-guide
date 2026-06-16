@@ -25,12 +25,13 @@ Each expansion's table below is paired with an ASCII layout diagram for at-a-gla
 
 ```text
 LEGEND
-  CORRAL · GARDEN · COOP · POND · INCIN · SILO  = plot type
-  ×6           = slime / Largo count in that plot
-  feed flow:   = which garden or coop feeds which corral  (2→1 = Plot 2 feeds Plot 1)
-  plorts out:  = plort types that plot group produces for sale
-  walls/shield = corral upgrade that plot specifically needs
-Assumed on EVERY corral: Plort Collector (MANDATORY — Tarr prevention) + High Walls.
+  [ source plot ]  feeds>  [ corral ]   Garden/Coop on the left feeds the corral on the right
+  x6        slimes / Largos in that corral      SILO / POND = standalone plot (no feed arrow)
+  [shield]  needs a Solar Shield (light-sensitive / nocturnal slimes)
+  [music]   needs a Music Box        [net] = needs an Air Net
+  [keep]    do NOT sell these Flutter plorts (saved for Quantum Drones)
+  *TOP*     highest-value Largo combo in that expansion
+Assumed on EVERY corral: Plort Collector (MANDATORY - Tarr prevention) + High Walls.
 After Chapter 9, one Quantum Drone services each expansion (see the Chapter 9 diagram).
 ```
 
@@ -47,12 +48,14 @@ After Chapter 9, one Quantum Drone services each expansion (see the Chapter 9 di
 | 3-8 | EMPTY | - | - | - | Saving capital for Jetpack |
 
 ```text
-CONSERVATORY — Chapter 1  (2 of 8 plots active)
-  1    CORRAL  Tabby–Cotton ×6     walls: High Walls + Air Net
-  2    GARDEN  Water Lettuce       Cotton favorite → 4 plorts/feeding
-  3–8  EMPTY   strategic hold — save for the Jetpack
-  feed flow:  2→1
-  plorts out: Tabby · Cotton
+CONSERVATORY - Chapter 1   (2 of 8 plots active)
+
++-----------------------+        +-------------------------+
+| Plot 2  Water Lettuce | feeds> | Plot 1  Tabby-Cotton x6 |
++-----------------------+        +-------------------------+
+
+Plots 3-8  EMPTY  (strategic hold - save for the Jetpack)
+plorts out: Tabby, Cotton
 ```
 
 **Revenue:** ~500 Newbucks/day
@@ -72,14 +75,17 @@ CONSERVATORY — Chapter 1  (2 of 8 plots active)
 | 5-8 | EMPTY | - | - | - | Reserved for Chapter 3 expansion |
 
 ```text
-CONSERVATORY — Chapter 2  (4 of 8 plots active)
-  1    CORRAL  Tabby–Cotton ×6      walls: High Walls + Air Net
-  2    GARDEN  Water Lettuce
-  3    CORRAL  Phosphor–Honey ×6    Solar Shield (Phosphor nocturnal)
-  4    GARDEN  Cuberries
-  5–8  EMPTY   reserved for Chapter 3
-  feed flow:  2→1 · 4→3
-  plorts out: Tabby · Cotton · Phosphor · Honey
+CONSERVATORY - Chapter 2   (4 of 8 plots active)
+
++-----------------------+        +-------------------------------------+
+| Plot 2  Water Lettuce | feeds> | Plot 1  Tabby-Cotton x6             |
++-----------------------+        +-------------------------------------+
++-----------------------+        +-------------------------------------+
+| Plot 4  Cuberries     | feeds> | Plot 3  Phosphor-Honey x6  [shield] |
++-----------------------+        +-------------------------------------+
+
+Plots 5-8  EMPTY  (reserved for Chapter 3)
+plorts out: Tabby, Cotton, Phosphor, Honey
 ```
 
 **Revenue:** ~800-1,000 Newbucks/day
@@ -102,17 +108,22 @@ CONSERVATORY — Chapter 2  (4 of 8 plots active)
 | 8 | Garden | Pomegranites | - | - | Feeds Plot 7 |
 
 ```text
-CONSERVATORY — Chapter 3  (8 plots — full build)
-  1  CORRAL  Tabby–Cotton ×6     walls: High Walls + Air Net
-  2  GARDEN  Water Lettuce
-  3  CORRAL  Phosphor–Honey ×6   Solar Shield (nocturnal)
-  4  GARDEN  Cuberries
-  5  CORRAL  Crystal–Rock ×6
-  6  GARDEN  Heart Beets
-  7  CORRAL  Boom–Batty ×6       Solar Shield (nocturnal)
-  8  GARDEN  Pomegranites
-  feed flow:  2→1 · 4→3 · 6→5 · 8→7
-  plorts out: Tabby · Cotton · Phosphor · Honey · Crystal · Rock · Boom · Batty
+CONSERVATORY - Chapter 3   (8 plots - full build)
+
++-----------------------+        +-------------------------------------+
+| Plot 2  Water Lettuce | feeds> | Plot 1  Tabby-Cotton x6             |
++-----------------------+        +-------------------------------------+
++-----------------------+        +-------------------------------------+
+| Plot 4  Cuberries     | feeds> | Plot 3  Phosphor-Honey x6  [shield] |
++-----------------------+        +-------------------------------------+
++-----------------------+        +-------------------------------------+
+| Plot 6  Heart Beets   | feeds> | Plot 5  Crystal-Rock x6             |
++-----------------------+        +-------------------------------------+
++-----------------------+        +-------------------------------------+
+| Plot 8  Pomegranites  | feeds> | Plot 7  Boom-Batty x6  [shield]     |
++-----------------------+        +-------------------------------------+
+
+plorts out: Tabby, Cotton, Phosphor, Honey, Crystal, Rock, Boom, Batty
 ```
 
 **Revenue:** ~2,500+ Newbucks/day
@@ -142,14 +153,20 @@ CONSERVATORY — Chapter 3  (8 plots — full build)
 | 5 | Corral | Flutter-Tabby Largos (6) | Meat | Stony Hens (Plot 1) | Tabby favorite: Stony Hens, has Solar Shield, DO NOT SELL Flutter Plorts! |
 
 ```text
-THE GULLY — Chapter 5  (5 plots — NEW)
-  1  COOP    Stony Hens + Roostro
-  2  COOP    Sea Hens + Roostro
-  3  SILO    Food storage (12 slots)
-  4  CORRAL  Angler–Crystal ×6   meat: Sea Hens (Angler favorite)
-  5  CORRAL  Flutter–Tabby ×6    Solar Shield · ⚠ KEEP Flutter plorts (needed for Quantum Drones)
-  feed flow:  1→5 (Stony Hens) · 2→4 (Sea Hens)
-  plorts out: Angler · Crystal · Flutter · Tabby
+THE GULLY - Chapter 5   (5 plots - NEW)
+
++---------------------------+        +------------------------------------------+
+| Plot 1  Stony Hens (coop) | feeds> | Plot 5  Flutter-Tabby x6  [shield][keep] |
++---------------------------+        +------------------------------------------+
++---------------------------+        +------------------------------------------+
+| Plot 2  Sea Hens (coop)   | feeds> | Plot 4  Angler-Crystal x6                |
++---------------------------+        +------------------------------------------+
+
++----------------------------------------+
+| Plot 3  SILO - food storage (12 slots) |
++----------------------------------------+
+
+plorts out: Angler, Crystal, Flutter, Tabby
 ```
 
 **Revenue:** +1,500-2,000 Newbucks/day | **Total Ranch:** ~3,500-4,500 Newbucks/day
@@ -173,14 +190,20 @@ THE GULLY — Chapter 5  (5 plots — NEW)
 | 5 | Garden | Odd Onions | - | - | Converts to ash for incinerators |
 
 ```text
-THE TIDEPOOLS — Chapter 6  (5 plots — NEW · passive income)
-  1  POND    Puddle ×4          zero maintenance (water only)
-  2  POND    Puddle ×4          zero maintenance (water only)
-  3  INCIN   Fire ×5            fed ash from Plot 5
-  4  INCIN   Fire ×5            fed ash from Plot 5
-  5  GARDEN  Odd Onions         burned for ash → Plots 3 & 4
-  feed flow:  5→3 · 5→4
-  plorts out: Puddle · Fire
+THE TIDEPOOLS - Chapter 6   (5 plots - NEW, passive income)
+
++--------------------------+        +--------------------------------------+
+| Plot 5  Odd Onions (ash) | feeds> | Plots 3 & 4  Fire x5  (incinerators) |
++--------------------------+        +--------------------------------------+
+
++----------------------------------------+
+| Plot 1  Puddle x4  (pond - water only) |
++----------------------------------------+
++----------------------------------------+
+| Plot 2  Puddle x4  (pond - water only) |
++----------------------------------------+
+
+plorts out: Puddle, Fire
 ```
 
 **Revenue:** +1,540-2,310 Newbucks/day | **Total Ranch:** ~5,000-6,500 Newbucks/day
@@ -211,17 +234,22 @@ THE TIDEPOOLS — Chapter 6  (5 plots — NEW · passive income)
 | 8 | Garden | Mint Mangos | - | - | Feeds Plot 7, replanted from Pomegranites |
 
 ```text
-CONSERVATORY — Chapter 8  (8 plots — REORGANIZED)
-  1  CORRAL  Tabby–Cotton ×6     walls: High Walls + Air Net
-  2  GARDEN  Water Lettuce
-  3  CORRAL  Phosphor–Honey ×6   Solar Shield
-  4  GARDEN  Cuberries
-  5  CORRAL  Crystal–Rock ×6
-  6  GARDEN  Heart Beets
-  7  CORRAL  Flutter–Honey ×6    Solar Shield · ⚠ KEEP Flutter plorts
-  8  GARDEN  Mint Mangos         (replanted from Pomegranites)
-  feed flow:  2→1 · 4→3 · 6→5 · 8→7
-  plorts out: Tabby · Cotton · Phosphor · Honey · Crystal · Rock · Flutter
+CONSERVATORY - Chapter 8   (8 plots - REORGANIZED)
+
++-----------------------+        +------------------------------------------+
+| Plot 2  Water Lettuce | feeds> | Plot 1  Tabby-Cotton x6                  |
++-----------------------+        +------------------------------------------+
++-----------------------+        +------------------------------------------+
+| Plot 4  Cuberries     | feeds> | Plot 3  Phosphor-Honey x6  [shield]      |
++-----------------------+        +------------------------------------------+
++-----------------------+        +------------------------------------------+
+| Plot 6  Heart Beets   | feeds> | Plot 5  Crystal-Rock x6                  |
++-----------------------+        +------------------------------------------+
++-----------------------+        +------------------------------------------+
+| Plot 8  Mint Mangos   | feeds> | Plot 7  Flutter-Honey x6  [shield][keep] |
++-----------------------+        +------------------------------------------+
+
+plorts out: Tabby, Cotton, Phosphor, Honey, Crystal, Rock, Flutter
 ```
 
 ### The Gully (5 plots - REORGANIZED)
@@ -235,14 +263,20 @@ CONSERVATORY — Chapter 8  (8 plots — REORGANIZED)
 | 5 | Corral | Saber-Hunter Largos (6) | Meat | Thunderclucks (Plot 1) | Saber favorite: Thunderclucks, replaces Flutter-Tabby from Ch5 |
 
 ```text
-THE GULLY — Chapter 8  (5 plots — REORGANIZED)
-  1  COOP    Thunderclucks + Roostro   (converted from Stony Hens)
-  2  COOP    Sea Hens + Roostro
-  3  SILO    Food storage (12 slots)
-  4  CORRAL  Angler–Crystal ×6   meat: Sea Hens
-  5  CORRAL  Saber–Hunter ×6     meat: Thunderclucks (Saber favorite · top meat combo)
-  feed flow:  1→5 (Thunderclucks) · 2→4 (Sea Hens)
-  plorts out: Angler · Crystal · Saber · Hunter
+THE GULLY - Chapter 8   (5 plots - REORGANIZED)
+
++------------------------------+        +--------------------------------+
+| Plot 1  Thunderclucks (coop) | feeds> | Plot 5  Saber-Hunter x6  *TOP* |
++------------------------------+        +--------------------------------+
++------------------------------+        +--------------------------------+
+| Plot 2  Sea Hens (coop)      | feeds> | Plot 4  Angler-Crystal x6      |
++------------------------------+        +--------------------------------+
+
++----------------------------------------+
+| Plot 3  SILO - food storage (12 slots) |
++----------------------------------------+
+
+plorts out: Angler, Crystal, Saber, Hunter
 ```
 
 ### The Tidepools (5 plots - unchanged)
@@ -258,14 +292,20 @@ THE GULLY — Chapter 8  (5 plots — REORGANIZED)
 | 5 | Garden | Cuberries | - | - | Feeds Plot 2 |
 
 ```text
-THE DEN — Chapter 8  (5 plots — NEW · nocturnal)
-  1  CORRAL  Boom–Batty ×6        Solar Shield (nocturnal)
-  2  CORRAL  Flutter–Phosphor ×6  Solar Shield · ⚠ KEEP Flutter plorts
-  3  CORRAL  Batty–Ringtail ×6    Solar Shield (nocturnal)
-  4  GARDEN  Pomegranites
-  5  GARDEN  Cuberries
-  feed flow:  4→1 · 4→3 · 5→2   (Plot 3 also takes Cuberries from Plot 5)
-  plorts out: Boom · Batty · Flutter · Phosphor · Ringtail
+THE DEN - Chapter 8   (5 plots - NEW, nocturnal)
+
++----------------------+        +---------------------------------------------+
+| Plot 4  Pomegranites | feeds> | Plot 1  Boom-Batty x6  [shield]             |
++----------------------+        +---------------------------------------------+
++----------------------+        +---------------------------------------------+
+| Plot 5  Cuberries    | feeds> | Plot 2  Flutter-Phosphor x6  [shield][keep] |
++----------------------+        +---------------------------------------------+
++----------------------+        +---------------------------------------------+
+| Plot 4  Pomegranites | feeds> | Plot 3  Batty-Ringtail x6  [shield]         |
++----------------------+        +---------------------------------------------+
+
+Plot 3 also takes Cuberries (Plot 5)
+plorts out: Boom, Batty, Flutter, Phosphor, Ringtail
 ```
 
 **Revenue:** +1,500-2,000 Newbucks/day | **Total Ranch:** ~6,500-8,500 Newbucks/day
@@ -279,13 +319,20 @@ THE DEN — Chapter 8  (5 plots — NEW · nocturnal)
 *No ranch changes this chapter - focus on deploying 3 Quantum Drone Stations for automation*
 
 ```text
-QUANTUM DRONE DEPLOYMENT — Chapter 9  (3 stations · no plot changes)
-  DRONE 1  ▸ Conservatory   collect plorts from the 4 corrals     → Plort Market
-  DRONE 2  ▸ The Gully      collect food from Silo (Plot 3)       → Auto-Feeders (corrals)
-  DRONE 3  ▸ The Tidepools  collect Fire + Puddle plorts          → Plort Market
-  Siting: place each station central to its expansion so every serviced plot
-          sits inside the drone's range ring.  One station = one expansion.
-  Scale later: add stations for The Den / The Archway / The Digsite as you build them.
+QUANTUM DRONE DEPLOYMENT - Chapter 9   (3 stations, no plot changes)
+
++------------------------+      +---------------------------------------------------+
+| DRONE 1  Conservatory  |  ->  | collect 4 corrals' plorts  ->  Plort Market       |
++------------------------+      +---------------------------------------------------+
++------------------------+      +---------------------------------------------------+
+| DRONE 2  The Gully     |  ->  | collect food from Silo (Plot 3)  ->  Auto-Feeders |
++------------------------+      +---------------------------------------------------+
++------------------------+      +---------------------------------------------------+
+| DRONE 3  The Tidepools |  ->  | collect Fire + Puddle plorts  ->  Plort Market    |
++------------------------+      +---------------------------------------------------+
+
+Siting: center each station in its expansion so all serviced plots stay in range.
+One station = one expansion. Add more for Den / Archway / Digsite as built.
 ```
 
 **Revenue:** Unchanged | **Total Ranch:** ~6,500-8,500 Newbucks/day
@@ -323,14 +370,20 @@ QUANTUM DRONE DEPLOYMENT — Chapter 9  (3 stations · no plot changes)
 | 5 | Silo | Plort & Food Storage (12 slots) | - | - | Grey Labyrinth plort storage |
 
 ```text
-THE ARCHWAY — Chapter 11  (5 plots — NEW · Grey Labyrinth)
-  1  GARDEN  Polaricherry
-  2  CORRAL  Twin–Flutter ×6     fruit: Polaricherry (Flutter calming aura)
-  3  COOP    Candied Hens + Roostro
-  4  CORRAL  Sloomber–Saber ×6   Music Box required · ★ HIGHEST-VALUE COMBO
-  5  SILO    Plort & food storage (12 slots)
-  feed flow:  1→2 (Polaricherry) · 3→4 (Candied Hens)
-  plorts out: Twin · Flutter · Sloomber · Saber
+THE ARCHWAY - Chapter 11   (5 plots - NEW, Grey Labyrinth)
+
++-----------------------------+        +------------------------------------------+
+| Plot 1  Polaricherry        | feeds> | Plot 2  Twin-Flutter x6                  |
++-----------------------------+        +------------------------------------------+
++-----------------------------+        +------------------------------------------+
+| Plot 3  Candied Hens (coop) | feeds> | Plot 4  Sloomber-Saber x6  [music] *TOP* |
++-----------------------------+        +------------------------------------------+
+
++------------------------------------------------+
+| Plot 5  SILO - plort & food storage (12 slots) |
++------------------------------------------------+
+
+plorts out: Twin, Flutter, Sloomber, Saber
 ```
 
 **Revenue:** +2,000-3,500 Newbucks/day | **Total Ranch:** ~8,500-12,000 Newbucks/day
@@ -361,13 +414,17 @@ THE ARCHWAY — Chapter 11  (5 plots — NEW · Grey Labyrinth)
 | 4 | Corral | Tangle-Hyper Largos (6) | Omnivore | Painted Hens (Plot 3) or Prickle Pear (Plot 1) | Tangle favorite: Painted Hen. Music Box + Air Net REQUIRED. |
 
 ```text
-THE DIGSITE — Chapter 12  (4 plots — NEW · OPTIONAL · weather slimes)
-  1  GARDEN  Prickle Pears
-  2  CORRAL  Dervish–Ringtail ×6  Music Box required (omnivore)
-  3  COOP    Painted Hens + Roostro
-  4  CORRAL  Tangle–Hyper ×6      Music Box + Air Net required (omnivore)
-  feed flow:  1→2 · 1→4 (Prickle Pear) · 3→4 (Painted Hens)
-  plorts out: Dervish · Ringtail · Tangle · Hyper
+THE DIGSITE - Chapter 12   (4 plots - NEW, OPTIONAL, weather slimes)
+
++-----------------------------+        +---------------------------------------+
+| Plot 1  Prickle Pears       | feeds> | Plot 2  Dervish-Ringtail x6  [music]  |
++-----------------------------+        +---------------------------------------+
++-----------------------------+        +---------------------------------------+
+| Plot 3  Painted Hens (coop) | feeds> | Plot 4  Tangle-Hyper x6  [music][net] |
++-----------------------------+        +---------------------------------------+
+
+Plot 4 also takes Prickle Pears (Plot 1)
+plorts out: Dervish, Ringtail, Tangle, Hyper
 ```
 
 **Revenue:** +2,500-3,500 Newbucks/day (if built) | **Total Ranch:** ~11,000-15,500 Newbucks/day

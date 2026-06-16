@@ -68,6 +68,9 @@ For the ultimate completionist, the goal is to achieve everything the game has t
 - **Slimepedia:** Discover every slime, food item, resource, and location to complete all entries.
 - **Gordo Snaring:** Pop every Gordo Slime in the game, including all 3 in the Grey Labyrinth.
 - **Treasure Pods:** Hunt down and crack open every last treasure pod. The final, most difficult pods often require a maxed-out Jetpack and clever use of the environment.
+- **Map Data Nodes:** Activate every Map Data Node to fully reveal each zone's map (see [Appendix H](appendix-h-map.md)).
+- **Research & Ghostly Drones:** Track down every Research Drone and Ghostly Drone across all zones (see [Appendix F](appendix-f-drones.md)).
+- **Plort Doors:** Open every locked Plort Door in the surface zones and every Shadow Plort Door in the Grey Labyrinth (see [Appendix I](appendix-i-doors.md) and [Appendix J](appendix-j-shadow.md)).
 - **Gadget Crafting:** Craft at least one of every single gadget, decoration, and utility item in the Fabricator.
 - **Blueprint Collection:** Locate every treasure pod and unlock all available upgrades, gadgets, and decorations at the Fabricator.
 

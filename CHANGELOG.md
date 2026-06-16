@@ -4,6 +4,7 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 
 **Version History:**
 
+- [0.4.3 - Completionist Edition (2026-06-15)](#043---2026-06-15---completionist-edition)
 - [0.4.2 - Blueprint Edition (2026-06-15)](#042---2026-06-15---blueprint-edition)
 - [0.4.1 - Radiant Sanctuary Edition (2026-05-11)](#041---2026-05-11---radiant-sanctuary-edition)
 - [0.4 - Radiant Sanctuary Edition (2026-04-16)](#04---2026-04-16---radiant-sanctuary-edition)
@@ -14,6 +15,38 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 - [0.1.2 - Wiki Integration Edition (2025-11-01)](#012---2025-11-01---wiki-integration-edition)
 - [0.1.1 - Patch 1.0.3 Update (2025-11-01)](#011---2025-11-01---patch-103-update)
 - [0.1 - Initial Release (2025-10-24)](#01---2025-10-24---initial-release)
+
+---
+
+## [0.4.3] - 2026-06-15 - Completionist Edition
+
+_Reworked the v0.4.2 layout diagrams into a cleaner boxed style, and acted on a data cross-check prompted by reader-supplied MapGenie links. **Note:** MapGenie itself was inaccessible to automated fetching, so the cross-check used the Slime Rancher 2 Fandom wiki and a MapGenie-style checklist proxy. Gordo data was confirmed accurate (17/17); no Gordo or treasure-pod counts were changed._
+
+### Changed
+
+- **ASCII layout diagrams reworked** (`appendix-l-plot-overview.md`): Replaced the v0.4.2 inline flow lists (which read as redundant next to the tables) with aligned "connected box" diagrams - a Garden/Coop box `feeds>` a Corral box - script-padded for clean column alignment. Updated the legend to match the new notation (`[shield]` / `[music]` / `[net]` / `[keep]` / `*TOP*`, standalone SILO/POND boxes). All 11 expansion layouts plus the Chapter 9 drone-deployment diagram were restyled.
+
+### Added
+
+- **100% checklist categories** (`04-chapter-15.md`): Expanded the Archivist's "Completionist's Checklist" with three collectible categories it previously omitted - Map Data Nodes, Research & Ghostly Drones, and Plort Doors - each cross-referenced to the appendix that catalogs it (H, F, I, J). Surfaced by the data cross-check.
+- **Grey Labyrinth pod note** (`appendix-g-treasure.md`): Added a cross-reference clarifying that the per-biome counts cover the surface zones + Conservatory only, and that Grey Labyrinth pods are gated behind Shadow Plort Doors (Appendix J), so the appendix isn't mistaken for a full-island total.
+
+### Verified (no change)
+
+- **Gordo locations** (`appendix-a-slimes.md`): All 17 Gordos cross-checked against the Fandom wiki - every location, food, and reward matches. No corrections needed.
+- **Treasure-pod counts** (`appendix-g-treasure.md`): Guide surface total (~109) aligns with the current live checklist figure (~107); the lower numbers in older web guides are stale (pre-update). Per-region split left as-is - current and internally consistent, not re-verified pin-by-pin against MapGenie.
+- **Map node count** (`appendix-h-map.md`): A proxy source showed 5 Grey Labyrinth nodes vs. the guide's 7 (2 already marked "TBD"). Left unchanged pending in-game confirmation rather than edited on a proxy's say-so.
+
+### Files Modified
+
+- `00-introduction.md` - Version bump to 0.4.3
+- `README.md` - Version header refresh
+- `appendix-l-plot-overview.md` - Reworked all layout diagrams into boxed style + updated legend
+- `04-chapter-15.md` - Added Map Nodes / Drones / Plort Doors to the 100% checklist
+- `appendix-g-treasure.md` - Added Grey Labyrinth cross-reference note
+- `steam/SECTION-01-INTRO.txt` - Version bump
+- `steam/SECTION-18-APPENDICES-2.txt` - Version footer bump
+- `steam/STEAM-VERSION.md` - Version bump
 
 ---
 

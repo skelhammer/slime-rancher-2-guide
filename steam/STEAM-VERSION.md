@@ -1,6 +1,6 @@
 # Slime Rancher 2: A Practical Walkthrough - Steam Guide
 
-**Version 0.4.2 - Blueprint Edition**
+**Version 0.4.3 - Completionist Edition**
 **Last Updated: June 15, 2026**
 
 ---
