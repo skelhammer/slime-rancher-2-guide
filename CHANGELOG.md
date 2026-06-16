@@ -32,8 +32,9 @@ _Documentation pass for game Patches 1.2.2 and 1.2.3. Edition name retained from
 
 - **Steam guide files** (steam/SECTION-01-INTRO.txt, steam/SECTION-18-APPENDICES-2.txt, steam/STEAM-VERSION.md): Added Patch 1.2.2 and 1.2.3 change blocks / version notes, Radiant Slime cannon/incinerator safety note, and version refresh to 0.4.1.
 
-### Fixed (post-release — markdownlint CI)
+### Fixed (post-release — CI)
 
+- **version-sync always failing** (`.github/workflows/version-sync.yml`): The job had a latent bug — `grep -R … .` emits paths with a `./` prefix (`./00-introduction.md`), but the allowlist regex is anchored `^(00-introduction\.md|…)$` with no prefix, so no file ever matched the allowlist and every version string was flagged as drift. Like markdownlint, it had failed on every push since 0.4. Fixed by stripping the leading `./` (`sed 's#^\./##'`) before the allowlist filter. No real drift existed — all `Version 0.X` strings were already in sanctioned files.
 - **Repo-wide markdownlint failures** (most `.md` files): The `markdownlint` workflow had been failing on every push since it was introduced in 0.4 — 388 errors the strict `.markdownlint.json` (`"default": true`) flagged in the guide's existing long-form prose, none of them caught at the time. Resolved by running `markdownlint-cli2 --fix`, which added the missing blank lines around headings/lists/fenced code blocks (MD022/MD032/MD031) and collapsed stray double blanks (MD012). Whitespace-only — no prose or data changed. Verified clean against the exact linter the CI runs (markdownlint-cli2 v0.13.0 / markdownlint v0.34.0, bundled in `markdownlint-cli2-action@v16`): 0 errors.
 - **Lint config tuned for the guide's structure** (`.markdownlint.json`): Disabled three rules that fight the guide's intentional layout rather than indicating real problems — **MD041** (chapter files are book fragments that open with `## Chapter X`, not an H1), **MD025** (the introduction legitimately carries both a guide title and an "Introduction" H1), and **MD001** (a few appendices jump heading levels by design). Not auto-fixable, so disabled rather than restructured.
 - **Template fragments excluded from linting** (`.github/workflows/markdownlint.yml`): Added `.templates/**` to the lint exclusion globs. The `.templates/*.md` files are intentional fragments with `{{placeholders}}` — `changelog-entry-template.md` starts at an H2 heading, so it can never satisfy MD041, and its tight structure trips MD022/MD032. This matches `version-sync.yml`, which already exempts `.templates/`.
@@ -47,6 +48,7 @@ _Documentation pass for game Patches 1.2.2 and 1.2.3. Edition name retained from
 - `steam/SECTION-18-APPENDICES-2.txt` - Radiant Slimes safety note + version footer bump
 - `steam/STEAM-VERSION.md` - Version bump + Patch 1.2.2 / 1.2.3 version notes
 - `.github/workflows/markdownlint.yml` - Excluded `.templates/**` from markdown linting
+- `.github/workflows/version-sync.yml` - Stripped `grep -R`'s `./` path prefix so the allowlist matches (job had always failed)
 - `.markdownlint.json` - Disabled MD041/MD025/MD001 (conflict with the guide's chapter-fragment / appendix structure)
 - **All other guide `.md` files** (chapters, appendices, `CLAUDE.md`, `CHANGELOG.md`) - Whitespace-only blank-line normalization from `markdownlint-cli2 --fix`
 

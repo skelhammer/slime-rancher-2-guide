@@ -26,9 +26,10 @@ jobs:
           allowed='^(00-introduction\.md|README\.md|CHANGELOG\.md|steam/STEAM-VERSION\.md|steam/SECTION-01-INTRO\.txt|steam/SECTION-18-APPENDICES-2\.txt|\.github/workflows/version-sync\.yml|\.templates/.*)$'
 
           # Grep for the version pattern across tracked text files.
+          # Strip grep -R's leading "./" so paths match the anchored allowlist below.
           matches=$(grep -RInE 'Version 0\.[0-9]+' \
             --include='*.md' --include='*.txt' \
-            . || true)
+            . | sed 's#^\./##' || true)
 
           if [ -z "$matches" ]; then
             echo "No Version 0.X strings found anywhere. Unexpected — is 00-introduction.md intact?"
