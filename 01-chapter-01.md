@@ -1,12 +1,12 @@
 # Part 1: The Foundation (Chapters 1-4)
 
-_This part focuses on establishing your initial ranch, acquiring the first two tiers of Vacpack upgrades, and unlocking the two primary mid-game biomes._
+_Part 1 is about getting off the ground, literally. You'll stand up your first ranch, grab the first two tiers of Vacpack upgrades, and crack open the two big mid-game biomes._
 
 ## Chapter 1: The Sprint to Mobility
 
-**Mindset:** _Focus on mobility._
+**Mindset:** _Everything is mobility. Nothing else matters yet._
 
-This is a 72-hour blitz with a single, non-negotiable objective: acquiring the key enabling technology of the Jetpack.
+This is a 72-hour blitz with exactly one goal: build the Jetpack. It's the key that unlocks the rest of the island, so until it's strapped to your back, every Newbuck and every minute funnels toward it. No detours, no decorating.
 
 ### The Operational Blueprint
 
@@ -150,13 +150,13 @@ Pop the Pink Gordo to unlock the Ember Valley portal switch:
 
 ### Strategic Priorities
 
-1. **Revenue First:** Establish Tabby-Cotton operation immediately for steady income (Day 1).
-2. **Pop Pink Gordo:** Unlock Ember Valley access for Radiant Ore collection.
-3. **Night Hunt Phosphor:** Collect 10 Phosphor Plorts at night (they burn in daylight).
-4. **Craft Resource Harvester:** CRITICAL—required before harvesting Radiant Ore nodes.
-5. **Harvest Radiant Ore:** Collect 10 Radiant Ore from Ember Valley for Jetpack.
-6. **Deploy Capital to Jetpack:** Don't expand to additional plots—save all funds for Jetpack.
-7. **Corral Security:** Craft High Walls + Air Net to prevent Largo escapes.
+1. **Revenue first.** Get the Tabby-Cotton operation running on Day 1. Cash flow funds everything else.
+2. **Pop the Pink Gordo.** It opens the route to Ember Valley and its Radiant Ore.
+3. **Night-hunt Phosphor.** Grab 10 Phosphor Plorts after dark, before sunrise torches them.
+4. **Craft the Resource Harvester.** Non-negotiable, and it goes first: no Harvester, no Radiant Ore.
+5. **Harvest 10 Radiant Ore** in Ember Valley for the Jetpack recipe.
+6. **Funnel capital into the Jetpack.** No new plots. Every spare Newbuck has exactly one job.
+7. **Lock down the corral.** High Walls plus Air Net, so your Largos stay where you put them.
 
 ### Financial Checkpoint
 
@@ -173,7 +173,7 @@ Pop the Pink Gordo to unlock the Ember Valley portal switch:
 - **Timeline to Goal:** 5-7 days to accumulate 2,535 Newbucks
 - **Plort Values:** Cotton (~14-24 NB), Tabby (~10-17 NB)
 
-**Strategic Note:** This is a sprint chapter—every Newbuck goes toward the Jetpack. Once crafted, vertical exploration unlocks and the game opens up dramatically.
+**Strategic Note:** This is a sprint, not a stroll. Every Newbuck has one destination, and the moment the Jetpack is built the whole island cracks open: cliffs, caves, and a dozen fresh ways to make money. Resist the urge to decorate. There's time for a pretty ranch later, once you can actually fly to it.
 
 ### End of Chapter Checklist
 
@@ -188,8 +188,8 @@ By the end of Chapter 1, you should have:
 
 ### Next Chapter Preparation
 
-Chapter 2 expands the Conservatory to 4 plots, unlocks Starlight Strand, and crafts Power Core and Tank Booster upgrades.
+Chapter 2 doubles the Conservatory to 4 plots, opens Starlight Strand, and adds the Power Core and Tank Booster upgrades. Get a head start now:
 
-- **Financial Goal:** Save at least 4,500 Newbucks for Phosphor-Honey corral operation (2,110 NB), garden (1,550 NB), and upgrades (900 NB).
-- **Gordo Preparation:** Stockpile 30 vegetables (or 15 Water Lettuce) to pop the Cotton Gordo, which unlocks Starlight Strand.
-- **Asset Collection:** You'll capture Phosphor and Honey Slimes from Starlight Strand for a new Phosphor-Honey Largo operation.
+- **Bank it:** Aim for at least 4,500 Newbucks to cover the Phosphor-Honey corral (2,110 NB), its garden (1,550 NB), and upgrades (900 NB).
+- **Prep the Gordo:** Stockpile 30 vegetables (or 15 Water Lettuce) to pop the Cotton Gordo, your ticket into Starlight Strand.
+- **Line up the talent:** Starlight Strand is where you'll grab the Phosphor and Honey Slimes for your next Largo line.
