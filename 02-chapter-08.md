@@ -1,8 +1,8 @@
 ## Chapter 8: The Den - Ranch Reorganization
 
-**Mindset:** _Reorganize for maximum efficiency._
+**Mindset:** _Tear it down. Build it back smarter._
 
-Unlock The Den and execute a ranch-wide reorganization to consolidate nocturnal operations and optimize food distribution.
+By now your ranch works, but it's a sprawl: nocturnal slimes scattered across sunny plots, paying for Solar Shields they wouldn't need in the dark. This chapter you unlock The Den, a naturally pitch-black grotto, and herd every fruit-eating night slime into it. Then you reshuffle the Conservatory and Gully so each zone does one job well. Fewer wasted Newbucks, double the Flutter Plorts, same footprint.
 
 ### The Operational Blueprint
 
@@ -42,13 +42,13 @@ Unlock The Den and execute a ranch-wide reorganization to consolidate nocturnal 
 
 ### Strategic Priorities
 
-1. **Unlock The Den:** Purchase expansion access (2,800 NB) to consolidate nocturnal operations.
-2. **Relocate Boom-Batty Largos:** Move from Conservatory to The Den (saves 425 NB Solar Shield cost).
-3. **Deploy Flutter-Phosphor Largos:** Establish second Flutter operation to double Flutter Plort production.
-4. **Deploy Batty-Ringtail Largos:** Create third nocturnal operation for diversified plort income.
-5. **Rebuild Conservatory Plot 7:** Replace Boom-Batty with Flutter-Honey Largos (maintain Flutter production).
-6. **Convert Gully Plot 5:** Replace Flutter-Tabby with Saber-Hunter Largos (upgrade to premium carnivores).
-7. **Double Flutter Production:** Achieve 24-36 Flutter Plorts/day from two sources (300+ target for Chapter 9).
+1. **Unlock The Den.** 2,800 Newbucks for a grotto that's dark around the clock.
+2. **Move Boom-Batty in.** Out of the sunny Conservatory and into The Den, which saves the 425 NB Solar Shield.
+3. **Add Flutter-Phosphor.** Your second Flutter line, doubling Flutter Plort output.
+4. **Add Batty-Ringtail.** A third night line for a more diversified plort mix.
+5. **Rebuild Conservatory Plot 7.** Swap the departed Boom-Batty for Flutter-Honey, keeping Flutter flowing.
+6. **Upgrade Gully Plot 5.** Retire Flutter-Tabby for premium Saber-Hunter carnivores.
+7. **Double the Flutter supply.** 24-36 plorts a day across two lines, marching toward that 300+ for Chapter 9.
 
 ### Financial Checkpoint
 
@@ -66,7 +66,7 @@ Unlock The Den and execute a ranch-wide reorganization to consolidate nocturnal 
 - **After Reorganization:** ~6,500-8,500 Newbucks/day (similar revenue, optimized operations)
 - **Strategic Value:** Consolidates all nocturnal slimes, saves 1,275 NB in Solar Shield costs, doubles Flutter Plort production
 
-**Strategic Note:** This chapter focuses on operational efficiency rather than revenue increase. The reorganization eliminates Solar Shield costs (The Den's permanent darkness), consolidates fruit-eating slimes in one location, and doubles Flutter Plort production for Chapter 9's Quantum Drone requirements.
+**Strategic Note:** Don't expect a revenue spike this chapter. The win is efficiency, not income. You're cutting 1,275 Newbucks of Solar Shields by letting The Den's darkness do that job for free, grouping the fruit-eaters in one place, and doubling Flutter output so Chapter 9's drones aren't left starving. A leaner machine now pays for itself later.
 
 #### Phase 1: Unlock The Den
 
@@ -204,17 +204,17 @@ A common reader question: _"Shouldn't I pair Saber with a flying slime?"_ **No.*
 
 Some readers prefer to avoid chicken farming entirely. This is a viable alternative once you understand the trade-off.
 
-**How it works:** A largo made from a carnivore + a non-carnivore (e.g. Hunter-Honey, Hunter-Cotton, Angler-Phosphor) has a hybrid diet — the largo will accept either meat OR the non-carnivore's food type. Feed the favorite of either base slime to get the 4-plort bonus, which means a fruit/veggie favorite alone is enough. No chickens required.
+**How it works:** A largo made from a carnivore plus a non-carnivore (say Hunter-Honey, Hunter-Cotton, or Angler-Phosphor) has a hybrid diet: it will accept either meat or the non-carnivore's food type. Feed the favorite of either base slime for the 4-plort bonus, which means a single fruit or veggie favorite is enough. No chickens required.
 
 **What you give up:**
 
 - You cannot run the top-tier carnivore combos (Saber-Hunter, Sloomber-Saber, Angler-Crystal). These depend on both bases being meat-eaters to exploit premium chicken foods (Thunderclucks, Painted Hens) for the 4-plort bonus.
-- Peak revenue per corral is lower. Saber-Hunter is roughly 60-120 NB per 4-plort feeding; Hunter-Honey is roughly 35-90 NB — not drastically lower, but the ceiling is cut.
+- Peak revenue per corral is lower. Saber-Hunter runs roughly 60-120 NB per 4-plort feeding; Hunter-Honey runs roughly 35-90 NB. Not a huge drop, but the ceiling is lower.
 
 **What you gain:**
 
 - No coops, no Elder Collectors, no Roostro management. The Gully becomes 5 garden/corral plots instead of 2 coops + 3 corrals.
-- Simpler automation — drones only need to shuttle between gardens/silos/corrals, no chicken-breeding loop.
+- Simpler automation. Drones only need to shuttle between gardens, silos, and corrals, with no chicken-breeding loop.
 - Lower early-game friction, higher daily plort output per unit of rancher attention.
 
 **When to choose it:** If you value simplicity over peak Newbucks/day, or you're running a casual playthrough. If you're optimizing for maximum revenue (the guide's default), stick with Saber-Hunter and Angler-Crystal.
@@ -247,9 +247,9 @@ By the end of Chapter 8, you should have:
 
 ### Next Chapter Preparation
 
-Chapter 9 implements total ranch automation using Quantum Drones, eliminating manual labor and reducing daily management time from 30+ minutes to under 10 minutes.
+Chapter 9 is the big one: total automation. Quantum Drones take over the grunt work and drop your daily upkeep from 30-plus minutes to under 10. Prep ahead:
 
-- **Financial Goal:** Save 20,000+ Newbucks for 3 Quantum Drone Stations (15,000 NB) plus materials.
-- **Flutter Plort Requirement:** You need 300 Flutter Plorts total (100 per drone station). Your two Flutter operations should be producing 24-36 plorts per day. Continue accumulating until you reach 300+.
-- **Material Stockpiling:** Gather Strange Diamonds (9 total), Lava Dust (45 total), Wild Honey (45 total), Radiant Ore, Jellystone.
-- **Drone Hunting:** Chapter 9 requires finding 3 Ghostly Drones hidden in your ranch expansions to obtain Drone Station Modules.
+- **Bank it:** Aim for 20,000+ Newbucks for 3 Quantum Drone Stations (15,000 NB) plus materials.
+- **Flutter check:** You need 300 Flutter Plorts (100 per station). Two lines making 24-36 a day will get you there, so keep banking until you clear 300.
+- **Stock up:** Strange Diamonds (9), Lava Dust (45), Wild Honey (45), plus Radiant Ore and Jellystone.
+- **Go drone-hunting:** Chapter 9 has you tracking down 3 Ghostly Drones hidden across your expansions for their Drone Station Modules.
