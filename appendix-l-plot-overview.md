@@ -186,8 +186,11 @@ Complete ranch plot progression through all chapters (Chapters 1-12). Note: Chap
 ## Chapter 11: The Archway - Grey Labyrinth Operations
 
 ### Conservatory (8 plots - unchanged)
+
 ### The Gully (5 plots - unchanged)
+
 ### The Tidepools (5 plots - unchanged)
+
 ### The Den (5 plots - unchanged)
 
 ### The Archway (5 plots - NEW EXPANSION)
@@ -209,9 +212,13 @@ Complete ranch plot progression through all chapters (Chapters 1-12). Note: Chap
 > **Note:** This chapter is OPTIONAL. Skip if you haven't collected weather event slimes.
 
 ### Conservatory (8 plots - unchanged)
+
 ### The Gully (5 plots - unchanged)
+
 ### The Tidepools (5 plots - unchanged)
+
 ### The Den (5 plots - unchanged)
+
 ### The Archway (5 plots - unchanged)
 
 ### The Digsite (4 plots - NEW EXPANSION - OPTIONAL)
@@ -228,6 +235,7 @@ Complete ranch plot progression through all chapters (Chapters 1-12). Note: Chap
 ---
 
 ### Total Expansions: 6 (or 7 if Digsite built)
+
 - **Conservatory:** 8 plots (2 veggie corrals + 2 fruit corrals, both fruit corrals have Solar Shields)
 - **The Gully:** 5 plots (2 meat corrals + 2 coops + 1 silo)
 - **The Tidepools:** 5 plots (passive income - Puddle & Fire)
@@ -237,7 +245,8 @@ Complete ranch plot progression through all chapters (Chapters 1-12). Note: Chap
 
 ### Total Daily Revenue: 11,000-15,500+ Newbucks/day (with Digsite), 8,500-12,000+ (without Digsite)
 
-### Slime Collection Status (After Chapter 12):
+### Slime Collection Status (After Chapter 12)
+
 - **Common:** Pink, Cotton, Phosphor, Tabby, Rock ✓
 - **Rare:** Hunter, Honey, Boom, Batty, Crystal, Angler, Flutter, Ringtail, Saber ✓
 - **Grey Labyrinth:** Twin, Sloomber, Hyper ✓

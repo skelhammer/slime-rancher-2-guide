@@ -228,4 +228,3 @@ Quick reference guide for all food, resources, plorts, and upgrade components in
 | Gold Twisted Tree | The Grey Labyrinth |
 | Ancient Stabilizer | The Grey Labyrinth |
 | Angler Fountain | The Grey Labyrinth |
-

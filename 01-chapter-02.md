@@ -7,6 +7,7 @@
 **Primary Objective:** Expand from 2 plots to 4 plots with essential crafting plort production
 
 **Financial Checkpoint:**
+
 - **Starting Budget:** Should have 500-1,000+ Newbucks from Chapter 1 operations
 - **Required:** ~4,500 Newbucks for Phosphor-Honey operation (3,660 NB) and upgrades (900 NB)
 - **Timeline:** Achieve in 5-7 days through continued Tabby-Cotton sales
@@ -56,13 +57,16 @@ Pop the Cotton Gordo to activate the portal to Starlight Strand (see Gordo Strat
 **Objective:** Enter Starlight Strand and collect slimes/resources for Phosphor-Honey operation.
 
 **Slimes Needed:**
+
 - 6 Phosphor Slimes (spawn at NIGHT only throughout Starlight Strand)
 - 6 Honey Plorts (from wild Honey Slimes in flowery pink areas)
 
 **Food Stockpile:**
+
 - 30+ Cuberries (Phosphor favorite - found throughout Starlight Strand)
 
 **Collection Strategy:**
+
 - Wait for nighttime to capture Phosphor Slimes (they burn in daylight)
 - Collect Honey Plorts from wild Honey Slimes during the day
 - Harvest Cuberries to stockpile for initial feeding
@@ -87,10 +91,12 @@ Pop the Cotton Gordo to activate the portal to Starlight Strand (see Gordo Strat
 **Objective:** Manage plort stockpiling for future crafting needs.
 
 **Plort Management:**
+
 - Deposit Phosphor and Honey Plorts into Refinery (target: 50+ each for future upgrades)
 - Sell excess after stockpiling
 
 **Manual Feeding Required:**
+
 - Cuberries are Phosphor favorite (4 plorts per feeding)
 
 #### Phase 5: Vacpack Upgrades
@@ -105,6 +111,7 @@ Pop the Cotton Gordo to activate the portal to Starlight Strand (see Gordo Strat
 **Total Investment:** 900 NB + materials
 
 **Crafting Materials Source:**
+
 - Cotton Plorts: From your Tabby-Cotton Largos (Plot 1)
 - Tabby Plorts: From your Tabby-Cotton Largos (Plot 1)
 
@@ -121,6 +128,7 @@ Pop the Cotton Gordo to activate the portal to Starlight Strand (see Gordo Strat
 ### Financial Checkpoint
 
 **Capital Required:**
+
 - Ranch Expansion: 3,660 Newbucks (Plot 3 Corral + Plot 4 Garden + upgrades)
 - Vacpack Upgrades: 900 Newbucks (Power Core, Tank Booster)
 - Materials: Cotton Plorts, Tabby Plorts (from Chapter 1 operations)
@@ -139,6 +147,7 @@ Pop the Cotton Gordo to activate the portal to Starlight Strand (see Gordo Strat
 ### End of Chapter Checklist
 
 By the end of Chapter 2, you should have:
+
 - ✅ Cotton Gordo popped, granting access to Starlight Strand
 - ✅ Conservatory expanded to 4 plots
 - ✅ Tabby-Cotton Largo corral (from Chapter 1) still producing Tabby and Cotton plorts

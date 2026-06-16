@@ -71,4 +71,3 @@ Quick reference guide for all slime types and Gordo locations in Slime Rancher 2
 | Twin | Grey Labyrinth - Impossible Sky | Fruit | 50  | 12 Twin Slimes + 1 jar + portal to Rainbow Fields | Polaricherry counts as 2. Starts blue, becomes red as fed |
 | Sloomber | Grey Labyrinth - Dream Land | Meat | 30  | 12 Sloomber Slimes + 1 jar + portal to Terrarium | Candied Hen counts as 2. Led to Conservatory pre-v1.0 |
 | Hyper | Grey Labyrinth - Terrarium | Vegetables | 30  | 12 Hyper Slimes + 1 jar + reveals switch | Turbo Tater counts as 2 |
-

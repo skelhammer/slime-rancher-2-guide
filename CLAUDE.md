@@ -15,6 +15,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 3. **Read CHANGELOG.md** - Review recent changes to understand what's been updated
 
 **Why this matters:**
+
 - README.md provides the current version number and guide overview
 - CLAUDE.md contains critical editing instructions and style guidelines
 - CHANGELOG.md shows what's changed recently to avoid redundant work
@@ -24,6 +25,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 When the user requests changes to the guide, follow this workflow:
 
 #### Step 1: Identify Target File(s)
+
 - **Chapter content**: Edit specific chapter file (e.g., `01-chapter-01.md`, `03-chapter-09.md`)
 - **Core mechanics**: Edit `00-introduction.md`
 - **Reference tables**: Edit appropriate appendix (`appendix-a-slimes.md`, `appendix-b-items.md`, etc.)
@@ -32,13 +34,16 @@ When the user requests changes to the guide, follow this workflow:
 - **New chapter / new CHANGELOG entry**: start from `.templates/chapter-template.md` or `.templates/changelog-entry-template.md`
 
 #### Step 2: Make Content Edits
+
 - Follow the [Writing Style](#writing-style) guidelines below
 - Maintain consistent formatting with existing content
 - Use tables for comparative data in appendices
 - Include warning callouts for critical information
 
 #### Step 3: Update Version Information
+
 **If content was changed** (not just typo fixes):
+
 1. Update `00-introduction.md` version header:
    - Increment version number (0.1 → 0.2)
    - Update "Last Updated" date to current date
@@ -46,7 +51,9 @@ When the user requests changes to the guide, follow this workflow:
 2. Do NOT update version in individual chapter files - it only lives in `00-introduction.md`
 
 #### Step 4: Update CHANGELOG.md
+
 **REQUIRED for ALL content changes:**
+
 1. Add a new version section at the top of CHANGELOG.md
 2. Document what was changed:
    - New content added
@@ -57,6 +64,7 @@ When the user requests changes to the guide, follow this workflow:
 4. Be specific about what changed (not just "updated Chapter 5")
 
 **Example CHANGELOG entry:**
+
 ```markdown
 ## [0.2] - 2025-10-25 - Saber Strategies Edition
 
@@ -71,7 +79,9 @@ When the user requests changes to the guide, follow this workflow:
 ```
 
 #### Step 5: Update the mirror files (if version changed)
+
 If you updated the version in Step 3, also update the header in each of the sanctioned mirror files so they stay in sync with `00-introduction.md`:
+
 - `README.md` — version header at the top (only spot; bottom Version Information section is version-free)
 - `steam/STEAM-VERSION.md` — version header at the top
 - `steam/SECTION-01-INTRO.txt` — version header at the top (BBCode)
@@ -107,6 +117,7 @@ Before considering changes complete, verify:
 ### Git and Version Control
 
 **CRITICAL RULES - READ CAREFULLY:**
+
 - **NEVER commit or push changes automatically** - ONLY commit/push when the user EXPLICITLY asks you to
 - **DO NOT commit after making edits** - Just make the edits and STOP
 - **DO NOT push after committing** - Only push when explicitly requested
@@ -129,6 +140,7 @@ Before considering changes complete, verify:
 ### When to Ask Questions
 
 Ask the user for clarification when:
+
 - The change might affect multiple interconnected files
 - You're unsure which version name to use
 - The requested change conflicts with existing content
@@ -155,6 +167,7 @@ This is a documentation repository containing a comprehensive walkthrough guide 
 **For guide philosophy and writing style, see the "Guide Philosophy" and "How to Use This Guide" sections in [README.md](README.md).**
 
 Key formatting standards:
+
 - **Directive, strategic tone**: Frames gameplay as resource management and capital deployment
 - **Tables for comparative data**: Plot layouts, upgrade costs, resource comparisons
 - **Bold for CRITICAL warnings**: Tarr risks, mandatory upgrades, time-sensitive mechanics
@@ -167,11 +180,13 @@ The current version, last-updated date, and verification status live **exclusive
 A CI job (`.github/workflows/version-sync.yml`) enforces this by failing on any hardcoded `Version 0.X` string outside the sanctioned mirror files.
 
 **Version Numbering Scheme:**
+
 - Increment version number for each update (0.1 → 0.2 → 0.3, etc.)
 - Give each version a fun, descriptive name based on what changed
 - Examples: "The Price is Right Edition" (price fixes), "Largo Optimization Edition" (new combos), "Spring Cleaning Edition" (reorganization)
 
 **Version Header Format (for `00-introduction.md`):**
+
 ```markdown
 #### Version 0.XX - Descriptive Name Edition
 

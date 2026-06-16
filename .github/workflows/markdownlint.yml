@@ -22,4 +22,5 @@ jobs:
             !steam/**
             !book/**
             !node_modules/**
+            !.templates/**
             !SUMMARY.md

@@ -9,6 +9,7 @@ Launch a focused expedition into Powderfall Bluffs to capture elite Saber Slimes
 **Primary Objective:** Capture Saber Slimes and establish resource pipeline for late-game upgrades
 
 **Financial Checkpoint:**
+
 - **Starting Budget:** Should have 35,000-45,000+ Newbucks from Chapter 6 operations
 - **Required:** ~8,000-18,000 Newbucks for upgrades (Extra Tank II: 3,000 NB, optional Tank Guard III: 10,000 NB, portal system: 2,500 NB)
 - **Daily Revenue:** ~6,000-7,000 Newbucks from Conservatory + Gully + Tidepools
@@ -39,6 +40,7 @@ Launch a focused expedition into Powderfall Bluffs to capture elite Saber Slimes
 **Entry Location:** Hidden waterfall entrance in southwestern Ember Valley
 
 **How to Access:**
+
 1. Enter Ember Valley from Rainbow Fields
 2. Travel to the western volcanic region
 3. Look for large waterfall near coastal area
@@ -46,6 +48,7 @@ Launch a focused expedition into Powderfall Bluffs to capture elite Saber Slimes
 5. Requires Jetpack to navigate vertical ice walls inside
 
 **Recommended Equipment:**
+
 - Heart Module III (250 HP), Power Core III (250 Energy), Jetpack II
 - Water Tank, Pulse Wave, Tank Guard II
 - 50+ meat for Saber Gordo and wild Saber feeding
@@ -84,12 +87,14 @@ Powderfall Bluffs contains 2 Map Data Nodes. Activate these immediately upon ent
 **Asset Acquisition Strategy:**
 
 **Saber Slimes (Target: 10-12)**
+
 - **Location:** Northern plateau areas near Saber Gordo
 - **Method:** Pop Saber Gordo first to get 12 free Saber Slimes
 - **Tactics:** Use Pulse Wave for crowd control—Sabers are aggressive and fast
 - **Transport:** Return to ranch via Saber Gordo portal (southern Ember Valley) → Rainbow Fields → Conservatory
 
 **Thunderclucks (Target: 20-30)**
+
 - **Location:** Wild coops in central valley and caves
 - **Includes:** 2 Roostros for breeding program
 - **Purpose:** Saber favorite food (2 plorts per feeding vs 1 for regular meat)
@@ -114,14 +119,17 @@ Powderfall Bluffs contains 2 Map Data Nodes. Activate these immediately upon ent
 **Treasure Pod Priorities:**
 
 **Priority 1 - Ultra-Rare Materials:**
+
 - **Sun Sap x3:** Top of cliff in forested area (Jetpack required). Provides 3 Sun Sap—30% of total endgame requirements. Collect immediately.
 
 **Priority 2 - Upgrade Components:**
+
 - **Storage Cell:** Northeast cliffside via aurora bridges (night only, 19:00-5:15). Required for endgame upgrades.
 - **Sureshot Module:** Mountain summit near East Map Data Node and Thundercluck nests (Jetpack required). Needed for Golden Sureshot II.
 - **Power Chip:** Behind highest pink coral on coastal reef island (Jetpack required). Reserve for endgame upgrades.
 
 **Priority 3 - Portal Blueprint:**
+
 - **Powderfall Bluffs Portal:** Main cave with fire flowers, ceiling accessible via aurora bridge (night recommended). Essential for weekly Sun Sap farming runs.
 
 **Important Note:** Aurora bridges appear only at night (after 19:00). Many treasure pods and shortcuts require these glowing bridges. Plan exploration during nighttime hours.
@@ -136,6 +144,7 @@ Powderfall Bluffs contains 2 Map Data Nodes. Activate these immediately upon ent
 | **Tank Guard III** | 10,000 NB | 40 Crystal Plort, 30 Hunter Plort, 30 Buzz Wax, 2 Strange Diamond, 1 Tank Liner | Salvages 60% on damage | Tank Liner #3 (Ch 4) | OPTIONAL - Only if surplus Strange Diamonds |
 
 **Material Sources:**
+
 - Rock/Crystal Plorts: From your Conservatory Crystal-Rock corrals
 - Ringtail Plorts: Collect wild at night from multiple biomes
 - Hunter Plorts: Collect wild from Starlight Strand
@@ -155,11 +164,13 @@ Powderfall Bluffs contains 2 Map Data Nodes. Activate these immediately upon ent
 **Deploy Portal System:**
 
 **Powderfall Bluffs Portal (One-Way to Powderfall Bluffs):**
+
 - **Blueprint Location:** Purple treasure pod in main cave with fire flowers (high ledge via aurora bridge, requires Jetpack)
 - **Crafting Cost:** 2,000 Newbucks + 20 Saber Plorts + 5 Puddle Plorts + 10 Radiant Ore + 10 Slime Fossil
 - **Placement (Conservatory-Side):** The Digsite (once unlocked in Chapter 11) or central Conservatory
 
 **Blue Home Portal (One-Way to Conservatory):**
+
 - **Crafting Cost:** 500 Newbucks + 10 Rock Plorts + 5 Radiant Ore + 5 Primordy Oil
 - **Placement (Powderfall Bluffs-Side):** Central valley plateau near Secondary Map Data Node
 - **Why Blue:** Most cost-effective option (only 500 Newbucks) and uses basic resources available from earlier chapters
@@ -181,6 +192,7 @@ Powderfall Bluffs contains 2 Map Data Nodes. Activate these immediately upon ent
 ### Financial Checkpoint
 
 **Capital Required:**
+
 - Extra Tank II: 3,000 Newbucks
 - Tank Guard III (optional): 10,000 Newbucks
 - Warp Infrastructure: 2,750 Newbucks (Refinery Link 250 NB + Portal System 2,500 NB)
@@ -192,11 +204,13 @@ Powderfall Bluffs contains 2 Map Data Nodes. Activate these immediately upon ent
 This chapter focuses on resource extraction and Saber acquisition. The captured Saber Slimes will generate revenue in Chapter 8 (The Den reorganization) when converted to Saber-Hunter Largos in The Gully.
 
 **Estimated Revenue from Chapter 8 Preview:**
+
 - Saber-Hunter Largos (Gully Plot 5): ~1,500-2,000 Newbucks/day
 
 ### End of Chapter Checklist
 
 By the end of Chapter 7, you should have:
+
 - ✅ Accessed Powderfall Bluffs via waterfall entrance
 - ✅ Saber Gordo popped, portal shortcut activated
 - ✅ Both Map Data Nodes activated

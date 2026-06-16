@@ -16,6 +16,7 @@ The guide has been split into individual chapter files for easier editing and na
 ### Core Files
 
 **[00-introduction.md](00-introduction.md) - Introduction & Core Mechanics**
+
 - The Rancher's Mindset (core principles)
 - The Plort Market (supply & demand mechanics)
 - Largo Slimes (profit mathematics)
@@ -24,6 +25,7 @@ The guide has been split into individual chapter files for easier editing and na
 - Optimal Corral Population
 
 **Appendices - Quick Reference Tables**
+
 - **[appendix-a-slimes.md](appendix-a-slimes.md)** - Slime Compendium & Gordo Locations
 - **[appendix-b-items.md](appendix-b-items.md)** - Item Compendium
 - **[appendix-c-upgrades.md](appendix-c-upgrades.md)** - Vacpack Upgrades
@@ -84,6 +86,7 @@ This guide is built on three core principles:
 Start with [00-introduction.md](00-introduction.md) to understand core mechanics and game fundamentals, then follow chapters sequentially for optimal progression. You can also jump to specific topics using the navigation links above or reference the appendices for quick lookup tables.
 
 **Recommended Reading Order:**
+
 1. Read Introduction & Core Mechanics first
 2. Follow Part 1 chapters sequentially (Chapters 1-4)
 3. Continue through Parts 2-4 as you progress in-game

@@ -9,6 +9,7 @@ Weather event slimes (Dervish and Tangle) are among the rarest in the game, spaw
 ### Prerequisites
 
 **You MUST have collected:**
+
 - **Dervish Slimes:** Spawn during Level 3 Wind Storms (Cyclones) in all biomes
 - **Tangle Slimes:** Spawn during Level 3 Pollen Storms in all biomes
 - **Painted Hens:** Spawn during Level 3 Pollen Storms (same as Tangle)
@@ -20,6 +21,7 @@ Weather event slimes (Dervish and Tangle) are among the rarest in the game, spaw
 **Primary Objective:** Integrate rare weather event slimes into automated ranch operations (optional)
 
 **Financial Checkpoint:**
+
 - **Starting Budget:** Should have 50,000-60,000+ Newbucks from Chapter 11 operations
 - **Required:** ~14,450 Newbucks for Digsite unlock (6,000 NB) and build-out (8,445 NB)
 - **Daily Revenue:** ~8,500-12,000 Newbucks from all operations
@@ -60,11 +62,13 @@ Weather event slimes (Dervish and Tangle) are among the rarest in the game, spaw
 ### Financial Checkpoint
 
 **Capital Required:**
+
 - Digsite Unlock: 6,000 Newbucks
 - Full Build-Out: 8,445 Newbucks (2 corrals + 1 coop + 1 garden)
 - **Total: ~14,445 Newbucks**
 
 **Revenue Impact:**
+
 - **Starting:** ~8,500-12,000 Newbucks/day (Chapter 11: All operations + Grey Labyrinth slimes)
 - **After Expansion:** ~11,000-15,500 Newbucks/day (All operations + weather slimes)
 - **Daily Increase:** +2,500-3,500 Newbucks/day
@@ -106,9 +110,11 @@ Execute the following build in order:
 **Objective:** Configure auto-feeders and understand weather slime security requirements.
 
 **Auto-Feeder Setup:**
+
 - Plot 2 (Dervish-Ringtail): Prickle Pears | Plot 4 (Tangle-Hyper): Painted Hens
 
 **CRITICAL - Tangle-Hyper Security:**
+
 - Air Net is MANDATORY (Hyper extremely bouncy - WILL escape without it)
 - Tangle vines grab food from 10 units away (keep neighboring plots clear)
 - Music Box on both corrals (Dervish tornadoes, Hyper dashing)
@@ -118,20 +124,24 @@ Execute the following build in order:
 **Objective:** Deploy optional gadgets for improved logistics and convenience in The Digsite.
 
 **Market Link:**
+
 - Central area near Plots 2 and 4 (corrals)
 - 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
 
 **Refinery Link:**
+
 - Near entrance from The Den
 - 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
 
 **Dash Pad:**
+
 - Path between The Den entrance and The Digsite entrance
 - 500 NB + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
 
 #### Phase 5: Digsite Teleporter (Optional Quality-of-Life)
 
 **Amber Teleporter - The Digsite ↔ Grey Labyrinth Terrarium**
+
 - The Digsite ↔ Grey Labyrinth Terrarium (Hyper slime zone)
 - 4,000 NB + 30 Dervish Plorts + 20 Tin Petal + 10 Dream Bubble + 10 Aqua Glass + 2 Royal Jelly
 
@@ -140,6 +150,7 @@ Execute the following build in order:
 **IMPORTANT:** This chapter is optional. If you haven't collected weather slimes or find them too difficult to manage, skip this expansion entirely and proceed to Chapter 13.
 
 By the end of Chapter 12, you should have:
+
 - ✅ The Digsite expansion unlocked and operational (OR intentionally skipped)
 - ✅ Dervish-Ringtail Largos established in Plot 2 (if built)
 - ✅ Tangle-Hyper Largos established in Plot 4 (if built)
@@ -153,6 +164,7 @@ By the end of Chapter 12, you should have:
 Chapter 13 (The Endgame Audit) focuses on maximizing your Vacpack capabilities and unlocking all final upgrades before the endgame.
 
 **Preparation for Chapter 13:**
+
 - **Shadow Plort Farming:** Begin systematically farming Shadow Plorts from Grey Labyrinth if you haven't already. Total needed: 1,185 Shadow Plorts
   - Shadow Plort Doors: 1,165 plorts (unlocks treasure pods, shortcuts, areas)
   - Strange Dimension Nullifier (unlock Grey Labyrinth fast travel): 20 Shadow Plorts

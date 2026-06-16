@@ -9,6 +9,7 @@ Expand your Conservatory to 8 plots while simultaneously extracting Ember Valley
 **Primary Objective:** Expand Conservatory to 8 plots while unlocking Tier II Vacpack upgrades
 
 **Financial Checkpoint:**
+
 - **Starting Budget:** Should have 5,000-8,000+ Newbucks from Chapter 2 operations (4 Largo corrals)
 - **Required:** ~12,045 Newbucks for ranch expansion (8,745 NB) and upgrades (3,300+ NB)
 - **Timeline:** Achieve in 5-7 days through all 4 Conservatory operations
@@ -78,18 +79,21 @@ Ember Valley contains 3 Map Data Nodes. Activate these to reveal the full biome:
 Before beginning ranch expansion, gather all slimes and plorts needed for your new operations. With Tank Booster from Chapter 2, you now have 30 units per slot (4 slots = 120 total capacity).
 
 **Collection Run 1: Plorts for Upgrades (deposit in Refinery)**
+
 - Enter Ember Valley and collect:
   - 10+ Boom Plorts (for Dash Boots upgrade)
   - 10+ Rock Plorts (for Extra Tank upgrade)
 - Return to ranch, deposit in Refinery
 
 **Collection Run 2: Plorts for Largo Creation (keep in vac - DO NOT deposit)**
+
 - Enter Ember Valley and collect:
   - 6 Batty Plorts (to feed Boom Slimes for Boom-Batty largos)
   - 6 Rock Plorts (to feed Crystal Slimes for Crystal-Rock largos)
 - Return to ranch, keep these in your vac for creating Largos
 
 **Collection Run 3: Slime Collection for Ranch Expansion**
+
 - **6 Crystal Slimes:** Northern Ember Valley near chasm (deal contact damage, be careful)
 - **6 Boom Slimes:** Volcanic areas throughout Ember Valley
 - Return to ranch, deploy slimes and feed plorts to create Largos immediately
@@ -113,6 +117,7 @@ Before beginning ranch expansion, gather all slimes and plorts needed for your n
 
 **Material Collection Priority:**
 As you explore Ember Valley popping Gordos and opening treasure pods, prioritize harvesting:
+
 - Jellystone (10+ for Power Core II and future upgrades)
 - Primordy Oil (10+ for Power Core II)
 - Deep Brine (10+ for Water Tank)
@@ -122,6 +127,7 @@ As you explore Ember Valley popping Gordos and opening treasure pods, prioritize
 **Treasure Pod Priorities:**
 
 **Priority 1 - Upgrade Components:**
+
 - **Jetpack Drive:** Plateau above Rock Gordo (requires popping gordo + Jetpack). Essential for Jetpack II upgrade (20% energy reduction).
 - **Storage Cell:** Behind Rainbow Fields portal, activate Batty Statue with 1 Batty Plort. Required for Tank Booster II.
 - **Heart Cell:** Underground ledge before Crystal Gordo waterfall. Needed for Heart Module II (200 HP).
@@ -129,6 +135,7 @@ As you explore Ember Valley popping Gordos and opening treasure pods, prioritize
 - **Sureshot Module:** Underground lava fields behind Angler Plort door. Enables Golden Sureshot series for Gold Slime hunting.
 
 **Priority 2 - Portal & Rare Materials:**
+
 - **Ember Valley Portal + Strange Diamond:** Both in room behind Boom Gordo. Portal eliminates 5-10 minutes per farming run; Strange Diamond is 1 of only 3 available pre-Chapter 11.
 
 #### Phase 4: Ranch Expansion (Conservatory)
@@ -168,6 +175,7 @@ Before deep exploration of Ember Valley, establish your two new corral operation
 **Total Upgrade Investment:** ~3,400 NB + materials
 
 **Upgrade Components Required:**
+
 - **Jetpack Drive** (Tier II component) - Rock Gordo treasure pod (plateau above gordo)
 - **Power Chip** (Tier II component) - Rainbow Fields treasure pod in the cave near the Starlight Strand portal, among glowing mushrooms. _The Power Core II **blueprint** comes from popping the Batty Gordo; the Power Chip **component** needed to craft it is a separate treasure-pod find in Rainbow Fields._
 - **Heart Cell** (Tier II component) - Underground ledge before Crystal Gordo waterfall
@@ -188,11 +196,13 @@ Before deep exploration of Ember Valley, establish your two new corral operation
 **Deploy Portal System:**
 
 **Ember Valley Portal (One-Way to Ember Valley):**
+
 - **Blueprint Location:** Treasure pod in room behind Boom Gordo
 - **Crafting Cost:** 2,000 Newbucks + 20 Boom Plorts + 10 Crystal Plorts + 10 Radiant Ore + 10 Primordy Oil
 - **Placement (Conservatory-Side):** Central Conservatory area between expansion entrances
 
 **Red Home Portal (One-Way to Conservatory):**
+
 - **Crafting Cost:** 1,000 Newbucks + 20 Boom Plorts + 10 Jellystone + 10 Primordy Oil + 5 Lava Dust
 - **Placement (Ember Valley-Side):** Central geyser area between Batty and Crystal Gordo cave entrances (same location as Refinery Link)
 - **Why Red:** Uses Ember Valley resources (Boom Plorts, Lava Dust, Primordy Oil) you're already farming here
@@ -214,6 +224,7 @@ Before deep exploration of Ember Valley, establish your two new corral operation
 ### Financial Checkpoint
 
 **Capital Required:**
+
 - Ranch Expansion: 8,745 Newbucks (Plots 5-8)
 - Vacpack Upgrades: 3,400 Newbucks (Water Tank, Dash Boots, Extra Tank, Power Core II)
 - Warp Infrastructure: 3,250 Newbucks (Refinery Link 250 NB + Portal System 3,000 NB)
@@ -231,6 +242,7 @@ Before deep exploration of Ember Valley, establish your two new corral operation
 ### End of Chapter Checklist
 
 By the end of Chapter 3, you should have:
+
 - ✅ Conservatory expanded to 8 plots with 4 active corral operations
 - ✅ Plot 1-2: Tabby-Cotton Largos + Water Lettuce garden
 - ✅ Plot 3-4: Phosphor-Honey Largos + Cuberry garden

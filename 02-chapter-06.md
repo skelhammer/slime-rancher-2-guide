@@ -9,6 +9,7 @@ Develop The Tidepools into a zero-maintenance division generating constant passi
 **Primary Objective:** Construct a fully passive income operation requiring minimal daily interaction
 
 **Financial Checkpoint:**
+
 - **Starting Budget:** Should have 25,000-30,000+ Newbucks from Chapter 5 operations
 - **Required:** ~24,350 Newbucks for Tidepools unlock (6,000 NB), build-out (4,350 NB), and Tier III upgrades (14,000 NB)
 - **Daily Revenue:** ~4,000-4,500 Newbucks from Conservatory + Gully
@@ -50,12 +51,14 @@ Develop The Tidepools into a zero-maintenance division generating constant passi
 ### Financial Checkpoint
 
 **Capital Required:**
+
 - Tidepools Unlock: 6,000 Newbucks
 - Full Build-Out: 4,350 Newbucks (5 plots with upgrades)
 - Tier III Upgrades: 14,000 Newbucks + materials
 - **Total: ~24,350 Newbucks**
 
 **Revenue Impact:**
+
 - **Starting:** ~4,000-4,500 Newbucks/day (Chapter 5: Conservatory + Gully)
 - **After Expansion:** ~5,540-6,810 Newbucks/day (Conservatory + Gully + Tidepools combined)
 - **Daily Increase:** +1,540-2,310 Newbucks/day
@@ -94,6 +97,7 @@ Execute the following build in order:
 **Total Investment:** 6,000 NB (expansion) + 4,350 NB (plots/upgrades) = 10,350 NB
 
 **Asset Acquisition:**
+
 - **Puddle Slimes (8 total):** Starlight Strand (highest density) or Rainbow Fields. Cannot Largo, must use Pond plots
 - **Fire Slimes (10 total):** Ember Valley lava pools. Cannot Largo, must use Incinerator plots
 
@@ -102,6 +106,7 @@ Execute the following build in order:
 **Objective:** Understand passive income mechanics and establish low-maintenance operations.
 
 **Passive Income System:**
+
 - Puddle Slimes (Plots 1-2): Zero maintenance, generate plorts from water
 - Fire Slimes (Plots 3-4): Throw vegetables from Plot 5 into incinerators to create ash
 - Combined revenue: ~1,540-2,310 NB/day
@@ -113,14 +118,17 @@ Execute the following build in order:
 **Objective:** Deploy optional gadgets for improved logistics and convenience.
 
 **Market Link:**
+
 - Central area near Ponds (Plots 1 & 2)
 - 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
 
 **Refinery Link:**
+
 - Near entrance from The Gully
 - 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
 
 **Dash Pad:**
+
 - Path between The Gully entrance and Tidepools entrance
 - 500 NB + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
 
@@ -140,6 +148,7 @@ Execute the following build in order:
 **Total Investment:** ~14,000 NB + materials
 
 **Material Sources:**
+
 - Tabby/Cotton/Pink/Crystal Plorts: From your Conservatory corrals
 - Angler/Batty Plorts: From your Gully corrals (Angler-Crystal, Flutter-Tabby currently; will change in Ch 8)
 - Honey/Hunter Plorts: Collect wild from Starlight Strand or ranch temporarily
@@ -148,6 +157,7 @@ Execute the following build in order:
 - Strange Diamond: Starlight Strand treasure pod (Flutter Gordo pit)
 
 **Crafting Priority:**
+
 1. Heart Module III (survivability first)
 2. Tank Booster III (inventory capacity for Powderfall collections)
 3. Power Core III (energy for extended exploration)
@@ -156,6 +166,7 @@ Execute the following build in order:
 ### End of Chapter Checklist
 
 By the end of Chapter 6, you should have:
+
 - ✅ The Tidepools expansion purchased and developed (5 plots)
 - ✅ Two fully upgraded Puddle Ponds (8 Puddle Slimes total)
 - ✅ Two Incinerators (10 Fire Slimes total)

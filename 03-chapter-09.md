@@ -13,6 +13,7 @@ Deploy Quantum Drones to eliminate manual labor and transform your ranch from a 
 **Primary Objective:** Deploy 3 Quantum Drone Stations to automate core ranch operations
 
 **Financial Checkpoint:**
+
 - **Starting Budget:** Should have 50,000-70,000+ Newbucks from Chapter 8 operations
 - **Required:** ~15,000 Newbucks for 3 Quantum Drone Stations
 - **Optional:** ~1,500 Newbucks for catch-up Dash Pad crafting (if you skipped earlier chapters)
@@ -65,6 +66,7 @@ You should have 300+ Flutter Plorts accumulated from multiple sources: your curr
 ### Financial Checkpoint
 
 **Capital Required:**
+
 - Drone Station Crafting: 15,000 Newbucks (3 × 5,000 NB)
 - Flutter Plorts: 300 total (from existing Chapter 8 operations, DO NOT purchase)
 - Strange Diamonds: 6 total (from Starlight Strand treasure pods)
@@ -73,6 +75,7 @@ You should have 300+ Flutter Plorts accumulated from multiple sources: your curr
 - **Total: 15,000 Newbucks + materials**
 
 **Time Savings Impact:**
+
 - **Starting:** 30-40 minutes daily ranch management (manual plort collection across 4 expansions)
 - **After Automation:** <10 minutes daily ranch management (drones handle plort collection automatically)
 - **Time Saved:** 20-30 minutes/day = 140-210 minutes/week freed for exploration
@@ -152,6 +155,7 @@ Each drone program has THREE components: **Target → Source → Destination**
 Access via any Drone Station to configure:
 
 **1. Target (What to collect):**
+
 - **Plorts** (collects all plort types)
 - **Veggies** (collects all vegetable types)
 - **Fruit** (collects all fruit types)
@@ -161,6 +165,7 @@ Access via any Drone Station to configure:
 - **Specific Food Types** (e.g., only Pogofruit, only Stony Hens)
 
 **2. Source (Where to collect from):**
+
 - **When Target = Plorts:** Corral, Pond, Incinerator, Silo, Plort Collector, Free Range
 - **When Target = Veggies:** Garden, Silo, Outside Plots
 - **When Target = Fruit:** Garden, Silo, Outside Plots
@@ -168,6 +173,7 @@ Access via any Drone Station to configure:
 - **IMPORTANT:** Sources collect from ALL instances of that type (e.g., "Coop" = all coops in expansion, not a specific plot)
 
 **3. Destination (Where to deliver):**
+
 - **When Target = Plorts:** Silo, Plort Market, Refinery
 - **When Target = Veggies/Fruit/Meat:** Corral, Silo, Auto-Feeder, Incinerator (to make ash)
 - **IMPORTANT:** Destinations deliver to ALL instances of that type (e.g., "Auto-Feeder" = all auto-feeders randomly, not a specific plot)
@@ -179,16 +185,19 @@ Access via any Drone Station to configure:
 **CRITICAL - General vs Specific Targets:**
 
 **General Targets (Recommended for Plorts):**
+
 - **Target: Plorts** + **Source: Plort Collector** = Collects ALL plorts from ALL plort collectors in expansion
 - This is the most efficient setup for plort collection
 - Future-proof: automatically includes new plots with plort collectors
 
 **Specific Targets (For Selective Collection):**
+
 - **Target: Tabby Plorts** + **Source: Plort Collector** = Collects ONLY Tabby Plorts
 - **Target: Stony Hens** + **Source: Coop** = Collects ONLY Stony Hens
 - Useful when you want to separate plort types or food types
 
 **CRITICAL - Food Distribution to Auto-Feeders:**
+
 - **Target: Meat/Fruit/Veggies** + **Destination: Auto-Feeder** = Drone delivers to ALL auto-feeders in the expansion randomly
 - **You CANNOT specify which auto-feeder** - it distributes to all of them
 - This means it WON'T respect favorite food preferences and you'll lose the 4-plort bonus from favorite foods
@@ -211,17 +220,20 @@ Ghostly Drones are ethereal, semi-transparent phantom drones that roam Rainbow I
 There are **10 total Ghostly Drones** across Rainbow Island and the Grey Labyrinth. For Chapter 9, you only need 3 modules to craft your first 3 Quantum Drone Stations.
 
 **Ranch Expansions (3 Drones - Easiest to Find):**
+
 - **First Ranch Expansion:** 1 Ghostly Drone guaranteed spawn in whichever expansion you unlocked first (The Gully, The Archway, or The Den)
 - **The Tidepools:** 1 Ghostly Drone spawn
 - **The Digsite:** 1 Ghostly Drone spawn (unlocked in Chapter 12 - skip for Chapter 9, only 3 drones needed)
 
 **Wild Zones (4 Drones - Moderate Difficulty):**
+
 - **Rainbow Fields:** Tallest mountain summit in the middle (requires advanced jetpack)
 - **Starlight Strand:** By the big two-colored tree (pink/blue biome junction)
 - **Ember Valley:** Oasis on top of northernmost mountain (above Powderfall Bluffs entrance)
 - **Powderfall Bluffs:** Off on the icy island to the northwest (difficult to reach)
 
 **Grey Labyrinth (3 Drones - Endgame):**
+
 - **Terrarium:** The new area on the far right
 - **Dreamland:** High tower in the pink area (requires platforming)
 - **Prismacore:** Flying around the portal/staircase area
@@ -259,6 +271,7 @@ Now deploy and program your three drones to automate the most time-consuming ran
 **Station Location:** Conservatory - central area
 
 **Programming:**
+
 - **Target:** Plorts
 - **Source:** Plort Collector
 - **Destination:** Plort Market (for immediate sales) OR Silo (for price spike management)
@@ -280,6 +293,7 @@ Now deploy and program your three drones to automate the most time-consuming ran
 **Station Location:** The Gully - central area
 
 **Programming:**
+
 - **Target:** Plorts
 - **Source:** Plort Collector
 - **Destination:** Plort Market (for immediate sales) OR Silo (for price monitoring)
@@ -301,6 +315,7 @@ Now deploy and program your three drones to automate the most time-consuming ran
 **Station Location:** The Tidepools - central area
 
 **Programming:**
+
 - **Target:** Plorts
 - **Source:** Plort Collector (collects from Ponds and Incinerators)
 - **Destination:** Plort Market (for immediate sales) OR Silo (for storage)
@@ -326,6 +341,7 @@ Once you progress through the game, you'll have access to 7 more Ghostly Drones 
 **Station Location:** The Den - central area
 
 **Programming:**
+
 - **Target:** Plorts
 - **Source:** Plort Collector
 - **Destination:** Plort Market (for immediate sales)
@@ -347,6 +363,7 @@ Once you progress through the game, you'll have access to 7 more Ghostly Drones 
 **Station Location:** The Archway - central area
 
 **Programming:**
+
 - **Target:** Plorts
 - **Source:** Plort Collector
 - **Destination:** Silo (store high-value plorts for price spike selling)
@@ -368,6 +385,7 @@ Once you progress through the game, you'll have access to 7 more Ghostly Drones 
 **Station Location:** The Digsite - central area
 
 **Programming:**
+
 - **Target:** Plorts
 - **Source:** Plort Collector
 - **Destination:** Silo (for price monitoring and storage)
@@ -402,11 +420,12 @@ Once you progress through the game, you'll have access to 7 more Ghostly Drones 
 **Purpose:** Verify you have Dash Pads connecting all expansion areas
 
 **Previous Opportunities:** If you followed the optional Dash Pad sections in Chapters 5, 6, 8, 10, and 11, you should already have:
+
 - 1 Dash Pad: Conservatory ↔ The Gully (Chapter 5)
 - 1 Dash Pad: The Gully ↔ The Tidepools (Chapter 6)
 - 1 Dash Pad: Conservatory ↔ The Den (Chapter 8)
-- 1 Dash Pad: Conservatory ↔ The Archway (Chapter 11) - *not yet unlocked at this chapter*
-- 1 Dash Pad: The Den ↔ The Digsite (Chapter 12) - *not yet unlocked at this chapter*
+- 1 Dash Pad: Conservatory ↔ The Archway (Chapter 11) - _not yet unlocked at this chapter_
+- 1 Dash Pad: The Den ↔ The Digsite (Chapter 12) - _not yet unlocked at this chapter_
 
 **Catch-Up Crafting (If You Skipped Earlier):**
 
@@ -417,12 +436,14 @@ If you didn't build Dash Pads in previous chapters, now is a good time to add th
 **Crafting Cost:** 500 Newbucks + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
 
 **How Dash Pads Work:**
+
 - Step on a Dash Pad to gain a temporary buff (~10-15 seconds)
 - While buffed, sprinting costs ZERO energy
 - Allows unlimited sprinting with no energy drain
 - Extremely useful for long-distance ranch traversal
 
 **Recommended Placements:**
+
 - Between major expansion entrances (Conservatory, Gully, Tidepools, Den)
 - Inside large expansions for faster plot-to-plot travel
 
@@ -431,6 +452,7 @@ If you didn't build Dash Pads in previous chapters, now is a good time to add th
 ### End of Chapter Checklist
 
 By the end of Chapter 9, you should have:
+
 - ✅ 3 Ghostly Drones found in ranch expansions
 - ✅ 3 Drone Station Modules obtained
 - ✅ Quantum Drone Station #1 crafted and deployed (5,000 NB + 100 Flutter Plorts + materials)

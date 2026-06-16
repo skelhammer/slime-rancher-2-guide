@@ -9,6 +9,7 @@ You've captured Rainbow Island's most valuable slimes from the Grey Labyrinth. N
 **Primary Objective:** Integrate Grey Labyrinth slimes into automated ranch operations and establish highest-value plort production
 
 **Financial Checkpoint:**
+
 - **Starting Budget:** Should have 50,000-70,000+ Newbucks from Chapter 10 operations
 - **Required:** ~12,650 Newbucks for Archway unlock (2,800 NB) and build-out (9,845 NB)
 - **Daily Revenue:** ~6,500-8,500 Newbucks from all operations
@@ -50,11 +51,13 @@ You've captured Rainbow Island's most valuable slimes from the Grey Labyrinth. N
 ### Financial Checkpoint
 
 **Capital Required:**
+
 - Archway Unlock: 2,800 Newbucks
 - Full Build-Out: 9,845 Newbucks (2 corrals + 1 coop + 1 garden + 1 silo)
 - **Total: ~12,645 Newbucks**
 
 **Revenue Impact:**
+
 - **Starting:** ~6,500-8,500 Newbucks/day (Chapter 10: All operations automated)
 - **After Expansion:** ~8,500-12,000 Newbucks/day (All operations + Grey Labyrinth slimes)
 - **Daily Increase:** +2,000-3,500 Newbucks/day
@@ -95,9 +98,11 @@ Execute the following build in order:
 **Objective:** Configure auto-feeders and understand Grey Labyrinth slime behaviors.
 
 **Auto-Feeder Setup:**
+
 - Plot 2 (Twin-Flutter): Polaricherry | Plot 4 (Sloomber-Saber): Candied Hens
 
 **CRITICAL:**
+
 - Music Box on Sloomber-Saber corral is essential (Saber aggression + Sloomber sleep clouds)
 - Use Quantum Drones (from Chapter 9) to automate plort/food transport if desired
 
@@ -106,14 +111,17 @@ Execute the following build in order:
 **Objective:** Deploy optional gadgets for improved logistics and convenience in The Archway.
 
 **Market Link:**
+
 - Central area near Plots 2 and 4 (corrals)
 - 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
 
 **Refinery Link:**
+
 - Near entrance from The Conservatory
 - 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
 
 **Dash Pad:**
+
 - Path between Conservatory entrance and The Archway entrance
 - 500 NB + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
 
@@ -122,26 +130,32 @@ Execute the following build in order:
 Connect your ranch expansions with two-way teleporters for quick travel between areas.
 
 **1. Violet Teleporter - Conservatory ↔ The Gully**
+
 - Conservatory central ↔ The Gully central
 - 1,200 NB + 30 Phosphor Plorts + 20 Primordy Oil + 20 Radiant Ore + 10 Silky Sand + 2 Strange Diamonds
 
 **2. Pink Teleporter - Conservatory ↔ The Tidepools**
+
 - Conservatory central ↔ The Tidepools central
 - 1,200 NB + 30 Pink Plorts + 10 Jellystone + 10 Radiant Ore + 5 Lava Dust + 2 Strange Diamonds
 
 **3. Snowy Teleporter - Conservatory ↔ The Den**
+
 - Conservatory central ↔ The Den central
 - 1,200 NB + 30 Ringtail Plorts + 20 Slime Fossil + 20 Radiant Ore + 10 Lava Dust + 2 Strange Diamonds
 
 **4. Grey Teleporter - Conservatory ↔ The Archway**
+
 - Conservatory central ↔ The Archway central
 - 2,000 NB + 30 Tabby Plorts + 15 Buzz Wax + 15 Radiant Ore + 10 Silky Sand + 2 Strange Diamonds
 
 **5. Green Teleporter - The Gully ↔ The Tidepools**
+
 - The Gully ↔ The Tidepools
 - 3,000 NB + 30 Twin Plorts + 20 Tin Petal + 10 Black Indigonium + 10 Dream Bubble + 2 Royal Jelly
 
 **6. Red Teleporter - The Den ↔ The Archway**
+
 - The Den ↔ The Archway
 - 3,000 NB + 30 Hyper Plorts + 20 Tin Petal + 10 Aqua Glass + 10 Magma Comb + 2 Royal Jelly
 
@@ -150,6 +164,7 @@ Connect your ranch expansions with two-way teleporters for quick travel between 
 ### End of Chapter Checklist
 
 By the end of Chapter 11, you should have:
+
 - ✅ The Archway expansion unlocked and operational
 - ✅ Twin-Flutter Largos established in Plot 2
 - ✅ Sloomber-Saber Largos established in Plot 4

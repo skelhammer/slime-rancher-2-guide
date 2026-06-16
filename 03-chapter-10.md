@@ -11,6 +11,7 @@ Before entering the Grey Labyrinth, verify you have the required equipment and u
 #### Required Vacpack Status (from Chapter 9)
 
 By the end of Chapter 9, you should have:
+
 - **Health/Energy:** Heart Module III (250 HP), Power Core III (250 Energy)
 - **Mobility:** Jetpack II, Dash Boots II
 - **Inventory/Defense:** Tank Booster III, Extra Tank, Tank Guard, Water Tank, Pulse Wave
@@ -22,16 +23,19 @@ The Radiant Projector is essential for solving light puzzles that lock the main 
 **Blueprint Source:** Viktor Humphries (NPC scientist) gives you the blueprint via a comm station call.
 
 **Unlock Requirements:** Viktor's call triggers automatically when you meet BOTH conditions:
+
 - You have popped either the Boom Gordo (Ember Valley) OR the Flutter Gordo (Starlight Strand)
 - It is at least Day 20 of your playthrough (in-game days)
 
 **Timeline If Following This Guide:**
+
 - Chapter 3 (Days 8-12): You pop the Boom Gordo in Ember Valley
 - Chapter 4 (Days 13-17): You pop the Flutter Gordo in Starlight Strand
 - Day 20: Viktor's comm station call triggers automatically
 - Day 20+: Radiant Projector blueprint becomes available at your Fabricator
 
 **Radiant Projector Crafting Recipe:**
+
 - **Cost:** 500 Newbucks
 - **Materials:** 10 Hunter Plorts, 10 Boom Plorts, 5 Silky Sand, 5 Lava Dust
 - **Quantity:** Craft 3-4 Radiant Projectors before entering
@@ -40,6 +44,7 @@ The Radiant Projector is essential for solving light puzzles that lock the main 
 #### Required Expedition Kit
 
 Bring the following items in your inventory:
+
 - **Entry Tools:** 3-4 crafted Radiant Projectors
 - **Puzzle Items:** Stack of Hunter Plorts and Angler Plorts (for Terrarium access later)
 - **Plort Statues (CRITICAL if entering from Starlight Strand):** 1 Boom Plort and 1 Batty Plort - there are plort statue doors very close to the Starlight Strand entrance that unlock shortcuts and valuable areas
@@ -52,6 +57,7 @@ Bring the following items in your inventory:
 **Objective:** Enter the Grey Labyrinth, activate Map Data Nodes, and understand the zone mechanics.
 
 **Entry Points:**
+
 - **Ember Valley:** Portal revealed after popping the Boom Gordo (western volcanic area)
 - **Starlight Strand:** Portal revealed after popping the Flutter Gordo (southern central cave) - RECOMMENDED
 
@@ -68,6 +74,7 @@ The door to the Grey Labyrinth is located directly under where the Flutter Gordo
 The Grey Labyrinth contains 7 Map Data Nodes across all zones. Your FIRST priority upon entering is finding and activating these nodes:
 
 **Map Data Node Locations:**
+
 - 2 nodes in Waterworks (hub area)
 - 2 nodes in Impossible Sky
 - 1 node in Lava Depths
@@ -77,6 +84,7 @@ The Grey Labyrinth contains 7 Map Data Nodes across all zones. Your FIRST priori
 Reference **Appendix F** (Locations & Collectibles) for exact locations once you're exploring.
 
 **Initial Exploration Actions:**
+
 - Enter the Labyrinth and immediately begin searching for Map Data Nodes
 - Observe Prisma Disruption patterns (don't engage yet)
 - Locate new slime species (Twin, Shadow) and resource nodes
@@ -106,6 +114,7 @@ Reference **Appendix F** (Locations & Collectibles) for exact locations once you
 **Unstable Items:** Items with "Unstable" status randomly JUMP out of your Vacpack unpredictably. They pop out if you take damage and eventually vanish if left unstabilized. **CRITICAL:** You cannot use teleporters/warp depots while carrying Unstable items.
 
 **Stabilization Methods:**
+
 - **Prisma Stabilizers:** Yellow floating portals that appear during disruptions. Shoot Unstable items through them to stabilize. **One-time use** - they disappear after use.
 - **Ancient Stabilizers:** Permanent archway structures found throughout Labyrinth. Walk through gate to automatically convert all Unstable Plorts in your vac into Prisma Plorts. Reusable.
 - **Result:** Unstable Plorts → Prisma Plorts (conversion happens instantly in your inventory when walking through gate - no items drop on ground)
@@ -136,6 +145,7 @@ Reference **Appendix F** (Locations & Collectibles) for exact locations once you
 **Shadow Plort Doors:**
 
 The 25 Shadow Plort Doors are the Grey Labyrinth's equivalent of Treasure Pods:
+
 - **Visual:** Shaped like Refinery Links with sun-meter dial above
 - **Map Icon:** Moon/Sun symbols (black and yellow pokeball-like icon)
 - **Opening:** Deposit Shadow Plorts into door. Sun meter transitions to night-time (crescent moon), then unlocks
@@ -163,6 +173,7 @@ Pop these three Gordos to unlock permanent portals and collect slimes:
 Conduct separate, targeted runs for each slime type:
 
 **Twin Slimes:**
+
 - **Location:** Impossible Sky (easiest access from Waterworks)
 - **Target:** Capture 10-12 Twin Slimes
 - **Food Collection:** Collect 40-60 Polaricherry from trees in Impossible Sky
@@ -170,6 +181,7 @@ Conduct separate, targeted runs for each slime type:
 - **Transport:** Return to ranch via portal (Starlight Strand → Conservatory)
 
 **Sloomber Slimes:**
+
 - **Location:** Dream Land North/West (requires Radiant Projector puzzle or Gordo portal)
 - **Target:** Capture 10-12 Sloomber Slimes
 - **Food Collection:** Collect 40-60 Candied Hens from Dream Land
@@ -177,6 +189,7 @@ Conduct separate, targeted runs for each slime type:
 - **Transport:** Return to ranch via Conservatory portal (very convenient)
 
 **Hyper Slimes:**
+
 - **Location:** Terrarium ONLY (requires solving Radiant Projector puzzle at Lava Depths/Impossible Sky transition)
 - **Puzzle Requirements:** 3 Radiant Projectors + 1 Hunter Plort + 1 Angler Plort
 - **Target:** Capture 10-12 Hyper Slimes
@@ -188,6 +201,7 @@ Conduct separate, targeted runs for each slime type:
 **Storage on Ranch:**
 
 You won't build The Archway expansion until Chapter 11. For now, store these slimes temporarily:
+
 - Use empty corrals in The Den or other expansions
 - Do NOT create Largos yet (wait for Chapter 11 strategic planning)
 - Store favorite foods in Silos for later use
@@ -201,6 +215,7 @@ You won't build The Archway expansion until Chapter 11. For now, store these sli
 Shadow Slimes are unique - they cannot be vacuumed or captured, but they produce plorts when hit:
 
 **How to Farm Shadow Plorts:**
+
 1. Shadow Slimes spawn in groups of 2-5 in dark corners throughout Grey Labyrinth
 2. Carry a full stack of throwable items (Pink Plorts, vegetables, anything)
 3. Hit Shadow Slimes with thrown objects
@@ -210,11 +225,13 @@ Shadow Slimes are unique - they cannot be vacuumed or captured, but they produce
 7. Return later - Shadow Slimes respawn in same locations
 
 **Optimal Farming Route:**
+
 - Systematically visit all dark corners in Waterworks, Impossible Sky, Lava Depths, Dream Land
 - Carry 100 throwable items, farm all Shadow Slimes, return to ranch
 - Repeat runs as needed
 
 **Shadow Plort Uses:**
+
 - 1,165 for opening all 25 Shadow Plort Doors (Chapter 13)
 - 20 for Nullifier crafting (Chapter 14)
 - **Total needed: 1,185 Shadow Plorts**
@@ -226,11 +243,13 @@ Shadow Slimes are unique - they cannot be vacuumed or captured, but they produce
 Prisma Plorts are created by stabilizing Unstable Plorts during Prisma Disruptions:
 
 **Temporary Pink Slime Farm Setup:**
+
 1. Bring 50 Pink Slimes from ranch to Grey Labyrinth
 2. Set up near an Ancient Stabilizer (permanent archway structures found throughout the Labyrinth)
 3. Place Pink Slimes in temporary open area (no corral needed)
 
 **Operation During Disruption:**
+
 1. Collect Unstable food (fruits, veggies, chickens) during Prisma Disruption
 2. Feed Pink Slimes immediately
 3. They produce Unstable Plorts
@@ -241,6 +260,7 @@ Prisma Plorts are created by stabilizing Unstable Plorts during Prisma Disruptio
 8. Avoid standing near ground cracks during disruptions (plasma/flame energy geysers)
 
 **Prisma Plort Uses:**
+
 - 90 total for Gigi's milestone trades (Chapter 14)
 - 155 total for crafting upgrades (145 Vacpack upgrades + 10 Disruption Detector)
 - **Total needed: ~245 Prisma Plorts (requires ~123-245 Unstable Plorts depending on conversion rate)**
@@ -248,6 +268,7 @@ Prisma Plorts are created by stabilizing Unstable Plorts during Prisma Disruptio
 **CRITICAL - Store Prisma Plorts in SILOS, not Refinery** (cannot trade Refinery plorts to Gigi)
 
 **Advanced Farming Note:**
+
 - Open early Shadow Plort Doors (25-50 plort cost) for shortcuts and quality-of-life improvements
 - Unlock Ancient Stabilizer blueprint (75 Shadow Plorts) to craft permanent gate at ranch for convenient Prisma Plort farming
 - Systematic door completion is Chapter 13 objective
@@ -261,20 +282,24 @@ The Grey Labyrinth is vast and dangerous. Setting up strategic warp gadgets in e
 **Deploy Six Key Gadgets (One Refinery Link + One Market Link per zone):**
 
 **Impossible Sky:**
+
 - **Refinery Link:** Near Twin Gordo area - 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
 - **Market Link:** Central area - 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
 
 **Dream Land:**
+
 - **Refinery Link:** Dream Land North (near Sloomber portal) - 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
 - **Market Link:** Central Dream Land - 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
 
 **Terrarium:**
+
 - **Refinery Link:** Central Terrarium - 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
 - **Market Link:** Near Hyper Gordo area - 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
 
 **Total Investment:** 1,500 NB + materials (30 Phosphor Plorts, 60 Pink Plorts, 30 Jellystone, 15 Deep Brine, 30 Buzz Wax, 30 Primordy Oil, 15 Silky Sand)
 
 **Benefits:**
+
 - **Refinery Links:** Deposit crafting materials immediately upon collection (prevents loss from falls/Tarr)
 - **Market Links:** Sell plorts directly without returning to ranch
 - **Coverage:** Every major zone has both utilities for maximum efficiency
@@ -293,6 +318,7 @@ The Grey Labyrinth is vast and dangerous. Setting up strategic warp gadgets in e
 ### Financial Checkpoint
 
 **Capital Required:**
+
 - Radiant Projectors: 2,000 Newbucks (4 × 500)
 - Warp Infrastructure: 1,500 Newbucks (3 Refinery Links + 3 Market Links across all zones)
 - Optional Yellow Home Portal: 250 Newbucks (Terrarium extraction)
@@ -304,6 +330,7 @@ The Grey Labyrinth is vast and dangerous. Setting up strategic warp gadgets in e
 This chapter is about resource gathering and asset acquisition, not revenue generation. The captured elite slimes will generate revenue in Chapter 11 (The Archway) when properly integrated into ranch operations.
 
 **Estimated Revenue from Chapter 11 Preview:**
+
 - Twin-Flutter Largos: ~100-150 Newbucks per feeding
 - Sloomber-Saber Largos: ~150-250 Newbucks per feeding
 - **Combined Archway Revenue: +2,000-3,500 Newbucks/day** (Chapter 11)
@@ -313,14 +340,17 @@ This chapter is about resource gathering and asset acquisition, not revenue gene
 Two-way teleporters allow instant round-trip transport, unlike one-way Refinery Links. Craft these to speed up Grey Labyrinth farming runs.
 
 **1. Gold Teleporter - Conservatory ↔ Grey Labyrinth Waterworks**
+
 - Conservatory (near Lab) ↔ Waterworks central hub
 - 1,200 NB + 30 Twin Plorts + 20 Tin Petal + 20 Radiant Ore + 10 Wild Honey + 2 Royal Jelly
 
 **2. Blue Teleporter - Grey Labyrinth Internal (Waterworks ↔ Dream Land)**
+
 - Waterworks hub ↔ Dream Land North (near Sloomber portal)
 - 2,000 NB + 30 Rock Plorts + 10 Deep Brine + 10 Radiant Ore + 5 Wild Honey + 2 Strange Diamonds
 
 **Notes:**
+
 - Each teleporter set creates TWO devices (you place both ends)
 - Teleporters require line-of-sight between devices to function
 - Cannot use teleporters while carrying Unstable items during Prisma Disruptions
@@ -329,6 +359,7 @@ Two-way teleporters allow instant round-trip transport, unlike one-way Refinery 
 ### End of Chapter Checklist
 
 By the end of Chapter 10, you should have:
+
 - ✅ All 7 Grey Labyrinth Map Data Nodes activated
 - ✅ Twin Gordo popped (50 Fruit) - Portal to Rainbow Fields unlocked
 - ✅ Sloomber Gordo popped (30 Meat) - Portal to Conservatory unlocked
@@ -351,6 +382,7 @@ By the end of Chapter 10, you should have:
 With elite Grey Labyrinth slimes captured and favorite foods collected, you're ready to integrate these valuable assets into your ranch operations. Chapter 11 (The Archway - Grey Labyrinth Operations) will establish the highest-value plort production on your entire ranch using Twin-Flutter and Sloomber-Saber Largo combinations.
 
 **Preparation for Chapter 11:**
+
 - Have 12,650 Newbucks saved (Archway expansion + upgrades)
 - Verify you have 10-12 Twin, Sloomber slimes stored
 - Verify you have Polaricherry, Candied Hen stocks

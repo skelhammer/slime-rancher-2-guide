@@ -9,6 +9,7 @@ Unlock The Den and execute a ranch-wide reorganization to consolidate nocturnal 
 **Primary Objective:** Unlock The Den and consolidate all fruit-eating nocturnal slimes into one expansion
 
 **Financial Checkpoint:**
+
 - **Starting Budget:** Should have 40,000-50,000+ Newbucks from Chapter 7 operations
 - **Required:** ~17,180 Newbucks for Den unlock (2,800 NB), build-out (13,905 NB), and Conservatory adjustments (475 NB)
 - **Daily Revenue:** ~6,500-8,000 Newbucks from all operations
@@ -52,6 +53,7 @@ Unlock The Den and execute a ranch-wide reorganization to consolidate nocturnal 
 ### Financial Checkpoint
 
 **Capital Required:**
+
 - Den Unlock: 2,800 Newbucks
 - Den Build-Out: 11,105 Newbucks (3 corrals + 2 gardens)
 - Conservatory Rebuild: 475 Newbucks (Solar Shield + garden replanting)
@@ -59,6 +61,7 @@ Unlock The Den and execute a ranch-wide reorganization to consolidate nocturnal 
 - **Total: ~14,380 Newbucks**
 
 **Revenue Impact:**
+
 - **Starting:** ~6,500-8,000 Newbucks/day (Chapter 7: Conservatory + Gully + Tidepools)
 - **After Reorganization:** ~6,500-8,500 Newbucks/day (similar revenue, optimized operations)
 - **Strategic Value:** Consolidates all nocturnal slimes, saves 1,275 NB in Solar Shield costs, doubles Flutter Plort production
@@ -155,11 +158,13 @@ This chapter involves reorganizing existing ranch operations across multiple exp
 **Objective:** Configure auto-feeders across all expansions and manage doubled Flutter Plort production.
 
 **Auto-Feeder Setup:**
+
 - Den Plot 1 (Boom-Batty): Pomegranites | Plot 2 (Flutter-Phosphor): Cuberries | Plot 3 (Batty-Ringtail): Pomegranites
 - Conservatory Plot 7 (Flutter-Honey): Mint Mangos
 - Gully Plot 5 (Saber-Hunter): Thunderclucks
 
 **CRITICAL - Flutter Plorts:**
+
 - Two operations produce 24-36 Flutter Plorts/day (Flutter-Honey + Flutter-Phosphor)
 - **DO NOT SELL** - Deposit all into Refinery
 - Target: 300+ for Chapter 9 Quantum Drones
@@ -169,14 +174,17 @@ This chapter involves reorganizing existing ranch operations across multiple exp
 **Objective:** Deploy optional gadgets for improved logistics and convenience in The Den.
 
 **Market Link:**
+
 - Central area near Plots 1-3 (corrals)
 - 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
 
 **Refinery Link:**
+
 - Near entrance from The Conservatory
 - 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
 
 **Dash Pad:**
+
 - Path between Conservatory entrance and The Den entrance
 - 500 NB + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
 
@@ -199,10 +207,12 @@ Some readers prefer to avoid chicken farming entirely. This is a viable alternat
 **How it works:** A largo made from a carnivore + a non-carnivore (e.g. Hunter-Honey, Hunter-Cotton, Angler-Phosphor) has a hybrid diet — the largo will accept either meat OR the non-carnivore's food type. Feed the favorite of either base slime to get the 4-plort bonus, which means a fruit/veggie favorite alone is enough. No chickens required.
 
 **What you give up:**
+
 - You cannot run the top-tier carnivore combos (Saber-Hunter, Sloomber-Saber, Angler-Crystal). These depend on both bases being meat-eaters to exploit premium chicken foods (Thunderclucks, Painted Hens) for the 4-plort bonus.
 - Peak revenue per corral is lower. Saber-Hunter is roughly 60-120 NB per 4-plort feeding; Hunter-Honey is roughly 35-90 NB — not drastically lower, but the ceiling is cut.
 
 **What you gain:**
+
 - No coops, no Elder Collectors, no Roostro management. The Gully becomes 5 garden/corral plots instead of 2 coops + 3 corrals.
 - Simpler automation — drones only need to shuttle between gardens/silos/corrals, no chicken-breeding loop.
 - Lower early-game friction, higher daily plort output per unit of rancher attention.
@@ -212,6 +222,7 @@ Some readers prefer to avoid chicken farming entirely. This is a viable alternat
 ### End of Chapter Checklist
 
 By the end of Chapter 8, you should have:
+
 - ✅ The Den expansion unlocked and fully developed (5 plots)
 - ✅ Conservatory reorganized (8 plots)
 - ✅ The Gully reorganized (5 plots)

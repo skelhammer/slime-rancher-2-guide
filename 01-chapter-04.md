@@ -9,6 +9,7 @@ Execute a comprehensive sweep of Starlight Strand to secure unique resources and
 **Primary Objective:** Complete Starlight Strand exploration and gather critical resources for Tier II upgrades
 
 **Financial Checkpoint:**
+
 - **Starting Budget:** Should have 10,000-15,000+ Newbucks from Chapter 3 operations (8 Conservatory plots)
 - **Required:** ~7,850 Newbucks for all Tier II upgrades
 - **Daily Revenue:** ~2,500+ Newbucks from Conservatory operations
@@ -49,6 +50,7 @@ Starlight Strand contains 3 Map Data Nodes. Activate these to reveal the full bi
 **Biome Overview:**
 
 Starlight Strand features two distinct sub-biomes:
+
 - **Pink Biome:** Open, flowery southern region with Honey Slimes, Flutter Slimes, Mint Mangos, and Moondew Nectar spawns. Bright and easy to navigate.
 - **Blue Biome:** Northern mushroom forest with darker lighting, Hunter Slimes, and dense tree coverage. More vertical terrain.
 
@@ -82,16 +84,19 @@ Starlight Strand features two distinct sub-biomes:
 **Priority Captures for Chapter 5:**
 
 **Angler Slimes (Target: 10-12)**
+
 - **Location:** Coastal areas and beaches (southeast)
 - **Method:** Pop Angler Gordo to get 12 free Angler Slimes
 - **Purpose:** Angler-Crystal Largos in Chapter 5 (The Gully)
 
 **Flutter Slimes (Target: 10-12)**
+
 - **Location:** Southern pink biome (night spawns)
 - **Method:** Pop Flutter Gordo with 15 Moondew Nectar to get 12 free Flutter Slimes
 - **Purpose:** Flutter-Tabby Largos in Chapter 5 (The Gully)
 
 **Additional Reserves:**
+
 - 10+ Ringtail Slimes (for future operations)
 - 10+ Honey Slimes (for future operations)
 - 6 Crystal Plorts (from Ember Valley wild slimes - needed for Angler-Crystal Largos)
@@ -116,6 +121,7 @@ Starlight Strand features two distinct sub-biomes:
 **Treasure Pod Priorities:**
 
 **Priority 1 - Upgrade Components:**
+
 - **Tank Liner #1:** Cave in Slime Sea pit, accessible after popping Honey Gordo. Required for Tank Guard upgrade.
 - **Tank Liner #2:** Underground tunnel between Honey/Rock Statue doors (2 Rock Plorts). Needed for Tank Guard II.
 - **Tank Liner #3:** Summit of large hill in southern Flutter area (Jetpack required). For Tank Guard III.
@@ -126,6 +132,7 @@ Starlight Strand features two distinct sub-biomes:
 - **Sureshot Module:** Behind Flutter Plort door. Required for Golden Sureshot series.
 
 **Priority 2 - Portal & Rare Materials:**
+
 - **Starlight Strand Portal + Strange Diamond:** Both at bottom of Flutter Gordo pit. Portal is highest priority due to Moondew Nectar farming needs.
 
 #### Phase 4: Vacpack Upgrades
@@ -151,6 +158,7 @@ Starlight Strand features two distinct sub-biomes:
 **Total Investment:** ~7,850 NB + materials
 
 **Material Sources:**
+
 - Tabby/Pink/Phosphor/Boom/Crystal Plorts: From your existing corrals
 - Angler/Honey/Hunter/Flutter Plorts: Collect wild or from exploration
 - Wild Honey, Buzz Wax: Abundant in Starlight Strand
@@ -169,11 +177,13 @@ Starlight Strand features two distinct sub-biomes:
 **Deploy Portal System:**
 
 **Starlight Strand Portal (One-Way to Starlight Strand):**
+
 - **Blueprint Location:** Treasure pod at bottom of Flutter Gordo pit
 - **Crafting Cost:** 2,000 Newbucks + 20 Hunter Plorts + 10 Honey Plorts + 10 Radiant Ore + 10 Buzz Wax
 - **Placement (Conservatory-Side):** Central Conservatory or The Gully near Flutter-Tabby corral
 
 **Green Home Portal (One-Way to Conservatory):**
+
 - **Crafting Cost:** 1,000 Newbucks + 20 Angler Plorts + 10 Radiant Ore + 10 Buzz Wax + 5 Wild Honey
 - **Placement (Starlight Strand-Side):** Junction between pink/blue biomes near central tree (close to Moondew Nectar spawns)
 - **Why Green:** Uses Starlight Strand resources (Angler Plorts, Buzz Wax, Wild Honey) readily available in this biome
@@ -195,6 +205,7 @@ Starlight Strand features two distinct sub-biomes:
 ### Financial Checkpoint
 
 **Capital Required:**
+
 - Tier II Upgrades: 7,850 Newbucks (Tank Booster II, Heart Module II, Jetpack II, Pulse Wave, Dash Boots II, Tank Guard)
 - Warp Infrastructure: 3,250 Newbucks (Refinery Link 250 NB + Portal System 3,000 NB)
 - Materials: Hunter/Honey/Angler Plorts, Buzz Wax, Wild Honey, Phosphor/Tabby/Pink/Boom/Crystal/Batty/Flutter Plorts, Radiant Ore, Deep Brine, Jellystone, Lava Dust (from existing operations and Starlight harvesting)
@@ -205,12 +216,14 @@ Starlight Strand features two distinct sub-biomes:
 This chapter focuses on exploration, resource gathering, and upgrade completion. The captured slimes will generate revenue in Chapter 5 (The Gully) when deployed as Angler-Crystal and Flutter-Tabby Largos.
 
 **Estimated Revenue from Chapter 5 Preview:**
+
 - Angler-Crystal Largos (Gully Plot 1): ~1,500-2,000 Newbucks/day
 - Flutter-Tabby Largos (Gully Plot 2): ~1,000-1,500 Newbucks/day
 
 ### End of Chapter Checklist
 
 By the end of Chapter 4, you should have:
+
 - ✅ All 5 Starlight Strand Gordos popped (Hunter, Honey, Ringtail, Angler, Flutter) - unlocking crucial portals and shortcuts
 - ✅ All Starlight Strand Map Data Nodes activated
 - ✅ Resource stockpile: 50+ Buzz Wax, 50+ Wild Honey, 30+ Moondew Nectar

@@ -13,6 +13,7 @@ Transform The Gully into your ranch's logistical core with automated food produc
 **Primary Objective:** Construct a self-sufficient protein production facility and centralized food distribution network
 
 **Financial Checkpoint:**
+
 - **Starting Budget:** Should have 15,000-20,000+ Newbucks from Chapter 4 operations
 - **Required:** ~15,000 Newbucks for Gully unlock (2,800 NB) and full build-out (11,420 NB)
 - **Daily Revenue:** ~2,500+ Newbucks from Conservatory
@@ -60,11 +61,13 @@ Transform The Gully into your ranch's logistical core with automated food produc
 ### Financial Checkpoint
 
 **Capital Required:**
+
 - Gully Unlock: 2,800 Newbucks
 - Full Build-Out: 10,920 Newbucks (5 plots with upgrades)
 - **Total: ~13,720 Newbucks**
 
 **Revenue Impact:**
+
 - **Starting:** ~2,500 Newbucks/day (Chapter 4: Conservatory only)
 - **After Expansion:** ~4,000-4,500 Newbucks/day (Conservatory + Gully combined)
 - **Daily Increase:** +1,500-2,000 Newbucks/day
@@ -107,13 +110,16 @@ Execute the following build in order:
 **Objective:** Configure auto-feeders and manage Flutter Plort accumulation for future automation.
 
 **Auto-Feeder Setup:**
+
 - Plot 4 (Angler-Crystal): Sea Hens | Plot 5 (Flutter-Tabby): Stony Hens
 
 **CRITICAL - Flutter Plorts:**
+
 - **DO NOT SELL Flutter Plorts** - Need 300+ for Chapter 9 Quantum Drones
 - Deposit into Refinery for storage
 
 **Largo Behaviors:**
+
 - Crystal spikes: Music Box reduces frequency, Water Tank spray breaks instantly
 - Flutter: Solar Shield mandatory
 
@@ -122,20 +128,24 @@ Execute the following build in order:
 **Objective:** Deploy optional gadgets for improved logistics and convenience.
 
 **Market Link:**
+
 - Central area near Plot 3 (Silo)
 - 250 NB + 20 Pink Plorts + 10 Buzz Wax + 10 Primordy Oil + 5 Silky Sand
 
 **Refinery Link:**
+
 - Near entrance
 - 250 NB + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
 
 **Dash Pad:**
+
 - Near entrance
 - 500 NB + 10 Crystal Plorts + 10 Angler Plorts + 5 Lava Dust + 5 Silky Sand
 
 ### End of Chapter Checklist
 
 By the end of Chapter 5, you should have:
+
 - ✅ The Gully expansion purchased and developed (5 plots)
 - ✅ Plot 1: Stony Hen Coop (primary protein production - Tabby favorite)
 - ✅ Plot 2: Sea Hen Coop (Angler favorite food)

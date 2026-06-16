@@ -17,6 +17,7 @@ Outside the Grey Labyrinth, the Prismacore's effects are mostly chromatic—visu
 **What Happens if Left Unchecked:**
 
 According to Gigi's research, if the Prismacore is not stabilized:
+
 - The structures surrounding the Prismacore will collapse or vanish
 - Dream Land will grow heavy and fall from the sky
 - The Labyrinth's generated atmosphere will collapse
@@ -34,10 +35,12 @@ According to Gigi's research, if the Prismacore is not stabilized:
 **Location:** Heart of the Grey Labyrinth (accessed through Impossible Sky)
 
 **Access Requirements:**
+
 - Must have opened plort statue doors (Twin, Shadow, Sloomber) to reach Prismacore entrance
 - Follow the path from Impossible Sky toward the gilded area
 
 **What to Bring:**
+
 - ~90 Prisma Plorts (for Gigi trades)
 - Throwable items (for Harmonizer activation)
 - Full health/energy (Tarr barrier ahead)
@@ -47,12 +50,14 @@ According to Gigi's research, if the Prismacore is not stabilized:
 **Location:** Gigi's station inside the Prismacore area
 
 **Milestone Trades (one-time rewards):**
+
 - 20 Prisma Plorts → Nullifier blueprint
 - 20 Prisma Plorts → Storage Cell
 - 50 Prisma Plorts → Drone Station Module
 - **Total for all milestones: 90 Prisma Plorts**
 
 **Unlimited Trade:**
+
 - 10 Prisma Plorts → 1 Rainbow Coin (repeatable)
 - Use this for Night Market purchases post-game
 
@@ -61,6 +66,7 @@ According to Gigi's research, if the Prismacore is not stabilized:
 #### Phase 3: Craft the Nullifier
 
 **Recipe:**
+
 - 1,000 Newbucks
 - 20 Shadow Plorts
 - 20 Hyper Plorts
@@ -86,6 +92,7 @@ The 5 Harmonizers are distributed across the Grey Labyrinth zones. Explore each 
 5. **Shifting Caverns** - Check cave systems and tunnels
 
 **Search Strategy:**
+
 - Harmonizers emit a faint glow and distinctive sound when nearby
 - Use your map to track which zones you've thoroughly explored
 - Revisit areas if you've only passed through quickly
@@ -98,6 +105,7 @@ The 5 Harmonizers are distributed across the Grey Labyrinth zones. Explore each 
 **Location:** Interior of the Prismacore
 
 **The Tarr Barrier:**
+
 - A giant Tarr barrier surrounds the Prismacore's core
 - Cannot be crossed or destroyed with water
 
@@ -114,6 +122,7 @@ The Slime Shower is a large facility inside the Prismacore designed specifically
   - Mix of both sources
 
 **Activation Process:**
+
 1. Approach either depositing port
 2. Shoot 6 slimes into the port (they will be absorbed)
 3. The Slime Shower activates automatically
@@ -122,6 +131,7 @@ The Slime Shower is a large facility inside the Prismacore designed specifically
 **Strategic Note:** Using wild slimes from the Labyrinth is more efficient than bringing your valuable ranch largos. Pink slimes and common wild slimes work perfectly.
 
 **Nullifier Deployment:**
+
 - After Tarr barrier is broken, approach the Prismacore core
 - Deploy the Nullifier device
 - **Cutscene:** Rainbow Island stabilizes, Prisma Disruptions cease
@@ -156,6 +166,7 @@ After stabilization, Gigi leaves the Grey Labyrinth to reunite with her family, 
 ### End of Chapter Checklist
 
 By the end of Chapter 14, you should have:
+
 - ✅ Traded 90 Prisma Plorts to Gigi for milestones
 - ✅ Crafted the Nullifier device
 - ✅ Activated all 5 Harmonizers

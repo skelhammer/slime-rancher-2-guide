@@ -13,6 +13,7 @@ This is a 72-hour blitz with a single, non-negotiable objective: acquiring the k
 **Primary Objective:** Craft the Jetpack and unlock vertical exploration
 
 **Financial Checkpoint:**
+
 - **Starting Budget:** 0 Newbucks (fresh start)
 - **Required:** ~2,535 Newbucks for all plots and upgrades
 - **Timeline:** Achieve in 3-4 days through Tabby-Cotton plort sales
@@ -54,13 +55,16 @@ Pop the Pink Gordo to unlock the Ember Valley portal switch:
 **Objective:** Collect slimes and resources needed for your first ranch operation.
 
 **Slimes Needed:**
+
 - 6 Tabby Slimes (throughout Rainbow Fields starting area)
 - 6 Cotton Plorts (from wild Cotton Slimes in grassy areas)
 
 **Food Stockpile:**
+
 - 20+ Water Lettuce (wild patches near water throughout Rainbow Fields)
 
 **Collection Strategy:**
+
 - Capture 6 Tabby Slimes first
 - Collect 6 Cotton Plorts from wild Cotton Slimes
 - Feed Cotton Plorts to Tabby Slimes to create Tabby-Cotton Largos
@@ -83,6 +87,7 @@ Pop the Pink Gordo to unlock the Ember Valley portal switch:
 **Objective:** Pop Pink Gordo to unlock access to Ember Valley for Radiant Ore collection.
 
 **Why Ember Valley?**
+
 - Radiant Ore spawns abundantly here (required for Jetpack crafting)
 - Provides access to additional resources for future chapters
 
@@ -91,12 +96,14 @@ Pop the Pink Gordo to unlock the Ember Valley portal switch:
 **Objective:** Collect Phosphor Plorts and Radiant Ore required for Jetpack crafting.
 
 **Night Hunt - Phosphor Slimes:**
+
 - Wait for nighttime in Rainbow Fields
 - Hunt Phosphor Slimes (spawn near central mountain and western areas)
 - Collect 10 Phosphor Plorts (DO NOT ranch them yet - requires Solar Shield which costs 425 NB)
 - Return before dawn (they burn in sunlight)
 
 **Ember Valley - Radiant Ore:**
+
 - Enter Ember Valley through portal (after popping Pink Gordo)
 - Harvest 10 Radiant Ore from glowing pink/magenta crystal nodes
 - **CRITICAL:** Must craft Resource Harvester first (see Phase 5)
@@ -115,6 +122,7 @@ Pop the Pink Gordo to unlock the Ember Valley portal switch:
 **Grand Total (Plots + Upgrades):** ~2,535 NB
 
 **Crafting Order:**
+
 1. Resource Harvester (enables Radiant Ore collection)
 2. Corral Security (High Walls + Air Net - prevents escapes)
 3. Heart Module (survivability for Ember Valley)
@@ -125,15 +133,18 @@ Pop the Pink Gordo to unlock the Ember Valley portal switch:
 **Objective:** Understand fundamental game mechanics for ranch management.
 
 **Creating Largos:**
+
 - Feed a slime a different plort type to convert it
 - Example: Tabby Slime + Cotton Plort = Tabby-Cotton Largo
 - Largos produce 2 plort types
 
 **Refinery vs Plort Market:**
+
 - **Refinery** (in Lab): Deposit plorts for crafting upgrades - **CANNOT withdraw**
 - **Plort Market:** Sell plorts for Newbucks
 
 **Key Details:**
+
 - Optimal corral population: 6 Largos (8-10 regular slimes)
 - Water Lettuce is Cotton favorite (4 plorts per feeding)
 
@@ -150,6 +161,7 @@ Pop the Pink Gordo to unlock the Ember Valley portal switch:
 ### Financial Checkpoint
 
 **Capital Required:**
+
 - Ranch Setup: 1,185 Newbucks (Plot 1 Corral + Plot 2 Garden + upgrades)
 - Vacpack Upgrades: 1,350 Newbucks (Resource Harvester, Heart Module, Jetpack)
 - Materials: Cotton Plorts, Pink Plorts, Phosphor Plorts, Radiant Ore (from initial operations and collection)
@@ -166,6 +178,7 @@ Pop the Pink Gordo to unlock the Ember Valley portal switch:
 ### End of Chapter Checklist
 
 By the end of Chapter 1, you should have:
+
 - ✅ One corral established with 6 Tabby-Cotton Largos (primary revenue stream)
 - ✅ Pink Gordo popped and Ember Valley portal switch activated
 - ✅ Resource Harvester crafted
