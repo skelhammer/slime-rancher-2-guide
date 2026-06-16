@@ -120,7 +120,7 @@ Powderfall Bluffs contains 2 Map Data Nodes. Activate these immediately upon ent
 
 **Priority 1 - Ultra-Rare Materials:**
 
-- **Sun Sap x3:** Top of cliff in forested area (Jetpack required). Provides 3 Sun Sap—30% of total endgame requirements. Collect immediately.
+- **Sun Sap x3:** Top of a cliff in the forested area (Jetpack required). That's 3 Sun Sap in one pod, roughly 30% of your total endgame need. Grab it immediately.
 
 **Priority 2 - Upgrade Components:**
 
