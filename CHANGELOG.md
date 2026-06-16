@@ -4,6 +4,7 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 
 **Version History:**
 
+- [0.5.0 - Glow-Up Edition (2026-06-15)](#050---2026-06-15---glow-up-edition)
 - [0.4.4 - Treasure Hunt Edition (2026-06-15)](#044---2026-06-15---treasure-hunt-edition)
 - [0.4.3 - Completionist Edition (2026-06-15)](#043---2026-06-15---completionist-edition)
 - [0.4.2 - Blueprint Edition (2026-06-15)](#042---2026-06-15---blueprint-edition)
@@ -16,6 +17,22 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 - [0.1.2 - Wiki Integration Edition (2025-11-01)](#012---2025-11-01---wiki-integration-edition)
 - [0.1.1 - Patch 1.0.3 Update (2025-11-01)](#011---2025-11-01---patch-103-update)
 - [0.1 - Initial Release (2025-10-24)](#01---2025-10-24---initial-release)
+
+---
+
+## [0.5.0] - 2026-06-15 - Glow-Up Edition
+
+_Begins a full voice-and-clarity overhaul. The original prose was written with an older model and read stiff and AI-ish; this edition rewrites it section by section into a sharper, wittier take on the same optimization-mogul persona, with light structural emoji and **no em dashes**. Facts, numbers, and tables are preserved exactly; the Steam sections are intentionally left as-is (condensed, low-maintenance). Rolling out by section, so this entry grows as batches land._
+
+### Changed
+
+- **Introduction** (`00-introduction.md`): Rewrote the Rancher's Mindset opener, the three core principles, and every Core Mechanics section (Plort Market, Largos, the Tarr warning, Agitation, Optimal Corral Population) in the new voice. All values unchanged.
+
+### Files Modified
+
+- `00-introduction.md` - Voice rewrite of the prose body + version bump to 0.5.0
+- `README.md` - Version header refresh
+- `steam/SECTION-01-INTRO.txt`, `steam/SECTION-18-APPENDICES-2.txt`, `steam/STEAM-VERSION.md` - Version headers only (Steam prose left as-is)
 
 ---
 

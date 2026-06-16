@@ -1,6 +1,6 @@
 # Slime Rancher 2: A Practical Walkthrough
 
-#### Version 0.4.4 - Treasure Hunt Edition
+#### Version 0.5.0 - Glow-Up Edition
 
 **Last Updated: June 15, 2026**
 
@@ -22,107 +22,93 @@ This guide has been verified against the official Slime Rancher 2 Wiki and patch
 
 # Introduction: The Rancher's Mindset
 
-Welcome, Rancher. You've just arrived on Rainbow Island with nothing but a Vacpack and a dream. This isn't your typical farming simulator where you tend a cozy homestead-this is a high-stakes resource management operation where every decision compounds into either exponential growth or stagnation.
+You wash up on Rainbow Island with a Vacpack, a run-down shack, and a dangerous amount of optimism. Other guides will tell you to slow down and smell the Pogofruit. Ignore them. This island is a money printer that nobody has switched on yet, and you are holding the switch.
 
-This guide is built for ranchers who want to transform the wilds of Rainbow Island into a hyper-efficient, multi-million Newbuck profit engine. Every action you take will be a calculated investment. Every decision, from the slimes you ranch to the upgrades you build, will be governed by practical cost-benefit analysis.
+This isn't a cozy farm sim. It's a supply chain wearing a farm sim's clothes. Every slime is a revenue line, every plot is capital tied up in real estate, and every minute you spend hand-feeding chickens is a minute the machine isn't running itself. Do it right and six Tabby slimes snowball into a Newbuck empire that prints while you're off exploring. Do it wrong and you drown in Tarr.
 
-This strategy is built on three core principles:
+Three rules run everything that follows.
 
-- **Ruthless Asset Progression**: Your slimes are assets, not pets. Underperforming species must be liquidated to make way for those with higher profit yields. Aggressively pursue and integrate more valuable slimes at every opportunity. Market performance is the only metric that matters.
-- **Capital Must Be Deployed**: Newbucks are capital, not a score. Every coin must be immediately reinvested into infrastructure that provides a clear and rapid return on investment (ROI). A Newbuck spent on an upgrade is an investment; a Newbuck held is a wasted opportunity.
-- **Automate Everything**: Your time is the single most valuable resource on the ranch. The primary objective is to make your own labor obsolete. Every manual task must be systematically replaced with an automated system, creating a self-sufficient network that generates wealth while you are away on critical acquisition missions.
+- **💰 Slimes are assets, not pets.** Adore them all you like, then sell the ones that don't earn their corral. Underperformers get swapped for higher-yield species the moment you can manage it. The market is the only opinion that counts.
+- **🔁 Idle Newbucks are dead Newbucks.** Money in your pocket isn't a high score, it's an opportunity you're fumbling. The instant a coin can buy infrastructure that earns back more than it cost, spend it. A Newbuck working is an investment; a Newbuck resting is a regret.
+- **🤖 Automate yourself out of a job.** Time is the one resource you can't farm. The whole plan is to make your own labor obsolete: hand every chore to a feeder, a collector, or a drone, until the ranch runs itself and pays you to go be rich somewhere else.
 
-## Core Mechanics: Understanding the Fundamentals
+## Core Mechanics: The Fundamentals
 
-Before you begin building your empire, you must master the core systems that govern slime ranching. These mechanics are the foundation of every strategic decision you'll make.
+A handful of systems decide whether your ranch compounds or stalls. Learn these cold before you start pouring Newbucks into plots, because every later decision leans on them.
 
-### The Plort Market: Supply, Demand, and Price Manipulation
+### 📈 The Plort Market: Supply, Demand, and How to Game It
 
-The plort market operates on a dynamic supply and demand system. Every day, plort prices fluctuate based on what you've been selling. If you flood the market with large quantities of a single plort type, expect its price to drop significantly the next day.
+Plort prices ride supply and demand, and the market has a short memory. Dump a hundred of one plort today and tomorrow it's worth pennies. Sell a little of everything and prices stay fat across the board.
 
-**Strategic Implications:**
+**What that means for you:**
 
-- **Diversify your plort production** across multiple slime types to maintain stable, high prices across your entire operation
-- Selling a balanced mix of plort types daily maximizes your revenue by avoiding market saturation
-- Monitor your sales carefully and adjust your ranching priorities accordingly
-- Advanced strategy: Create artificial scarcity by hoarding a single plort type while flooding the market with others, then execute a massive sell-off during a price spike
+- **Spread your production** across several slime types so no single price ever craters.
+- Sell a balanced mix every day. A varied basket beats flooding one plort and tanking it.
+- Watch what each plort is fetching and lean your ranch toward whatever's paying best.
+- The pro move: hoard one plort while you flood the market with the rest, then dump the whole stockpile the day its price spikes. Patience, then payday.
 
-### Largo Slimes: Exponential Profit Through Combination
+### Largo Slimes: Two Slimes' Output, One Slime's Footprint
 
-Largo Slimes are the cornerstone of profitable ranching. A Largo forms when any slime eats a plort from a different slime species. The resulting Largo is twice the size and produces **BOTH plort types** when fed.
+Largos are where the money is. Feed any slime a plort from a different species and it merges into a Largo: double the size, and it pays out **both** plort types every time you feed it. Same corral space, twice the product line.
 
-**The Mathematics of Largos:**
+**The Largo math:**
 
-- Base slime fed normal food: 1 plort
-- Base slime fed favorite food: 2 plorts (of one type)
-- Largo fed normal food: 2 plorts (one of each type)
-- **Largo fed favorite food: 4 plorts total** (two of each type)
+- Base slime, normal food: 1 plort
+- Base slime, favorite food: 2 plorts (one type)
+- Largo, normal food: 2 plorts (one of each)
+- **Largo, favorite food: 4 plorts** (two of each)
 
-This means a properly fed Largo **quadruples your profit per feeding** compared to a single base slime.
+A well-fed Largo **quadruples** the output of a lone base slime. That ratio is the entire engine, so build everything around it.
 
-**Example Calculation:**
+**See it in Newbucks:**
 
-- Pink Slime fed carrot: 1 Pink Plort (~10 Newbucks)
-- Tabby-Pink Largo fed Stony Hen (Tabby favorite): 2 Tabby Plorts + 2 Pink Plorts (~50-80 Newbucks)
+- Pink Slime fed a carrot: 1 Pink Plort, about 10 Newbucks.
+- Tabby-Pink Largo fed a Stony Hen (Tabby's favorite): 2 Tabby + 2 Pink Plorts, roughly 50-80 Newbucks off one feeding.
 
-### CRITICAL WARNING: Tarr Outbreaks and Prevention
+### ⚠️ The Tarr Problem (read this one twice)
 
-**If a Largo eats a third plort type** (one that it doesn't already produce), it transforms into a **Tarr**-a hostile, ravenous slime that devours other slimes and ranchers on contact. When a Tarr consumes another slime, it produces MORE Tarr, leading to catastrophic ranch-wide outbreaks that can destroy your entire operation in minutes.
+Here's the mistake that ends runs. Feed a Largo a *third* plort type, one it doesn't already make, and it doesn't get fatter. It gets feral. You've just built a **Tarr**: a black, oily horror that devours your slimes, devours you, and turns everything it touches into *more* Tarr. One stray plort can chew through an entire ranch in minutes.
 
-**Mandatory Prevention:**
+**Prevention (non-negotiable):**
 
-- **Plort Collectors are mandatory infrastructure** on every corral
-- They automatically vacuum plorts off the ground before slimes can eat them
-- Always install Plort Collectors before leaving slimes unattended for extended periods
-- A single missed plort can cascade into total ranch failure
+- **Plort Collectors on every corral. No exceptions.** They vacuum loose plorts off the ground before any slime gets ideas.
+- Install them *before* you wander off, not after. The outbreak will not wait for you to get back.
+- A single missed plort is all it takes. Treat every corral like it's one bad bite from disaster, because it is.
 
-**Emergency Response:**
+**If it all goes wrong anyway:**
 
-- Water kills Tarr instantly (use Water Tank upgrade)
-- Contain outbreaks immediately. Every second counts.
-- Consider sacrificing infected corrals by vacuuming everything into the Slime Sea
+- Water kills Tarr on contact, so keep a full Water Tank and start spraying.
+- Move now. Seconds matter, and the Tarr count only climbs.
+- When a corral is lost, cut your losses: vacuum the whole thing into the Slime Sea and rebuild.
 
-### The Agitation System: Managing Slime Behavior
+### The Agitation System: Keeping Slimes (and Yourself) Calm
 
-All slimes have a hidden agitation value that determines their behavior and happiness. Understanding and managing this system is critical for maintaining a productive ranch.
+Every slime carries a hidden agitation meter. Let it climb and your tidy corrals turn into a tantrum. Keep it low and the ranch hums.
 
-**How Agitation Works:**
+**How agitation builds:**
 
-- Agitation begins building when slimes reach **99% hunger**
-- Takes approximately **12 in-game hours** to reach maximum from zero
-- High agitation increases negative behaviors:
-  - Rock slimes roll more frequently (dealing contact damage)
-  - Boom slimes explode more often (launching plorts everywhere)
-  - Crystal slimes produce more damaging spikes
-  - **Hunter Largos revert to their feral state** (becoming hostile)
+- It starts ticking up once a slime hits **99% hunger**.
+- From zero, it takes about **12 in-game hours** to max out.
+- The higher it climbs, the worse everyone behaves:
+  - Rock slimes roll more, and that roll hurts you.
+  - Boom slimes detonate more often, flinging plorts everywhere.
+  - Crystal slimes throw out more of those damaging spikes.
+  - **Hunter Largos snap back to feral** and turn on you.
 
-**Agitation Management Tools:**
+**How to keep it down:**
 
-- **Feeding**: The ONLY way to permanently reset agitation to zero. A fed slime is a happy slime.
-- **Music Box** (Corral Upgrade, 350 Newbucks):
-  - Halves the rate of agitation growth
-  - If agitation is naturally decreasing, doubles the decrease rate
-  - Does NOT prevent agitation entirely-just slows the buildup
-  - Unfed slimes will still eventually become agitated
-- **Slime Toys** (purchased from ProntoMart's Coo-Coo Corner):
-  - Reduce agitation growth by 12.5%
-  - Favorite toys reduce growth by 25%
-  - Can stack with a Music Box
-  - Multiple toys don't stack with each other
-  - One toy guaranteed available for purchase daily
-  - **Patch 1.1.0 Update:** Every slime type now has a favorite toy. Some special toys cause "curious effects" beyond agitation reduction. See [Appendix E](appendix-e-gadgets.md) for complete toy list.
-- **Auto-Feeders** (BEST SOLUTION):
-  - Automatically dispense food on a timer
-  - Keep slimes consistently fed and happy
-  - Must be manually restocked from gardens or silos
+- **Feeding.** The only thing that fully resets agitation to zero. A fed slime is a happy slime, full stop.
+- **Music Box** (corral upgrade, 350 Newbucks): halves how fast agitation grows, and doubles how fast it drops once it's already falling. It slows the climb, it doesn't stop it. Starve your slimes and they'll get cranky regardless.
+- **Slime Toys** (from ProntoMart's Coo-Coo Corner): shave 12.5% off agitation growth, or 25% if it's the slime's favorite. They stack with a Music Box but not with each other, and one new toy goes on sale each day. **Patch 1.1.0:** every slime type now has a favorite toy, and a few toys trigger "curious effects" beyond just calming. Full list in [Appendix E](appendix-e-gadgets.md).
+- **Auto-Feeders (the real answer).** They drip food on a timer and keep slimes fed without you, which keeps agitation flat. The one catch: you still have to restock them from gardens or silos.
 
-**Strategic Planning:** Understanding this system is critical for planning exploration trips. If you're going to be away from your ranch for extended periods, either install Auto-Feeders or accept that you'll return to agitated slimes requiring immediate feeding.
+**Before you leave town:** agitation is the whole reason long trips go sideways. Set up Auto-Feeders before a big expedition, or come home to a corral full of furious slimes demanding dinner.
 
 ### Optimal Corral Population
 
-Overcrowding causes agitation and reduced plort production. The sweet spot is:
+Cramming a corral full backfires. Overcrowding spikes agitation and actually drops plort output, so aim for the sweet spot in a fully upgraded corral:
 
-- **8-10 regular slimes** per fully upgraded corral
-- **5-6 Largos** per fully upgraded corral
+- **8-10 regular slimes**
+- **5-6 Largos**
 
-More slimes does NOT mean more profit. It means chaos.
+More slimes is not more money. It's just more chaos.

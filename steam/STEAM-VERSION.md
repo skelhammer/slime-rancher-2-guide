@@ -1,6 +1,6 @@
 # Slime Rancher 2: A Practical Walkthrough - Steam Guide
 
-**Version 0.4.4 - Treasure Hunt Edition**
+**Version 0.5.0 - Glow-Up Edition**
 **Last Updated: June 15, 2026**
 
 ---

@@ -1,6 +1,6 @@
 [h1]Slime Rancher 2: A Practical Walkthrough[/h1]
 
-[b]Version 0.4.4 - Treasure Hunt Edition[/b]
+[b]Version 0.5.0 - Glow-Up Edition[/b]
 [b]Last Updated:[/b] June 15, 2026
 
 [hr][/hr]

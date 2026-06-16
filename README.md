@@ -1,6 +1,6 @@
 # Slime Rancher 2: A Practical Walkthrough
 
-**Version 0.4.4 - Treasure Hunt Edition**
+**Version 0.5.0 - Glow-Up Edition**
 **Last Updated:** June 15, 2026
 
 📖 **Read online:** [skelhammer.github.io/slime-rancher-2-guide](https://skelhammer.github.io/slime-rancher-2-guide/) — full book site with sidebar TOC, next/prev navigation, and search. Rebuilt automatically on every push to `main`.
