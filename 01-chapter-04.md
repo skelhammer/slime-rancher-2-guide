@@ -1,8 +1,8 @@
 ## Chapter 4: Starlight Strand - Asset Acquisition
 
-**Mindset:** _Explore and stockpile resources._
+**Mindset:** _Shop the talent. Pocket the rare goods._
 
-Execute a comprehensive sweep of Starlight Strand to secure unique resources and complete all Tier II upgrades.
+Starlight Strand is the prettiest mall on the island, and you're here to clean it out. This is a hunting-and-gathering chapter: sweep both biomes for premium slimes (Angler, Flutter, and friends), grab the night-only Moondew Nectar, and finish off every Tier II upgrade. No new corrals yet, just a full cart on the way out.
 
 ### The Operational Blueprint
 
@@ -116,7 +116,7 @@ Starlight Strand features two distinct sub-biomes:
 | **Sea Hens** | Coastal areas | Angler slime favorite food |
 | **Mint Mangos** | Throughout pink biome | Honey slime favorite food |
 
-**CRITICAL:** Moondew Nectar only spawns at night (5 PM - 6 AM) in glowing blue flowers in the southern pink region. It despawns at dawn—prioritize harvesting immediately upon spawning.
+**CRITICAL:** Moondew Nectar only blooms at night (5 PM to 6 AM), in glowing blue flowers in the southern pink region, and it vanishes at dawn. Harvest it the second it appears. Flutter slimes eat literally nothing else, so this is your lifeline crop.
 
 **Treasure Pod Priorities:**
 
@@ -171,7 +171,7 @@ Starlight Strand features two distinct sub-biomes:
 **Deploy Refinery Link:**
 
 - **Crafting Requirements:** 250 Newbucks + 10 Phosphor Plorts + 10 Jellystone + 5 Deep Brine
-- **Optimal Placement:** Junction between pink and blue biomes near the large central tree—central location provides equal access to both major resource zones
+- **Optimal Placement:** The junction between the pink and blue biomes, by the large central tree. It sits dead-center, so both resource zones are an equal hop away.
 - **Benefit:** Deposit Buzz Wax, Wild Honey, and overflow plorts during exploration without inventory management trips back to Conservatory
 
 **Deploy Portal System:**
@@ -194,13 +194,13 @@ Starlight Strand features two distinct sub-biomes:
 
 ### Strategic Priorities
 
-1. **Map First:** Activate all 3 Map Data Nodes to reveal pink biome, blue biome, and coastal areas.
-2. **Pop All 5 Gordos:** Unlock shortcuts, treasure pods, and receive free slimes (Hunter, Honey, Angler, Ringtail, Flutter).
-3. **Collect Moondew Nectar:** CRITICAL—only spawns at night (5 PM - 6 AM), despawns at dawn. Stockpile 30+ for Flutter operations.
-4. **Priority Treasure Pods:** Tank Liner #1 (Tank Guard), Dash Boot Module (Dash Boots II), Starlight Strand Portal blueprint.
-5. **Capture Key Slimes:** 10-12 Angler, 10-12 Flutter for Chapter 5 Gully operations.
-6. **Deploy Warp Infrastructure:** Refinery Link + Portal system for Moondew Nectar farming efficiency.
-7. **Complete Tier II Upgrades:** Tank Booster II, Heart Module II, Jetpack II, Pulse Wave, Dash Boots II, Tank Guard.
+1. **Map it first.** All 3 Map Data Nodes, so the pink biome, blue biome, and coast are fully drawn.
+2. **Pop all 5 Gordos.** Shortcuts, treasure pods, and a dozen free slimes each (Hunter, Honey, Angler, Ringtail, Flutter).
+3. **Hoard Moondew Nectar.** It only blooms 5 PM to 6 AM and is gone by dawn, so grab 30+ for your Flutter line. No Moondew, no Flutter.
+4. **Hit the priority pods.** Tank Liner #1 (Tank Guard), Dash Boot Module (Dash Boots II), and the Starlight Strand Portal blueprint.
+5. **Recruit the key slimes.** 10-12 Angler and 10-12 Flutter for the Gully in Chapter 5.
+6. **Wire up fast travel.** A Refinery Link and Portal make those nightly Moondew runs painless.
+7. **Finish Tier II.** Tank Booster II, Heart Module II, Jetpack II, Pulse Wave, Dash Boots II, Tank Guard.
 
 ### Financial Checkpoint
 
@@ -239,13 +239,13 @@ By the end of Chapter 4, you should have:
 
 ### Next Chapter Preparation
 
-Chapter 5 unlocks The Gully expansion and transforms it into a food production and corral powerhouse with Angler-Crystal and Flutter-Tabby operations.
+Chapter 5 unlocks The Gully and turns it into your food-and-corral powerhouse, home to the Angler-Crystal and Flutter-Tabby lines. Prep ahead:
 
-- **Financial Goal:** Save 10,000+ Newbucks for The Gully unlock (2,800 NB) plus full build-out (~10,000 NB total).
-- **Asset Acquisition:** Collect chicken breeding stock:
-  - 8-10 Stony Hens (Tabby favorite - found in Ember Valley)
-  - 8-10 Sea Hens (Angler favorite - found in Starlight Strand coastal areas)
-  - 4 Roostros (breeding males - 2 per coop)
-- **Slimes:** You already captured the slimes needed (Angler and Flutter from this chapter).
-- **Plort Collection:** Gather 6 Tabby Plorts and 6 Crystal Plorts (from your existing operations or wild slimes) for creating Largos in Chapter 5.
-- **Flutter Plort Accumulation:** Begin stockpiling Flutter Plorts in Refinery. DO NOT SELL - needed for Chapter 9 Quantum Drones (300+ target).
+- **Bank it:** Aim for 10,000+ Newbucks: The Gully unlock (2,800 NB) plus a full build-out (~10,000 NB all in).
+- **Round up chickens:** You'll need breeding stock for the coops:
+  - 8-10 Stony Hens (Tabby's favorite, from Ember Valley)
+  - 8-10 Sea Hens (Angler's favorite, from Starlight Strand's coast)
+  - 4 Roostros (the breeding males, 2 per coop)
+- **Slimes:** Already handled. You bagged the Angler and Flutter right here.
+- **Plorts:** Grab 6 Tabby and 6 Crystal Plorts (from your corrals or the wild) to spin up the new Largos.
+- **The Flutter rule:** Start banking Flutter Plorts in the Refinery and do NOT sell them. Chapter 9's Quantum Drones want 300+, and future-you will be grateful.
