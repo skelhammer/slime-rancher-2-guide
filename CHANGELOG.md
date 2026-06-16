@@ -4,6 +4,7 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 
 **Version History:**
 
+- [0.4.2 - Blueprint Edition (2026-06-15)](#042---2026-06-15---blueprint-edition)
 - [0.4.1 - Radiant Sanctuary Edition (2026-05-11)](#041---2026-05-11---radiant-sanctuary-edition)
 - [0.4 - Radiant Sanctuary Edition (2026-04-16)](#04---2026-04-16---radiant-sanctuary-edition)
 - [0.3.2 - Shadow Sanitation Edition (2026-01-22)](#032---2026-01-22---shadow-sanitation-edition)
@@ -13,6 +14,31 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 - [0.1.2 - Wiki Integration Edition (2025-11-01)](#012---2025-11-01---wiki-integration-edition)
 - [0.1.1 - Patch 1.0.3 Update (2025-11-01)](#011---2025-11-01---patch-103-update)
 - [0.1 - Initial Release (2025-10-24)](#01---2025-10-24---initial-release)
+
+---
+
+## [0.4.2] - 2026-06-15 - Blueprint Edition
+
+_Reader-requested visual layouts. Steam commenters (Nemolandia, Orange Guise) asked for "a picture of what goes where"; the underlying signal across the feedback was "I want a visual," so this adds ASCII ranch-layout flow diagrams to the progression reference. (The walls/nets critique was assessed as already covered — every corral's plot table already lists its required upgrades — so no change was made there.)_
+
+### Added
+
+- **ASCII ranch-layout diagrams** (`appendix-l-plot-overview.md`): Each expansion's plot table is now paired with a left-anchored ASCII flow diagram showing plot type, slime/Largo counts (`×6`), required corral upgrades (walls/shields), food flow (which garden or coop feeds which corral), and plort output. Covers every Conservatory growth stage (Ch 1/2/3), the Chapter 8 reorganization, and The Gully, Tidepools, Den, Archway, and Digsite expansions — 11 diagrams in all.
+- **Quantum Drone deployment diagram** (`appendix-l-plot-overview.md`, Chapter 9): Shows which expansion each of the 3 drones services, its collect → deposit route, and station-siting guidance (one station per expansion, centered for range coverage).
+- **Diagram legend** (`appendix-l-plot-overview.md`): Explains the schematic notation up front and flags that these are logical flow schematics (what feeds what), not to-scale maps of plot positions. Notes that every corral is assumed to carry a Plort Collector + High Walls.
+
+### Changed
+
+- Version bumped to 0.4.2 across the sanctioned mirror files. (Diagrams live in the GitHub/book guide; the condensed Steam sections were version-bumped only, to respect Steam's per-section size limits.)
+
+### Files Modified
+
+- `00-introduction.md` - Version bump to 0.4.2
+- `README.md` - Version header refresh
+- `appendix-l-plot-overview.md` - Added legend + 11 ASCII layout/flow diagrams + Chapter 9 drone-deployment diagram
+- `steam/SECTION-01-INTRO.txt` - Version bump
+- `steam/SECTION-18-APPENDICES-2.txt` - Version footer bump
+- `steam/STEAM-VERSION.md` - Version bump + footer date refresh
 
 ---
 

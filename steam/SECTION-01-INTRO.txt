@@ -1,7 +1,7 @@
 [h1]Slime Rancher 2: A Practical Walkthrough[/h1]
 
-[b]Version 0.4.1 - Radiant Sanctuary Edition[/b]
-[b]Last Updated:[/b] May 11, 2026
+[b]Version 0.4.2 - Blueprint Edition[/b]
+[b]Last Updated:[/b] June 15, 2026
 
 [hr][/hr]
 

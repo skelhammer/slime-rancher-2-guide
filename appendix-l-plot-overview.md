@@ -19,6 +19,23 @@ Complete ranch plot progression through all chapters (Chapters 1-12). Note: Chap
 
 ---
 
+## How to Read the Layout Diagrams
+
+Each expansion's table below is paired with an ASCII layout diagram for at-a-glance reference. These are **logical flow schematics** (what feeds what), not to-scale maps of where plots physically sit.
+
+```text
+LEGEND
+  CORRAL · GARDEN · COOP · POND · INCIN · SILO  = plot type
+  ×6           = slime / Largo count in that plot
+  feed flow:   = which garden or coop feeds which corral  (2→1 = Plot 2 feeds Plot 1)
+  plorts out:  = plort types that plot group produces for sale
+  walls/shield = corral upgrade that plot specifically needs
+Assumed on EVERY corral: Plort Collector (MANDATORY — Tarr prevention) + High Walls.
+After Chapter 9, one Quantum Drone services each expansion (see the Chapter 9 diagram).
+```
+
+---
+
 ## Chapter 1: The Sprint to Mobility
 
 ### Conservatory (2 plots active)
@@ -28,6 +45,15 @@ Complete ranch plot progression through all chapters (Chapters 1-12). Note: Chap
 | 1 | Corral | Tabby-Cotton Largos (6) | Veggie | Water Lettuce (Plot 2) | Cotton favorite: Water Lettuce |
 | 2 | Garden | Water Lettuce | - | - | Feeds Plot 1 |
 | 3-8 | EMPTY | - | - | - | Saving capital for Jetpack |
+
+```text
+CONSERVATORY — Chapter 1  (2 of 8 plots active)
+  1    CORRAL  Tabby–Cotton ×6     walls: High Walls + Air Net
+  2    GARDEN  Water Lettuce       Cotton favorite → 4 plorts/feeding
+  3–8  EMPTY   strategic hold — save for the Jetpack
+  feed flow:  2→1
+  plorts out: Tabby · Cotton
+```
 
 **Revenue:** ~500 Newbucks/day
 
@@ -44,6 +70,17 @@ Complete ranch plot progression through all chapters (Chapters 1-12). Note: Chap
 | 3 | Corral | Phosphor-Honey Largos (6) | Fruit | Cuberries (Plot 4) | Phosphor favorite: Cuberries |
 | 4 | Garden | Cuberries | - | - | Feeds Plot 3 |
 | 5-8 | EMPTY | - | - | - | Reserved for Chapter 3 expansion |
+
+```text
+CONSERVATORY — Chapter 2  (4 of 8 plots active)
+  1    CORRAL  Tabby–Cotton ×6      walls: High Walls + Air Net
+  2    GARDEN  Water Lettuce
+  3    CORRAL  Phosphor–Honey ×6    Solar Shield (Phosphor nocturnal)
+  4    GARDEN  Cuberries
+  5–8  EMPTY   reserved for Chapter 3
+  feed flow:  2→1 · 4→3
+  plorts out: Tabby · Cotton · Phosphor · Honey
+```
 
 **Revenue:** ~800-1,000 Newbucks/day
 
@@ -63,6 +100,20 @@ Complete ranch plot progression through all chapters (Chapters 1-12). Note: Chap
 | 6 | Garden | Heart Beets | - | - | Feeds Plot 5 |
 | 7 | Corral | Boom-Batty Largos (6) | Fruit | Pomegranites (Plot 8) | Batty favorite: Pomegranites |
 | 8 | Garden | Pomegranites | - | - | Feeds Plot 7 |
+
+```text
+CONSERVATORY — Chapter 3  (8 plots — full build)
+  1  CORRAL  Tabby–Cotton ×6     walls: High Walls + Air Net
+  2  GARDEN  Water Lettuce
+  3  CORRAL  Phosphor–Honey ×6   Solar Shield (nocturnal)
+  4  GARDEN  Cuberries
+  5  CORRAL  Crystal–Rock ×6
+  6  GARDEN  Heart Beets
+  7  CORRAL  Boom–Batty ×6       Solar Shield (nocturnal)
+  8  GARDEN  Pomegranites
+  feed flow:  2→1 · 4→3 · 6→5 · 8→7
+  plorts out: Tabby · Cotton · Phosphor · Honey · Crystal · Rock · Boom · Batty
+```
 
 **Revenue:** ~2,500+ Newbucks/day
 
@@ -90,6 +141,17 @@ Complete ranch plot progression through all chapters (Chapters 1-12). Note: Chap
 | 4 | Corral | Angler-Crystal Largos (6) | Meat | Sea Hens (Plot 2) | Angler favorite: Sea Hens |
 | 5 | Corral | Flutter-Tabby Largos (6) | Meat | Stony Hens (Plot 1) | Tabby favorite: Stony Hens, has Solar Shield, DO NOT SELL Flutter Plorts! |
 
+```text
+THE GULLY — Chapter 5  (5 plots — NEW)
+  1  COOP    Stony Hens + Roostro
+  2  COOP    Sea Hens + Roostro
+  3  SILO    Food storage (12 slots)
+  4  CORRAL  Angler–Crystal ×6   meat: Sea Hens (Angler favorite)
+  5  CORRAL  Flutter–Tabby ×6    Solar Shield · ⚠ KEEP Flutter plorts (needed for Quantum Drones)
+  feed flow:  1→5 (Stony Hens) · 2→4 (Sea Hens)
+  plorts out: Angler · Crystal · Flutter · Tabby
+```
+
 **Revenue:** +1,500-2,000 Newbucks/day | **Total Ranch:** ~3,500-4,500 Newbucks/day
 
 ---
@@ -109,6 +171,17 @@ Complete ranch plot progression through all chapters (Chapters 1-12). Note: Chap
 | 3 | Incinerator | Fire Slimes (5) | None | Fed from Plot 5 | Low maintenance |
 | 4 | Incinerator | Fire Slimes (5) | None | Fed from Plot 5 | Low maintenance |
 | 5 | Garden | Odd Onions | - | - | Converts to ash for incinerators |
+
+```text
+THE TIDEPOOLS — Chapter 6  (5 plots — NEW · passive income)
+  1  POND    Puddle ×4          zero maintenance (water only)
+  2  POND    Puddle ×4          zero maintenance (water only)
+  3  INCIN   Fire ×5            fed ash from Plot 5
+  4  INCIN   Fire ×5            fed ash from Plot 5
+  5  GARDEN  Odd Onions         burned for ash → Plots 3 & 4
+  feed flow:  5→3 · 5→4
+  plorts out: Puddle · Fire
+```
 
 **Revenue:** +1,540-2,310 Newbucks/day | **Total Ranch:** ~5,000-6,500 Newbucks/day
 
@@ -137,6 +210,20 @@ Complete ranch plot progression through all chapters (Chapters 1-12). Note: Chap
 | 7 | Corral | Flutter-Honey Largos (6) | Fruit | Mint Mangos (Plot 8) | Honey favorite: Mint Mangos, has Solar Shield (reused from Boom-Batty), DO NOT SELL Flutter Plorts! |
 | 8 | Garden | Mint Mangos | - | - | Feeds Plot 7, replanted from Pomegranites |
 
+```text
+CONSERVATORY — Chapter 8  (8 plots — REORGANIZED)
+  1  CORRAL  Tabby–Cotton ×6     walls: High Walls + Air Net
+  2  GARDEN  Water Lettuce
+  3  CORRAL  Phosphor–Honey ×6   Solar Shield
+  4  GARDEN  Cuberries
+  5  CORRAL  Crystal–Rock ×6
+  6  GARDEN  Heart Beets
+  7  CORRAL  Flutter–Honey ×6    Solar Shield · ⚠ KEEP Flutter plorts
+  8  GARDEN  Mint Mangos         (replanted from Pomegranites)
+  feed flow:  2→1 · 4→3 · 6→5 · 8→7
+  plorts out: Tabby · Cotton · Phosphor · Honey · Crystal · Rock · Flutter
+```
+
 ### The Gully (5 plots - REORGANIZED)
 
 | Plot | Type | Slimes/Contents | Food Type | Food Source | Notes |
@@ -146,6 +233,17 @@ Complete ranch plot progression through all chapters (Chapters 1-12). Note: Chap
 | 3 | Silo | Food Storage (12 slots) | - | - | Central food storage |
 | 4 | Corral | Angler-Crystal Largos (6) | Meat | Sea Hens (Plot 2) | Angler favorite: Sea Hens |
 | 5 | Corral | Saber-Hunter Largos (6) | Meat | Thunderclucks (Plot 1) | Saber favorite: Thunderclucks, replaces Flutter-Tabby from Ch5 |
+
+```text
+THE GULLY — Chapter 8  (5 plots — REORGANIZED)
+  1  COOP    Thunderclucks + Roostro   (converted from Stony Hens)
+  2  COOP    Sea Hens + Roostro
+  3  SILO    Food storage (12 slots)
+  4  CORRAL  Angler–Crystal ×6   meat: Sea Hens
+  5  CORRAL  Saber–Hunter ×6     meat: Thunderclucks (Saber favorite · top meat combo)
+  feed flow:  1→5 (Thunderclucks) · 2→4 (Sea Hens)
+  plorts out: Angler · Crystal · Saber · Hunter
+```
 
 ### The Tidepools (5 plots - unchanged)
 
@@ -159,6 +257,17 @@ Complete ranch plot progression through all chapters (Chapters 1-12). Note: Chap
 | 4 | Garden | Pomegranites | - | - | Feeds Plots 1 & 3 |
 | 5 | Garden | Cuberries | - | - | Feeds Plot 2 |
 
+```text
+THE DEN — Chapter 8  (5 plots — NEW · nocturnal)
+  1  CORRAL  Boom–Batty ×6        Solar Shield (nocturnal)
+  2  CORRAL  Flutter–Phosphor ×6  Solar Shield · ⚠ KEEP Flutter plorts
+  3  CORRAL  Batty–Ringtail ×6    Solar Shield (nocturnal)
+  4  GARDEN  Pomegranites
+  5  GARDEN  Cuberries
+  feed flow:  4→1 · 4→3 · 5→2   (Plot 3 also takes Cuberries from Plot 5)
+  plorts out: Boom · Batty · Flutter · Phosphor · Ringtail
+```
+
 **Revenue:** +1,500-2,000 Newbucks/day | **Total Ranch:** ~6,500-8,500 Newbucks/day
 
 ---
@@ -168,6 +277,16 @@ Complete ranch plot progression through all chapters (Chapters 1-12). Note: Chap
 ### All Expansions Unchanged
 
 *No ranch changes this chapter - focus on deploying 3 Quantum Drone Stations for automation*
+
+```text
+QUANTUM DRONE DEPLOYMENT — Chapter 9  (3 stations · no plot changes)
+  DRONE 1  ▸ Conservatory   collect plorts from the 4 corrals     → Plort Market
+  DRONE 2  ▸ The Gully      collect food from Silo (Plot 3)       → Auto-Feeders (corrals)
+  DRONE 3  ▸ The Tidepools  collect Fire + Puddle plorts          → Plort Market
+  Siting: place each station central to its expansion so every serviced plot
+          sits inside the drone's range ring.  One station = one expansion.
+  Scale later: add stations for The Den / The Archway / The Digsite as you build them.
+```
 
 **Revenue:** Unchanged | **Total Ranch:** ~6,500-8,500 Newbucks/day
 
@@ -203,6 +322,17 @@ Complete ranch plot progression through all chapters (Chapters 1-12). Note: Chap
 | 4 | Corral | Sloomber-Saber Largos (6) | Meat | Candied Hens (Plot 3) | Sloomber favorite: Candied Hen. Music Box required. HIGHEST VALUE COMBO. |
 | 5 | Silo | Plort & Food Storage (12 slots) | - | - | Grey Labyrinth plort storage |
 
+```text
+THE ARCHWAY — Chapter 11  (5 plots — NEW · Grey Labyrinth)
+  1  GARDEN  Polaricherry
+  2  CORRAL  Twin–Flutter ×6     fruit: Polaricherry (Flutter calming aura)
+  3  COOP    Candied Hens + Roostro
+  4  CORRAL  Sloomber–Saber ×6   Music Box required · ★ HIGHEST-VALUE COMBO
+  5  SILO    Plort & food storage (12 slots)
+  feed flow:  1→2 (Polaricherry) · 3→4 (Candied Hens)
+  plorts out: Twin · Flutter · Sloomber · Saber
+```
+
 **Revenue:** +2,000-3,500 Newbucks/day | **Total Ranch:** ~8,500-12,000 Newbucks/day
 
 ---
@@ -229,6 +359,16 @@ Complete ranch plot progression through all chapters (Chapters 1-12). Note: Chap
 | 2 | Corral | Dervish-Ringtail Largos (6) | Omnivore | Prickle Pear (Plot 1) | Dervish favorite: Prickle Pear. Music Box required. |
 | 3 | Coop | Painted Hens (6-8) + Roostros (2) | - | - | Feeds Plot 4 |
 | 4 | Corral | Tangle-Hyper Largos (6) | Omnivore | Painted Hens (Plot 3) or Prickle Pear (Plot 1) | Tangle favorite: Painted Hen. Music Box + Air Net REQUIRED. |
+
+```text
+THE DIGSITE — Chapter 12  (4 plots — NEW · OPTIONAL · weather slimes)
+  1  GARDEN  Prickle Pears
+  2  CORRAL  Dervish–Ringtail ×6  Music Box required (omnivore)
+  3  COOP    Painted Hens + Roostro
+  4  CORRAL  Tangle–Hyper ×6      Music Box + Air Net required (omnivore)
+  feed flow:  1→2 · 1→4 (Prickle Pear) · 3→4 (Painted Hens)
+  plorts out: Dervish · Ringtail · Tangle · Hyper
+```
 
 **Revenue:** +2,500-3,500 Newbucks/day (if built) | **Total Ranch:** ~11,000-15,500 Newbucks/day
 

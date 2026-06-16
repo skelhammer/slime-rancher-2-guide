@@ -1,7 +1,7 @@
 # Slime Rancher 2: A Practical Walkthrough - Steam Guide
 
-**Version 0.4.1 - Radiant Sanctuary Edition**
-**Last Updated: May 11, 2026**
+**Version 0.4.2 - Blueprint Edition**
+**Last Updated: June 15, 2026**
 
 ---
 
@@ -359,4 +359,4 @@ For complete chapter breakdowns, detailed tables, automation blueprints, and com
 
 ---
 
-*Generated with Claude Code • Last Updated: May 11, 2026*
+*Generated with Claude Code • Last Updated: June 15, 2026*

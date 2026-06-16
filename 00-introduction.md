@@ -1,8 +1,8 @@
 # Slime Rancher 2: A Practical Walkthrough
 
-#### Version 0.4.1 - Radiant Sanctuary Edition
+#### Version 0.4.2 - Blueprint Edition
 
-**Last Updated: May 11, 2026**
+**Last Updated: June 15, 2026**
 
 ### IMPORTANT DISCLAIMER
 
