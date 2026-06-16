@@ -1,12 +1,12 @@
 # Part 2: Expansion & Optimization (Chapters 5-8)
 
-_This part transforms your starter ranch into a multi-expansion empire. You'll unlock three new ranch territories (The Gully, The Tidepools, The Den), establish specialized divisions for protein production and passive income, execute a high-stakes expedition to capture elite Saber Slimes from frozen frontiers, and reorganize your entire operation to maximize efficiency and eliminate waste._
+_Part 2 is where the starter ranch grows teeth. You'll claim three new territories (The Gully, The Tidepools, The Den), spin up dedicated divisions for protein and passive income, mount a cold and genuinely dangerous expedition for elite Saber Slimes, and finally tear the whole operation down to the studs and rebuild it for maximum throughput._
 
 ## Chapter 5: The Gully - Industrial Core
 
-**Mindset:** _Build the industrial core._
+**Mindset:** _Stop foraging. Start manufacturing._
 
-Transform The Gully into your ranch's logistical core with automated food production and centralized storage.
+The Gully is where your ranch grows up and gets a real supply chain. You'll build chicken coops that breed their own feed, a central Silo to stockpile it, and two new Largo lines fed entirely in-house. By the end, the ranch makes its own food on a loop and you stop being the delivery guy.
 
 ### The Operational Blueprint
 
@@ -50,13 +50,13 @@ Transform The Gully into your ranch's logistical core with automated food produc
 
 ### Strategic Priorities
 
-1. **Unlock The Gully:** Purchase expansion access (2,800 NB) to establish industrial core.
-2. **Build Protein Infrastructure:** Construct two chicken coops (Stony Hens, Sea Hens) for sustainable meat production.
-3. **Establish Central Silo:** Deploy fully upgraded 12-slot Silo for ranch-wide food distribution.
-4. **Deploy Angler-Crystal Largos:** High-value plort production with Sea Hen favorite food.
-5. **Deploy Flutter-Tabby Largos:** CRITICAL—produces Flutter Plorts for Chapter 9 Quantum Drones.
-6. **Stockpile Flutter Plorts:** DO NOT SELL—deposit all Flutter Plorts into Refinery (target: 300+ for drones).
-7. **Install Auto-Feeders:** Automate feeding for both corrals to maximize plort production efficiency.
+1. **Unlock The Gully.** 2,800 Newbucks buys you the industrial core.
+2. **Build the protein line.** Two coops (Stony Hens and Sea Hens) that breed their own meat supply.
+3. **Stand up the Silo.** A fully upgraded 12-slot Silo so you feed the whole ranch from one spot.
+4. **Run Angler-Crystal Largos.** High-value plorts, fed on Sea Hens.
+5. **Run Flutter-Tabby Largos.** Critical: this line is your Flutter Plort factory for the Chapter 9 drones.
+6. **Bank every Flutter Plort.** Do not sell them. Straight into the Refinery, target 300+ for the drones.
+7. **Drop in Auto-Feeders.** Both corrals on autopilot so the plorts never stop.
 
 ### Financial Checkpoint
 
@@ -73,7 +73,7 @@ Transform The Gully into your ranch's logistical core with automated food produc
 - **Daily Increase:** +1,500-2,000 Newbucks/day
 - **Return on Investment:** 13,720 NB ÷ 1,750 NB/day = ~8 days to break even
 
-**Strategic Note:** Flutter-Tabby operation is investment in future automation—300 Flutter Plorts needed for Chapter 9's three Quantum Drone Stations. Begin accumulating immediately.
+**Strategic Note:** Treat the Flutter-Tabby line as a savings account for automation. Chapter 9's three Quantum Drone Stations cost 300 Flutter Plorts, and this corral is the only place they come from. Start hoarding now. Nothing stings like reaching Chapter 9 ready to automate and 200 plorts short.
 
 #### Phase 1: Unlock The Gully
 
@@ -158,9 +158,9 @@ By the end of Chapter 5, you should have:
 
 ### Next Chapter Preparation
 
-Chapter 6 unlocks The Tidepools expansion and establishes a passive income operation with Puddle and Fire Slimes while crafting Tier III upgrades.
+Chapter 6 unlocks The Tidepools and sets up the laziest money on the ranch: Puddle and Fire Slimes that practically run themselves, while you craft Tier III upgrades. Prep ahead:
 
-- **Financial Goal:** Save 10,500 Newbucks for The Tidepools unlock (6,000 NB) plus full build-out (4,350 NB).
-- **Asset Acquisition:** Collect Puddle Slimes (8 total) from Starlight Strand and Fire Slimes (10 total) from Ember Valley lava pools.
-- **Upgrade Prep:** Stockpile materials for Tier III upgrades (Tank Booster III, Power Core III, Heart Module III, Tank Guard II): Tabby, Cotton, Angler, Batty, Honey Plorts, Deep Brine, Silky Sand, Radiant Ore, Primordy Oil, Wild Honey.
-- **Flutter Plorts:** Continue accumulating from Flutter-Tabby operation in Refinery. DO NOT SELL - target 300+ for Chapter 9.
+- **Bank it:** Aim for 10,500 Newbucks: The Tidepools unlock (6,000 NB) plus the build-out (4,350 NB).
+- **Collect the cast:** 8 Puddle Slimes from Starlight Strand and 10 Fire Slimes from Ember Valley's lava pools.
+- **Stock the workbench:** For the Tier III upgrades (Tank Booster III, Power Core III, Heart Module III, Tank Guard II), hoard Tabby, Cotton, Angler, Batty, and Honey Plorts plus Deep Brine, Silky Sand, Radiant Ore, Primordy Oil, and Wild Honey.
+- **The Flutter rule (still in effect):** Keep banking Flutter Plorts in the Refinery. Do not sell. 300+ for Chapter 9.
