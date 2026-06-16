@@ -13,6 +13,7 @@ Quick reference guide for all slime types and Gordo locations in Slime Rancher 2
 | Capture | Vacuum and ranch like the base slime; behavior matches the base type |
 | Special Use | Take to **The Sanctuary** (new expansion) so the Caretaker can help them shed excess Prisma energy while retaining their radiant colors |
 | Loss Recovery | The Sanctuary contains a **Lost and Found** that recovers Radiant Slimes which have reverted to their base form |
+| Safety (Patch 1.2.2) | Incinerators no longer permanently destroy Radiant Slimes, and picking up Linked Cannons or Stunt Cannons with slimes inside no longer strips their radiance. It is now safe to route Radiant Slimes through cannon networks and to keep them near incinerators. |
 
 > **Strategic Note:** Radiant Slimes are primarily a collection / customization mechanic tied to the Sanctuary. They don't change plort economics on their own - prioritize them for personalization, not capital throughput.
 

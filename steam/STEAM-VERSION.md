@@ -1,7 +1,7 @@
 # Slime Rancher 2: A Practical Walkthrough - Steam Guide
 
-**Version 0.4 - Radiant Sanctuary Edition**
-**Last Updated: April 16, 2026**
+**Version 0.4.1 - Radiant Sanctuary Edition**
+**Last Updated: May 11, 2026**
 
 ---
 
@@ -339,10 +339,12 @@ The complete GitHub guide includes detailed appendices with:
 This guide is built on three core principles: Ruthless Asset Progression, Capital Deployment, and Automation. Every strategy is designed to maximize profit, minimize manual labor, and transform your ranch into a self-sustaining empire.
 
 ### Version Notes
-- Verified against Slime Rancher 2 Version 1.0, updated for Patch 1.2 (April 16, 2026)
+- Verified against Slime Rancher 2 Version 1.0, updated through Patch 1.2.3 (May 11, 2026)
 - **Patch 1.1.0:** Added slime toys for every slime type, Shadow Pots in Grey Labyrinth, new decorative gadgets, Explorer Drone updates
 - **Patch 1.1.1:** Memory/crash fixes; Shadow Slimes despawn after max plort production; Shadow Pots contain fewer slimes per pot
 - **Patch 1.2 (Radiant Slime Sanctuary):** Radiant Slime variants, The Sanctuary expansion, Sprinkles currency, Silo Improved Storage Capacity (200/slot), Garden Growth Amplifier, Resource Detector toy, ~30 new decorative gadgets, 22 Gadget Bundles, Distributor nerfed, PS5 auto-save fix (1.2.1)
+- **Patch 1.2.2:** Crash fixes (PS5, new-game load, Xbox account switch, Radiant Sloomber yawns). Radiant Slime protections - Incinerators no longer destroy Radiant Slimes; picking up Linked/Stunt Cannons with slimes inside no longer strips their radiance. Caretaker's Shop now updates Sprinkles correctly; main/gadget controls may again share binds; misc PS5/Xbox display fixes
+- **Patch 1.2.3:** Privacy/policy change - player data no longer collected in-game; identifying info scrubbed; data-collection notice removed from options menu. No gameplay impact
 - Major restructure: Chapters 10-15 reorganized for optimal gameplay flow
 - Grey Labyrinth content moved earlier (post-automation) for better progression
 - Prices and material costs may be outdated due to v1.0 recipe overhaul
@@ -357,4 +359,4 @@ For complete chapter breakdowns, detailed tables, automation blueprints, and com
 
 ---
 
-*Generated with Claude Code • Last Updated: December 2, 2025*
+*Generated with Claude Code • Last Updated: May 11, 2026*

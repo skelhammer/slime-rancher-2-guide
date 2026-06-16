@@ -1,8 +1,8 @@
 # Slime Rancher 2: A Practical Walkthrough
 
-#### Version 0.4 - Radiant Sanctuary Edition
+#### Version 0.4.1 - Radiant Sanctuary Edition
 
-**Last Updated: April 16, 2026**
+**Last Updated: May 11, 2026**
 
 ### IMPORTANT DISCLAIMER
 
@@ -15,6 +15,10 @@ This guide has been verified against the official Slime Rancher 2 Wiki and patch
 **Patch 1.1.1 Update (January 22, 2026):** Bug-fix and balance patch following 1.1.0. Memory optimizations to address game crashes. Shadow Slimes now despawn once they've produced their maximum number of Shadow Plorts (preventing infinite farming on a single spawn). Shadow Pots now contain fewer Shadow Slimes per pot - plan for more pots, fewer plorts per break.
 
 **Patch 1.2 Update (April 16, 2026 - "Radiant Slime Sanctuary"):** Major content update introducing Radiant Slimes (rare prismatic-altered variants of every slime type that can spawn anywhere their normal version appears) and **The Sanctuary** - a new ranch expansion accessed through the Grey Labyrinth. The Caretaker NPC operates the Sanctuary, where Radiant Slimes can shed Prisma energy while keeping their radiant colors. The Sanctuary contains themed, decoratable rooms with alcoves for favored slimes, a "Lost and Found" that recovers Radiant Slimes lost in their base form, and generates a new currency: **Sprinkles** (used to unlock Sanctuary expansions, themes, gadgets, and decorations). Major plot upgrades: **Improved Storage Capacity** for Silos (200 items per slot, up from 100) and **Growth Amplifier** for Gardens (expanded growing space per plot). New **Resource Detector** toy actively tracks the direction of nearby science resources. **Gadget Bundles** now sold in Coo-Coo Corner (22 themed bundles). Roughly 30 new decorative gadgets including comfy couches, scientist furniture, half-circle/round/step platforms in grass/ice/magma/moss/stone, lava lamps in 6 colors, golden Honey/Saber statues, and Sanctuary Portals. Distributors nerfed to prevent object duplication. PS5 auto-save corruption fixed (1.2.1). See Appendices A, D, and E for full details.
+
+**Patch 1.2.2 Update (May 11, 2026):** Bug-fix patch. Several crash fixes (a PS5-specific crash, a crash when loading and starting new games, a crash when switching Xbox accounts, and a crash from Radiant Sloomber yawns along with other destructive yawn side effects). **Radiant Slime protections:** Incinerators no longer permanently destroy Radiant Slimes, and picking up Linked Cannons or Stunt Cannons with slimes inside no longer strips them of their radiance - it is now safe to route Radiant Slimes through cannon networks and to keep them near incinerators. The Caretaker's Shop now updates Sprinkles correctly after purchases. Main-mode and gadget-mode controls may again be bound to share the same keys and buttons. Platform-specific fixes: Island Alcove flashing on PS5, the Glo-Glo Frog not showing in Coo-Coo Corner or the Slimepedia on Xbox when switching profiles, and some newer gadgets incorrectly displaying the Quantum Drone effect when a Drone is nearby. See Appendix A (Radiant Slimes) for the cannon/incinerator safety note.
+
+**Patch 1.2.3 Update (May 2026):** Privacy/policy patch with no gameplay impact. Monomi Park no longer collects player data in-game and has scrubbed any potentially identifying information (and any data that could be linked to it). The options menu was updated to remove the setting indicating that player data is collected. See the developer's Privacy Policy for details.
 
 # Introduction: The Rancher's Mindset
 

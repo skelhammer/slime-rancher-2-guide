@@ -4,6 +4,7 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 
 **Version History:**
 
+- [0.4.1 - Radiant Sanctuary Edition (2026-05-11)](#041---2026-05-11---radiant-sanctuary-edition)
 - [0.4 - Radiant Sanctuary Edition (2026-04-16)](#04---2026-04-16---radiant-sanctuary-edition)
 - [0.3.2 - Shadow Sanitation Edition (2026-01-22)](#032---2026-01-22---shadow-sanitation-edition)
 - [0.3.1 - Toys, Trimmings, and Tune-Ups Edition (2025-12-02)](#031---2025-12-02---toys-trimmings-and-tune-ups-edition)
@@ -12,6 +13,30 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 - [0.1.2 - Wiki Integration Edition (2025-11-01)](#012---2025-11-01---wiki-integration-edition)
 - [0.1.1 - Patch 1.0.3 Update (2025-11-01)](#011---2025-11-01---patch-103-update)
 - [0.1 - Initial Release (2025-10-24)](#01---2025-10-24---initial-release)
+
+---
+
+## [0.4.1] - 2026-05-11 - Radiant Sanctuary Edition
+
+_Documentation pass for game Patches 1.2.2 and 1.2.3. Edition name retained from 0.4; patch-level bump for new game patches (mirrors the 1.1.1 → 0.3.2 convention)._
+
+### Added
+- **Patch 1.2.2 Documentation** (May 11, 2026): Bug-fix patch coverage
+  - **Radiant Slime protections** (appendix-a-slimes.md, 00-introduction.md): Added a "Safety (Patch 1.2.2)" row to the Radiant Slimes table noting that Incinerators no longer permanently destroy Radiant Slimes and that picking up Linked Cannons / Stunt Cannons with slimes inside no longer strips their radiance. It is now safe to route Radiant Slimes through cannon networks and keep them near incinerators.
+  - **Patch 1.2.2 disclaimer block** (00-introduction.md): Documented the crash fixes (PS5-specific crash, new-game load crash, Xbox account-switch crash, Radiant Sloomber yawn crash / destructive yawn side effects), the Caretaker's Shop Sprinkles-update fix, the main/gadget shared-keybind fix, and platform-specific fixes (PS5 Island Alcove flashing, Xbox Glo-Glo Frog display, gadgets erroneously showing the Quantum Drone effect near a Drone).
+- **Patch 1.2.3 Documentation** (May 2026): Privacy/policy patch coverage
+  - **Patch 1.2.3 disclaimer block** (00-introduction.md): Documented that Monomi Park no longer collects in-game player data, has scrubbed potentially identifying information, and removed the data-collection notice from the options menu. No gameplay impact.
+
+### Changed
+- **Steam guide files** (steam/SECTION-01-INTRO.txt, steam/SECTION-18-APPENDICES-2.txt, steam/STEAM-VERSION.md): Added Patch 1.2.2 and 1.2.3 change blocks / version notes, Radiant Slime cannon/incinerator safety note, and version refresh to 0.4.1.
+
+### Files Modified
+- `00-introduction.md` - Bumped to v0.4.1, added Patch 1.2.2 and 1.2.3 disclaimer blocks
+- `README.md` - Version header refresh, updated Game Version line for Patch 1.2.2/1.2.3
+- `appendix-a-slimes.md` - Added Patch 1.2.2 safety row to Radiant Slimes table
+- `steam/SECTION-01-INTRO.txt` - Version bump + Patch 1.2.2 / 1.2.3 change blocks
+- `steam/SECTION-18-APPENDICES-2.txt` - Radiant Slimes safety note + version footer bump
+- `steam/STEAM-VERSION.md` - Version bump + Patch 1.2.2 / 1.2.3 version notes
 
 ---
 

@@ -1,7 +1,7 @@
 # Slime Rancher 2: A Practical Walkthrough
 
-**Version 0.4 - Radiant Sanctuary Edition**
-**Last Updated:** April 16, 2026
+**Version 0.4.1 - Radiant Sanctuary Edition**
+**Last Updated:** May 11, 2026
 
 📖 **Read online:** [skelhammer.github.io/slime-rancher-2-guide](https://skelhammer.github.io/slime-rancher-2-guide/) — full book site with sidebar TOC, next/prev navigation, and search. Rebuilt automatically on every push to `main`.
 
@@ -66,7 +66,7 @@ The guide has been split into individual chapter files for easier editing and na
 
 ## Version Information
 
-- **Game Version:** Verified against Slime Rancher 2 Version 1.0, updated for Patch 1.2 (April 16, 2026 - "Radiant Slime Sanctuary")
+- **Game Version:** Verified against Slime Rancher 2 Version 1.0, updated through Patch 1.2.3 (May 11, 2026; major content in Patch 1.2 - "Radiant Slime Sanctuary")
 - **Known Issues:** Prices and material costs are outdated due to v1.0 recipe overhaul without patch notes. Patch notes documented in introduction.
 
 > The guide version and last-updated date are shown at the top of this README and maintained canonically in [`00-introduction.md`](00-introduction.md). Per-patch history lives in [CHANGELOG.md](CHANGELOG.md).
