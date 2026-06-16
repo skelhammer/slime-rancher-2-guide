@@ -1,6 +1,8 @@
 ## Chapter 2: The Conservatory - Foundation Build
 
-**Mindset:** _Expand and diversify operations._
+**Mindset:** _One income stream is a hobby. Build a second._
+
+With the Jetpack earned, the panic phase is over. Now you turn a single corral into an actual operation: a second Largo line, your first crafting plorts, and the upgrades that make every future collection run less of a slog.
 
 ### The Operational Blueprint
 
@@ -117,13 +119,13 @@ Pop the Cotton Gordo to activate the portal to Starlight Strand (see Gordo Strat
 
 ### Strategic Priorities
 
-1. **Pop Cotton Gordo:** Unlock Starlight Strand access for Honey and Phosphor collection.
-2. **Night Hunt in Starlight Strand:** Capture 6 Phosphor Slimes (night only) and 6 Honey Plorts.
-3. **Expand to 4 Plots:** Add Phosphor-Honey operation for essential crafting plorts.
-4. **Stockpile Crafting Plorts:** Deposit 50+ Phosphor and 50+ Honey Plorts in Refinery for Chapter 3.
-5. **Craft Tank Booster:** CRITICAL—increases capacity from 20 to 30 units per slot (massive QoL).
-6. **Craft Power Core:** Extends exploration energy from 100 to 150.
-7. **Install Auto-Feeders:** Automate feeding for Phosphor-Honey corral to maximize plort production.
+1. **Pop the Cotton Gordo.** It's your doorway into Starlight Strand, where Honey and Phosphor live.
+2. **Raid Starlight Strand after dark.** Bag 6 Phosphor Slimes (night only) and 6 Honey Plorts.
+3. **Go to 4 plots.** Stand up the Phosphor-Honey line for your first real crafting plorts.
+4. **Start stockpiling.** Bank 50+ Phosphor and 50+ Honey Plorts in the Refinery now; Chapter 3 will want them.
+5. **Craft the Tank Booster.** This one's critical: 20 to 30 units per slot is a massive quality-of-life jump.
+6. **Craft the Power Core.** More exploration energy, 100 up to 150.
+7. **Drop in Auto-Feeders.** Let the Phosphor-Honey corral feed itself and keep the plorts flowing.
 
 ### Financial Checkpoint
 
@@ -142,7 +144,7 @@ Pop the Cotton Gordo to activate the portal to Starlight Strand (see Gordo Strat
 
 **Timeline to Goal:** 9-15 days to accumulate 4,560 Newbucks from Chapter 1 operations alone
 
-**Strategic Note:** Tank Booster is transformative—30 units per slot (vs 20) means 120 total capacity (vs 80), making Chapter 3's collection runs dramatically more efficient.
+**Strategic Note:** Do not skip the Tank Booster. Thirty units per slot instead of 20 means 120 total capacity instead of 80, and Chapter 3 is basically one long collection run. That extra room is the difference between one trip and three.
 
 ### End of Chapter Checklist
 
@@ -159,9 +161,9 @@ By the end of Chapter 2, you should have:
 
 ### Next Chapter Preparation
 
-Chapter 3 expands the Conservatory to 8 plots and focuses on Ember Valley resource extraction while crafting Tier II upgrades.
+Chapter 3 pushes the Conservatory to a full 8 plots and turns Ember Valley into your resource mine while you craft Tier II upgrades. Set yourself up now:
 
-- **Financial Goal:** Save at least 10,000 Newbucks for ranch expansion (8,745 NB) and upgrades (Water Tank, Dash Boots, Extra Tank).
-- **Asset Collection:** Chapter 3 begins with collection runs to gather Boom, Batty, Crystal, and Rock slimes and wild plorts from Ember Valley.
-- **Gordo Preparation:** Stockpile vegetables (Heart Beets for Rock Gordo), fruit (Pomegranites for Batty Gordo), and meat (Briar Hens for Boom Gordo, Stony Hens for Tabby Gordo).
-- **Tank Booster Advantage:** With 30 units per slot (up from 20), you'll have much better capacity for Chapter 3's extensive collection runs.
+- **Bank it:** Aim for at least 10,000 Newbucks to cover the expansion (8,745 NB) plus upgrades (Water Tank, Dash Boots, Extra Tank).
+- **Plan the haul:** Chapter 3 opens with collection runs for Boom, Batty, Crystal, and Rock slimes and their wild plorts out in Ember Valley.
+- **Prep the Gordos:** Stockpile veggies (Heart Beets for Rock), fruit (Pomegranites for Batty), and meat (Briar Hens for Boom, Stony Hens for Tabby).
+- **Cash in the Tank Booster:** That jump to 30 units per slot is about to pay for itself across a lot of hauling.
