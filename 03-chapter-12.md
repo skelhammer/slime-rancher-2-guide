@@ -2,9 +2,9 @@
 
 > **⚠️ OPTIONAL CHAPTER:** This chapter is for players who have collected Dervish and Tangle slimes from weather events. If you have not collected these slimes or do not wish to ranch them, **skip this chapter** and proceed to Chapter 13 (The Endgame Audit).
 
-**Mindset:** _Elite weather slime integration._
+**Mindset:** _A bonus wing for your weirdest catches._
 
-Weather event slimes (Dervish and Tangle) are among the rarest in the game, spawning only during Level 3 weather events. If you've collected them, The Digsite provides the perfect home for these premium assets.
+Dervish and Tangle slimes only show up during Level 3 storms, which makes them some of the hardest slimes in the game to even find. If you managed to bottle a few, The Digsite is where they earn their keep. If you didn't, this whole chapter is a polite suggestion you can ignore.
 
 ### Prerequisites
 
@@ -51,13 +51,13 @@ Weather event slimes (Dervish and Tangle) are among the rarest in the game, spaw
 
 ### Strategic Priorities
 
-1. **Unlock The Digsite:** Purchase expansion access (6,000 NB) to establish weather slime operations center.
-2. **Deploy Dervish-Ringtail Largos:** Establish VERY HIGH VALUE operation (150-200 NB per feeding cycle).
-3. **Deploy Tangle-Hyper Largos:** Create second weather event operation with maximum security measures.
-4. **Install Air Net on Tangle-Hyper:** MANDATORY—Hyper component is extremely bouncy and WILL escape without it.
-5. **Build Painted Hen Coop:** Establish rare chicken breeding program (Level 3 Pollen Storm requirement).
-6. **Plant Prickle Pear Garden:** Grow Dervish favorite food for maximum plort production.
-7. **Install Music Boxes:** CRITICAL—Dervish creates tornadoes, Hyper dashes aggressively.
+1. **Unlock The Digsite.** 6,000 Newbucks, reached through The Den's eastern passage.
+2. **Run Dervish-Ringtail Largos.** A very high-value line, 150-200 NB a feeding.
+3. **Run Tangle-Hyper Largos.** The second weather line, and the one that needs the most lockdown.
+4. **Air-net the Tangle-Hyper corral.** Mandatory. The Hyper half is absurdly bouncy and will escape without it.
+5. **Build a Painted Hen coop.** Your breeding stock of these storm-only hens.
+6. **Plant a Prickle Pear garden.** Dervish's favorite, for the full payout.
+7. **Music Boxes on both corrals.** Critical: Dervish spins up tornadoes and Hyper dashes like it's caffeinated.
 
 ### Financial Checkpoint
 
@@ -74,7 +74,7 @@ Weather event slimes (Dervish and Tangle) are among the rarest in the game, spaw
 - **Daily Increase:** +2,500-3,500 Newbucks/day
 - **Return on Investment:** 14,445 NB ÷ 3,000 NB/day = ~4.8 days to break even
 
-**Strategic Note:** Weather slimes (Dervish, Tangle) are among the rarest in the game, spawning only during Level 3 weather events. If you haven't collected these slimes, SKIP this chapter entirely—The Digsite is optional. Tangle-Hyper requires MAXIMUM security (Air Net mandatory) due to extreme bounciness.
+**Strategic Note:** No weather slimes, no Digsite. They only spawn in Level 3 storms, so if you don't have them, skip this chapter with a clear conscience. If you do, respect the security rules: the Tangle-Hyper corral needs an Air Net, full stop, or you'll spend more time chasing escapees than collecting plorts.
 
 #### Phase 1: Unlock The Digsite
 
@@ -161,7 +161,7 @@ By the end of Chapter 12, you should have:
 
 ### Next Chapter Preparation
 
-Chapter 13 (The Endgame Audit) focuses on maximizing your Vacpack capabilities and unlocking all final upgrades before the endgame.
+Chapter 13 (The Endgame Audit) is the pre-finale checklist: max out the Vacpack and lock in every last upgrade before the story's home stretch. Prep ahead:
 
 **Preparation for Chapter 13:**
 
