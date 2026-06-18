@@ -1,8 +1,8 @@
 ## Chapter 10: The Grey Labyrinth - Elite Asset Acquisition
 
-**Mindset:** _Strategic endgame extraction._
+**Mindset:** _Get in, grab the elites, get out alive._
 
-The Grey Labyrinth is Rainbow Island's most dangerous zone and contains the rarest, most valuable slimes in the game. This chapter focuses on entering the Labyrinth, understanding its mechanics, and extracting breeding stock of elite slimes to integrate into your automated ranch operations.
+The Grey Labyrinth is the most dangerous place on Rainbow Island, and the richest. It's home to the rarest, most valuable slimes in the game (Twin, Sloomber, Hyper) plus the Shadow and Prisma Plorts that power the entire endgame. This chapter is a raid, not a move-in: learn the rules, grab breeding stock of the elites, and haul it back to your safe, automated ranch. The Labyrinth eats careless ranchers, so go in prepared.
 
 ### Prerequisites: Equipment & Entry Requirements
 
@@ -307,13 +307,13 @@ The Grey Labyrinth is vast and dangerous. Setting up strategic warp gadgets in e
 
 ### Strategic Priorities
 
-1. **Map First, Always:** Do not operate in unmapped territory. Activate all 7 Map Data Nodes before deep exploration.
-2. **Pop Gordos for Portals:** Twin Gordo (Rainbow Fields), Sloomber Gordo (Conservatory), Hyper Gordo (key switch) - these portals save massive time.
-3. **Capture Breeding Stock:** 10-12 of each elite slime type (Twin, Sloomber, Hyper) is sufficient for ranch operations.
-4. **Collect Favorite Foods:** 40-60 of each food type (Polaricherry, Candied Hen, Turbo Tater) for Chapter 11 buildout.
-5. **Farm Shadow Plorts Opportunistically:** Start collecting Shadow Plorts now for Chapter 13 door opening (~825 total needed).
-6. **Store Plorts in Silos:** NEVER put Shadow/Prisma Plorts in Refinery until you've completed door/milestone objectives.
-7. **Do Not Ranch Here:** Grey Labyrinth is an extraction zone, not a ranching expansion. Capture assets and return to your secure ranch.
+1. **Map it before anything else.** Never work blind in here. Light up all 7 Map Data Nodes first.
+2. **Pop the Gordos for their portals.** Twin (to Rainbow Fields), Sloomber (to Conservatory), Hyper (the key switch). These shortcuts save enormous time.
+3. **Grab breeding stock.** 10-12 each of Twin, Sloomber, and Hyper is plenty for the ranch.
+4. **Stock their favorite foods.** 40-60 each of Polaricherry, Candied Hen, and Turbo Tater for the Chapter 11 build.
+5. **Farm Shadow Plorts on the side.** Start now; Chapter 13 needs ~825 of them.
+6. **Everything rare goes in a Silo.** Never bank Shadow or Prisma Plorts in the Refinery until the doors and trades are done. Refinery plorts can't be spent on either.
+7. **Don't try to ranch here.** The Labyrinth is a smash-and-grab, not a colony. Take what you came for and leave.
 
 ### Financial Checkpoint
 
@@ -379,12 +379,10 @@ By the end of Chapter 10, you should have:
 
 ### Next Chapter Preparation
 
-With elite Grey Labyrinth slimes captured and favorite foods collected, you're ready to integrate these valuable assets into your ranch operations. Chapter 11 (The Archway - Grey Labyrinth Operations) will establish the highest-value plort production on your entire ranch using Twin-Flutter and Sloomber-Saber Largo combinations.
+You've got the elites in hand and their pantry stocked. Chapter 11 (The Archway) is where they finally go to work, running the single highest-value plort production on the whole ranch via Twin-Flutter and Sloomber-Saber Largos. Prep ahead:
 
-**Preparation for Chapter 11:**
-
-- Have 12,650 Newbucks saved (Archway expansion + upgrades)
-- Verify you have 10-12 Twin, Sloomber slimes stored
-- Verify you have Polaricherry, Candied Hen stocks
-- Have Saber Slimes available (from Chapter 7 Powderfall Bluffs operations)
-- Have Flutter Slimes available (from Chapter 4 Starlight Strand operations)
+- **Bank it:** 12,650 Newbucks for the Archway expansion and upgrades.
+- **Slimes ready:** 10-12 Twin and 10-12 Sloomber in storage.
+- **Pantry ready:** Polaricherry and Candied Hen stocks on hand.
+- **Sabers ready:** From your Chapter 7 Powderfall haul.
+- **Flutters ready:** From the Chapter 4 Starlight Strand sweep.
