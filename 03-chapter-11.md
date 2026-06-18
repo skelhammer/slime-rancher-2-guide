@@ -1,8 +1,8 @@
 ## Chapter 11: The Archway - Grey Labyrinth Operations
 
-**Mindset:** _Elite asset integration._
+**Mindset:** _Put the expensive slimes to work._
 
-You've captured Rainbow Island's most valuable slimes from the Grey Labyrinth. Now it's time to integrate them into your automated empire and establish the highest-value plort production on your ranch.
+You did the hard part last chapter: you walked out of the Grey Labyrinth with its rarest residents. Now you cash them in. The Archway is a compact, five-plot money machine built around the two best Largo combos in the game, and once it's running it's the richest corner of your entire ranch.
 
 ### The Operational Blueprint
 
@@ -40,13 +40,13 @@ You've captured Rainbow Island's most valuable slimes from the Grey Labyrinth. N
 
 ### Strategic Priorities
 
-1. **Unlock The Archway:** Purchase expansion access (2,800 NB) to establish Grey Labyrinth operations center.
-2. **Deploy Twin-Flutter Largos:** Establish high-value operation with premium Grey Labyrinth slimes.
-3. **Deploy Sloomber-Saber Largos:** HIGHEST-VALUE COMBO in game (150-250 NB per feeding cycle).
-4. **Install Music Box:** CRITICAL—Sloomber clouds pacify aggressive Saber behavior.
-5. **Build Candied Hen Coop:** Establish breeding program for Sloomber favorite food.
-6. **Plant Polaricherry Garden:** Grow Twin favorite food for maximum plort production.
-7. **Stockpile Grey Labyrinth Plorts:** Reserve Twin, Sloomber, Saber plorts in Silo for Chapters 13-14 (DO NOT deposit in Refinery yet).
+1. **Unlock The Archway.** 2,800 Newbucks, tucked in the Conservatory's northwest corner.
+2. **Run Twin-Flutter Largos.** A high-value line built on premium Labyrinth slimes.
+3. **Run Sloomber-Saber Largos.** The single highest-value combo in the game, 150-250 NB a feeding.
+4. **Bolt on a Music Box.** Critical: Sloomber's sleep clouds keep the aggressive Saber half docile.
+5. **Build a Candied Hen coop.** Your breeding supply of Sloomber's favorite food.
+6. **Plant a Polaricherry garden.** Twin's favorite, for the full 4-plort payout.
+7. **Silo the rare plorts.** Stash Twin, Sloomber, and Saber in a Silo for Chapters 13-14. Keep them out of the Refinery for now.
 
 ### Financial Checkpoint
 
@@ -63,7 +63,7 @@ You've captured Rainbow Island's most valuable slimes from the Grey Labyrinth. N
 - **Daily Increase:** +2,000-3,500 Newbucks/day
 - **Return on Investment:** 12,645 NB ÷ 2,750 NB/day = ~4.6 days to break even
 
-**Strategic Note:** Sloomber-Saber Largos are the highest-value plort combination in the game. Combined with Twin-Flutter Largos, The Archway becomes your ranch's premium revenue generator. Auto-Feeders are MANDATORY to prevent rare Grey Labyrinth slime starvation.
+**Strategic Note:** Sloomber-Saber is the best Largo combo money can buy, and paired with Twin-Flutter it makes the Archway your top earner per plot. One rule, no exceptions: Auto-Feeders on both corrals. These slimes were a pain to capture, and a starved rare slime is a very expensive mistake.
 
 #### Phase 1: Unlock The Archway
 
@@ -176,4 +176,4 @@ By the end of Chapter 11, you should have:
 
 ### Next Chapter Preparation
 
-The Digsite expansion is OPTIONAL. If you've collected Dervish and Tangle slimes from weather events, Chapter 12 provides a home for them. If you haven't collected weather slimes or don't care about them, **skip Chapter 12 entirely** and proceed to Chapter 13 (The Endgame Audit).
+Chapter 12 (The Digsite) is entirely optional. If you've caught Dervish and Tangle slimes from weather events, it gives them a proper home and a tidy income. If you haven't, or you just don't care about the weather slimes, **skip straight to Chapter 13** (The Endgame Audit). No guilt, no penalty.
