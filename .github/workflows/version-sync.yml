@@ -23,7 +23,7 @@ jobs:
           set -euo pipefail
 
           # Files allowed to contain "Version 0.X" strings:
-          allowed='^(00-introduction\.md|README\.md|CHANGELOG\.md|steam/STEAM-VERSION\.md|steam/SECTION-01-INTRO\.txt|steam/SECTION-18-APPENDICES-2\.txt|\.github/workflows/version-sync\.yml|\.templates/.*)$'
+          allowed='^(00-introduction\.md|README\.md|CHANGELOG\.md|steam/SECTION-01-INTRO\.txt|steam/SECTION-18-APPENDICES-2\.txt|\.github/workflows/version-sync\.yml|\.templates/.*)$'
 
           # Grep for the version pattern across tracked text files.
           # Strip grep -R's leading "./" so paths match the anchored allowlist below.
@@ -40,7 +40,7 @@ jobs:
           offenders=$(echo "$matches" | awk -F: '{print $1}' | sort -u | grep -Ev "$allowed" || true)
 
           if [ -n "$offenders" ]; then
-            echo "::error::Version string drift detected. The version may only be hardcoded in 00-introduction.md, README.md, CHANGELOG.md, steam/STEAM-VERSION.md, and steam/SECTION-01-INTRO.txt."
+            echo "::error::Version string drift detected. The version may only be hardcoded in 00-introduction.md, README.md, CHANGELOG.md, steam/SECTION-01-INTRO.txt, and steam/SECTION-18-APPENDICES-2.txt."
             echo ""
             echo "Offending files:"
             echo "$offenders"

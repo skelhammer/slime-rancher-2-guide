@@ -2,8 +2,8 @@
   CHANGELOG entry template. Copy the block below to the TOP of CHANGELOG.md
   (above the most recent entry), fill in the placeholders, and remove any
   subsections you don't need. Pair this with the version bump in
-  00-introduction.md, README.md, steam/STEAM-VERSION.md, and
-  steam/SECTION-01-INTRO.txt per CLAUDE.md's workflow.
+  00-introduction.md, README.md, and steam/SECTION-01-INTRO.txt
+  per CLAUDE.md's workflow.
 -->
 
 ## [0.X.Y] - YYYY-MM-DD - {{Edition Name}}

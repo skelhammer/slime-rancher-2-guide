@@ -92,7 +92,7 @@ Toys are purchased from **ProntoMart's Coo-Coo Corner**. One toy is guaranteed a
 | Round Bumper | 500 | 10 Pink Plorts, 10 Saber Plorts, 3 Primordy Oil | A bouncy bumper that sends slimes and other objects flying. |
 | Stunt Cannon | 1,000 | 20 Boom Plorts, 5 Fire Plorts, 3 Lava Dust | A cannon that can launch slimes (or the rancher) a long distance. |
 | Accelerator | 50  | 1 Ringtail Plort, 1 Deep Brine | A short-range speed booster, similar to a Dash Pad. Color variants available: Gold, Purple, Red, Pink, Grey, Green. |
-| Distributor | TBD | TBD | A utility gadget for item distribution. **Patch 1.2:** Nerfed - can no longer be exploited to duplicate objects or break their physics. |
+| Distributor | Unconfirmed | Unconfirmed | A utility gadget for item distribution. **Patch 1.2:** Nerfed - can no longer be exploited to duplicate objects or break their physics. |
 | Slimeball Goal | 5,000 | 25 Honey Plorts, 25 Flutter Plorts, 3 Silky Sand | A hoop for playing slimeball. |
 | Attention Flag | 50  | 5 Pink Plorts, 1 Jellystone | A placeable flag that creates a custom exclamation point marker on your world map. |
 | Cautious Flag | 50  | 5 Pink Plorts, 1 Slime Fossil | A placeable flag that creates a custom "X" marker on your world map. |

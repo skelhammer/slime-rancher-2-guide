@@ -4,7 +4,6 @@ This directory contains the condensed Steam Community Guide version of the Slime
 
 ## Files
 
-- **STEAM-VERSION.md** — Single-document markdown source. Useful for editing, diffing, and previewing the whole Steam guide locally before converting to BBCode.
 - **SECTION-01-INTRO.txt** — Introduction, version block, and Core Mechanics
 - **SECTION-02-CH01.txt** — Chapter 1: Early Game / Sprint to Mobility
 - **SECTION-03-CH02.txt** — Chapter 2: The Conservatory (Foundation Build)
@@ -47,14 +46,13 @@ For the full depth (every gadget, every treasure pod, every plort door, the comp
 ## Sync Policy
 
 - **`SECTION-01-INTRO.txt`**, **`SECTION-17-APPENDICES.txt`**, and **`SECTION-18-APPENDICES-2.txt`** are updated with every guide version bump (they carry the patch notes block, appendix changes, and version footer).
-- **`STEAM-VERSION.md`** is updated with every guide version bump.
 - **Chapter sections (`SECTION-02-CH01.txt` through `SECTION-16-CH15.txt`)** are updated when a patch materially changes the chapter's topic (e.g., Sanctuary access for Chapter 10, Radiant Slimes for Chapter 15). Patch notes that are purely introductory live in SECTION-01 only — chapter files reference "see SECTION-01 changes block" rather than re-stating every patch.
 
 ## Maintenance
 
 When updating the Steam guide:
 
-1. Edit the relevant `SECTION-XX-*.txt` directly (BBCode format) and the corresponding region in `STEAM-VERSION.md` if the change is material.
-2. Bump the version string in `SECTION-01-INTRO.txt`, `STEAM-VERSION.md`, and the footer of `SECTION-18-APPENDICES-2.txt` to match `00-introduction.md`.
+1. Edit the relevant `SECTION-XX-*.txt` directly (BBCode format).
+2. Bump the version string in `SECTION-01-INTRO.txt` and the footer of `SECTION-18-APPENDICES-2.txt` to match `00-introduction.md`.
 3. If a chapter section was re-synced, note the changes in the root `CHANGELOG.md` entry.
 4. Re-paste each changed section into the published Steam guide.

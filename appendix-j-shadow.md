@@ -32,7 +32,7 @@ All Shadow Plort-locked doors and collectors in the Grey Labyrinth endgame area.
 | Terrarium/Lavaways | 15  | In the shortcut hallway connecting the Terrarium to the Lava Depths. | Prismatic Flower Lamp |
 | Terrarium | 25  | In a hallway ending in gold. | Shortcut to Lava Depths |
 | Terrarium | 25  | High up on a ledge. | Trydro Turret |
-| Terrarium | 60  | Location TBD. | Storage Cell #3 |
+| Terrarium | 60  | Location unconfirmed; verify in-game. | Storage Cell #3 |
 | Terrarium | 25  | Hidden behind a secret wall that must be Nullified to access. | Miniatures Dome |
 | Terrarium | 25  | Up high, hidden by leaves. | Dream Lantern II |
 

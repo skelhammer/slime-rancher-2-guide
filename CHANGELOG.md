@@ -31,7 +31,12 @@ _A full voice-and-clarity overhaul. The original prose was written with an older
 - **README** (`README.md`): Voiced the About / Philosophy / How-to-Use sections.
 - **Appendices** (`appendix-a` through `appendix-m`): Light prose polish on the intro lines; the reference tables themselves were left untouched.
 - **Steam edition** (`steam/SECTION-01` through `SECTION-18`): Brought all 18 BBCode sections up to the new voice to match the GitHub guide. Also fixed `SECTION-01-INTRO.txt`, which had grown past Steam's ~8 KB per-section cap (collapsed the six-block patch log to a one-line CHANGELOG pointer), and corrected its structure list from 17 to 18 sections (the appendices are split into Part 1/Part 2). Every section verified under cap, with balanced BBCode, zero em dashes, and all numbers preserved.
+- **Final-pass polish:** Reworded four leftover `TBD` cells in the appendix tables (`appendix-d-ranch.md`, `appendix-e-gadgets.md`, `appendix-j-shadow.md`) to read as intentional `Unconfirmed` notes, consistent with the Known Issues disclaimer about unpublished v1.0 prices.
 - **Em dashes purged** from every rewritten file, now enforced by a pre-commit grep gate.
+
+### Removed
+
+- **`steam/STEAM-VERSION.md`** - The single-document Markdown copy of the Steam guide duplicated the 18 BBCode `SECTION-*.txt` files and had drifted out of sync (old voice, stale patch block). Removed it and pruned its references from `CLAUDE.md`, `steam/README.md`, `.templates/changelog-entry-template.md`, and the `version-sync.yml` allowlist.
 
 ### Files Modified
 
@@ -39,7 +44,7 @@ _A full voice-and-clarity overhaul. The original prose was written with an older
 - `01-chapter-01.md` through `04-chapter-15.md` - Voice rewrites (narrative / strategic prose)
 - `README.md` - Voice rewrite (About / Philosophy / How-to-Use) + version header
 - `appendix-a-slimes.md`, `appendix-b-items.md`, `appendix-c-upgrades.md`, `appendix-d-ranch.md`, `appendix-e-gadgets.md`, `appendix-g-treasure.md`, `appendix-k-resources.md` - Intro-line polish (plus an em-dash fix in Appendix G)
-- `steam/SECTION-01-INTRO.txt` through `steam/SECTION-18-APPENDICES-2.txt` - Voice rewrite of all 18 BBCode sections; SECTION-01 also fixed for the 8 KB cap (patch-log collapse) and the 17-to-18 section-count list; `steam/STEAM-VERSION.md` version header unchanged
+- `steam/SECTION-01-INTRO.txt` through `steam/SECTION-18-APPENDICES-2.txt` - Voice rewrite of all 18 BBCode sections; SECTION-01 also fixed for the 8 KB cap (patch-log collapse) and the 17-to-18 section-count list; `steam/STEAM-VERSION.md` removed as a redundant duplicate
 
 ---
 

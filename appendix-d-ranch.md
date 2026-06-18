@@ -56,7 +56,7 @@ A new ranch expansion accessed through the **Grey Labyrinth**, operated by the *
 | Nutrient Soil | 600 | Enriches the soil to ensure that crops will always yield the maximum number of items per harvest. |
 | Sprinkler | 700 | Automatically waters the garden plot, causing crops to grow twice as fast as normal. |
 | Scareslime | 425 | A stuffed tarr model that frightens wild or escaped slimes, preventing them from eating the crops in the garden. |
-| Growth Amplifier *(Patch 1.2)* | TBD | Expands the growing space of each garden plot, increasing crop output per harvest. Pair with Nutrient Soil + Sprinkler for maximum yield density. |
+| Growth Amplifier *(Patch 1.2)* | Unconfirmed | Expands the growing space of each garden plot, increasing crop output per harvest. Pair with Nutrient Soil + Sprinkler for maximum yield density. |
 
 ### Coop Upgrades
 
@@ -74,7 +74,7 @@ A new ranch expansion accessed through the **Grey Labyrinth**, operated by the *
 | Tier 1 Storage | 500 | Adds 3 storage slots and one access port, for a total of 6 slots (600 item capacity at 100/slot, 1,200 with Improved Storage Capacity). |
 | Tier 2 Storage | 575 | Adds 3 storage slots and one access port, for a total of 9 slots (900 item capacity at 100/slot, 1,800 with Improved Storage Capacity). |
 | Tier 3 Storage | 650 | Adds 3 storage slots and one access port, for a total of 12 slots (1,200 item capacity at 100/slot, 2,400 with Improved Storage Capacity). |
-| Improved Storage Capacity *(Patch 1.2)* | TBD | Doubles per-slot capacity from 100 to 200 items. Stacks with all Tier upgrades - a fully upgraded silo (12 slots) holds 2,400 items. Highest-leverage Silo upgrade in the game; install before scaling plort production. |
+| Improved Storage Capacity *(Patch 1.2)* | Unconfirmed | Doubles per-slot capacity from 100 to 200 items. Stacks with all Tier upgrades - a fully upgraded silo (12 slots) holds 2,400 items. Highest-leverage Silo upgrade in the game; install before scaling plort production. |
 
 ### Incinerator Upgrades
 
