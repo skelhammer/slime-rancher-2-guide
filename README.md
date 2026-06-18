@@ -3,11 +3,11 @@
 **Version 0.5.0 - Glow-Up Edition**
 **Last Updated:** June 15, 2026
 
-📖 **Read online:** [skelhammer.github.io/slime-rancher-2-guide](https://skelhammer.github.io/slime-rancher-2-guide/) — full book site with sidebar TOC, next/prev navigation, and search. Rebuilt automatically on every push to `main`.
+📖 **Read online:** [skelhammer.github.io/slime-rancher-2-guide](https://skelhammer.github.io/slime-rancher-2-guide/). The full book site, with a sidebar TOC, next/prev navigation, and search. It rebuilds automatically on every push to `main`.
 
 ## About This Guide
 
-This is a comprehensive walkthrough guide for Slime Rancher 2, focused on aggressive optimization, capital deployment, and systematic automation. The guide takes you from the early game sprint to mobility through endgame empire management.
+A start-to-finish walkthrough for Slime Rancher 2, written for ranchers who'd rather build an empire than a petting zoo. It's all about aggressive optimization, deploying capital, and automating the boring parts, and it carries you from the opening sprint for the Jetpack all the way to a self-running endgame empire.
 
 ## Guide Structure
 
@@ -76,15 +76,15 @@ The guide has been split into individual chapter files for easier editing and na
 
 ## Guide Philosophy
 
-This guide is built on three core principles:
+Three principles run the whole thing:
 
-1. **Ruthless Asset Progression** - Slimes are profit-generating assets, not pets
-2. **Capital Must Be Deployed** - Immediate reinvestment into high-ROI infrastructure
-3. **Automate Everything** - Systematic elimination of manual labor
+1. **Slimes are assets, not pets.** Keep the earners, sell the rest.
+2. **Idle Newbucks are dead Newbucks.** Reinvest into high-ROI infrastructure the moment you can.
+3. **Automate everything.** Hand the manual labor to feeders, collectors, and drones.
 
 ## How to Use This Guide
 
-Start with [00-introduction.md](00-introduction.md) to understand core mechanics and game fundamentals, then follow chapters sequentially for optimal progression. You can also jump to specific topics using the navigation links above or reference the appendices for quick lookup tables.
+Start with the [Introduction](00-introduction.md) to get the core mechanics down, then follow the chapters in order for the smoothest run. In a hurry? Jump straight to whatever you need using the links above, or hit the appendices for quick lookups.
 
 **Recommended Reading Order:**
 
