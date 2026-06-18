@@ -1,8 +1,8 @@
 ## Chapter 14: Prismacore Stabilization - Story Finale
 
-**Mindset:** _Completing the mission._
+**Mindset:** _Roll credits._
 
-You've prepared everything. You've opened all Shadow Plort Doors. You've stockpiled Prisma Plorts. Now it's time to enter the Prismacore and save Rainbow Island.
+This is it. The doors are open, the Prisma Plorts are banked, the ranch runs itself. Everything you've built since that first Tabby-Cotton corral has quietly been funding this moment. Time to walk into the Prismacore and save Rainbow Island.
 
 ### Understanding the Threat
 
@@ -12,7 +12,7 @@ The Prismacore is an extraterrestrial object discovered long ago that crashed in
 
 **The Escalating Crisis:**
 
-Outside the Grey Labyrinth, the Prismacore's effects are mostly chromatic—visual distortions and color shifts. Inside the Labyrinth, however, the effects are amplified and life-threatening. Areas surrounding the Prismacore are slowly turning to gold, their structures failing and becoming nearly invisible before vanishing entirely.
+Out in the wider world, the Prismacore's effects are mostly cosmetic: color shifts and visual distortion. Inside the Labyrinth it's a different story. The damage is amplified and lethal. The areas around the core are slowly turning to gold, their structures flickering, going see-through, and then simply ceasing to exist.
 
 **What Happens if Left Unchecked:**
 
@@ -22,7 +22,7 @@ According to Gigi's research, if the Prismacore is not stabilized:
 - Dream Land will grow heavy and fall from the sky
 - The Labyrinth's generated atmosphere will collapse
 - Once the Grey Labyrinth falls, Prismacore energy will radiate across the entire Far, Far Range
-- The world will become unrecognizable, and all life—including all slimes—will be lost
+- The world becomes unrecognizable, and all life (slimes included) is lost
 
 **Your Mission:** Activate 5 Harmonizers hidden throughout the Labyrinth, break through the Tarr barrier protecting the core, and deploy the Nullifier to stabilize the Prismacore permanently.
 
@@ -79,7 +79,7 @@ According to Gigi's research, if the Prismacore is not stabilized:
 
 **Location:** Hidden throughout the Grey Labyrinth zones
 
-**Activation:** Shoot any item at each Harmonizer to activate it (fruits, vegetables, plorts, chickens—anything works)
+**Activation:** Shoot any item at each Harmonizer to activate it (fruits, vegetables, plorts, chickens, anything works)
 
 **Harmonizer Locations:**
 
@@ -115,7 +115,7 @@ The Slime Shower is a large facility inside the Prismacore designed specifically
 
 - **Two depositing ports:** Choose either one (both work identically)
 - **Requirement:** Deposit 6 slimes total into a single port
-- **Any slime type works:** Pink, Rock, Phosphor, Largos—doesn't matter
+- **Any slime type works:** Pink, Rock, Phosphor, Largos, it genuinely doesn't matter
 - **Source options:**
   - Bring 6 slimes from your ranch (vacpack them up before entering)
   - Catch 6 wild slimes in the Grey Labyrinth zones
@@ -178,4 +178,4 @@ By the end of Chapter 14, you should have:
 
 ### Next Chapter Preparation
 
-The story is complete. The game is now yours. Chapter 15 (Post-Game Sandbox Empire) is about creative freedom and perfecting your automated empire.
+Credits rolled, island saved, Gigi gone home. The game is fully yours now. Chapter 15 (Post-Game Sandbox Empire) is the part with no objectives at all: pure creative freedom, plus a few rich-rancher problems worth chasing.
