@@ -2,7 +2,9 @@
 
 [h2]Chapter 9: Quantum Drones Automation[/h2]
 
-[b]Primary Objective:[/b] Deploy 3 Quantum Drone Stations to automate core ranch operations
+[b]Primary Objective:[/b] Deploy 3 Quantum Drone Stations to automate core ranch operations.
+
+[b]Mindset:[/b] You have built the empire. Now you stop running it by hand. Drones turn a 30-minute chore into a passive income faucet, and your job shifts from rancher to absentee owner collecting the take.
 
 [hr][/hr]
 
@@ -12,7 +14,7 @@
 [*][b]Starting Budget:[/b] 50,000-70,000+ NB from Chapter 8
 [*][b]Capital Required:[/b] ~15,000 NB for 3 Quantum Drone Stations
 [*][b]Materials Required:[/b] 300 Flutter Plorts, 6 Strange Diamonds, 45 Lava Dust, 45 Wild Honey
-[*][b]Time Savings:[/b] Daily ranch management reduced from 30+ minutes to <10 minutes
+[*][b]Time Savings:[/b] Daily ranch management drops from 30+ minutes to under 10
 [*][b]Timeline:[/b] 3-5 days through all operations
 [/list]
 
@@ -21,7 +23,7 @@
 [h3]Phase 1: Finding Ghostly Drones[/h3]
 
 [b]What Are Ghostly Drones?[/b]
-Ethereal, semi-transparent phantom drones that roam Rainbow Island. Interact with one to receive a Drone Station Module, then it disappears permanently.
+Ethereal, semi-transparent phantoms that drift around Rainbow Island. Interact with one and it hands over a Drone Station Module, then vanishes for good. No second chances, so do not fumble the prompt.
 
 [b]Easiest 3 Locations (for Chapter 9):[/b]
 [list]
@@ -57,6 +59,8 @@ Ethereal, semi-transparent phantom drones that roam Rainbow Island. Interact wit
 [hr][/hr]
 
 [h3]Phase 3: Priority Drone Deployments[/h3]
+
+Place your best worker on your biggest operation first. Triage by revenue.
 
 [b]Drone 1 - Conservatory Automation (HIGHEST PRIORITY):[/b]
 [list]
@@ -107,8 +111,8 @@ Ethereal, semi-transparent phantom drones that roam Rainbow Island. Interact wit
 [*][b]Explorer Mode[/b] (Placed in wild biomes):
   - Generates "quantum" resources based on biome
   - Deposits into shared Quantum Cloud inventory (max 9,999 items)
-  - Passive resource generation while away
-  - [b](Patch 1.1.0)[/b] Can now target Odd Onions; nerfed to prevent excessive plort farming
+  - Passive resource generation while you are away
+  - [b](Patch 1.1.0)[/b] Can now target Odd Onions; nerfed to curb runaway plort farming
 [/list]
 
 [b]Battery System:[/b]
@@ -117,14 +121,14 @@ Ethereal, semi-transparent phantom drones that roam Rainbow Island. Interact wit
 [*]Initial battery: 24%
 [*]Higher battery % = faster operation speed
 [*]Battery only drains during active task execution
-[*]Picking up station resets battery to 24%
+[*]Picking up a station resets battery to 24%
 [/list]
 
 [b]Important Limitations:[/b]
 [list]
-[*]Drones only work within same expansion (cannot transfer between Conservatory/Gully/etc.)
-[*]Food to Auto-Feeders goes to ALL feeders randomly (loses favorite food bonuses)
-[*][b]Recommendation:[/b] Use drones ONLY for plort collection, manually feed for 4-plort bonus
+[*]Drones only work within the same expansion (no transfers between Conservatory/Gully/etc.)
+[*]Food to Auto-Feeders scatters across ALL feeders randomly (you lose the favorite-food bonus)
+[*][b]Recommendation:[/b] Use drones ONLY for plort collection. Feed by hand to keep the 4-plort bonus.
 [/list]
 
 [hr][/hr]
@@ -132,13 +136,13 @@ Ethereal, semi-transparent phantom drones that roam Rainbow Island. Interact wit
 [h3]Strategic Priorities[/h3]
 
 [olist]
-[*][b]Hunt 3 Ghostly Drones:[/b] Locate in ranch expansions to obtain Drone Station Modules
-[*][b]Accumulate 300 Flutter Plorts:[/b] From Chapter 8 operations (DO NOT purchase)
-[*][b]Gather Strange Diamonds:[/b] Collect 6 from Starlight Strand treasure pods
-[*][b]Craft 3 Quantum Drone Stations:[/b] Build for ranch automation
-[*][b]Deploy Conservatory Drone:[/b] HIGHEST PRIORITY - automate largest, most valuable operation
-[*][b]Deploy Gully Drone:[/b] Automate carnivore plort collection
-[*][b]Deploy Tidepools Drone:[/b] Fully automate passive income
+[*][b]Hunt 3 Ghostly Drones:[/b] track them down in ranch expansions for the Drone Station Modules
+[*][b]Accumulate 300 Flutter Plorts:[/b] harvest from Chapter 8 operations (do not buy them)
+[*][b]Gather Strange Diamonds:[/b] pull 6 from Starlight Strand treasure pods
+[*][b]Craft 3 Quantum Drone Stations:[/b] your automation workforce
+[*][b]Deploy Conservatory Drone:[/b] HIGHEST PRIORITY, automate the largest, most valuable operation
+[*][b]Deploy Gully Drone:[/b] automate carnivore plort collection
+[*][b]Deploy Tidepools Drone:[/b] fully automate the passive income
 [/olist]
 
 [hr][/hr]
@@ -154,7 +158,7 @@ Ethereal, semi-transparent phantom drones that roam Rainbow Island. Interact wit
 [*]✅ Drone 1: Conservatory automation (All Plort Collectors → Market Link)
 [*]✅ Drone 2: Gully plort collection (All Plort Collectors → Market Link)
 [*]✅ Drone 3: Tidepools automation (Puddle + Fire Plorts)
-[*]✅ Total daily ranch time reduced from 30-40 minutes to <10 minutes
+[*]✅ Total daily ranch time reduced from 30-40 minutes to under 10
 [*]✅ Daily passive income: 6,500-8,500+ NB with minimal management
 [/list]
 
@@ -162,14 +166,14 @@ Ethereal, semi-transparent phantom drones that roam Rainbow Island. Interact wit
 
 [h3]Next Chapter Preparation[/h3]
 
-With core ranch operations automated, you can now focus on Grey Labyrinth exploration without worrying about daily ranch management.
+With the core operations on autopilot, you can roam the Grey Labyrinth without a single ranch chore nagging at the back of your mind.
 
 [b]Chapter 10 Preparation: Grey Labyrinth - Elite Asset Acquisition[/b]
 
-[b]Financial Target:[/b] Save ~2,000 NB for Radiant Projector crafting
+[b]Financial Target:[/b] bank ~2,000 NB for Radiant Projector crafting
 
-[b]Required Equipment:[/b] Verify you have Heart Module III, Power Core III, Jetpack II, Dash Boots II
+[b]Required Equipment:[/b] confirm you have Heart Module III, Power Core III, Jetpack II, Dash Boots II
 
 [b]Materials Needed:[/b] 10 Hunter Plorts, 10 Boom Plorts, 5 Silky Sand, 5 Lava Dust (for 3-4 Radiant Projectors)
 
-[b]Objective:[/b] Enter Grey Labyrinth, activate Map Data Nodes, capture Twin/Sloomber/Hyper slimes for Chapter 11 integration
+[b]Objective:[/b] enter the Grey Labyrinth, activate Map Data Nodes, and capture Twin/Sloomber/Hyper slimes for Chapter 11 integration

@@ -2,7 +2,9 @@
 
 [h2]Chapter 10: Grey Labyrinth Elite Asset Acquisition[/h2]
 
-[b]Primary Objective:[/b] Enter the Grey Labyrinth, capture elite slimes (Twin, Sloomber, Hyper), understand hazard mechanics
+[b]Primary Objective:[/b] Enter the Grey Labyrinth, capture elite slimes (Twin, Sloomber, Hyper), and learn the hazards before they learn you.
+
+[b]Mindset:[/b] This is an extraction run, not a homestead. You go in, grab the high-value stock, and leave. The Labyrinth punishes greed and rewards a clean exit.
 
 [hr][/hr]
 
@@ -14,12 +16,12 @@
 [list]
 [*]Blueprint from Viktor Humphries (Day 20+ after popping Boom or Flutter Gordo)
 [*]Craft 3-4 Radiant Projectors (500 NB each + 10 Hunter Plorts + 10 Boom Plorts + 5 Silky Sand + 5 Lava Dust)
-[*]Required for light puzzles to unlock main entrance
+[*]Powers the light puzzles that unlock the main entrance
 [/list]
 
-[b]Entry Location:[/b] Starlight Strand - door directly under where Flutter Gordo was positioned (RECOMMENDED route)
+[b]Entry Location:[/b] Starlight Strand, through the door directly under where the Flutter Gordo sat (RECOMMENDED route)
 
-[b](Patch 1.2) The Sanctuary:[/b] The Grey Labyrinth now hosts a new ranch expansion run by the Caretaker NPC. Inside, Radiant Slimes (rare prismatic-altered variants of any species) can shed Prisma energy while keeping their radiant colors. The Sanctuary contains themed decoratable rooms with alcoves for favored slimes, a "Lost and Found" that recovers Radiant Slimes lost in their base form, and generates a new currency called [b]Sprinkles[/b] (spent on Sanctuary expansions, themes, gadgets, decor). See SECTION-01 and SECTION-17 for full detail.
+[b](Patch 1.2) The Sanctuary:[/b] The Grey Labyrinth now houses a ranch expansion run by the Caretaker NPC. Inside, Radiant Slimes (rare prismatic variants of any species) shed Prisma energy while keeping their radiant colors. Expect themed decoratable rooms with alcoves for favored slimes, a "Lost and Found" that recovers Radiant Slimes lost in base form, and a new currency, [b]Sprinkles[/b], spent on Sanctuary expansions, themes, gadgets, and decor. See SECTION-01 and SECTION-17 for full detail.
 
 [hr][/hr]
 
@@ -27,18 +29,18 @@
 
 [b]Critical Hazards:[/b]
 [list]
-[*][b]Prisma Disruptions:[/b] Reality-altering energy waves that periodically sweep through zones
+[*][b]Prisma Disruptions:[/b] reality-altering energy waves that periodically sweep the zones
   - All loose food/plorts become "Unstable"
-  - Dangerous plasma/flame energy erupts from ground cracks
-[*][b]Unstable Items:[/b] Randomly JUMP out of your Vacpack unpredictably
+  - Plasma/flame energy erupts from ground cracks
+[*][b]Unstable Items:[/b] jump out of your Vacpack on their own schedule
   - Pop out if you take damage
-  - Eventually vanish if left unstabilized
+  - Vanish if left unstabilized
   - CANNOT use teleporters while carrying Unstable items
 [*][b]Stabilization Methods:[/b]
-  - Prisma Stabilizers (yellow portals - one-time use during disruptions)
-  - Ancient Stabilizers (permanent archway structures - reusable)
-[*][b]No Slime Sea:[/b] Bottom is cloud ocean - anything that falls is PERMANENTLY LOST
-[*][b]Tarr Risk:[/b] Very common due to high slime variety and abundant food
+  - Prisma Stabilizers (yellow portals, one-time use during disruptions)
+  - Ancient Stabilizers (permanent archways, reusable)
+[*][b]No Slime Sea:[/b] the bottom is cloud ocean. Anything that falls is PERMANENTLY LOST
+[*][b]⚠️ Tarr Risk:[/b] very common here, thanks to high slime variety and abundant food
 [/list]
 
 [hr][/hr]
@@ -47,20 +49,20 @@
 
 [b]Pop These 3 Gordos:[/b]
 [list]
-[*][b]Twin Gordo[/b] (50 Fruit, Polaricherry counts 2x) → 12 Twin Slimes + Portal to Rainbow Fields
+[*][b]Twin Gordo[/b] (50 Fruit, Polaricherry counts 2x) = 12 Twin Slimes + Portal to Rainbow Fields
   - Location: Impossible Sky
-[*][b]Sloomber Gordo[/b] (30 Meat, Candied Hen counts 2x) → 12 Sloomber Slimes + Portal to Conservatory
+[*][b]Sloomber Gordo[/b] (30 Meat, Candied Hen counts 2x) = 12 Sloomber Slimes + Portal to Conservatory
   - Location: Dream Land (North)
-[*][b]Hyper Gordo[/b] (30 Veggies, Turbo Tater counts 2x) → 12 Hyper Slimes + Key switch
+[*][b]Hyper Gordo[/b] (30 Veggies, Turbo Tater counts 2x) = 12 Hyper Slimes + Key switch
   - Location: Terrarium (requires Radiant Projector puzzle + 1 Hunter Plort + 1 Angler Plort)
 [/list]
 
 [b]Capture Strategy:[/b]
 [list]
-[*][b]Twin Slimes:[/b] 10-12 from Impossible Sky (pop Gordo for 12 free)
-[*][b]Sloomber Slimes:[/b] 10-12 from Dream Land (pop Gordo for 12 free)
-[*][b]Hyper Slimes:[/b] 10-12 from Terrarium ONLY (pop Gordo for 12 free)
-  - WARNING: Hyper Slimes are EXTREMELY bouncy and fast
+[*][b]Twin Slimes:[/b] 10-12 from Impossible Sky (pop the Gordo for 12 free)
+[*][b]Sloomber Slimes:[/b] 10-12 from Dream Land (pop the Gordo for 12 free)
+[*][b]Hyper Slimes:[/b] 10-12 from Terrarium ONLY (pop the Gordo for 12 free)
+  - [b]⚠️ WARNING:[/b] Hyper Slimes are extremely bouncy and fast. Corral them last.
 [*]Collect 40-60 of each favorite food (Polaricherry, Candied Hen, Turbo Tater)
 [/list]
 
@@ -70,13 +72,13 @@
 
 [b]Grey Labyrinth Exclusive Slimes:[/b]
 [list]
-[*][b]Shadow[/b] - Cannot be vacuumed or captured
-  - Produces plorts when hit by ANY thrown object (item not consumed)
+[*][b]Shadow[/b]: cannot be vacuumed or captured
+  - Produces plorts when hit by ANY thrown object (the item is not consumed)
   - Jumps when disturbed, then vanishes
   - Farm for Shadow Plorts (needed for doors + Chapter 14)
-[*][b]Twin[/b] (Fruit, favorite: Polaricherry) - Alternates blue/pink states, creates portals to snag distant food
-[*][b]Sloomber[/b] (Meat, favorite: Candied Hen) - Emits sleep cloud that calms other slimes
-[*][b]Hyper[/b] (Veggie, favorite: Turbo Tater) - Extremely fast, ricochets constantly, requires maximum security
+[*][b]Twin[/b] (Fruit, favorite: Polaricherry): alternates blue/pink states, opens portals to snag distant food
+[*][b]Sloomber[/b] (Meat, favorite: Candied Hen): emits a sleep cloud that calms nearby slimes
+[*][b]Hyper[/b] (Veggie, favorite: Turbo Tater): blistering fast, ricochets nonstop, demands maximum security
 [/list]
 
 [hr][/hr]
@@ -85,23 +87,23 @@
 
 [b]Shadow Plort Farming:[/b]
 [list]
-[*]Hit Shadow Slimes with thrown objects (Pink Plorts, vegetables, anything)
+[*]Hit Shadow Slimes with thrown objects (Pink Plorts, vegetables, anything to hand)
 [*]They drop Shadow Plorts, then vanish
-[*]Respawn in same dark corner locations
-[*][b](Patch 1.1.0) Shadow Pots:[/b] Break open pots throughout Grey Labyrinth to release Shadow Slimes - can pick up and move pots for strategic farming!
-[*][b](Patch 1.1.1) Despawn cap:[/b] Shadow Slimes now despawn once they hit their max plort count - work multiple spawns instead of camping one. Shadow Pots also contain fewer slimes per pot.
+[*]Respawn in the same dark corners
+[*][b](Patch 1.1.0) Shadow Pots:[/b] break open pots throughout the Grey Labyrinth to release Shadow Slimes. You can pick up and move pots for strategic farming.
+[*][b](Patch 1.1.1) Despawn cap:[/b] Shadow Slimes now despawn once they hit their max plort count, so work multiple spawns instead of camping one. Pots also hold fewer slimes each.
 [*]Total needed: ~845 Shadow Plorts (~825 for doors + 20 for Nullifier)
-[*][b]CRITICAL:[/b] Store in SILOS, not Refinery (cannot use Refinery plorts for doors)
+[*][b]⚠️ CRITICAL:[/b] store in SILOS, not the Refinery (Refinery plorts cannot open doors)
 [/list]
 
 [b]Prisma Plort Farming (Basic):[/b]
 [list]
 [*]During Prisma Disruptions, feed Unstable food to any slimes
 [*]They produce Unstable Plorts
-[*]Walk through Ancient Stabilizer → Unstable Plorts automatically convert to Prisma Plorts in inventory
-[*]Conversion rate: 1 Unstable → 1-2 Prisma Plorts (typically 2)
+[*]Walk through an Ancient Stabilizer and Unstable Plorts convert to Prisma Plorts in inventory
+[*]Conversion rate: 1 Unstable = 1-2 Prisma Plorts (typically 2)
 [*]Total needed: ~245 Prisma Plorts (90 for Gigi trades + 155 for upgrades)
-[*][b]CRITICAL:[/b] Store in SILOS, not Refinery (cannot trade Refinery plorts to Gigi)
+[*][b]⚠️ CRITICAL:[/b] store in SILOS, not the Refinery (Refinery plorts cannot be traded to Gigi)
 [/list]
 
 [hr][/hr]
@@ -110,27 +112,27 @@
 
 [b]Deploy 6 Key Gadgets (Refinery Link + Market Link per zone):[/b]
 [list]
-[*][b]Impossible Sky:[/b] Refinery Link + Market Link near Twin Gordo area
+[*][b]Impossible Sky:[/b] Refinery Link + Market Link near the Twin Gordo area
 [*][b]Dream Land:[/b] Refinery Link + Market Link in Dream Land North
 [*][b]Terrarium:[/b] Refinery Link + Market Link in central Terrarium
 [/list]
 
 [b]Total Investment:[/b] 1,500 NB + materials
 
-[b]Benefits:[/b] Deposit crafting materials immediately, sell plorts without returning to ranch, prevents loss from falls/Tarr
+[b]Benefits:[/b] deposit crafting materials on the spot, sell plorts without trekking home, and protect your haul from falls and Tarr.
 
 [hr][/hr]
 
 [h3]Strategic Priorities[/h3]
 
 [olist]
-[*][b]Map First:[/b] Activate all 7 Grey Labyrinth Map Data Nodes before deep exploration
+[*][b]Map First:[/b] activate all 7 Grey Labyrinth Map Data Nodes before deep exploration
 [*][b]Pop Gordos for Portals:[/b] Twin (Rainbow Fields), Sloomber (Conservatory), Hyper (key switch)
 [*][b]Capture Breeding Stock:[/b] 10-12 of each elite slime type (Twin, Sloomber, Hyper)
 [*][b]Collect Favorite Foods:[/b] 40-60 of each (Polaricherry, Candied Hen, Turbo Tater)
-[*][b]Farm Shadow Plorts Opportunistically:[/b] Start collecting for Chapter 13 (~825 total needed)
-[*][b]Store Plorts in Silos:[/b] NEVER put Shadow/Prisma Plorts in Refinery until door/milestone objectives complete
-[*][b]Do Not Ranch Here:[/b] Grey Labyrinth is extraction zone, not ranching expansion
+[*][b]Farm Shadow Plorts Opportunistically:[/b] start banking for Chapter 13 (~825 total needed)
+[*][b]Store Plorts in Silos:[/b] NEVER drop Shadow/Prisma Plorts in the Refinery until door/milestone objectives are done
+[*][b]Do Not Ranch Here:[/b] the Grey Labyrinth is an extraction zone, not an expansion
 [/olist]
 
 [hr][/hr]
@@ -156,13 +158,13 @@
 
 [h3]Next Chapter Preparation[/h3]
 
-With elite Grey Labyrinth slimes captured, you're ready to integrate these valuable assets into ranch operations.
+With the elite stock captured, it is time to fold these high-value assets into ranch operations.
 
 [b]Preparation for Chapter 11:[/b]
 [list]
 [*]Have 12,650 NB saved (Archway expansion + upgrades)
-[*]Verify you have 10-12 Twin, Sloomber slimes stored
-[*]Verify you have Polaricherry, Candied Hen stocks
+[*]Verify you have 10-12 Twin and Sloomber slimes stored
+[*]Verify you have Polaricherry and Candied Hen stocks
 [*]Have Saber Slimes available (from Chapter 7)
 [*]Have Flutter Slimes available (from Chapter 4)
 [/list]

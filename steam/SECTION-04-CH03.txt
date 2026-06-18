@@ -2,7 +2,9 @@
 
 [h2]Chapter 3: Ember Valley Resource Extraction[/h2]
 
-[b]Primary Objective:[/b] Expand Conservatory to 8 plots while unlocking Tier II Vacpack upgrades
+[b]Primary Objective:[/b] Expand the Conservatory to 8 plots while unlocking Tier II Vacpack upgrades.
+
+[b]Mindset:[/b] Chapter 2 built the engine. This chapter triples its output. You are going from a tidy little farm to a real extraction operation, so think bigger: more corrals, more revenue, and the infrastructure to stop wasting your own time walking.
 
 [hr][/hr]
 
@@ -14,13 +16,15 @@
   - Ranch expansion: 8,745 NB (Plots 5-8)
   - Vacpack upgrades: 3,400 NB
   - Warp infrastructure: 3,250 NB
-[*][b]Daily Revenue:[/b] ~2,500+ NB/day (increased from ~800)
-[*][b]Timeline:[/b] 5-7 days through all operations
+[*][b]Daily Revenue:[/b] ~2,500+ NB/day (up from ~800)
+[*][b]Timeline:[/b] 5-7 days to clear every operation
 [/list]
 
 [hr][/hr]
 
 [h3]Phase 1: Gordo Strategy[/h3]
+
+Gordos are free payloads of slimes, treasure, and shortcuts. Pop these five and Ember Valley opens up.
 
 [b]Pop These 5 Ember Valley Gordos:[/b]
 [list]
@@ -35,9 +39,11 @@
 
 [h3]Phase 2: Asset Acquisition[/h3]
 
+Two new largo lines go on the books here. Round up the raw stock first.
+
 [b]Slimes Needed:[/b]
 [list]
-[*]6 Crystal Slimes (northern area near chasm)
+[*]6 Crystal Slimes (northern area near the chasm)
 [*]6 Boom Slimes (volcanic areas throughout)
 [*]6 Rock Plorts (feed to Crystal Slimes for Crystal-Rock Largos)
 [*]6 Batty Plorts (feed to Boom Slimes for Boom-Batty Largos)
@@ -49,16 +55,18 @@
 [*]30+ Pomegranites (Batty favorite)
 [/list]
 
-[b]Alternate Strategy:[/b] Pop Crystal and Boom Gordos to get 12 free slimes of each type, skip wild capture.
+[b]Alternate Strategy:[/b] Pop the Crystal and Boom Gordos for 12 free slimes of each type and skip the wild capture entirely.
 
 [hr][/hr]
 
 [h3]Phase 3: Conservatory Expansion (Plots 5-8)[/h3]
 
+Two corrals, two gardens. Each feeds itself: no shopping trips, just plorts.
+
 [b]Plot 5 - Crystal-Rock Largos:[/b]
 [list]
 [*]Corral + High Walls + Air Net + Plort Collector + Auto-Feeder + Music Box = 2,785 NB
-[*]Feed Heart Beets (Rock favorite) = 4 plorts per feeding
+[*]Feed Heart Beets (Rock favorite) for 4 plorts per feeding
 [/list]
 
 [b]Plot 6 - Heart Beet Garden:[/b]
@@ -70,7 +78,7 @@
 [b]Plot 7 - Boom-Batty Largos:[/b]
 [list]
 [*]Corral + High Walls + Air Net + Solar Shield + Plort Collector + Auto-Feeder = 2,860 NB
-[*]Feed Pomegranites (Batty favorite) = 4 plorts per feeding
+[*]Feed Pomegranites (Batty favorite) for 4 plorts per feeding
 [/list]
 
 [b]Plot 8 - Pomegranite Garden:[/b]
@@ -87,10 +95,10 @@
 
 [b]Craft Immediately:[/b]
 [list]
-[*][b]Water Tank[/b] (450 NB + 10 Deep Brine) - CRAFT FIRST - Essential Tarr safety
-[*][b]Dash Boots[/b] (450 NB + 10 Boom Plort) - Reduced sprint energy cost
-[*][b]Extra Tank[/b] (1,500 NB + 10 Rock Plort + 10 Silky Sand) - Adds 4th vac slot
-[*][b]Power Core II[/b] (1,000 NB + materials + Power Chip) - 150 → 200 Energy
+[*][b]⚠️ Water Tank[/b] (450 NB + 10 Deep Brine): CRAFT FIRST. Your essential Tarr safety net
+[*][b]Dash Boots[/b] (450 NB + 10 Boom Plort): reduced sprint energy cost
+[*][b]Extra Tank[/b] (1,500 NB + 10 Rock Plort + 10 Silky Sand): adds a 4th vac slot
+[*][b]Power Core II[/b] (1,000 NB + materials + Power Chip): raises Energy from 150 to 200
 [/list]
 
 [b]Total Investment:[/b] ~3,400 NB + materials
@@ -98,36 +106,38 @@
 [b]Required Components:[/b]
 [list]
 [*]Jetpack Drive (Rock Gordo treasure pod)
-[*]Power Chip (Rainbow Fields treasure pod - cave near Starlight Strand portal, among glowing mushrooms; Batty Gordo gives only the Power Core II BLUEPRINT, not the Power Chip component)
-[*]Heart Cell (underground ledge before Crystal Gordo)
-[*]Storage Cell (behind Rainbow Fields portal - 1 Batty Plort statue)
+[*]Power Chip (Rainbow Fields treasure pod: cave near the Starlight Strand portal, among the glowing mushrooms; the Batty Gordo gives only the Power Core II BLUEPRINT, not the Power Chip component)
+[*]Heart Cell (underground ledge before the Crystal Gordo)
+[*]Storage Cell (behind the Rainbow Fields portal, 1 Batty Plort statue)
 [/list]
 
 [hr][/hr]
 
 [h3]Phase 5: Warp Infrastructure[/h3]
 
+Walking is overhead. This is the upgrade that pays you back in minutes.
+
 [b]Deploy in Ember Valley:[/b]
 [list]
-[*][b]Refinery Link[/b] (250 NB + materials) - Central geyser area between Batty/Crystal Gordo caves
-[*][b]Ember Valley Portal[/b] (2,000 NB + materials) - One-way to Ember Valley (place in Conservatory)
-[*][b]Red Home Portal[/b] (1,000 NB + materials) - One-way to Conservatory (place in Ember Valley central area)
+[*][b]Refinery Link[/b] (250 NB + materials): central geyser area between the Batty/Crystal Gordo caves
+[*][b]Ember Valley Portal[/b] (2,000 NB + materials): one-way to Ember Valley (place in the Conservatory)
+[*][b]Red Home Portal[/b] (1,000 NB + materials): one-way to the Conservatory (place in the Ember Valley central area)
 [/list]
 
 [b]Total Investment:[/b] 3,250 NB + materials
 
-[b]Strategic Rationale:[/b] Eliminates 5-10 minutes per resource farming run. Essential for efficient material collection.
+[b]Strategic Rationale:[/b] Cuts 5-10 minutes off every resource run. Once you are farming materials daily, that time compounds fast.
 
 [hr][/hr]
 
 [h3]Strategic Priorities[/h3]
 
 [olist]
-[*][b]Map First:[/b] Activate all 3 Ember Valley Map Data Nodes
+[*][b]Map First:[/b] activate all 3 Ember Valley Map Data Nodes
 [*][b]Pop Key Gordos:[/b] Rock, Batty, Crystal, Boom for treasure pod components
-[*][b]Ranch Expansion:[/b] Expand Conservatory to 8 plots (Crystal-Rock, Boom-Batty operations)
-[*][b]Craft Water Tank:[/b] CRITICAL - essential Tarr safety before deep exploration
-[*][b]Harvest Resources:[/b] Stockpile Jellystone, Deep Brine, Primordy Oil, Radiant Ore, Lava Dust, Silky Sand
+[*][b]Ranch Expansion:[/b] take the Conservatory to 8 plots (Crystal-Rock, Boom-Batty operations)
+[*][b]Craft the Water Tank:[/b] CRITICAL. Non-negotiable Tarr safety before deep exploration
+[*][b]Harvest Resources:[/b] stockpile Jellystone, Deep Brine, Primordy Oil, Radiant Ore, Lava Dust, Silky Sand
 [*][b]Deploy Warp Infrastructure:[/b] Refinery Link + Portal system for farming efficiency
 [/olist]
 
@@ -139,7 +149,7 @@
 [*]✅ Conservatory expanded to 8 plots
 [*]✅ Crystal-Rock Largos + Heart Beet garden (Plots 5-6)
 [*]✅ Boom-Batty Largos + Pomegranite garden (Plots 7-8)
-[*]✅ Daily revenue: ~2,500+ NB (increased from ~800)
+[*]✅ Daily revenue: ~2,500+ NB (up from ~800)
 [*]✅ Rock, Batty, Crystal, Boom Gordos popped
 [*]✅ Water Tank, Dash Boots, Extra Tank, Power Core II crafted
 [*]✅ Ember Valley Refinery Link + Portal system deployed
@@ -149,10 +159,10 @@
 
 [h3]Next Chapter Preparation[/h3]
 
-Chapter 4 completes Tier II upgrades and explores Starlight Strand.
+Chapter 4 finishes off Tier II upgrades and pushes into Starlight Strand.
 
-[b]Financial Goal:[/b] Save 7,850 NB for Tier II upgrades (Tank Booster II, Heart Module II, Jetpack II, Pulse Wave, Dash Boots II, Tank Guard)
+[b]Financial Goal:[/b] bank 7,850 NB for Tier II upgrades (Tank Booster II, Heart Module II, Jetpack II, Pulse Wave, Dash Boots II, Tank Guard)
 
-[b]Slime Acquisition:[/b] Capture Angler, Ringtail, Flutter, and Honey from Starlight Strand for Chapter 5 operations
+[b]Slime Acquisition:[/b] capture Angler, Ringtail, Flutter, and Honey from Starlight Strand for Chapter 5 operations
 
 [b]Resource Focus:[/b] Buzz Wax, Wild Honey, Moondew Nectar for upgrades and Flutter operations

@@ -2,7 +2,9 @@
 
 [h2]Chapter 7: Powderfall Bluffs Saber Acquisition[/h2]
 
-[b]Primary Objective:[/b] Capture Saber Slimes and establish resource pipeline for late-game upgrades
+[b]Primary Objective:[/b] Capture Saber Slimes and establish the resource pipeline that funds your late-game upgrades.
+
+[b]Mindset:[/b] Powderfall is a supply run, not a sightseeing tour. You came for Sabers and for Sun Sap, the rarest material on the island. Mark every tree, grab every pod, and get out. The endgame is built here whether you notice it or not.
 
 [hr][/hr]
 
@@ -27,10 +29,10 @@
 [b]How to Access:[/b]
 [olist]
 [*]Enter Ember Valley from Rainbow Fields
-[*]Travel to western volcanic region
-[*]Look for large waterfall near coastal area
-[*]Entrance is frozen cave BEHIND the waterfall
-[*]Requires Jetpack to navigate vertical ice walls
+[*]Travel to the western volcanic region
+[*]Look for the large waterfall near the coastal area
+[*]The entrance is a frozen cave BEHIND the waterfall
+[*]You will need the Jetpack to scale the vertical ice walls
 [/olist]
 
 [b]Recommended Equipment:[/b] Heart Module III (250 HP), Power Core III (250 Energy), Jetpack II, Water Tank, Pulse Wave, Tank Guard II
@@ -42,37 +44,39 @@
 [b]Saber Gordo:[/b]
 [list]
 [*]Location: Northern area, high mountain plateau
-[*]Feed 50 Meat (Thunderclucks count 2x)
-[*]Reward: Portal shortcut to southern Ember Valley + 12 Saber Slimes + 1 jar
+[*]Feed 50 Meat (Thunderclucks count 2x, so 25 birds does it)
+[*]Reward: Portal shortcut to southern Ember Valley, 12 Saber Slimes, and 1 jar
 [/list]
 
 [b]Capture Strategy:[/b]
 [list]
-[*]10-12 Saber Slimes (pop Saber Gordo for 12 free)
+[*]10-12 Saber Slimes (pop the Saber Gordo for 12 free)
 [*]20-30 Thunderclucks (including 2 Roostros for breeding)
-[*]Use Pulse Wave for crowd control - Sabers are aggressive and fast
-[*]Transport via Saber Gordo portal → Ember Valley → Rainbow Fields → Conservatory
+[*]Lead with Pulse Wave for crowd control. Sabers are aggressive and fast, and they will swarm you.
+[*]Haul them home via Saber Gordo portal to Ember Valley to Rainbow Fields to Conservatory
 [/list]
 
 [hr][/hr]
 
 [h3]Phase 3: Critical Resource Extraction[/h3]
 
+This is the real reason you came. The Sabers are a bonus.
+
 [b]Priority Resources:[/b]
 [list]
-[*][b]Sun Sap[/b] (ULTRA-RARE) - From frozen trees (golden sap)
-  - CRITICAL bottleneck for endgame upgrades
-  - MARK ALL TREE LOCATIONS for weekly farming (5-7 day respawns)
+[*][b]Sun Sap[/b] (ULTRA-RARE): golden sap from frozen trees
+  - The single biggest bottleneck for endgame upgrades
+  - MARK EVERY TREE LOCATION for weekly farming (5-7 day respawns)
   - Target: 5-10 Sun Sap stockpiled
-[*][b]Perfect Snowflakes[/b] - Cliff faces (glimmering) - Target: 50+
-[*][b]Slime Fossils[/b] - Cave walls - Target: 30+
+[*][b]Perfect Snowflakes[/b]: glimmering cliff faces. Target: 50+
+[*][b]Slime Fossils[/b]: cave walls. Target: 30+
 [/list]
 
 [b]Priority Treasure Pod:[/b]
 [list]
-[*][b]Sun Sap x3[/b] - Top of cliff in forested area (Jetpack required)
-  - Provides 30% of total endgame requirements
-  - Collect immediately
+[*][b]Sun Sap x3[/b]: top of a cliff in the forested area (Jetpack required)
+  - A full 30% of your total endgame Sun Sap in one pod
+  - Grab it immediately. Do not leave Powderfall without it.
 [/list]
 
 [hr][/hr]
@@ -81,31 +85,31 @@
 
 [b]Craft This Upgrade:[/b]
 [list]
-[*][b]Extra Tank II[/b] (3,000 NB + materials) - Adds 5th vac slot
-  - RECOMMENDED for Powderfall resource runs
+[*][b]Extra Tank II[/b] (3,000 NB + materials): adds a 5th vac slot
+  - RECOMMENDED for Powderfall resource runs, where every slot counts
 [/list]
 
 [b]Deploy Warp System:[/b]
 [list]
-[*][b]Refinery Link[/b] (250 NB) - Central valley plateau near Map Data Node
-[*][b]Powderfall Portal[/b] (2,000 NB) - One-way to Powderfall (place in Conservatory)
-[*][b]Blue Home Portal[/b] (500 NB) - One-way to Conservatory (place in central valley)
+[*][b]Refinery Link[/b] (250 NB): central valley plateau near the Map Data Node
+[*][b]Powderfall Portal[/b] (2,000 NB): one-way to Powderfall (place in Conservatory)
+[*][b]Blue Home Portal[/b] (500 NB): one-way to Conservatory (place in central valley)
 [/list]
 
-[b]Strategic Rationale:[/b] Sun Sap is rarest crafting material with very slow respawns (5-7 days). Portal enables efficient weekly farming runs to check all marked tree locations.
+[b]Strategic Rationale:[/b] Sun Sap is the rarest crafting material in the game, and it respawns at a glacial 5-7 days. The portal pays for itself by turning a long expedition into a quick weekly loop past every marked tree. Build the infrastructure now and the farming runs forever.
 
 [hr][/hr]
 
 [h3]Strategic Priorities[/h3]
 
 [olist]
-[*][b]Map First:[/b] Activate Northern Mountain Summit Map Data Node immediately
-[*][b]Pop Saber Gordo:[/b] Unlock portal shortcut, receive 12 free Saber Slimes
-[*][b]Mark Sun Sap Trees:[/b] CRITICAL - every tree location must be marked for future weekly farming
-[*][b]Collect Thunderclucks:[/b] 20-30 Thunderclucks (including Roostros) for breeding program
-[*][b]Priority Treasure Pods:[/b] Sun Sap x3 treasure pod (30% of endgame requirements), Powderfall Portal
-[*][b]Deploy Warp Infrastructure:[/b] Portal system for efficient resource farming returns
-[*][b]Craft Extra Tank II:[/b] 5th vac slot essential for extended resource runs
+[*][b]Map First:[/b] light up the Northern Mountain Summit Map Data Node the moment you arrive
+[*][b]Pop the Saber Gordo:[/b] unlock the portal shortcut and pocket 12 free Saber Slimes
+[*][b]Mark Sun Sap Trees:[/b] non-negotiable. Every tree gets a marker for the weekly route.
+[*][b]Collect Thunderclucks:[/b] 20-30 birds (Roostros included) to seed the breeding program
+[*][b]Priority Treasure Pods:[/b] the Sun Sap x3 pod (30% of endgame needs) and the Powderfall Portal
+[*][b]Deploy Warp Infrastructure:[/b] the portal loop that makes resource farming painless
+[*][b]Craft Extra Tank II:[/b] the 5th vac slot earns its keep on every extended run
 [/olist]
 
 [hr][/hr]
@@ -113,7 +117,7 @@
 [h3]End of Chapter Checklist[/h3]
 
 [list]
-[*]✅ Accessed Powderfall Bluffs via waterfall entrance
+[*]✅ Accessed Powderfall Bluffs via the waterfall entrance
 [*]✅ Saber Gordo popped, portal shortcut activated
 [*]✅ Both Map Data Nodes activated
 [*]✅ 10-12 Saber Slimes captured
@@ -130,12 +134,12 @@
 
 [h3]Next Chapter Preparation[/h3]
 
-Chapter 8 unlocks The Den expansion and executes major ranch reorganization.
+Chapter 8 unlocks The Den expansion and kicks off a major ranch reorganization.
 
-[b]Financial Goal:[/b] Save 17,000+ NB for Den unlock (2,800 NB) + build-out (13,905 NB)
+[b]Financial Goal:[/b] bank 17,000+ NB for the Den unlock (2,800 NB) plus build-out (13,905 NB)
 
-[b]Asset Verification:[/b] 10-12 Saber Slimes + 20-30 Thunderclucks ready for deployment in Gully
+[b]Asset Verification:[/b] 10-12 Saber Slimes and 20-30 Thunderclucks staged and ready for deployment in the Gully
 
-[b]Reorganization Scope:[/b] Relocates Boom-Batty to Den, creates two new nocturnal operations (Flutter-Phosphor, Batty-Ringtail), rebuilds Conservatory Plot 7 with Flutter-Honey, converts Gully Plot 5 to Saber-Hunter
+[b]Reorganization Scope:[/b] relocates Boom-Batty to the Den, stands up two new nocturnal operations (Flutter-Phosphor, Batty-Ringtail), rebuilds Conservatory Plot 7 with Flutter-Honey, and converts Gully Plot 5 to Saber-Hunter
 
-[b]Flutter Plorts:[/b] Continue accumulating in Refinery. Target: 300+ by Chapter 9
+[b]Flutter Plorts:[/b] keep them piling up in the Refinery. Target: 300+ by Chapter 9

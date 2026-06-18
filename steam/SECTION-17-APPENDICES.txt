@@ -1,6 +1,6 @@
 [h1]Quick Reference & Appendices (Part 1 of 2)[/h1]
 
-[i]This is Part 1 of the Quick Reference. Part 2 continues in the next Steam section with Automation Equipment (drones, toys, Radiant Slimes, Sanctuary, Plot Upgrades, Gadget Bundles), Plort Market Values, Revenue Progression, and the full-guide link.[/i]
+[i]Part 1 of the Quick Reference. Part 2 picks up in the next Steam section with Automation Equipment (drones, toys, Radiant Slimes, Sanctuary, Plot Upgrades, Gadget Bundles), Plort Market Values, Revenue Progression, and the full-guide link.[/i]
 
 [hr][/hr]
 
@@ -131,7 +131,7 @@
 [*]Sloomber Gordo → Terrarium zone
 [/list]
 
-[i]TIP: Favorite food counts as 2x (e.g., 50 normal = 25 favorite)[/i]
+[i]TIP: A Gordo's favorite food counts double, so 50 normal feedings becomes 25 favorites. Always pay in favorites.[/i]
 
 [hr][/hr]
 

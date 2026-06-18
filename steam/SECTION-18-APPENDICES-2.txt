@@ -6,6 +6,8 @@
 
 [h2]Automation Equipment[/h2]
 
+This is where the ranch stops needing you. Buy the labor, then go spend your time anywhere else.
+
 [h3]Quantum Drones[/h3]
 [b]Quantum Drone Station (per station):[/b]
 [list]
@@ -20,7 +22,7 @@
 [h3]Essential Gadgets[/h3]
 [list]
 [*][b]Auto-Feeder[/b] (900 NB): Feeds slimes automatically
-[*][b]Plort Collector[/b] (750 NB): MANDATORY, prevents Tarr
+[*][b]Plort Collector[/b] (750 NB): ⚠️ MANDATORY, prevents Tarr
 [*][b]Market Link[/b]: Direct plort selling from expansions
 [*][b]Warp Depot[/b]: Fast travel between zones
 [*][b]Refinery Link[/b]: Resource sharing
@@ -72,6 +74,8 @@
 
 [h2]Plort Market Values (Baseline)[/h2]
 
+This is your price sheet. Know what each asset clears before you flood the market and tank the price.
+
 [h3]Common Plorts[/h3]
 Pink: 7-10 | Cotton: 7-12 | Tabby: 18-25 | Phosphor: 18-25
 
@@ -96,6 +100,8 @@ Hunter: 35-50 | Angler: 30-50 | Ringtail: 42-70 | Flutter: 20-50 | Saber: 42-70
 
 [h2]Revenue Progression Summary[/h2]
 
+The trajectory, chapter by chapter. If your numbers lag this curve, you are leaving capital in the grass.
+
 [list]
 [*][b]Chapter 1[/b]: ~500 NB/day (2 plots)
 [*][b]Chapter 2[/b]: ~800-1,000 NB/day (4 plots)
@@ -112,7 +118,7 @@ Hunter: 35-50 | Angler: 30-50 | Ringtail: 42-70 | Flutter: 20-50 | Saber: 42-70
 
 [h2]Full Guide on GitHub[/h2]
 
-[b]This Steam guide is condensed.[/b] For complete details:
+[b]This Steam guide is the condensed cut.[/b] For the full operation:
 
 [h1]https://github.com/skelhammer/slime-rancher-2-guide[/h1]
 

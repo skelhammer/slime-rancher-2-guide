@@ -2,69 +2,78 @@
 
 [h2]Chapter 2: The Conservatory Foundation[/h2]
 
-[b]Primary Objective:[/b] Expand from 2 plots to 4 plots with essential crafting plort production
+[b]Primary Objective:[/b] Expand from 2 plots to 4 and stand up a crafting-plort line.
+
+[b]Mindset:[/b] Chapter 1 bought you wings. Now you build the factory floor. Tabby-Cotton keeps the lights on, but it does not craft anything. This chapter adds Phosphor and Honey, the two plorts that feed every upgrade worth owning. Think of it as hiring a second shift: more capital up front, far more output forever.
 
 [hr][/hr]
 
 [h3]Financial Checkpoint[/h3]
 
 [list]
-[*][b]Starting Budget:[/b] 500-1,000 NB from Chapter 1
+[*][b]Starting Budget:[/b] 500-1,000 NB carried over from Chapter 1
 [*][b]Capital Required:[/b] ~4,500 NB total
   - Phosphor-Honey operation: 3,660 NB
   - Tier I upgrades: 900 NB
-[*][b]Daily Revenue:[/b] 800-1,000 NB/day (increased from 300-500)
-[*][b]Timeline:[/b] 5-7 days to accumulate funds
+[*][b]Daily Revenue:[/b] 800-1,000 NB/day (up from 300-500)
+[*][b]Timeline:[/b] 5-7 days to bank the funds
 [/list]
 
 [hr][/hr]
 
 [h3]Phase 1: Unlock Starlight Strand[/h3]
 
+One Gordo stands between you and the next zone. Feed it and the door opens.
+
 [b]Cotton Gordo:[/b]
 [list]
-[*]Location: Rainbow Fields - SE of Refinery Link, top of hill
-[*]Feed 30 Veggies (Water Lettuce counts 2x)
-[*]Reward: Cave to Starlight Strand portal + 12 Cotton Slimes + 1 jar
+[*]Location: Rainbow Fields, SE of Refinery Link, top of the hill
+[*]Feed 30 Veggies (Water Lettuce counts 2x, so 15 does the job)
+[*]Reward: Cave to the Starlight Strand portal, 12 Cotton Slimes, and 1 jar
 [/list]
 
 [hr][/hr]
 
 [h3]Phase 2: Asset Acquisition[/h3]
 
+Starlight Strand stocks both halves of your new operation. One trades only after dark.
+
 [b]Slimes Needed:[/b]
 [list]
-[*]6 Phosphor Slimes (NIGHT ONLY throughout Starlight Strand)
-[*]6 Honey Plorts (from wild Honey Slimes in flowery pink areas)
+[*]6 Phosphor Slimes (NIGHT ONLY, throughout Starlight Strand)
+[*]6 Honey Plorts (from wild Honey Slimes in the flowery pink areas)
 [/list]
 
 [b]Food Stockpile:[/b]
 [list]
-[*]30+ Cuberries (Phosphor favorite - Starlight Strand)
+[*]30+ Cuberries (Phosphor favorite, native to Starlight Strand)
 [/list]
 
-[b]Collection Strategy:[/b] Wait for nighttime, capture Phosphor Slimes, collect Honey Plorts from wild Honey Slimes during day, harvest Cuberries.
+[b]Collection Strategy:[/b] Wait for nightfall and capture your Phosphor Slimes, grab Honey Plorts from wild Honey Slimes during the day, and harvest Cuberries on the way through.
 
 [hr][/hr]
 
 [h3]Phase 3: Conservatory Expansion[/h3]
+
+Two new plots, paired and self-sustaining. The garden feeds the corral, the corral prints crafting plorts.
 
 [b]New Plots:[/b]
 
 [b]Plot 3 - Phosphor-Honey Largos:[/b]
 [list]
 [*]Corral (250 NB) + High Walls (260) + Air Net (425) + Solar Shield (425) + Plort Collector (750) = 2,110 NB
-[*]Purpose: Produces Phosphor + Honey Plorts for crafting
-[*]Feed Cuberries (Phosphor favorite) = 4 plorts per feeding
+[*]Purpose: produces Phosphor + Honey Plorts for crafting
+[*]Solar Shield is mandatory here. Phosphor Largos burn in daylight without it.
+[*]Feed Cuberries (Phosphor favorite) for 4 plorts per feeding
 [/list]
 
 [b]Plot 4 - Cuberry Garden:[/b]
 [list]
 [*]Garden (250 NB) + Nutrient Soil (600) + Sprinkler (700) = 1,550 NB
-[*]Purpose: Feeds Plot 3
+[*]Purpose: feeds Plot 3 on autopilot
 [/list]
 
-[b]Plots 1-2:[/b] UNCHANGED from Chapter 1 (Tabby-Cotton + Water Lettuce)
+[b]Plots 1-2:[/b] unchanged from Chapter 1 (Tabby-Cotton + Water Lettuce)
 
 [b]Total Investment:[/b] 3,660 NB (new plots)
 
@@ -72,10 +81,12 @@
 
 [h3]Phase 4: Tier I Upgrades[/h3]
 
+The plorts you just started farming buy the two upgrades that make every future run smoother.
+
 [b]Craft These Immediately:[/b]
 [list]
-[*][b]Power Core[/b] (450 NB + 10 Cotton Plort) - 100 → 150 Energy
-[*][b]Tank Booster[/b] (450 NB + 10 Tabby Plort) - 20 → 30 units per slot - [b]CRITICAL QoL[/b]
+[*][b]Power Core[/b] (450 NB + 10 Cotton Plort): Energy 100 to 150
+[*][b]Tank Booster[/b] (450 NB + 10 Tabby Plort): 20 to 30 units per slot. [b]⚠️ CRITICAL QoL[/b]
 [/list]
 
 [b]Total Investment:[/b] 900 NB + materials
@@ -85,12 +96,12 @@
 [h3]Strategic Priorities[/h3]
 
 [olist]
-[*][b]Pop Cotton Gordo:[/b] Unlock Starlight Strand for Honey/Phosphor collection
-[*][b]Night Hunt:[/b] Capture 6 Phosphor Slimes at night
-[*][b]Expand to 4 Plots:[/b] Add Phosphor-Honey operation for crafting plorts
-[*][b]Stockpile Crafting Plorts:[/b] Deposit 50+ Phosphor and 50+ Honey in Refinery
-[*][b]Craft Tank Booster:[/b] CRITICAL - 30 units per slot (massive QoL upgrade)
-[*][b]Craft Power Core:[/b] 150 Energy for extended exploration
+[*][b]Pop the Cotton Gordo:[/b] unlock Starlight Strand for Honey and Phosphor
+[*][b]Night Hunt:[/b] capture 6 Phosphor Slimes after dark
+[*][b]Expand to 4 Plots:[/b] add the Phosphor-Honey line for crafting plorts
+[*][b]Stockpile Crafting Plorts:[/b] deposit 50+ Phosphor and 50+ Honey in the Refinery
+[*][b]Craft the Tank Booster:[/b] non-negotiable, 30 units per slot is a massive QoL jump
+[*][b]Craft the Power Core:[/b] 150 Energy buys longer expeditions
 [/olist]
 
 [hr][/hr]
@@ -110,10 +121,10 @@
 
 [h3]Next Chapter Preparation[/h3]
 
-Chapter 3 expands Conservatory to 8 plots and focuses on Ember Valley resource extraction.
+Chapter 3 pushes the Conservatory to 8 plots and turns toward Ember Valley resource extraction.
 
-[b]Financial Goal:[/b] Save 10,000+ NB for ranch expansion (8,745 NB) and upgrades (Water Tank, Dash Boots, Extra Tank)
+[b]Financial Goal:[/b] bank 10,000+ NB for ranch expansion (8,745 NB) and upgrades (Water Tank, Dash Boots, Extra Tank)
 
-[b]Gordo Prep:[/b] Stockpile vegetables (Heart Beets), fruit (Pomegranites), and meat (Briar Hens, Stony Hens) for Ember Valley Gordos
+[b]Gordo Prep:[/b] stockpile vegetables (Heart Beets), fruit (Pomegranites), and meat (Briar Hens, Stony Hens) for the Ember Valley Gordos
 
-[b]Asset Collection:[/b] Capture Boom, Batty, Crystal, and Rock slimes from Ember Valley for Chapter 3 operations
+[b]Asset Collection:[/b] capture Boom, Batty, Crystal, and Rock slimes from Ember Valley for your Chapter 3 operations

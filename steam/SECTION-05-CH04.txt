@@ -2,67 +2,73 @@
 
 [h2]Chapter 4: Starlight Strand Asset Acquisition[/h2]
 
-[b]Primary Objective:[/b] Complete Starlight Strand exploration and gather critical resources for Tier II upgrades
+[b]Primary Objective:[/b] Finish exploring Starlight Strand and bank the resources that fund your Tier II upgrades.
+
+[b]Mindset:[/b] This is a harvest run. The Conservatory is already printing money, so your job here is to pop every Gordo, grab every node, and walk out with the raw materials that turn a profitable ranch into an unstoppable one. One resource gates everything: Moondew Nectar. Get it first or lose the night.
 
 [hr][/hr]
 
 [h3]Financial Checkpoint[/h3]
 
 [list]
-[*][b]Starting Budget:[/b] 10,000-15,000+ NB from Chapter 3 operations
+[*][b]Starting Budget:[/b] 10,000-15,000+ NB carried over from Chapter 3
 [*][b]Capital Required:[/b] ~11,100 NB total
   - Tier II upgrades: 7,850 NB
   - Warp infrastructure: 3,250 NB
 [*][b]Daily Revenue:[/b] ~2,500+ NB from Conservatory operations
-[*][b]Timeline:[/b] 3-4 days through continued operations
+[*][b]Timeline:[/b] 3-4 days while the corrals keep earning
 [/list]
 
 [hr][/hr]
 
 [h3]Phase 1: Gordo Strategy[/h3]
 
+Five Gordos, five payouts. Feed them and collect.
+
 [b]Pop All 5 Starlight Strand Gordos:[/b]
 [list]
-[*][b]Hunter Gordo[/b] (50 Meat) → Azure Bushes + slime doorway shortcut + 12 Hunter Slimes
-[*][b]Honey Gordo[/b] (50 Fruit) → Tank Liner + Phosphor plort shortcuts + 12 Honey Slimes
-[*][b]Angler Gordo[/b] (50 Meat) → Up-spout fast return route + 12 Angler Slimes
-[*][b]Ringtail Gordo[/b] (50 Any - NIGHT ONLY) → Portal to Rainbow Fields + 12 Ringtail Slimes
-[*][b]Flutter Gordo[/b] (15 Moondew Nectar ONLY) → Research Drone + Teleporter + Grey Labyrinth gate + 12 Flutter Slimes
+[*][b]Hunter Gordo[/b] (50 Meat) = Azure Bushes + slime doorway shortcut + 12 Hunter Slimes
+[*][b]Honey Gordo[/b] (50 Fruit) = Tank Liner + Phosphor plort shortcuts + 12 Honey Slimes
+[*][b]Angler Gordo[/b] (50 Meat) = up-spout fast return route + 12 Angler Slimes
+[*][b]Ringtail Gordo[/b] (50 Any, NIGHT ONLY) = portal to Rainbow Fields + 12 Ringtail Slimes
+[*][b]Flutter Gordo[/b] (15 Moondew Nectar ONLY) = Research Drone + Teleporter + Grey Labyrinth gate + 12 Flutter Slimes
 [/list]
 
 [hr][/hr]
 
 [h3]Phase 2: Asset Acquisition for Chapter 5[/h3]
 
+Stock up now so Chapter 5 opens with a full roster instead of a shopping list.
+
 [b]Slimes Needed:[/b]
 [list]
-[*]10-12 Angler Slimes (coastal areas - pop Angler Gordo for 12 free)
-[*]10-12 Flutter Slimes (southern pink biome - pop Flutter Gordo for 12 free)
+[*]10-12 Angler Slimes (coastal areas, or pop the Angler Gordo for 12 free)
+[*]10-12 Flutter Slimes (southern pink biome, or pop the Flutter Gordo for 12 free)
 [*]6 Crystal Plorts (for Angler-Crystal Largos in Chapter 5)
 [*]6 Tabby Plorts (for Flutter-Tabby Largos in Chapter 5)
 [/list]
 
 [b]Food Stockpile:[/b]
 [list]
-[*]30+ Moondew Nectar (glowing blue flowers NIGHT ONLY: 5PM-6AM) - CRITICAL for Flutter operations
+[*]30+ Moondew Nectar (glowing blue flowers, NIGHT ONLY: 5PM-6AM). [b]⚠️ CRITICAL[/b] for Flutter operations
 [/list]
 
 [hr][/hr]
 
 [h3]Phase 3: Tier II Upgrades[/h3]
 
-[b]Core Upgrades (delayed from Chapter 3):[/b]
+[b]Core Upgrades (deferred from Chapter 3):[/b]
 [list]
-[*][b]Tank Booster II[/b] (1,000 NB + materials + Storage Cell) - 30 → 40 units per slot
-[*][b]Heart Module II[/b] (1,000 NB + materials + Heart Cell) - 150 → 200 HP
-[*][b]Jetpack II[/b] (1,500 NB + materials + Jetpack Drive) - 20% less energy consumption
+[*][b]Tank Booster II[/b] (1,000 NB + materials + Storage Cell): 30 to 40 units per slot
+[*][b]Heart Module II[/b] (1,000 NB + materials + Heart Cell): 150 to 200 HP
+[*][b]Jetpack II[/b] (1,500 NB + materials + Jetpack Drive): 20% less energy burn
 [/list]
 
 [b]Utility Upgrades:[/b]
 [list]
-[*][b]Pulse Wave[/b] (450 NB + 10 Flutter Plort + materials) - Push slimes away
-[*][b]Dash Boots II[/b] (1,500 NB + materials + Dash Boot Module) - Enhanced sprint efficiency
-[*][b]Tank Guard[/b] (1,500 NB + materials + Tank Liner) - Salvages 20% on damage
+[*][b]Pulse Wave[/b] (450 NB + 10 Flutter Plort + materials): pushes slimes away
+[*][b]Dash Boots II[/b] (1,500 NB + materials + Dash Boot Module): sharper sprint efficiency
+[*][b]Tank Guard[/b] (1,500 NB + materials + Tank Liner): salvages 20% on damage
 [/list]
 
 [b]Total Investment:[/b] ~7,850 NB + materials
@@ -74,13 +80,13 @@
 [b]Harvest These Materials:[/b]
 [list]
 [*]50+ Buzz Wax (common throughout)
-[*]50+ Wild Honey (hives on trees/cliffs)
-[*]30+ Moondew Nectar (NIGHT ONLY - 5PM-6AM) - [b]CRITICAL[/b]
-[*]20-30 Sea Hens (coastal areas - Angler favorite)
-[*]20-30 Mint Mangos (pink biome - Honey favorite)
+[*]50+ Wild Honey (hives on trees and cliffs)
+[*]30+ Moondew Nectar (NIGHT ONLY, 5PM-6AM): [b]CRITICAL[/b]
+[*]20-30 Sea Hens (coastal areas, Angler favorite)
+[*]20-30 Mint Mangos (pink biome, Honey favorite)
 [/list]
 
-[b]CRITICAL:[/b] Moondew Nectar only spawns at night (5 PM - 6 AM) in glowing blue flowers. Despawns at dawn. Stockpile 30+ immediately.
+[b]⚠️ CRITICAL:[/b] Moondew Nectar only blooms at night (5 PM to 6 AM) in the glowing blue flowers and despawns at dawn. Grab 30+ the moment you can. Miss the window and you wait a full day.
 
 [hr][/hr]
 
@@ -88,25 +94,25 @@
 
 [b]Deploy in Starlight Strand:[/b]
 [list]
-[*][b]Refinery Link[/b] (250 NB + materials) - Junction between pink/blue biomes
-[*][b]Starlight Strand Portal[/b] (2,000 NB + materials) - One-way to Starlight Strand
-[*][b]Green Home Portal[/b] (1,000 NB + materials) - One-way to Conservatory
+[*][b]Refinery Link[/b] (250 NB + materials): junction between the pink and blue biomes
+[*][b]Starlight Strand Portal[/b] (2,000 NB + materials): one-way to Starlight Strand
+[*][b]Green Home Portal[/b] (1,000 NB + materials): one-way to the Conservatory
 [/list]
 
-[b]Strategic Rationale:[/b] HIGHEST-priority portal due to Flutter operations requiring regular Moondew Nectar collection (only spawns at night 5 PM - 6 AM). Essential for maintaining Flutter Plort accumulation (300+ needed for Chapter 9 Quantum Drones).
+[b]Strategic Rationale:[/b] This is your HIGHEST-priority portal. Flutter operations run on Moondew Nectar, and Moondew only spawns at night (5 PM to 6 AM), so fast access pays for itself fast. You will need a steady Flutter Plort pipeline (300+ banked for the Chapter 9 Quantum Drones), and this portal is what keeps it flowing.
 
 [hr][/hr]
 
 [h3]Strategic Priorities[/h3]
 
 [olist]
-[*][b]Map First:[/b] Activate all 3 Map Data Nodes (Southern Cliff, Mushroom Forest, Southern Coast)
-[*][b]Pop All 5 Gordos:[/b] Unlock shortcuts, treasure pods, receive free slimes
-[*][b]Collect Moondew Nectar:[/b] CRITICAL - only spawns 5 PM - 6 AM, stockpile 30+
+[*][b]Map First:[/b] light up all 3 Map Data Nodes (Southern Cliff, Mushroom Forest, Southern Coast)
+[*][b]Pop All 5 Gordos:[/b] shortcuts, treasure pods, and free slimes in one stop
+[*][b]Collect Moondew Nectar:[/b] CRITICAL, only spawns 5 PM to 6 AM, stockpile 30+
 [*][b]Priority Treasure Pods:[/b] Tank Liner #1, Dash Boot Module, Starlight Portal blueprint
 [*][b]Capture Key Slimes:[/b] 10-12 Angler, 10-12 Flutter for Chapter 5 Gully operations
-[*][b]Deploy Warp Infrastructure:[/b] Portal system for Moondew Nectar farming efficiency
-[*][b]Complete Tier II Upgrades:[/b] All six upgrades for improved survivability
+[*][b]Deploy Warp Infrastructure:[/b] the portal system that makes Moondew farming painless
+[*][b]Complete Tier II Upgrades:[/b] all six, because the back half of this island bites
 [/olist]
 
 [hr][/hr]
@@ -127,15 +133,15 @@
 
 [h3]Next Chapter Preparation[/h3]
 
-Chapter 5 unlocks The Gully expansion and transforms it into a food production powerhouse.
+Chapter 5 unlocks The Gully and turns it into a food-production powerhouse.
 
-[b]Financial Goal:[/b] Save 10,000+ NB for Gully unlock (2,800 NB) + build-out
+[b]Financial Goal:[/b] bank 10,000+ NB for the Gully unlock (2,800 NB) plus build-out
 
-[b]Asset Acquisition:[/b] Collect chicken breeding stock:
+[b]Asset Acquisition:[/b] round up your chicken breeding stock:
 [list]
 [*]8-10 Stony Hens (Ember Valley)
 [*]8-10 Sea Hens (Starlight Strand coastal areas)
-[*]4 Roostros (breeding males - 2 per coop)
+[*]4 Roostros (breeding males, 2 per coop)
 [/list]
 
-[b]Flutter Plort Accumulation:[/b] Begin stockpiling in Refinery. DO NOT SELL - needed for Chapter 9 Quantum Drones (300+ target)
+[b]Flutter Plort Accumulation:[/b] start banking them in the Refinery now. DO NOT SELL. The Chapter 9 Quantum Drones need 300+, and you do not want to grind that later.

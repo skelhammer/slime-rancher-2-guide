@@ -2,52 +2,56 @@
 
 [h2]Chapter 12: The Digsite Weather Slimes (OPTIONAL)[/h2]
 
-[b]⚠️ OPTIONAL CHAPTER:[/b] This chapter is for players who have collected Dervish and Tangle slimes from weather events. If you have NOT collected these slimes, [b]skip this chapter[/b] and proceed to Chapter 13.
+[b]⚠️ OPTIONAL CHAPTER:[/b] This one is for players who banked Dervish and Tangle slimes from weather events. No weather slimes in inventory? [b]Skip this chapter[/b] and head straight to Chapter 13. No shame in it.
 
 [hr][/hr]
 
 [h3]Prerequisites[/h3]
 
+These assets do not appear on demand. You either caught them when the weather turned, or you did not.
+
 [b]You MUST have collected:[/b]
 [list]
 [*][b]Dervish Slimes:[/b] Spawn during Level 3 Wind Storms (Cyclones) in all biomes
 [*][b]Tangle Slimes:[/b] Spawn during Level 3 Pollen Storms in all biomes
-[*][b]Painted Hens:[/b] Spawn during Level 3 Pollen Storms (same as Tangle)
+[*][b]Painted Hens:[/b] Spawn during Level 3 Pollen Storms (same window as Tangle)
 [/list]
 
-[b]If you haven't collected these slimes: Skip this chapter and go to Chapter 13.[/b]
+[b]Missing any of these? Skip the chapter and go to Chapter 13.[/b]
 
 [hr][/hr]
 
 [h3]Financial Checkpoint[/h3]
 
 [list]
-[*][b]Starting Budget:[/b] 50,000-60,000+ NB from Chapter 11
+[*][b]Starting Budget:[/b] 50,000-60,000+ NB carried over from Chapter 11
 [*][b]Capital Required:[/b] ~14,445 NB
   - Digsite unlock: 6,000 NB
   - Full build-out: 8,445 NB
 [*][b]Revenue Impact:[/b] ~11,000-15,500 NB/day (IF built)
 [*][b]Daily Increase:[/b] +2,500-3,500 NB/day (IF built)
-[*][b]Timeline:[/b] 2-3 days if you have weather slimes ready
+[*][b]Timeline:[/b] 2-3 days with weather slimes already in hand
 [/list]
 
 [hr][/hr]
 
 [h3]Phase 1: The Digsite Build (4 Plots) - OPTIONAL[/h3]
 
+Two premium operations, two food supply lines. This is a niche wing of the empire, but the margins are excellent.
+
 [b]Plot 1 - Prickle Pear Garden:[/b]
 [list]
 [*]Garden + Nutrient Soil + Sprinkler = 1,550 NB
-[*]Feeds Plot 2 (Dervish favorite)
+[*]Feeds Plot 2 (Prickle Pear is the Dervish favorite)
 [/list]
 
 [b]Plot 2 - Dervish-Ringtail Largos:[/b]
 [list]
 [*]Corral + High Walls + Music Box + Auto-Feeder + Plort Collector = 2,360 NB
-[*]Feed Prickle Pears (Dervish favorite) = 4 plorts per feeding
+[*]Feed Prickle Pears (Dervish favorite) for 4 plorts per feeding
 [*]Revenue: ~150-200 NB/feeding
 [*][b]VERY HIGH VALUE COMBO[/b]
-[*]Dervish creates tornadoes (Music Box reduces), Ringtail turns to stone in daylight
+[*]Dervish spins up tornadoes (Music Box settles them); Ringtail turns to stone in daylight
 [/list]
 
 [b]Plot 3 - Painted Hen Coop:[/b]
@@ -60,10 +64,10 @@
 [b]Plot 4 - Tangle-Hyper Largos:[/b]
 [list]
 [*]Corral + High Walls + Air Net + Music Box + Auto-Feeder + Plort Collector = 2,785 NB
-[*]Feed Painted Hens (Tangle favorite) = 4 plorts per feeding
+[*]Feed Painted Hens (Tangle favorite) for 4 plorts per feeding
 [*]Revenue: ~120-200 NB/feeding
-[*][b]MAXIMUM SECURITY REQUIRED[/b] - Air Net CRITICAL (Hyper extremely bouncy)
-[*]Tangle vines grab food from 10 units away
+[*][b]⚠️ MAXIMUM SECURITY REQUIRED:[/b] Air Net is CRITICAL (Hyper is absurdly bouncy)
+[*]Tangle vines snatch food from 10 units away
 [/list]
 
 [b]Total Investment:[/b] 6,000 NB (unlock) + 8,445 NB (build) = 14,445 NB
@@ -78,10 +82,10 @@
 [*]Plot 4 (Tangle-Hyper): Painted Hens
 [/list]
 
-[b]CRITICAL - Tangle-Hyper Security:[/b]
+[b]⚠️ CRITICAL - Tangle-Hyper Security:[/b]
 [list]
-[*]Air Net is MANDATORY (Hyper extremely bouncy - WILL escape without it)
-[*]Tangle vines grab food from 10 units away (keep neighboring plots clear)
+[*]Air Net is MANDATORY. Hyper is extremely bouncy and WILL escape without it
+[*]Tangle vines grab food from 10 units away, so keep neighboring plots clear
 [*]Music Box on both corrals (Dervish tornadoes, Hyper dashing)
 [/list]
 
@@ -90,27 +94,27 @@
 [h3]Strategic Priorities[/h3]
 
 [olist]
-[*][b]Unlock The Digsite:[/b] Purchase expansion (6,000 NB) from eastern Den passage
-[*][b]Deploy Dervish-Ringtail:[/b] Establish VERY HIGH VALUE operation (150-200 NB per feeding)
-[*][b]Deploy Tangle-Hyper:[/b] Create second weather event operation with maximum security
-[*][b]Install Air Net on Tangle-Hyper:[/b] MANDATORY - Hyper WILL escape without it
-[*][b]Build Painted Hen Coop:[/b] Establish rare chicken breeding program
-[*][b]Plant Prickle Pear Garden:[/b] Grow Dervish favorite food
-[*][b]Install Music Boxes:[/b] CRITICAL - Dervish tornadoes, Hyper dashing
+[*][b]Unlock The Digsite:[/b] buy the expansion (6,000 NB) from the eastern Den passage
+[*][b]Deploy Dervish-Ringtail:[/b] stand up the VERY HIGH VALUE operation (150-200 NB per feeding)
+[*][b]Deploy Tangle-Hyper:[/b] a second weather-event line, locked down tight
+[*][b]Install Air Net on Tangle-Hyper:[/b] MANDATORY. Hyper WILL escape without it
+[*][b]Build the Painted Hen Coop:[/b] your rare-chicken breeding program
+[*][b]Plant the Prickle Pear Garden:[/b] grow the Dervish favorite on site
+[*][b]Install Music Boxes:[/b] CRITICAL for Dervish tornadoes and Hyper dashing
 [/olist]
 
 [hr][/hr]
 
 [h3]End of Chapter Checklist[/h3]
 
-[b]IMPORTANT:[/b] This chapter is optional. If you haven't collected weather slimes, skip this expansion entirely and proceed to Chapter 13.
+[b]IMPORTANT:[/b] This chapter is optional. No weather slimes? Skip the whole expansion and move on to Chapter 13.
 
 [list]
 [*]✅ The Digsite unlocked and operational (OR intentionally skipped)
 [*]✅ Dervish-Ringtail Largos established (if built)
 [*]✅ Tangle-Hyper Largos established (if built)
 [*]✅ Auto-Feeders installed and stocked (if built)
-[*]✅ Painted Hen breeding operation (if built)
+[*]✅ Painted Hen breeding operation running (if built)
 [*]✅ Prickle Pear garden producing (if built)
 [*]✅ Weather event slimes fully integrated OR chapter skipped
 [/list]
@@ -119,17 +123,17 @@
 
 [h3]Next Chapter Preparation[/h3]
 
-Chapter 13 (The Endgame Audit) focuses on maximizing Vacpack capabilities and unlocking all final upgrades before the endgame.
+Chapter 13 (The Endgame Audit) is about wringing every last upgrade out of the Vacpack and locking in the final tier before the endgame.
 
 [b]Preparation for Chapter 13:[/b]
 [list]
-[*][b]Shadow Plort Farming:[/b] Begin systematically farming Shadow Plorts from Grey Labyrinth. Total needed: ~845
+[*][b]Shadow Plort Farming:[/b] start systematically farming Shadow Plorts from the Grey Labyrinth. Total needed: ~845
   - Shadow Plort Doors: ~825 plorts
   - Strange Dimension Nullifier: 20 Shadow Plorts
-[*][b]Prisma Plort Farming:[/b] Farm Prisma Plorts during Prisma Disruptions. Total needed: 245
+[*][b]Prisma Plort Farming:[/b] farm Prisma Plorts during Prisma Disruptions. Total needed: 245
   - Gigi's Silo upgrades: 90 Prisma Plorts
   - Vacpack final upgrades: 145 Prisma Plorts
   - Prisma Detector: 10 Prisma Plorts
-[*][b]Financial Goal:[/b] Accumulate 50,000+ NB for final Vacpack upgrades and gadgets
-[*][b]Farming Strategy:[/b] Use throwable items to hit Shadow Slimes. During Prisma Disruptions, feed Unstable food to slimes, then walk through Ancient Stabilizers
+[*][b]Financial Goal:[/b] bank 50,000+ NB for the final Vacpack upgrades and gadgets
+[*][b]Farming Strategy:[/b] use throwable items to hit Shadow Slimes. During Prisma Disruptions, feed Unstable food to slimes, then walk through Ancient Stabilizers
 [/list]

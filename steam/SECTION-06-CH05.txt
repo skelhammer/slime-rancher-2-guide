@@ -2,58 +2,62 @@
 
 [h2]Chapter 5: The Gully Industrial Core[/h2]
 
-[b]Primary Objective:[/b] Construct a self-sufficient protein production facility and centralized food distribution network
+[b]Primary Objective:[/b] Build a self-sufficient protein facility and a centralized food distribution network.
+
+[b]Mindset:[/b] This is the chapter where the ranch stops being a farm and starts being a factory. You are done hand-feeding. Coops make the meat, the Silo routes it, and auto-feeders do the rest while you go shopping. Set it up once and let the infrastructure print.
 
 [hr][/hr]
 
 [h3]Financial Checkpoint[/h3]
 
 [list]
-[*][b]Starting Budget:[/b] 15,000-20,000+ NB from Chapter 4
+[*][b]Starting Budget:[/b] 15,000-20,000+ NB carried from Chapter 4
 [*][b]Capital Required:[/b] ~13,720 NB total
   - Gully unlock: 2,800 NB
   - Full build-out: 10,920 NB
-[*][b]Revenue Impact:[/b] ~4,000-4,500 NB/day (increased from ~2,500)
+[*][b]Revenue Impact:[/b] ~4,000-4,500 NB/day (up from ~2,500)
 [*][b]Daily Increase:[/b] +1,500-2,000 NB/day
-[*][b]Timeline:[/b] 5-7 days through Conservatory operations
+[*][b]Timeline:[/b] 5-7 days of Conservatory operations
 [/list]
 
 [hr][/hr]
 
 [h3]Phase 1: The Gully Build (5 Plots)[/h3]
 
+Five plots, two jobs: grow your own protein, then convert it into plorts. No more chasing chickens.
+
 [b]Plot 1 - Stony Hen Coop:[/b]
 [list]
 [*]Coop + High Walls + Spring Grass + Vitamizer = 1,375 NB
 [*]Stock: 6-8 hens + 2 roostros
-[*]Purpose: Primary protein (Tabby favorite)
+[*]Purpose: primary protein (Tabby favorite)
 [/list]
 
 [b]Plot 2 - Sea Hen Coop:[/b]
 [list]
 [*]Coop + High Walls + Spring Grass + Vitamizer = 1,375 NB
 [*]Stock: 6-8 hens + 2 roostros
-[*]Purpose: Specialized protein (Angler favorite)
+[*]Purpose: specialized protein (Angler favorite)
 [/list]
 
 [b]Plot 3 - Central Silo:[/b]
 [list]
 [*]Silo + Tier 1 + Tier 2 + Tier 3 = 2,175 NB
-[*]Purpose: 12 storage slots for ranch-wide food distribution
+[*]Purpose: 12 storage slots feeding the entire ranch
 [/list]
 
 [b]Plot 4 - Angler-Crystal Largos:[/b]
 [list]
 [*]Corral + High Walls + Air Net + Plort Collector + Auto-Feeder + Music Box = 2,785 NB
-[*]Feed Sea Hens (Angler favorite) = 4 plorts per feeding
+[*]Feed Sea Hens (Angler favorite) for 4 plorts per feeding
 [*]Revenue: ~1,500-2,000 NB/day
 [/list]
 
 [b]Plot 5 - Flutter-Tabby Largos:[/b]
 [list]
 [*]Corral + High Walls + Air Net + Solar Shield + Plort Collector + Auto-Feeder + Music Box = 3,210 NB
-[*]Feed Stony Hens (Tabby favorite) = 4 plorts per feeding
-[*][b]DO NOT SELL Flutter Plorts[/b] - Need 300+ for Chapter 9 Quantum Drones
+[*]Feed Stony Hens (Tabby favorite) for 4 plorts per feeding
+[*][b]⚠️ DO NOT SELL Flutter Plorts:[/b] you need 300+ for the Chapter 9 Quantum Drones
 [/list]
 
 [b]Total Investment:[/b] 2,800 NB (unlock) + 10,920 NB (build) = 13,720 NB
@@ -68,11 +72,11 @@
 [*]Plot 5 (Flutter-Tabby): Stony Hens
 [/list]
 
-[b]CRITICAL - Flutter Plorts:[/b]
+[b]⚠️ CRITICAL - Flutter Plorts:[/b]
 [list]
-[*][b]DO NOT SELL[/b] - Need 300+ for Chapter 9 Quantum Drones
-[*]Deposit into Refinery for storage
-[*]Flutter-Tabby operation produces critical plorts for future automation
+[*][b]DO NOT SELL.[/b] Target 300+ for the Chapter 9 Quantum Drones
+[*]Deposit them straight into the Refinery for safekeeping
+[*]This corral is an investment account, not a revenue stream. Treat it that way.
 [/list]
 
 [hr][/hr]
@@ -80,13 +84,13 @@
 [h3]Strategic Priorities[/h3]
 
 [olist]
-[*][b]Unlock The Gully:[/b] Purchase expansion (2,800 NB) from eastern Conservatory
-[*][b]Build Protein Infrastructure:[/b] Two chicken coops for sustainable meat production
-[*][b]Establish Central Silo:[/b] 12-slot Silo for ranch-wide food distribution
-[*][b]Deploy Angler-Crystal Largos:[/b] High-value plort production with Sea Hens
-[*][b]Deploy Flutter-Tabby Largos:[/b] CRITICAL - produces Flutter Plorts for Quantum Drones
-[*][b]Stockpile Flutter Plorts:[/b] Deposit in Refinery, target 300+ for Chapter 9
-[*][b]Install Auto-Feeders:[/b] Automate feeding for both corrals
+[*][b]Unlock The Gully:[/b] buy the expansion (2,800 NB) from the eastern Conservatory
+[*][b]Build Protein Infrastructure:[/b] two coops for a sustainable meat supply
+[*][b]Establish the Central Silo:[/b] 12 slots routing food across the ranch
+[*][b]Deploy Angler-Crystal Largos:[/b] high-value plorts fed on Sea Hens
+[*][b]Deploy Flutter-Tabby Largos:[/b] CRITICAL, this is your Flutter Plort source for Quantum Drones
+[*][b]Stockpile Flutter Plorts:[/b] bank them in the Refinery, aim for 300+ by Chapter 9
+[*][b]Install Auto-Feeders:[/b] automate both corrals and walk away
 [/olist]
 
 [hr][/hr]
@@ -95,26 +99,26 @@
 
 [list]
 [*]✅ The Gully unlocked and developed (5 plots)
-[*]✅ Stony Hen Coop (primary protein - Tabby favorite)
+[*]✅ Stony Hen Coop (primary protein, Tabby favorite)
 [*]✅ Sea Hen Coop (Angler favorite)
 [*]✅ Fully upgraded Silo (12 slots for food distribution)
 [*]✅ Angler-Crystal Largos generating high-value plorts
-[*]✅ Flutter-Tabby Largos producing critical Flutter Plorts
-[*]✅ Daily revenue from Gully: +1,500-2,000 NB
+[*]✅ Flutter-Tabby Largos producing the critical Flutter Plorts
+[*]✅ Daily revenue from the Gully: +1,500-2,000 NB
 [*]✅ Total ranch revenue: ~4,000-4,500 NB/day
-[*]✅ Flutter Plorts accumulating in Refinery
+[*]✅ Flutter Plorts piling up in the Refinery
 [/list]
 
 [hr][/hr]
 
 [h3]Next Chapter Preparation[/h3]
 
-Chapter 6 unlocks The Tidepools expansion and establishes passive income with Puddle and Fire Slimes.
+Chapter 6 unlocks The Tidepools and stands up passive income with Puddle and Fire Slimes.
 
-[b]Financial Goal:[/b] Save 10,500 NB for Tidepools unlock (6,000 NB) + build-out (4,350 NB)
+[b]Financial Goal:[/b] bank 10,500 NB for the Tidepools unlock (6,000 NB) plus build-out (4,350 NB)
 
-[b]Asset Acquisition:[/b] Collect Puddle Slimes (8 total) from Starlight Strand and Fire Slimes (10 total) from Ember Valley lava pools
+[b]Asset Acquisition:[/b] collect Puddle Slimes (8 total) from Starlight Strand and Fire Slimes (10 total) from the Ember Valley lava pools
 
-[b]Upgrade Prep:[/b] Stockpile materials for Tier III upgrades (Tank Booster III, Power Core III, Heart Module III, Tank Guard II)
+[b]Upgrade Prep:[/b] stockpile materials for the Tier III upgrades (Tank Booster III, Power Core III, Heart Module III, Tank Guard II)
 
-[b]Flutter Plorts:[/b] Continue accumulating from Flutter-Tabby operation. DO NOT SELL
+[b]Flutter Plorts:[/b] keep accumulating from the Flutter-Tabby operation. DO NOT SELL.

@@ -22,7 +22,7 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 
 ## [0.5.0] - 2026-06-15 - Glow-Up Edition
 
-_A full voice-and-clarity overhaul. The original prose was written with an older model and read stiff and AI-ish; this edition rewrites it into a sharper, wittier take on the same optimization-mogul persona, with light structural emoji and **no em dashes**. Facts, numbers, and tables are preserved exactly; the Steam sections are intentionally left as-is (condensed, low-maintenance)._
+_A full voice-and-clarity overhaul. The original prose was written with an older model and read stiff and AI-ish; this edition rewrites it into a sharper, wittier take on the same optimization-mogul persona, with light structural emoji and **no em dashes**. Facts, numbers, and tables are preserved exactly. The condensed Steam edition was brought up to the same voice in a follow-up pass so it no longer reads a generation behind the GitHub guide._
 
 ### Changed
 
@@ -30,6 +30,7 @@ _A full voice-and-clarity overhaul. The original prose was written with an older
 - **All 15 chapters** (`01-chapter-01.md` through `04-chapter-15.md`): Voiced each chapter's narrative bookends and strategic prose - openers, Mindset lines, Strategic Priorities, Strategic Notes, Next-Chapter prep, and the Part 1-4 intros. Step-by-step phases, plot tables, costs, and recipes were kept crisp and unchanged.
 - **README** (`README.md`): Voiced the About / Philosophy / How-to-Use sections.
 - **Appendices** (`appendix-a` through `appendix-m`): Light prose polish on the intro lines; the reference tables themselves were left untouched.
+- **Steam edition** (`steam/SECTION-01` through `SECTION-18`): Brought all 18 BBCode sections up to the new voice to match the GitHub guide. Also fixed `SECTION-01-INTRO.txt`, which had grown past Steam's ~8 KB per-section cap (collapsed the six-block patch log to a one-line CHANGELOG pointer), and corrected its structure list from 17 to 18 sections (the appendices are split into Part 1/Part 2). Every section verified under cap, with balanced BBCode, zero em dashes, and all numbers preserved.
 - **Em dashes purged** from every rewritten file, now enforced by a pre-commit grep gate.
 
 ### Files Modified
@@ -38,7 +39,7 @@ _A full voice-and-clarity overhaul. The original prose was written with an older
 - `01-chapter-01.md` through `04-chapter-15.md` - Voice rewrites (narrative / strategic prose)
 - `README.md` - Voice rewrite (About / Philosophy / How-to-Use) + version header
 - `appendix-a-slimes.md`, `appendix-b-items.md`, `appendix-c-upgrades.md`, `appendix-d-ranch.md`, `appendix-e-gadgets.md`, `appendix-g-treasure.md`, `appendix-k-resources.md` - Intro-line polish (plus an em-dash fix in Appendix G)
-- `steam/SECTION-01-INTRO.txt`, `steam/SECTION-18-APPENDICES-2.txt`, `steam/STEAM-VERSION.md` - Version headers only (Steam prose left as-is)
+- `steam/SECTION-01-INTRO.txt` through `steam/SECTION-18-APPENDICES-2.txt` - Voice rewrite of all 18 BBCode sections; SECTION-01 also fixed for the 8 KB cap (patch-log collapse) and the 17-to-18 section-count list; `steam/STEAM-VERSION.md` version header unchanged
 
 ---
 
