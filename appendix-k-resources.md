@@ -1,6 +1,6 @@
 # Appendix K: Resource Priority Guide
 
-Strategic resource management guide for optimal progression in Slime Rancher 2.
+What to farm first: a priority guide to the resources that actually gate your progress.
 
 ## Materials to HOARD (Never sell, always stockpile)
 

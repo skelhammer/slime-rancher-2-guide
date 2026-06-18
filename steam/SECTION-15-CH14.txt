@@ -15,7 +15,7 @@ An extraterrestrial object that crashed into Rainbow Island, source of all Prism
 [list]
 [*]Areas surrounding Prismacore are slowly turning to gold, structures failing and vanishing
 [*]If left unchecked: Dream Land falls, Labyrinth atmosphere collapses, Prismacore energy radiates across Far, Far Range
-[*]All life—including all slimes—will be lost
+[*]All life (slimes included) is lost
 [/list]
 
 [b]Your Mission:[/b] Stabilize the Prismacore permanently.
@@ -82,7 +82,7 @@ All plort types should be available from your Chapter 11-12 operations and Grey 
 
 [b]Location:[/b] Hidden throughout Grey Labyrinth zones
 
-[b]Activation:[/b] Shoot any item at each Harmonizer to activate it (fruits, vegetables, plorts, chickens—anything works)
+[b]Activation:[/b] Shoot any item at each Harmonizer to activate it (fruits, vegetables, plorts, chickens, anything works)
 
 [b]Harmonizer Locations:[/b]
 Distributed across Grey Labyrinth zones. Explore each area systematically:
@@ -118,7 +118,7 @@ Large facility inside Prismacore designed to break the Tarr barrier. Requires sl
 [list]
 [*][b]Two depositing ports:[/b] Choose either one (both work identically)
 [*][b]Requirement:[/b] Deposit 6 slimes total into a single port
-[*][b]Any slime type works:[/b] Pink, Rock, Phosphor, Largos—doesn't matter
+[*][b]Any slime type works:[/b] Pink, Rock, Phosphor, Largos, it doesn't matter
 [*][b]Source options:[/b]
   - Bring 6 slimes from your ranch (vacpack them up before entering)
   - Catch 6 wild slimes in Grey Labyrinth zones

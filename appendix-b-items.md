@@ -1,6 +1,6 @@
 # Appendix B: Item Compendium
 
-Quick reference guide for all food, resources, plorts, and upgrade components in Slime Rancher 2.
+Every food, resource, plort, and upgrade component, and where to find it.
 
 **Contents:**
 

@@ -1,6 +1,6 @@
 # Appendix E: Craftable Gadgets & Warp Tech
 
-Quick reference guide for all craftable gadgets, utilities, warp technology, and slime toys in Slime Rancher 2.
+Every craftable gadget, utility, warp tech, and slime toy worth building.
 
 **Contents:**
 

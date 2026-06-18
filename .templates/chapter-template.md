@@ -4,7 +4,7 @@
   then fill in each section. Sections marked OPTIONAL can be removed for story
   or sandbox chapters where they don't apply (see Chapters 14-15).
 
-  Keep the structure intact — CI lint and reader expectations depend on it.
+  Keep the structure intact. CI lint and reader expectations depend on it.
   When finished, follow CLAUDE.md's "Making Changes Workflow" for version
   and CHANGELOG updates.
 -->
@@ -86,7 +86,7 @@ _One-paragraph narrative framing for the whole part. Only include this on the fi
 
 {{...}}
 
-#### Phase 4: {{Phase Name}} (OPTIONAL — quality-of-life / infrastructure)
+#### Phase 4: {{Phase Name}} (OPTIONAL: quality-of-life / infrastructure)
 
 **Objective:** {{...}}
 

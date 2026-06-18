@@ -1,6 +1,6 @@
 # Appendix A: Slime Compendium
 
-Quick reference guide for all slime types and Gordo locations in Slime Rancher 2.
+Every slime type and Gordo location on the island, at a glance.
 
 ### Radiant Slimes (Patch 1.2)
 

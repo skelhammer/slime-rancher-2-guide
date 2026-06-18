@@ -1,6 +1,6 @@
 # Appendix C: Vacpack Upgrades
 
-Quick reference guide for all Vacpack upgrades in Slime Rancher 2.
+Every Vacpack upgrade, what it costs, and what it does for you.
 
 ### Heart Module
 

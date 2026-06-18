@@ -22,19 +22,22 @@ All notable changes to this Slime Rancher 2 guide will be documented in this fil
 
 ## [0.5.0] - 2026-06-15 - Glow-Up Edition
 
-_Begins a full voice-and-clarity overhaul. The original prose was written with an older model and read stiff and AI-ish; this edition rewrites it section by section into a sharper, wittier take on the same optimization-mogul persona, with light structural emoji and **no em dashes**. Facts, numbers, and tables are preserved exactly; the Steam sections are intentionally left as-is (condensed, low-maintenance). Rolling out by section, so this entry grows as batches land._
+_A full voice-and-clarity overhaul. The original prose was written with an older model and read stiff and AI-ish; this edition rewrites it into a sharper, wittier take on the same optimization-mogul persona, with light structural emoji and **no em dashes**. Facts, numbers, and tables are preserved exactly; the Steam sections are intentionally left as-is (condensed, low-maintenance)._
 
 ### Changed
 
-- **Introduction** (`00-introduction.md`): Rewrote the Rancher's Mindset opener, the three core principles, and every Core Mechanics section (Plort Market, Largos, the Tarr warning, Agitation, Optimal Corral Population) in the new voice. Also **removed the long patch-log block** from the top (six update paragraphs) and replaced it with a one-line pointer to CHANGELOG.md, so the page opens on guide content instead of a changelog. All values unchanged.
-- **Chapter 1** (`01-chapter-01.md`): Voiced the opener, Mindset, Strategic Priorities, Strategic Note, and Next-Chapter prep; removed em dashes. Tables and step lists unchanged.
-- **Chapter 2** (`01-chapter-02.md`): Same treatment.
+- **Introduction** (`00-introduction.md`): Rewrote the Rancher's Mindset opener, the three core principles, and every Core Mechanics section (Plort Market, Largos, the Tarr warning, Agitation, Optimal Corral Population) in the new voice. Also **removed the long patch-log block** from the top (six update paragraphs) in favor of a one-line pointer to CHANGELOG.md, so the page opens on guide content instead of a changelog.
+- **All 15 chapters** (`01-chapter-01.md` through `04-chapter-15.md`): Voiced each chapter's narrative bookends and strategic prose - openers, Mindset lines, Strategic Priorities, Strategic Notes, Next-Chapter prep, and the Part 1-4 intros. Step-by-step phases, plot tables, costs, and recipes were kept crisp and unchanged.
+- **README** (`README.md`): Voiced the About / Philosophy / How-to-Use sections.
+- **Appendices** (`appendix-a` through `appendix-m`): Light prose polish on the intro lines; the reference tables themselves were left untouched.
+- **Em dashes purged** from every rewritten file, now enforced by a pre-commit grep gate.
 
 ### Files Modified
 
 - `00-introduction.md` - Voice rewrite + removed the top patch-log block + version bump to 0.5.0
-- `01-chapter-01.md`, `01-chapter-02.md` - Voice rewrites (narrative / strategic prose)
-- `README.md` - Version header refresh
+- `01-chapter-01.md` through `04-chapter-15.md` - Voice rewrites (narrative / strategic prose)
+- `README.md` - Voice rewrite (About / Philosophy / How-to-Use) + version header
+- `appendix-a-slimes.md`, `appendix-b-items.md`, `appendix-c-upgrades.md`, `appendix-d-ranch.md`, `appendix-e-gadgets.md`, `appendix-g-treasure.md`, `appendix-k-resources.md` - Intro-line polish (plus an em-dash fix in Appendix G)
 - `steam/SECTION-01-INTRO.txt`, `steam/SECTION-18-APPENDICES-2.txt`, `steam/STEAM-VERSION.md` - Version headers only (Steam prose left as-is)
 
 ---

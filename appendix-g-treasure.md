@@ -143,4 +143,4 @@ Complete treasure pod locations for all biomes in Slime Rancher 2.
 
 ## The Grey Labyrinth
 
-> **Note:** The counts above cover the surface zones (Rainbow Island) and the Conservatory. The Grey Labyrinth also contains treasure pods, but most are gated behind **Shadow Plort Doors** rather than open exploration — those doors and their Shadow Plort requirements are documented separately in [Appendix J: Grey Labyrinth Shadow Plort Doors](appendix-j-shadow.md). Treat this appendix as the surface-biome pod reference, not a full-island total.
+> **Note:** The counts above cover the surface zones (Rainbow Island) and the Conservatory. The Grey Labyrinth also contains treasure pods, but most are gated behind **Shadow Plort Doors** rather than open exploration. Those doors and their Shadow Plort requirements are documented separately in [Appendix J: Grey Labyrinth Shadow Plort Doors](appendix-j-shadow.md). Treat this appendix as the surface-biome pod reference, not a full-island total.

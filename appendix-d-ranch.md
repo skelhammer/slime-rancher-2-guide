@@ -1,6 +1,6 @@
 # Appendix D: Ranch Plot and Upgrade Costs
 
-Quick reference guide for all ranch plot costs and upgrades in Slime Rancher 2.
+Every ranch plot and corral upgrade, with the Newbucks it'll cost you.
 
 ### Initial Ranch Plot Costs
 

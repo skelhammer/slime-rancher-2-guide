@@ -110,7 +110,7 @@ If you want to skip chicken farming, pair carnivores with non-carnivores (Hunter
 
 [b]Trade-off:[/b]
 [list]
-[*][b]Give up:[/b] Top-tier meat combos (Saber-Hunter, Sloomber-Saber, Angler-Crystal) — premium chicken foods drive the top revenue ceiling.
+[*][b]Give up:[/b] Top-tier meat combos (Saber-Hunter, Sloomber-Saber, Angler-Crystal). Premium chicken foods drive the top revenue ceiling.
 [*][b]Gain:[/b] No coops, no Elder Collectors, simpler drone automation, fewer moving parts. Conservatory/Gully slot counts open up.
 [/list]
 
