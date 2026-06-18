@@ -1,14 +1,14 @@
 ## Chapter 15: Post-Game - Sandbox Empire
 
-**Mindset:** _The Creative Endgame._
+**Mindset:** _No more objectives. Just ambitions._
 
-With all strategic objectives complete, the blueprint is fulfilled. The focus now shifts from guided efficiency to self-directed projects that define your ranching legacy.
+The story's done and the blueprint's complete, which means the guardrails are off. From here the ranch isn't about hitting the next milestone, it's about whatever you want it to be: obscene wealth, a gorgeous showpiece, total automation, or a brutal self-imposed challenge. Here are the projects worth chasing.
 
 ### The Operational Blueprint
 
 #### Phase 1: The Master Economist - Infinite Wealth
 
-With all slime types available, your income potential is virtually limitless. The post-game economic objective is to move beyond simple daily profit and begin manipulating the market itself, engaging with the endgame currency system.
+Every slime in the game is on your roster now, so daily profit stops being the interesting question. The real post-game money game is bending the market to your will and tapping into the endgame currency system.
 
 **Advanced Market Manipulation:**
 
@@ -33,7 +33,7 @@ With all slime types available, your income potential is virtually limitless. Th
 
 #### Phase 2: The Grand Architect - Perfecting the Ranch
 
-Your ranch is currently built for pure efficiency. Now, you have the capital to redesign it for aesthetics, creating a stunning showcase of your achievements.
+Up to now your ranch has been all function and no form. You've got the capital to fix that: tear out the purely practical layouts and rebuild them into something worth showing off.
 
 **Themed Expansions:**
 
@@ -84,4 +84,4 @@ Start a new save file and apply a set of self-imposed rules for a completely dif
 - **Pacifist Rancher:** You must prevent the creation of Tarrs at all costs. Any Tarr outbreak is a failure condition.
 - **One Expansion Only:** You may only purchase one ranch expansion beyond the Conservatory for the entire game. Choose wisely.
 
-_The blueprint is complete, Rancher. The systems are in place. The wealth, technology, and resources of Rainbow Island are at your command. Now, go build your empire._
+_The blueprint's complete, Rancher. The systems run themselves, the vault is full, and the whole island answers to you. The guide ends here. The empire is yours to build. Now go make it ridiculous._
