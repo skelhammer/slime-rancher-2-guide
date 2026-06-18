@@ -1,12 +1,12 @@
 # Part 4: Endgame Mastery (Chapters 13-15)
 
-_This final part completes all prerequisites for the story finale, stabilizes the Prismacore to save Rainbow Island, and unlocks the post-game sandbox empire. You'll systematically open all Shadow Plort Doors, stockpile endgame resources, complete the main story, and gain access to unlimited creative ranching._
+_Part 4 is the home stretch. You'll knock out the last prerequisites, walk into the Prismacore to finish the story and save Rainbow Island, then unlock the post-game sandbox where the only rules are the ones you invent. Tie off the loose ends here and the finale is a victory lap._
 
 ## Chapter 13: The Endgame Audit
 
-**Mindset:** _Final preparation for Prismacore._
+**Mindset:** _Clear the checklist before the boss._
 
-This chapter is about systematic completion of all prerequisites for the story finale. The primary objective is opening all 25 Shadow Plort Doors and stockpiling the resources needed for Prismacore stabilization.
+No new biomes, no new slimes, just the unglamorous prep the finale demands. This is your audit: open every Shadow Plort Door, stockpile the Prisma Plorts and rare materials the endgame upgrades devour, and confirm the ranch can run itself while you're off saving the island. Boring? A little. Skippable? Not even slightly.
 
 ### The Operational Blueprint
 
@@ -14,7 +14,7 @@ This chapter is about systematic completion of all prerequisites for the story f
 
 **Objective:** Open all 25 Shadow Plort Doors (~825 Shadow Plorts total)
 
-The Shadow Plort Doors are the Grey Labyrinth's equivalent of Treasure Pods. They grant access to blueprints, upgrade components, and critical shortcuts. You MUST open all 25 before proceeding to Prismacore.
+Think of the Shadow Plort Doors as the Labyrinth's treasure pods: behind them are blueprints, upgrade components, and shortcuts you'll want before the finale. All 25 have to come open before you head into the Prismacore, so this is the chapter's big grind.
 
 **Shadow Plort Farming Strategy:**
 
@@ -130,4 +130,4 @@ By the end of Chapter 13, you should have:
 
 ### Next Chapter Preparation
 
-With all Shadow Plort Doors open and Prisma Plorts stockpiled, you're ready to enter the Prismacore and complete the main story.
+Doors open, Prisma Plorts banked, ranch humming on its own. You're cleared for the finale. Next stop: the Prismacore, and the end of the story.
